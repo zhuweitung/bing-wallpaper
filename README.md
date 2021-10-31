@@ -1,5 +1,5 @@
 ## Bing Wallpaper
-![](./wallpaper/2021-10-31.jpg)Today: [约克大教堂墙上的怪诞雕塑，英格兰北约克郡 (© John Potter/Alamy)](./wallpaper/2021-10-31.jpg)
+![](./wallpaper/2021-10-31.jpg)Today: [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](./wallpaper/2021-10-31.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
 |![](./wallpaper/2021-10-31_sm.jpg)2021-10-31 [download 4k](./wallpaper/2021-10-31.jpg)|![](./wallpaper/2021-10-30_sm.jpg)2021-10-30 [download 4k](./wallpaper/2021-10-30.jpg)|![](./wallpaper/2021-10-29_sm.jpg)2021-10-29 [download 4k](./wallpaper/2021-10-29.jpg)|
