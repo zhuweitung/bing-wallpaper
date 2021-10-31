@@ -61,5 +61,3 @@
 
 2021-10-02 | [Hyacinth macaws in the Pantanal region of Brazil (© David Pattyn/Minden Pictures)](./wallpaper/2021-10-02.jpg) 
 
-2021-10-01 | [Container ship in San Pedro, California (© Cameron Venti/Getty Images)](./wallpaper/2021-10-01.jpg) 
-

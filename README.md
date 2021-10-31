@@ -12,4 +12,4 @@
 |![](./wallpaper/2021-10-11_sm.jpg)2021-10-11 [download 4k](./wallpaper/2021-10-11.jpg)|![](./wallpaper/2021-10-10_sm.jpg)2021-10-10 [download 4k](./wallpaper/2021-10-10.jpg)|![](./wallpaper/2021-10-09_sm.jpg)2021-10-09 [download 4k](./wallpaper/2021-10-09.jpg)|
 |![](./wallpaper/2021-10-08_sm.jpg)2021-10-08 [download 4k](./wallpaper/2021-10-08.jpg)|![](./wallpaper/2021-10-07_sm.jpg)2021-10-07 [download 4k](./wallpaper/2021-10-07.jpg)|![](./wallpaper/2021-10-06_sm.jpg)2021-10-06 [download 4k](./wallpaper/2021-10-06.jpg)|
 |![](./wallpaper/2021-10-05_sm.jpg)2021-10-05 [download 4k](./wallpaper/2021-10-05.jpg)|![](./wallpaper/2021-10-04_sm.jpg)2021-10-04 [download 4k](./wallpaper/2021-10-04.jpg)|![](./wallpaper/2021-10-03_sm.jpg)2021-10-03 [download 4k](./wallpaper/2021-10-03.jpg)|
-|![](./wallpaper/2021-10-02_sm.jpg)2021-10-02 [download 4k](./wallpaper/2021-10-02.jpg)|![](./wallpaper/2021-10-01_sm.jpg)2021-10-01 [download 4k](./wallpaper/2021-10-01.jpg)|
+|![](./wallpaper/2021-10-02_sm.jpg)2021-10-02 [download 4k](./wallpaper/2021-10-02.jpg)|
