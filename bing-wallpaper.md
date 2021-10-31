@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-01 | [Grotesques at York Minster, North Yorkshire, England (© John Potter/Alamy)](./wallpaper/2021-11-01.jpg) 
+
 2021-10-31 | [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](./wallpaper/2021-10-31.jpg) 
 
 2021-10-30 | [Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](./wallpaper/2021-10-30.jpg) 
