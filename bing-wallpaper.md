@@ -1,6 +1,4 @@
 ## Bing Wallpaper
-2021-10-31 | [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](./wallpaper/2021-10-31.jpg) 
-
 2021-10-30 | [Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](./wallpaper/2021-10-30.jpg) 
 
 2021-10-29 | [Necropolis near Dargavs, North Ossetia, Russia (© Yakov Oskanov/Shutterstock)](./wallpaper/2021-10-29.jpg) 
