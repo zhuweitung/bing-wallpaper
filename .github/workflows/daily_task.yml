@@ -5,7 +5,7 @@ name: Daily task
 
 on:
   schedule:
-    - cron:  '0 9 * * *'
+    - cron:  '30 9 * * *'
   workflow_dispatch: # on button click
 
 jobs:
