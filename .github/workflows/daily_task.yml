@@ -27,7 +27,7 @@ jobs:
     - name: Run Java Application
       run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
 
-  - name: Commit and push
+    - name: Commit and push
       uses: github-actions-x/commit@v2.8
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
