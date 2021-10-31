@@ -8,6 +8,7 @@ import java.net.URL;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
+import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -47,7 +48,9 @@ public class Wallpaper {
         // 图片时间
         String enddate = (String) jsonObject.get("enddate");
         LocalDate localDate = LocalDate.parse(enddate, DateTimeFormatter.BASIC_ISO_DATE);
+        Date today = Date.from(localDate.atStartOfDay(ZoneId.systemDefault()).toInstant());
         enddate = localDate.format(DateTimeFormatter.ISO_LOCAL_DATE);
+        log.info("enddate:{}, today:{}", enddate, today.toString());
 
         // 图片版权
         String copyright = (String) jsonObject.get("copyright");
@@ -63,7 +66,11 @@ public class Wallpaper {
         downloadImageFromUrl(url + Images.IMAGE_URL_PARAMS_SMALL, localSmallFileName);
 
         List<Images> imagesList = FileUtils.readBing();
-        imagesList.set(0, new Images(copyright, enddate));
+        Map<String, Images> imagesMap = imagesList.stream().collect(Collectors.toMap(Images::getDate, image -> image));
+        if (imagesMap.get(enddate) == null) {
+            imagesList.add(0, new Images(copyright, enddate));
+            imagesMap = imagesList.stream().collect(Collectors.toMap(Images::getDate, image -> image));
+        }
 
         /*// 将4k图片路径改为本地路径
         for (Images image : imagesList) {
@@ -76,6 +83,7 @@ public class Wallpaper {
         // 删除30天前的壁纸
         List<String> imageFormats = Arrays.asList(Images.IMAGE_FORMAT, Images.IMAGE_FORMAT_1080, Images.IMAGE_FORMAT_SMALL);
         Calendar cld = Calendar.getInstance();
+        cld.setTime(today);
         cld.add(Calendar.DAY_OF_MONTH, -30);
         Iterator<Images> imagesIterator = imagesList.iterator();
         while (imagesIterator.hasNext()) {
@@ -95,8 +103,7 @@ public class Wallpaper {
         }
 
         // 替换固定地址图片
-        Map<String, Images> imagesMap = imagesList.stream().collect(Collectors.toMap(Images::getDate, image -> image));
-        cld.setTime(new Date());
+        cld.setTime(today);
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
         for (int i = 0; i < Images.FIX_URL_IMAGE_NUM; i++) {
             String date = dateFormat.format(cld.getTime());

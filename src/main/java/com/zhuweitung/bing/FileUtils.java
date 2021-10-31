@@ -35,7 +35,6 @@ public class FileUtils {
         List<String> allLines = Files.readAllLines(bingPath);
         allLines = allLines.stream().filter(s -> !s.isEmpty()).collect(Collectors.toList());
         List<Images> imgList = new ArrayList<>();
-        imgList.add(new Images());
         for (int i = 1; i < allLines.size(); i++) {
             String s = allLines.get(i).trim();
             int descEnd = s.indexOf("]");
