@@ -21,18 +21,22 @@ jobs:
       with:
         java-version: 1.8
 
+    - name: Cache local Maven repository
+      uses: actions/cache@v2
+      with:
+        path: ~/.m2/repository
+        key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+        restore-keys: |
+          ${{ runner.os }}-maven-
+
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
     - name: Run Java Application
       run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
 
-    - name: Commit and push
-      uses: github-actions-x/commit@v2.8
+    - name: Git auto commit
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
-        commit-message: 'Crawl today bing wallpaper'
-        force-add: 'true'
-        name: zhuweitung
-        email: zhuweitung@foxmail.com
+        commit_message: Crawl today bing wallpaper
+        add_options: '-u'
