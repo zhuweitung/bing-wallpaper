@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-03 | [Marigolds decorate a cemetery in Patzcuaro, Michoacan, Mexico, for a Day of the Dead ceremony (© Daniel Elizalde S/Shutterstock)](./wallpaper/2021-11-03.jpg) 
+
 2021-11-02 | [The sculpture 'Kindred Spirits' by Alex Pentek in Bailick Park, Midleton, County Cork, Ireland (© David Creedon/Alamy Live News/Alamy)](./wallpaper/2021-11-02.jpg) 
 
 2021-11-01 | [Grotesques at York Minster, North Yorkshire, England (© John Potter/Alamy)](./wallpaper/2021-11-01.jpg) 
@@ -58,6 +60,4 @@
 2021-10-05 | [Andromeda galaxy (© NASA/JPL-Caltech)](./wallpaper/2021-10-05.jpg) 
 
 2021-10-04 | [The Roman amphitheater of Itálica, near Seville, Spain (© Amazing Aerial Agency/Offset by Shutterstock)](./wallpaper/2021-10-04.jpg) 
-
-2021-10-03 | [The Ivishak River in the North Slope of Alaska (© Don Paulson/Danita Delimont)](./wallpaper/2021-10-03.jpg) 
 
