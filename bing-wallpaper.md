@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-05 | [Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](./wallpaper/2021-11-05.jpg) 
+
 2021-11-04 | [Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](./wallpaper/2021-11-04.jpg) 
 
 2021-11-03 | [Marigolds decorate a cemetery in Patzcuaro, Michoacan, Mexico, for a Day of the Dead ceremony (© Daniel Elizalde S/Shutterstock)](./wallpaper/2021-11-03.jpg) 
@@ -58,6 +60,4 @@
 2021-10-07 | [Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](./wallpaper/2021-10-07.jpg) 
 
 2021-10-06 | [Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](./wallpaper/2021-10-06.jpg) 
-
-2021-10-05 | [Andromeda galaxy (© NASA/JPL-Caltech)](./wallpaper/2021-10-05.jpg) 
 
