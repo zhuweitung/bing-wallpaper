@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-06 | [Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)](./wallpaper/2021-11-06.jpg) 
+
 2021-11-05 | [Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](./wallpaper/2021-11-05.jpg) 
 
 2021-11-04 | [Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](./wallpaper/2021-11-04.jpg) 
@@ -58,6 +60,4 @@
 2021-10-08 | [Huay Mae Khamin Waterfall in Khuean Srinagarindra National Park, Thailand (© Casper1774Studio/Getty Images)](./wallpaper/2021-10-08.jpg) 
 
 2021-10-07 | [Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](./wallpaper/2021-10-07.jpg) 
-
-2021-10-06 | [Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](./wallpaper/2021-10-06.jpg) 
 
