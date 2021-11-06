@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-07 | [Female numbat in Brookton, Western Australia (© Martin Willis/Minden Pictures)](./wallpaper/2021-11-07.jpg) 
+
 2021-11-06 | [Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)](./wallpaper/2021-11-06.jpg) 
 
 2021-11-05 | [Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](./wallpaper/2021-11-05.jpg) 
@@ -58,6 +60,4 @@
 2021-10-09 | [Common octopus off the coast of France in the Mediterranean Sea (© BIOSPHOTO/Alamy)](./wallpaper/2021-10-09.jpg) 
 
 2021-10-08 | [Huay Mae Khamin Waterfall in Khuean Srinagarindra National Park, Thailand (© Casper1774Studio/Getty Images)](./wallpaper/2021-10-08.jpg) 
-
-2021-10-07 | [Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](./wallpaper/2021-10-07.jpg) 
 
