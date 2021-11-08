@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-09 | [Polar bear investigating a camera, Churchill, Manitoba, Canada (© Matthias Breiter/Minden Pictures)](./wallpaper/2021-11-09.jpg) 
+
 2021-11-08 | [Mack Arch Rock at sunrise on the southern Oregon coast (© Dennis Frates/Alamy)](./wallpaper/2021-11-08.jpg) 
 
 2021-11-07 | [Female numbat in Brookton, Western Australia (© Martin Willis/Minden Pictures)](./wallpaper/2021-11-07.jpg) 
@@ -58,6 +60,4 @@
 2021-10-11 | [Rainbow abalone shell, New Zealand (© Lynda Harper/Minden Pictures)](./wallpaper/2021-10-11.jpg) 
 
 2021-10-10 | [Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)](./wallpaper/2021-10-10.jpg) 
-
-2021-10-09 | [Common octopus off the coast of France in the Mediterranean Sea (© BIOSPHOTO/Alamy)](./wallpaper/2021-10-09.jpg) 
 
