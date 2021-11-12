@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-13 | [Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](./wallpaper/2021-11-13.jpg) 
+
 2021-11-12 | [Sailors on the amphibious assault ship USS Iwo Jima on New York's Hudson River during Veterans Week, 2016 (© Apple White/Alamy)](./wallpaper/2021-11-12.jpg) 
 
 2021-11-11 | [Cumberland Island National Seashore, Georgia (© Wilsilver77/Getty Images Plus)](./wallpaper/2021-11-11.jpg) 
@@ -58,6 +60,4 @@
 2021-10-15 | [Saguaro 'family' and Milky Way, Saguaro National Park, Arizona (© Christian Foto Az/Shutterstock)](./wallpaper/2021-10-15.jpg) 
 
 2021-10-14 | [An ichthyosaur fossil of the Jurassic period, Dinosaurland Fossil Museum, Lyme Regis, Dorset, England (© Christopher Jones/Alamy)](./wallpaper/2021-10-14.jpg) 
-
-2021-10-13 | [Saint-Malo in Brittany, France (© Mathieu Rivrin/Moment/Getty Images)](./wallpaper/2021-10-13.jpg) 
 
