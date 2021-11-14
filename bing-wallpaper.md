@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-15 | [First Cliff Walk on First near Grindelwald, Switzerland (© Hans-Georg Eiben/eStock Photo)](./wallpaper/2021-11-15.jpg) 
+
 2021-11-14 | [Aerial view of El Tajo gorge and the Puente Nuevo bridge in Ronda, Málaga, Spain (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2021-11-14.jpg) 
 
 2021-11-13 | [Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](./wallpaper/2021-11-13.jpg) 
@@ -58,6 +60,4 @@
 2021-10-17 | [Aerial view of the Temple of Hatshepsut near Luxor, Egypt (© Ratnakorn Piyasirisorost/Moment/Getty Images)](./wallpaper/2021-10-17.jpg) 
 
 2021-10-16 | [Farra di Soligo in the Prosecco Hills of Veneto, Italy (© Olimpio Fantuz/Sime/eStock Photo)](./wallpaper/2021-10-16.jpg) 
-
-2021-10-15 | [Saguaro 'family' and Milky Way, Saguaro National Park, Arizona (© Christian Foto Az/Shutterstock)](./wallpaper/2021-10-15.jpg) 
 
