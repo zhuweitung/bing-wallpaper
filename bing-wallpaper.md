@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-17 | [The Jacobite steam train crossing the Glenfinnan Viaduct in Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)](./wallpaper/2021-11-17.jpg) 
+
 2021-11-16 | [Manatee in Florida (© Paul E Tessier/Cavan Images/Offset by Shutterstock)](./wallpaper/2021-11-16.jpg) 
 
 2021-11-15 | [First Cliff Walk on First near Grindelwald, Switzerland (© Hans-Georg Eiben/eStock Photo)](./wallpaper/2021-11-15.jpg) 
@@ -58,6 +60,4 @@
 2021-10-19 | [Capel Curig in Snowdonia National Park, Wales, United Kingdom (© Sebastian Wasek/Sime/eStock Photo)](./wallpaper/2021-10-19.jpg) 
 
 2021-10-18 | [Redwood Memorial Grove in Whakarewarewa Forest, North Island, New Zealand (© Michael Breitung/Huber/eStock Photo)](./wallpaper/2021-10-18.jpg) 
-
-2021-10-17 | [Aerial view of the Temple of Hatshepsut near Luxor, Egypt (© Ratnakorn Piyasirisorost/Moment/Getty Images)](./wallpaper/2021-10-17.jpg) 
 
