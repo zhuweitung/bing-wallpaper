@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-18 | [Boardwalk Trail at Corkscrew Swamp Sanctuary in Florida (© Bill Gozansky/Alamy)](./wallpaper/2021-11-18.jpg) 
+
 2021-11-17 | [The Jacobite steam train crossing the Glenfinnan Viaduct in Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)](./wallpaper/2021-11-17.jpg) 
 
 2021-11-16 | [Manatee in Florida (© Paul E Tessier/Cavan Images/Offset by Shutterstock)](./wallpaper/2021-11-16.jpg) 
@@ -58,6 +60,4 @@
 2021-10-20 | [The Fanal Forest on Madeira Island, Portugal (© Val Thoermer/Alamy)](./wallpaper/2021-10-20.jpg) 
 
 2021-10-19 | [Capel Curig in Snowdonia National Park, Wales, United Kingdom (© Sebastian Wasek/Sime/eStock Photo)](./wallpaper/2021-10-19.jpg) 
-
-2021-10-18 | [Redwood Memorial Grove in Whakarewarewa Forest, North Island, New Zealand (© Michael Breitung/Huber/eStock Photo)](./wallpaper/2021-10-18.jpg) 
 
