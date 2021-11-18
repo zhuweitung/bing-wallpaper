@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-19 | [Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](./wallpaper/2021-11-19.jpg) 
+
 2021-11-18 | [Boardwalk Trail at Corkscrew Swamp Sanctuary in Florida (© Bill Gozansky/Alamy)](./wallpaper/2021-11-18.jpg) 
 
 2021-11-17 | [The Jacobite steam train crossing the Glenfinnan Viaduct in Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)](./wallpaper/2021-11-17.jpg) 
@@ -58,6 +60,4 @@
 2021-10-21 | [Brown-throated three-toed sloth in Manuel Antonio National Park, Costa Rica (© Lukas Kovarik/Shutterstock)](./wallpaper/2021-10-21.jpg) 
 
 2021-10-20 | [The Fanal Forest on Madeira Island, Portugal (© Val Thoermer/Alamy)](./wallpaper/2021-10-20.jpg) 
-
-2021-10-19 | [Capel Curig in Snowdonia National Park, Wales, United Kingdom (© Sebastian Wasek/Sime/eStock Photo)](./wallpaper/2021-10-19.jpg) 
 
