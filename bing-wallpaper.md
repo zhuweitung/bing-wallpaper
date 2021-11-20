@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-21 | ['A New Breath' by artist Saype in Moléson-sur-Gruyères, Switzerland (© Valentin Flauraud/Shutterstock)](./wallpaper/2021-11-21.jpg) 
+
 2021-11-20 | [The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)](./wallpaper/2021-11-20.jpg) 
 
 2021-11-19 | [Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](./wallpaper/2021-11-19.jpg) 
@@ -58,6 +60,4 @@
 2021-10-23 | [Comet NEOWISE streaks across the sky over Sunwapta Lake in Jasper National Park, Alberta, Canada (© Stocktrek Images, Inc./Alamy)](./wallpaper/2021-10-23.jpg) 
 
 2021-10-22 | [Bald cypress and Spanish moss in the Atchafalaya Basin, Louisiana (© Chris Moore/Exploring Light Photography/Tandem Stills + Motion)](./wallpaper/2021-10-22.jpg) 
-
-2021-10-21 | [Brown-throated three-toed sloth in Manuel Antonio National Park, Costa Rica (© Lukas Kovarik/Shutterstock)](./wallpaper/2021-10-21.jpg) 
 
