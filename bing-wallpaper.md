@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-25 | [Chocolate Hills in Bohol, Philippines (© Danita Delimont/Offset by Shutterstock)](./wallpaper/2021-11-25.jpg) 
+
 2021-11-24 | [Cross-section of a fossilized ammonite shell (© Marianna Armata/Getty Images)](./wallpaper/2021-11-24.jpg) 
 
 2021-11-23 | [Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](./wallpaper/2021-11-23.jpg) 
@@ -58,6 +60,4 @@
 2021-10-27 | [Red fox in the Black Forest of Germany (© Klaus Echle/Minden Pictures)](./wallpaper/2021-10-27.jpg) 
 
 2021-10-26 | [Dyavolski Most (Devil's Bridge) over the Arda River in Bulgaria (© Petar Mladenov/Alamy)](./wallpaper/2021-10-26.jpg) 
-
-2021-10-25 | [Bavljenac Island, Croatia (© Julien Duval/Amazing Aerial Agency)](./wallpaper/2021-10-25.jpg) 
 
