@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-27 | [Zuni Olla Maidens at the annual Inter-Tribal Ceremonial in Gallup, New Mexico (© Julien McRoberts/Danita Delimont)](./wallpaper/2021-11-27.jpg) 
+
 2021-11-26 | [Red squirrels in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](./wallpaper/2021-11-26.jpg) 
 
 2021-11-25 | [Chocolate Hills in Bohol, Philippines (© Danita Delimont/Offset by Shutterstock)](./wallpaper/2021-11-25.jpg) 
@@ -58,6 +60,4 @@
 2021-10-29 | [Necropolis near Dargavs, North Ossetia, Russia (© Yakov Oskanov/Shutterstock)](./wallpaper/2021-10-29.jpg) 
 
 2021-10-28 | [A pumpkin patch in Newton, Massachusetts (© Frank Debonis/EyeEm/Alamy)](./wallpaper/2021-10-28.jpg) 
-
-2021-10-27 | [Red fox in the Black Forest of Germany (© Klaus Echle/Minden Pictures)](./wallpaper/2021-10-27.jpg) 
 
