@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-29 | [Centennial Bridge towering above Soberanía National Park, Panama (© David Tipling/Universal Images Group via Getty Images)](./wallpaper/2021-11-29.jpg) 
+
 2021-11-28 | [Aerial view of Penn Station and the New York City skyline at night in the 1950s (© R. Gates -Staff/Getty Images)](./wallpaper/2021-11-28.jpg) 
 
 2021-11-27 | [Zuni Olla Maidens at the annual Inter-Tribal Ceremonial in Gallup, New Mexico (© Julien McRoberts/Danita Delimont)](./wallpaper/2021-11-27.jpg) 
@@ -58,6 +60,4 @@
 2021-10-31 | [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](./wallpaper/2021-10-31.jpg) 
 
 2021-10-30 | [Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](./wallpaper/2021-10-30.jpg) 
-
-2021-10-29 | [Necropolis near Dargavs, North Ossetia, Russia (© Yakov Oskanov/Shutterstock)](./wallpaper/2021-10-29.jpg) 
 
