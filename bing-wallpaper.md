@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-11-30 | [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2021-11-30.jpg) 
+
 2021-11-29 | [Centennial Bridge towering above Soberanía National Park, Panama (© David Tipling/Universal Images Group via Getty Images)](./wallpaper/2021-11-29.jpg) 
 
 2021-11-28 | [Aerial view of Penn Station and the New York City skyline at night in the 1950s (© R. Gates -Staff/Getty Images)](./wallpaper/2021-11-28.jpg) 
@@ -58,6 +60,4 @@
 2021-11-01 | [Grotesques at York Minster, North Yorkshire, England (© John Potter/Alamy)](./wallpaper/2021-11-01.jpg) 
 
 2021-10-31 | [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](./wallpaper/2021-10-31.jpg) 
-
-2021-10-30 | [Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](./wallpaper/2021-10-30.jpg) 
 
