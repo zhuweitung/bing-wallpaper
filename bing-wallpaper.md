@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-01 | [African bush elephants at Masai Mara National Reserve in Kenya (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2021-12-01.jpg) 
+
 2021-11-30 | [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2021-11-30.jpg) 
 
 2021-11-29 | [Centennial Bridge towering above Soberanía National Park, Panama (© David Tipling/Universal Images Group via Getty Images)](./wallpaper/2021-11-29.jpg) 
@@ -58,6 +60,4 @@
 2021-11-02 | [The sculpture 'Kindred Spirits' by Alex Pentek in Bailick Park, Midleton, County Cork, Ireland (© David Creedon/Alamy Live News/Alamy)](./wallpaper/2021-11-02.jpg) 
 
 2021-11-01 | [Grotesques at York Minster, North Yorkshire, England (© John Potter/Alamy)](./wallpaper/2021-11-01.jpg) 
-
-2021-10-31 | [Misty pine forest in the Central Highlands of Vietnam (© Thanh Thuy/Moment/Getty Images)](./wallpaper/2021-10-31.jpg) 
 
