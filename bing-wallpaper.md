@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-03 | [Dall sheep rams at Polychrome Pass, Denali National Park, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2021-12-03.jpg) 
+
 2021-12-02 | [Blue icebergs near Cuverville Island, Antarctica (© Mike Hill/Getty Images)](./wallpaper/2021-12-02.jpg) 
 
 2021-12-01 | [African bush elephants at Masai Mara National Reserve in Kenya (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2021-12-01.jpg) 
@@ -58,6 +60,4 @@
 2021-11-04 | [Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](./wallpaper/2021-11-04.jpg) 
 
 2021-11-03 | [Marigolds decorate a cemetery in Patzcuaro, Michoacan, Mexico, for a Day of the Dead ceremony (© Daniel Elizalde S/Shutterstock)](./wallpaper/2021-11-03.jpg) 
-
-2021-11-02 | [The sculpture 'Kindred Spirits' by Alex Pentek in Bailick Park, Midleton, County Cork, Ireland (© David Creedon/Alamy Live News/Alamy)](./wallpaper/2021-11-02.jpg) 
 
