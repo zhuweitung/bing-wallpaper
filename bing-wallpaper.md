@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-05 | [Mother cheetah and her cub in the Masai Mara National Reserve, Kenya (© gudkovandrey/Adobe Stock)](./wallpaper/2021-12-05.jpg) 
+
 2021-12-04 | [Autumn leaves coated with frost (© sagarmanis/Getty Images)](./wallpaper/2021-12-04.jpg) 
 
 2021-12-03 | [Dall sheep rams at Polychrome Pass, Denali National Park, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2021-12-03.jpg) 
@@ -58,6 +60,4 @@
 2021-11-06 | [Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)](./wallpaper/2021-11-06.jpg) 
 
 2021-11-05 | [Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](./wallpaper/2021-11-05.jpg) 
-
-2021-11-04 | [Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](./wallpaper/2021-11-04.jpg) 
 
