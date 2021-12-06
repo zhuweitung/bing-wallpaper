@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-07 | [An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](./wallpaper/2021-12-07.jpg) 
+
 2021-12-06 | [The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](./wallpaper/2021-12-06.jpg) 
 
 2021-12-05 | [Mother cheetah and her cub in the Masai Mara National Reserve, Kenya (© gudkovandrey/Adobe Stock)](./wallpaper/2021-12-05.jpg) 
@@ -58,6 +60,4 @@
 2021-11-08 | [Mack Arch Rock at sunrise on the southern Oregon coast (© Dennis Frates/Alamy)](./wallpaper/2021-11-08.jpg) 
 
 2021-11-07 | [Female numbat in Brookton, Western Australia (© Martin Willis/Minden Pictures)](./wallpaper/2021-11-07.jpg) 
-
-2021-11-06 | [Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)](./wallpaper/2021-11-06.jpg) 
 
