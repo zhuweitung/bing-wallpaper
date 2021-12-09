@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-10 | [Glowworms in Blue Mountains National Park, Australia (© Leelakajonkij/Getty Images)](./wallpaper/2021-12-10.jpg) 
+
 2021-12-09 | [Petrified Forest National Park, Arizona (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2021-12-09.jpg) 
 
 2021-12-08 | [US Navy sailors on the WWII museum ship USS Bowfin in Honolulu, Hawaii (© US Navy Photo/Alamy)](./wallpaper/2021-12-08.jpg) 
@@ -58,6 +60,4 @@
 2021-11-11 | [Cumberland Island National Seashore, Georgia (© Wilsilver77/Getty Images Plus)](./wallpaper/2021-11-11.jpg) 
 
 2021-11-10 | [Ancient rock tombs carved into the cliff near Dalyan, Turkey (© Reinhard Schmid/eStock Photo)](./wallpaper/2021-11-10.jpg) 
-
-2021-11-09 | [Polar bear investigating a camera, Churchill, Manitoba, Canada (© Matthias Breiter/Minden Pictures)](./wallpaper/2021-11-09.jpg) 
 
