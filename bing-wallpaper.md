@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-13 | [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](./wallpaper/2021-12-13.jpg) 
+
 2021-12-12 | [The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](./wallpaper/2021-12-12.jpg) 
 
 2021-12-11 | [Arctic fox in Dovrefjell-Sunndalsfjella National Park, Norway (© Andy Trowbridge/Minden Pictures)](./wallpaper/2021-12-11.jpg) 
@@ -58,6 +60,4 @@
 2021-11-14 | [Aerial view of El Tajo gorge and the Puente Nuevo bridge in Ronda, Málaga, Spain (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2021-11-14.jpg) 
 
 2021-11-13 | [Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](./wallpaper/2021-11-13.jpg) 
-
-2021-11-12 | [Sailors on the amphibious assault ship USS Iwo Jima on New York's Hudson River during Veterans Week, 2016 (© Apple White/Alamy)](./wallpaper/2021-11-12.jpg) 
 
