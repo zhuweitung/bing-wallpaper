@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-14 | [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](./wallpaper/2021-12-14.jpg) 
+
 2021-12-13 | [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](./wallpaper/2021-12-13.jpg) 
 
 2021-12-12 | [The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](./wallpaper/2021-12-12.jpg) 
@@ -58,6 +60,4 @@
 2021-11-15 | [First Cliff Walk on First near Grindelwald, Switzerland (© Hans-Georg Eiben/eStock Photo)](./wallpaper/2021-11-15.jpg) 
 
 2021-11-14 | [Aerial view of El Tajo gorge and the Puente Nuevo bridge in Ronda, Málaga, Spain (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2021-11-14.jpg) 
-
-2021-11-13 | [Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](./wallpaper/2021-11-13.jpg) 
 
