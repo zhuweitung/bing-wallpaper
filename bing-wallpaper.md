@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-16 | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Luis Miguel Martin/Getty Images)](./wallpaper/2021-12-16.jpg) 
+
 2021-12-15 | [American robin perched on a branch in Canada (© marcophotos/Getty Images)](./wallpaper/2021-12-15.jpg) 
 
 2021-12-14 | [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](./wallpaper/2021-12-14.jpg) 
@@ -58,6 +60,4 @@
 2021-11-17 | [The Jacobite steam train crossing the Glenfinnan Viaduct in Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)](./wallpaper/2021-11-17.jpg) 
 
 2021-11-16 | [Manatee in Florida (© Paul E Tessier/Cavan Images/Offset by Shutterstock)](./wallpaper/2021-11-16.jpg) 
-
-2021-11-15 | [First Cliff Walk on First near Grindelwald, Switzerland (© Hans-Georg Eiben/eStock Photo)](./wallpaper/2021-11-15.jpg) 
 
