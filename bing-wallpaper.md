@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-18 | [Christmas-themed beach huts in Bournemouth, England (© Allouphoto/Alamy)](./wallpaper/2021-12-18.jpg) 
+
 2021-12-17 | [The English National Ballet's 2016 production of 'The Nutcracker' at the London Coliseum in London, England (© Robbie Jack/Corbis via Getty Images)](./wallpaper/2021-12-17.jpg) 
 
 2021-12-16 | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Luis Miguel Martin/Getty Images)](./wallpaper/2021-12-16.jpg) 
@@ -58,6 +60,4 @@
 2021-11-19 | [Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](./wallpaper/2021-11-19.jpg) 
 
 2021-11-18 | [Boardwalk Trail at Corkscrew Swamp Sanctuary in Florida (© Bill Gozansky/Alamy)](./wallpaper/2021-11-18.jpg) 
-
-2021-11-17 | [The Jacobite steam train crossing the Glenfinnan Viaduct in Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)](./wallpaper/2021-11-17.jpg) 
 
