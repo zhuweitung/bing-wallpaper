@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-20 | [Aurora borealis above the Brooks Range in Alaska (© Noppawat Tom Charoensinphon/Getty Images)](./wallpaper/2021-12-20.jpg) 
+
 2021-12-19 | [The December full moon seen through holiday lights (© Jesus Merida/Getty Images)](./wallpaper/2021-12-19.jpg) 
 
 2021-12-18 | [Christmas-themed beach huts in Bournemouth, England (© Allouphoto/Alamy)](./wallpaper/2021-12-18.jpg) 
@@ -58,6 +60,4 @@
 2021-11-21 | ['A New Breath' by artist Saype in Moléson-sur-Gruyères, Switzerland (© Valentin Flauraud/Shutterstock)](./wallpaper/2021-11-21.jpg) 
 
 2021-11-20 | [The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)](./wallpaper/2021-11-20.jpg) 
-
-2021-11-19 | [Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](./wallpaper/2021-11-19.jpg) 
 
