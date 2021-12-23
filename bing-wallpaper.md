@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-24 | [Two young male polar bears, Churchill, Manitoba, Canada (© Cheryl Ramalho/Getty Images)](./wallpaper/2021-12-24.jpg) 
+
 2021-12-23 | [Winter scene illuminated on the Palais de l'Isle in Annecy, Haute Savoie, France (© blickwinkel/Alamy)](./wallpaper/2021-12-23.jpg) 
 
 2021-12-22 | [Sunlight in the forest of Western Siberia, near the city of Raduzhny, Russia (© Leonid Ikan/Shutterstock)](./wallpaper/2021-12-22.jpg) 
@@ -58,6 +60,4 @@
 2021-11-25 | [Chocolate Hills in Bohol, Philippines (© Danita Delimont/Offset by Shutterstock)](./wallpaper/2021-11-25.jpg) 
 
 2021-11-24 | [Cross-section of a fossilized ammonite shell (© Marianna Armata/Getty Images)](./wallpaper/2021-11-24.jpg) 
-
-2021-11-23 | [Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](./wallpaper/2021-11-23.jpg) 
 
