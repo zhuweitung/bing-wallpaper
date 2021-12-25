@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-26 | [Trees on the northern slope of Mount Khomyak in the Carpathian Mountains, Ukraine (© panaramka/Getty Images)](./wallpaper/2021-12-26.jpg) 
+
 2021-12-25 | [Christmas tree at Weissensee, a small lake near Ehrwald in Tyrol, Austria (© nagelestock/Alamy)](./wallpaper/2021-12-25.jpg) 
 
 2021-12-24 | [Two young male polar bears, Churchill, Manitoba, Canada (© Cheryl Ramalho/Getty Images)](./wallpaper/2021-12-24.jpg) 
@@ -58,6 +60,4 @@
 2021-11-27 | [Zuni Olla Maidens at the annual Inter-Tribal Ceremonial in Gallup, New Mexico (© Julien McRoberts/Danita Delimont)](./wallpaper/2021-11-27.jpg) 
 
 2021-11-26 | [Red squirrels in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](./wallpaper/2021-11-26.jpg) 
-
-2021-11-25 | [Chocolate Hills in Bohol, Philippines (© Danita Delimont/Offset by Shutterstock)](./wallpaper/2021-11-25.jpg) 
 
