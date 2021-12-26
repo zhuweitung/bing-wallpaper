@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-27 | [Royal Pavilion Ice Rink in Brighton, England (© Chris Gorman/Getty Images)](./wallpaper/2021-12-27.jpg) 
+
 2021-12-26 | [Trees on the northern slope of Mount Khomyak in the Carpathian Mountains, Ukraine (© panaramka/Getty Images)](./wallpaper/2021-12-26.jpg) 
 
 2021-12-25 | [Christmas tree at Weissensee, a small lake near Ehrwald in Tyrol, Austria (© nagelestock/Alamy)](./wallpaper/2021-12-25.jpg) 
@@ -58,6 +60,4 @@
 2021-11-28 | [Aerial view of Penn Station and the New York City skyline at night in the 1950s (© R. Gates -Staff/Getty Images)](./wallpaper/2021-11-28.jpg) 
 
 2021-11-27 | [Zuni Olla Maidens at the annual Inter-Tribal Ceremonial in Gallup, New Mexico (© Julien McRoberts/Danita Delimont)](./wallpaper/2021-11-27.jpg) 
-
-2021-11-26 | [Red squirrels in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](./wallpaper/2021-11-26.jpg) 
 
