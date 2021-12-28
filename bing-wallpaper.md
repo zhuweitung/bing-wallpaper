@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-29 | [Kjell Henriksen Observatory in Svalbard, Norway (© Vincent Fournier/Gallery Stock)](./wallpaper/2021-12-29.jpg) 
+
 2021-12-28 | [Snow buntings flock during a snowstorm in New York (© Marie Read/Minden Pictures)](./wallpaper/2021-12-28.jpg) 
 
 2021-12-27 | [Royal Pavilion Ice Rink in Brighton, England (© Chris Gorman/Getty Images)](./wallpaper/2021-12-27.jpg) 
@@ -58,6 +60,4 @@
 2021-11-30 | [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2021-11-30.jpg) 
 
 2021-11-29 | [Centennial Bridge towering above Soberanía National Park, Panama (© David Tipling/Universal Images Group via Getty Images)](./wallpaper/2021-11-29.jpg) 
-
-2021-11-28 | [Aerial view of Penn Station and the New York City skyline at night in the 1950s (© R. Gates -Staff/Getty Images)](./wallpaper/2021-11-28.jpg) 
 
