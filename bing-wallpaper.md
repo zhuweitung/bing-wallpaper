@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2021-12-31 | [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](./wallpaper/2021-12-31.jpg) 
+
 2021-12-30 | [Mountain goats in the Yukon, Canada (© Mark Newman/Getty Images)](./wallpaper/2021-12-30.jpg) 
 
 2021-12-29 | [Kjell Henriksen Observatory in Svalbard, Norway (© Vincent Fournier/Gallery Stock)](./wallpaper/2021-12-29.jpg) 
@@ -58,6 +60,4 @@
 2021-12-02 | [Blue icebergs near Cuverville Island, Antarctica (© Mike Hill/Getty Images)](./wallpaper/2021-12-02.jpg) 
 
 2021-12-01 | [African bush elephants at Masai Mara National Reserve in Kenya (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2021-12-01.jpg) 
-
-2021-11-30 | [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2021-11-30.jpg) 
 
