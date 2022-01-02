@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-03 | [Skyline of Prague, Czech Republic (© benkrut/Getty Images)](./wallpaper/2022-01-03.jpg) 
+
 2022-01-02 | [Harp seal sleeping at Jones Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2022-01-02.jpg) 
 
 2022-01-01 | [Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](./wallpaper/2022-01-01.jpg) 
@@ -58,6 +60,4 @@
 2021-12-05 | [Mother cheetah and her cub in the Masai Mara National Reserve, Kenya (© gudkovandrey/Adobe Stock)](./wallpaper/2021-12-05.jpg) 
 
 2021-12-04 | [Autumn leaves coated with frost (© sagarmanis/Getty Images)](./wallpaper/2021-12-04.jpg) 
-
-2021-12-03 | [Dall sheep rams at Polychrome Pass, Denali National Park, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2021-12-03.jpg) 
 
