@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-04 | [The Lick Observatory on Mount Hamilton, near San Jose, California (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2022-01-04.jpg) 
+
 2022-01-03 | [Skyline of Prague, Czech Republic (© benkrut/Getty Images)](./wallpaper/2022-01-03.jpg) 
 
 2022-01-02 | [Harp seal sleeping at Jones Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2022-01-02.jpg) 
@@ -58,6 +60,4 @@
 2021-12-06 | [The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](./wallpaper/2021-12-06.jpg) 
 
 2021-12-05 | [Mother cheetah and her cub in the Masai Mara National Reserve, Kenya (© gudkovandrey/Adobe Stock)](./wallpaper/2021-12-05.jpg) 
-
-2021-12-04 | [Autumn leaves coated with frost (© sagarmanis/Getty Images)](./wallpaper/2021-12-04.jpg) 
 
