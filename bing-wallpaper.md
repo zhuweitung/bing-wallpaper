@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-08 | [Nazaré Lighthouse atop Forte de São Miguel Arcanjo, Nazaré, Portugal (© Richard A Lock/Getty Images)](./wallpaper/2022-01-08.jpg) 
+
 2022-01-07 | [Kochelsee and Heimgarten Mountain in Bavaria, Germany (© Reinhard Schmid/eStock Photo)](./wallpaper/2022-01-07.jpg) 
 
 2022-01-06 | [Plate-billed mountain toucan in Bellavista Cloud Forest Reserve, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2022-01-06.jpg) 
@@ -58,6 +60,4 @@
 2021-12-10 | [Glowworms in Blue Mountains National Park, Australia (© Leelakajonkij/Getty Images)](./wallpaper/2021-12-10.jpg) 
 
 2021-12-09 | [Petrified Forest National Park, Arizona (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2021-12-09.jpg) 
-
-2021-12-08 | [US Navy sailors on the WWII museum ship USS Bowfin in Honolulu, Hawaii (© US Navy Photo/Alamy)](./wallpaper/2021-12-08.jpg) 
 
