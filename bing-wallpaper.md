@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-09 | [American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](./wallpaper/2022-01-09.jpg) 
+
 2022-01-08 | [Nazaré Lighthouse atop Forte de São Miguel Arcanjo, Nazaré, Portugal (© Richard A Lock/Getty Images)](./wallpaper/2022-01-08.jpg) 
 
 2022-01-07 | [Kochelsee and Heimgarten Mountain in Bavaria, Germany (© Reinhard Schmid/eStock Photo)](./wallpaper/2022-01-07.jpg) 
@@ -58,6 +60,4 @@
 2021-12-11 | [Arctic fox in Dovrefjell-Sunndalsfjella National Park, Norway (© Andy Trowbridge/Minden Pictures)](./wallpaper/2021-12-11.jpg) 
 
 2021-12-10 | [Glowworms in Blue Mountains National Park, Australia (© Leelakajonkij/Getty Images)](./wallpaper/2021-12-10.jpg) 
-
-2021-12-09 | [Petrified Forest National Park, Arizona (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2021-12-09.jpg) 
 
