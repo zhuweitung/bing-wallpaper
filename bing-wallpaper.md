@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-11 | [Ski touring in the High Tauern mountain range near Bad Gastein, Austria (© RooM the Agency/Alamy)](./wallpaper/2022-01-11.jpg) 
+
 2022-01-10 | [Rice laid out to dry in Dhamrai, Dhaka, Bangladesh (© Amazing Aerial Agency/Offset by Shutterstock)](./wallpaper/2022-01-10.jpg) 
 
 2022-01-09 | [American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](./wallpaper/2022-01-09.jpg) 
@@ -58,6 +60,4 @@
 2021-12-13 | [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](./wallpaper/2021-12-13.jpg) 
 
 2021-12-12 | [The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](./wallpaper/2021-12-12.jpg) 
-
-2021-12-11 | [Arctic fox in Dovrefjell-Sunndalsfjella National Park, Norway (© Andy Trowbridge/Minden Pictures)](./wallpaper/2021-12-11.jpg) 
 
