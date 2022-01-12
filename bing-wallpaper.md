@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-13 | [Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](./wallpaper/2022-01-13.jpg) 
+
 2022-01-12 | [A porcupine hangs on a willow tree branch, Alaska (© Design Pics/Danita Delimont)](./wallpaper/2022-01-12.jpg) 
 
 2022-01-11 | [Ski touring in the High Tauern mountain range near Bad Gastein, Austria (© RooM the Agency/Alamy)](./wallpaper/2022-01-11.jpg) 
@@ -58,6 +60,4 @@
 2021-12-15 | [American robin perched on a branch in Canada (© marcophotos/Getty Images)](./wallpaper/2021-12-15.jpg) 
 
 2021-12-14 | [Old Town and El Panecillo Hill in Quito, Ecuador (© Karol Kozlowski/plainpicture)](./wallpaper/2021-12-14.jpg) 
-
-2021-12-13 | [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](./wallpaper/2021-12-13.jpg) 
 
