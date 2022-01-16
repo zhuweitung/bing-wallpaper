@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-17 | [Sorting chili peppers at a farm in Bogra, Bangladesh (© Amazing Aerial Agency/Offset/Shutterstock)](./wallpaper/2022-01-17.jpg) 
+
 2022-01-16 | [To Sua Ocean Trench on the south coast of Upolu Island in Samoa (© Chris McLennan/Alamy)](./wallpaper/2022-01-16.jpg) 
 
 2022-01-15 | [The road leading to Sa Calobra on the Spanish Balearic island of Majorca (© Tolo Balaguer/agefotostock)](./wallpaper/2022-01-15.jpg) 
@@ -58,6 +60,4 @@
 2021-12-19 | [The December full moon seen through holiday lights (© Jesus Merida/Getty Images)](./wallpaper/2021-12-19.jpg) 
 
 2021-12-18 | [Christmas-themed beach huts in Bournemouth, England (© Allouphoto/Alamy)](./wallpaper/2021-12-18.jpg) 
-
-2021-12-17 | [The English National Ballet's 2016 production of 'The Nutcracker' at the London Coliseum in London, England (© Robbie Jack/Corbis via Getty Images)](./wallpaper/2021-12-17.jpg) 
 
