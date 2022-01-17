@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-18 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](./wallpaper/2022-01-18.jpg) 
+
 2022-01-17 | [Sorting chili peppers at a farm in Bogra, Bangladesh (© Amazing Aerial Agency/Offset/Shutterstock)](./wallpaper/2022-01-17.jpg) 
 
 2022-01-16 | [To Sua Ocean Trench on the south coast of Upolu Island in Samoa (© Chris McLennan/Alamy)](./wallpaper/2022-01-16.jpg) 
@@ -58,6 +60,4 @@
 2021-12-20 | [Aurora borealis above the Brooks Range in Alaska (© Noppawat Tom Charoensinphon/Getty Images)](./wallpaper/2021-12-20.jpg) 
 
 2021-12-19 | [The December full moon seen through holiday lights (© Jesus Merida/Getty Images)](./wallpaper/2021-12-19.jpg) 
-
-2021-12-18 | [Christmas-themed beach huts in Bournemouth, England (© Allouphoto/Alamy)](./wallpaper/2021-12-18.jpg) 
 
