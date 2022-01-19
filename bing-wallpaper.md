@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-20 | [Saint Elias Mountains and Kaskawulsh Glacier in Kluane National Park and Reserve, Yukon, Canada (© Design Pics Inc/Alamy)](./wallpaper/2022-01-20.jpg) 
+
 2022-01-19 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](./wallpaper/2022-01-19.jpg) 
 
 2022-01-18 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](./wallpaper/2022-01-18.jpg) 
@@ -58,6 +60,4 @@
 2021-12-22 | [Sunlight in the forest of Western Siberia, near the city of Raduzhny, Russia (© Leonid Ikan/Shutterstock)](./wallpaper/2021-12-22.jpg) 
 
 2021-12-21 | [Performers from the Ministry of Fun Santa School in London, England (© Matt Dunham/AP Photo)](./wallpaper/2021-12-21.jpg) 
-
-2021-12-20 | [Aurora borealis above the Brooks Range in Alaska (© Noppawat Tom Charoensinphon/Getty Images)](./wallpaper/2021-12-20.jpg) 
 
