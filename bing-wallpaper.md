@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-27 | [Mehrangarh Fort in Jodhpur, Rajasthan, India (© Jayakumar/Shutterstock)](./wallpaper/2022-01-27.jpg) 
+
 2022-01-26 | [Tŵr Mawr lighthouse on Llanddwyn Island, Anglesey, Wales (© Joe Daniel Price/Getty Images)](./wallpaper/2022-01-26.jpg) 
 
 2022-01-25 | [Lower Manhattan in New York City (© New York On Air/Offset/Shutterstock)](./wallpaper/2022-01-25.jpg) 
@@ -58,6 +60,4 @@
 2021-12-29 | [Kjell Henriksen Observatory in Svalbard, Norway (© Vincent Fournier/Gallery Stock)](./wallpaper/2021-12-29.jpg) 
 
 2021-12-28 | [Snow buntings flock during a snowstorm in New York (© Marie Read/Minden Pictures)](./wallpaper/2021-12-28.jpg) 
-
-2021-12-27 | [Royal Pavilion Ice Rink in Brighton, England (© Chris Gorman/Getty Images)](./wallpaper/2021-12-27.jpg) 
 
