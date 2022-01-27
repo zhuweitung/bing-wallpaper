@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-28 | [Bluespotted ribbontail ray near Perth, Australia (© Jeff Rotman/Minden Pictures)](./wallpaper/2022-01-28.jpg) 
+
 2022-01-27 | [Mehrangarh Fort in Jodhpur, Rajasthan, India (© Jayakumar/Shutterstock)](./wallpaper/2022-01-27.jpg) 
 
 2022-01-26 | [Tŵr Mawr lighthouse on Llanddwyn Island, Anglesey, Wales (© Joe Daniel Price/Getty Images)](./wallpaper/2022-01-26.jpg) 
@@ -58,6 +60,4 @@
 2021-12-30 | [Mountain goats in the Yukon, Canada (© Mark Newman/Getty Images)](./wallpaper/2021-12-30.jpg) 
 
 2021-12-29 | [Kjell Henriksen Observatory in Svalbard, Norway (© Vincent Fournier/Gallery Stock)](./wallpaper/2021-12-29.jpg) 
-
-2021-12-28 | [Snow buntings flock during a snowstorm in New York (© Marie Read/Minden Pictures)](./wallpaper/2021-12-28.jpg) 
 
