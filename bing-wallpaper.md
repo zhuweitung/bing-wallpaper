@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-01-30 | [Symmetrical brain coral on a reef in the Caribbean Sea near Grand Cayman, Cayman Islands (© Alex Mustard/Minden Pictures)](./wallpaper/2022-01-30.jpg) 
+
 2022-01-29 | [Short-eared owl hunting at dusk in Worlaby Carrs, Lincolnshire, England (© Ben Hall/Minden Pictures)](./wallpaper/2022-01-29.jpg) 
 
 2022-01-28 | [Bluespotted ribbontail ray near Perth, Australia (© Jeff Rotman/Minden Pictures)](./wallpaper/2022-01-28.jpg) 
@@ -58,6 +60,4 @@
 2022-01-01 | [Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](./wallpaper/2022-01-01.jpg) 
 
 2021-12-31 | [Westerheversand Lighthouse in Westerhever, Germany (© Sandra Bartocha/Minden Pictures)](./wallpaper/2021-12-31.jpg) 
-
-2021-12-30 | [Mountain goats in the Yukon, Canada (© Mark Newman/Getty Images)](./wallpaper/2021-12-30.jpg) 
 
