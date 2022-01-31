@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-01 | [Workers sorting incense in the Huyện Ứng Hòa district of Hanoi, Vietnam (© Azim Khan Ronnie/Amazing Aerial Agency)](./wallpaper/2022-02-01.jpg) 
+
 2022-01-31 | [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](./wallpaper/2022-01-31.jpg) 
 
 2022-01-30 | [Symmetrical brain coral on a reef in the Caribbean Sea near Grand Cayman, Cayman Islands (© Alex Mustard/Minden Pictures)](./wallpaper/2022-01-30.jpg) 
@@ -58,6 +60,4 @@
 2022-01-03 | [Skyline of Prague, Czech Republic (© benkrut/Getty Images)](./wallpaper/2022-01-03.jpg) 
 
 2022-01-02 | [Harp seal sleeping at Jones Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2022-01-02.jpg) 
-
-2022-01-01 | [Bonfire to celebrate New Year's Eve in 2014 in Reykjavik, Iceland (© Ragnar Th Sigurdsson/Alamy)](./wallpaper/2022-01-01.jpg) 
 
