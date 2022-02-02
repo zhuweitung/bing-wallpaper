@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-03 | [Alpine marmot in Hohe Tauern National Park, Austria (© Misja Smits/Minden Pictures)](./wallpaper/2022-02-03.jpg) 
+
 2022-02-02 | [The 369th Infantry returns to New York City, 1919 (© Science History Images/Alamy)](./wallpaper/2022-02-02.jpg) 
 
 2022-02-01 | [Workers sorting incense in the Huyện Ứng Hòa district of Hanoi, Vietnam (© Azim Khan Ronnie/Amazing Aerial Agency)](./wallpaper/2022-02-01.jpg) 
@@ -58,6 +60,4 @@
 2022-01-05 | [Borrego Badlands in Anza-Borrego Desert State Park, California (© Tom Hogan/plainpicture)](./wallpaper/2022-01-05.jpg) 
 
 2022-01-04 | [The Lick Observatory on Mount Hamilton, near San Jose, California (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2022-01-04.jpg) 
-
-2022-01-03 | [Skyline of Prague, Czech Republic (© benkrut/Getty Images)](./wallpaper/2022-01-03.jpg) 
 
