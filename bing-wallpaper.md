@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-07 | [Winter in Oymyakon, Russia (© Alexandr Berdicevschi/Getty Images)](./wallpaper/2022-02-07.jpg) 
+
 2022-02-06 | [Monarch butterflies in the Monarch Butterfly Biosphere Reserve, Angangueo, Mexico (© Sylvain Cordier/Minden Pictures)](./wallpaper/2022-02-06.jpg) 
 
 2022-02-05 | [Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)](./wallpaper/2022-02-05.jpg) 
@@ -58,6 +60,4 @@
 2022-01-09 | [American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](./wallpaper/2022-01-09.jpg) 
 
 2022-01-08 | [Nazaré Lighthouse atop Forte de São Miguel Arcanjo, Nazaré, Portugal (© Richard A Lock/Getty Images)](./wallpaper/2022-01-08.jpg) 
-
-2022-01-07 | [Kochelsee and Heimgarten Mountain in Bavaria, Germany (© Reinhard Schmid/eStock Photo)](./wallpaper/2022-01-07.jpg) 
 
