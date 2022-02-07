@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-08 | [Rideau Canal Skateway during Winterlude in Ottawa, Canada (© Preappy/Getty Images)](./wallpaper/2022-02-08.jpg) 
+
 2022-02-07 | [Winter in Oymyakon, Russia (© Alexandr Berdicevschi/Getty Images)](./wallpaper/2022-02-07.jpg) 
 
 2022-02-06 | [Monarch butterflies in the Monarch Butterfly Biosphere Reserve, Angangueo, Mexico (© Sylvain Cordier/Minden Pictures)](./wallpaper/2022-02-06.jpg) 
@@ -58,6 +60,4 @@
 2022-01-10 | [Rice laid out to dry in Dhamrai, Dhaka, Bangladesh (© Amazing Aerial Agency/Offset by Shutterstock)](./wallpaper/2022-01-10.jpg) 
 
 2022-01-09 | [American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](./wallpaper/2022-01-09.jpg) 
-
-2022-01-08 | [Nazaré Lighthouse atop Forte de São Miguel Arcanjo, Nazaré, Portugal (© Richard A Lock/Getty Images)](./wallpaper/2022-01-08.jpg) 
 
