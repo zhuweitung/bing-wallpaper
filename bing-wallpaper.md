@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-10 | [The Ceremony Hall of Icehotel in Jukkasjarvi, Sweden (© Wolfgang Kaehler/LightRocket via Getty Images)](./wallpaper/2022-02-10.jpg) 
+
 2022-02-09 | [Rock art near Santa Fe, New Mexico (© Scott Warren/Cavan)](./wallpaper/2022-02-09.jpg) 
 
 2022-02-08 | [Rideau Canal Skateway during Winterlude in Ottawa, Canada (© Preappy/Getty Images)](./wallpaper/2022-02-08.jpg) 
@@ -58,6 +60,4 @@
 2022-01-12 | [A porcupine hangs on a willow tree branch, Alaska (© Design Pics/Danita Delimont)](./wallpaper/2022-01-12.jpg) 
 
 2022-01-11 | [Ski touring in the High Tauern mountain range near Bad Gastein, Austria (© RooM the Agency/Alamy)](./wallpaper/2022-01-11.jpg) 
-
-2022-01-10 | [Rice laid out to dry in Dhamrai, Dhaka, Bangladesh (© Amazing Aerial Agency/Offset by Shutterstock)](./wallpaper/2022-01-10.jpg) 
 
