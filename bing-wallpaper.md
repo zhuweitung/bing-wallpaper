@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-12 | ['Go' by Kehinde Wiley, displayed inside Moynihan Train Hall at New York City's Penn Station (© Spencer Platt/Getty Images)](./wallpaper/2022-02-12.jpg) 
+
 2022-02-11 | [The Old City of Bern, Switzerland (© Xantana/Getty Images)](./wallpaper/2022-02-11.jpg) 
 
 2022-02-10 | [The Ceremony Hall of Icehotel in Jukkasjarvi, Sweden (© Wolfgang Kaehler/LightRocket via Getty Images)](./wallpaper/2022-02-10.jpg) 
@@ -58,6 +60,4 @@
 2022-01-14 | [Northern lights over a stranded boat in Tasiilaq, Greenland (© Shane P. White/Minden Pictures)](./wallpaper/2022-01-14.jpg) 
 
 2022-01-13 | [Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](./wallpaper/2022-01-13.jpg) 
-
-2022-01-12 | [A porcupine hangs on a willow tree branch, Alaska (© Design Pics/Danita Delimont)](./wallpaper/2022-01-12.jpg) 
 
