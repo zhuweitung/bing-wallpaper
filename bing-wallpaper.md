@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-15 | [Heart-shaped island with sandy beach, offshore coral reef, Indian Ocean, Maldives (© Willyam Bradberry/Shutterstock)](./wallpaper/2022-02-15.jpg) 
+
 2022-02-14 | [American bison in Yellowstone National Park, Wyoming (© Gerald Corsi/Getty Images)](./wallpaper/2022-02-14.jpg) 
 
 2022-02-13 | [Darwin's Arch with Darwin Island in background, Galápagos, Ecuador (© miralex/Getty Images)](./wallpaper/2022-02-13.jpg) 
@@ -58,6 +60,4 @@
 2022-01-17 | [Sorting chili peppers at a farm in Bogra, Bangladesh (© Amazing Aerial Agency/Offset/Shutterstock)](./wallpaper/2022-01-17.jpg) 
 
 2022-01-16 | [To Sua Ocean Trench on the south coast of Upolu Island in Samoa (© Chris McLennan/Alamy)](./wallpaper/2022-01-16.jpg) 
-
-2022-01-15 | [The road leading to Sa Calobra on the Spanish Balearic island of Majorca (© Tolo Balaguer/agefotostock)](./wallpaper/2022-01-15.jpg) 
 
