@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-17 | [Beech woodland in hoarfrost, Cranborne Chase, Dorset, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2022-02-17.jpg) 
+
 2022-02-16 | [Red lanterns hanging on trees during the Lantern Festival in Chengdu, Sichuan, China (© Philippe Lejeanvre/Getty Images)](./wallpaper/2022-02-16.jpg) 
 
 2022-02-15 | [Heart-shaped island with sandy beach, offshore coral reef, Indian Ocean, Maldives (© Willyam Bradberry/Shutterstock)](./wallpaper/2022-02-15.jpg) 
@@ -58,6 +60,4 @@
 2022-01-19 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](./wallpaper/2022-01-19.jpg) 
 
 2022-01-18 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](./wallpaper/2022-01-18.jpg) 
-
-2022-01-17 | [Sorting chili peppers at a farm in Bogra, Bangladesh (© Amazing Aerial Agency/Offset/Shutterstock)](./wallpaper/2022-01-17.jpg) 
 
