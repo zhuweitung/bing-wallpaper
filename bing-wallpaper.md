@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-18 | [Flamenco dancers outside Palma de Majorca, Spain (© Torleif Svensson/Getty Images)](./wallpaper/2022-02-18.jpg) 
+
 2022-02-17 | [Beech woodland in hoarfrost, Cranborne Chase, Dorset, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2022-02-17.jpg) 
 
 2022-02-16 | [Red lanterns hanging on trees during the Lantern Festival in Chengdu, Sichuan, China (© Philippe Lejeanvre/Getty Images)](./wallpaper/2022-02-16.jpg) 
@@ -58,6 +60,4 @@
 2022-01-20 | [Saint Elias Mountains and Kaskawulsh Glacier in Kluane National Park and Reserve, Yukon, Canada (© Design Pics Inc/Alamy)](./wallpaper/2022-01-20.jpg) 
 
 2022-01-19 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](./wallpaper/2022-01-19.jpg) 
-
-2022-01-18 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](./wallpaper/2022-01-18.jpg) 
 
