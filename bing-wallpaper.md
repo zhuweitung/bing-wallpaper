@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-19 | [Great tits on a branch during winter in France (© Eric Ferry/Alamy)](./wallpaper/2022-02-19.jpg) 
+
 2022-02-18 | [Flamenco dancers outside Palma de Majorca, Spain (© Torleif Svensson/Getty Images)](./wallpaper/2022-02-18.jpg) 
 
 2022-02-17 | [Beech woodland in hoarfrost, Cranborne Chase, Dorset, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2022-02-17.jpg) 
@@ -58,6 +60,4 @@
 2022-01-21 | [Adélie penguin in Graham Passage, Antarctic Peninsula, Antarctica (© Nick Garbutt/Minden Pictures)](./wallpaper/2022-01-21.jpg) 
 
 2022-01-20 | [Saint Elias Mountains and Kaskawulsh Glacier in Kluane National Park and Reserve, Yukon, Canada (© Design Pics Inc/Alamy)](./wallpaper/2022-01-20.jpg) 
-
-2022-01-19 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](./wallpaper/2022-01-19.jpg) 
 
