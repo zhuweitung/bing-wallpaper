@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-20 | [Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](./wallpaper/2022-02-20.jpg) 
+
 2022-02-19 | [Great tits on a branch during winter in France (© Eric Ferry/Alamy)](./wallpaper/2022-02-19.jpg) 
 
 2022-02-18 | [Flamenco dancers outside Palma de Majorca, Spain (© Torleif Svensson/Getty Images)](./wallpaper/2022-02-18.jpg) 
@@ -58,6 +60,4 @@
 2022-01-22 | [A lion cub and mother in Sabi Sabi Game Reserve, South Africa (© Andrew Coleman/Getty Images)](./wallpaper/2022-01-22.jpg) 
 
 2022-01-21 | [Adélie penguin in Graham Passage, Antarctic Peninsula, Antarctica (© Nick Garbutt/Minden Pictures)](./wallpaper/2022-01-21.jpg) 
-
-2022-01-20 | [Saint Elias Mountains and Kaskawulsh Glacier in Kluane National Park and Reserve, Yukon, Canada (© Design Pics Inc/Alamy)](./wallpaper/2022-01-20.jpg) 
 
