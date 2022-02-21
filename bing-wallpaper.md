@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-22 | [The Washington Monument seen from the Lincoln Memorial in Washington, DC (© lucky-photographer/Getty Images)](./wallpaper/2022-02-22.jpg) 
+
 2022-02-21 | [Humpback whales and dolphins, Hawaii (© drewsulockcreations/Getty Images)](./wallpaper/2022-02-21.jpg) 
 
 2022-02-20 | [Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](./wallpaper/2022-02-20.jpg) 
@@ -58,6 +60,4 @@
 2022-01-24 | [Meoto Iwa (Wedded Rocks) off the coast of Futami, Mie Prefecture, Honshu, Japan (© Marco Gaiotti/plainpicture)](./wallpaper/2022-01-24.jpg) 
 
 2022-01-23 | [Martinique, Lesser Antilles, Caribbean Sea (© Airpano LLC/Amazing Aerial Agency)](./wallpaper/2022-01-23.jpg) 
-
-2022-01-22 | [A lion cub and mother in Sabi Sabi Game Reserve, South Africa (© Andrew Coleman/Getty Images)](./wallpaper/2022-01-22.jpg) 
 
