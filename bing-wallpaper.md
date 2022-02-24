@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-25 | [Flowing river inside a glacier cave, Vatnajökull, Iceland (© Marco Bottigelli/Getty Images)](./wallpaper/2022-02-25.jpg) 
+
 2022-02-24 | [The cypress tunnel at Point Reyes National Seashore in California (© Spondylolithesis/Getty Images)](./wallpaper/2022-02-24.jpg) 
 
 2022-02-23 | [Two Bactrian camels in Kazakhstan for Twosday (© Nurlan Kulcha/Alamy)](./wallpaper/2022-02-23.jpg) 
@@ -58,6 +60,4 @@
 2022-01-27 | [Mehrangarh Fort in Jodhpur, Rajasthan, India (© Jayakumar/Shutterstock)](./wallpaper/2022-01-27.jpg) 
 
 2022-01-26 | [Tŵr Mawr lighthouse on Llanddwyn Island, Anglesey, Wales (© Joe Daniel Price/Getty Images)](./wallpaper/2022-01-26.jpg) 
-
-2022-01-25 | [Lower Manhattan in New York City (© New York On Air/Offset/Shutterstock)](./wallpaper/2022-01-25.jpg) 
 
