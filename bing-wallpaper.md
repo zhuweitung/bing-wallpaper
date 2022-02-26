@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-02-27 | [Lamplugh Glacier in Glacier Bay National Park, Alaska (© Andrew Peacock/Getty Images)](./wallpaper/2022-02-27.jpg) 
+
 2022-02-26 | ['Legacy' mural painted by Josh Sarantitis and Eric Okdeh within the Mural Arts Program in Philadelphia, Pennsylvania (© Vespasian/Alamy)](./wallpaper/2022-02-26.jpg) 
 
 2022-02-25 | [Flowing river inside a glacier cave, Vatnajökull, Iceland (© Marco Bottigelli/Getty Images)](./wallpaper/2022-02-25.jpg) 
@@ -58,6 +60,4 @@
 2022-01-29 | [Short-eared owl hunting at dusk in Worlaby Carrs, Lincolnshire, England (© Ben Hall/Minden Pictures)](./wallpaper/2022-01-29.jpg) 
 
 2022-01-28 | [Bluespotted ribbontail ray near Perth, Australia (© Jeff Rotman/Minden Pictures)](./wallpaper/2022-01-28.jpg) 
-
-2022-01-27 | [Mehrangarh Fort in Jodhpur, Rajasthan, India (© Jayakumar/Shutterstock)](./wallpaper/2022-01-27.jpg) 
 
