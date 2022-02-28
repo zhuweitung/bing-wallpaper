@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-01 | [Hoarfrost and snow in the Cotswolds, England (© Peter Adams/Getty Images)](./wallpaper/2022-03-01.jpg) 
+
 2022-02-28 | [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](./wallpaper/2022-02-28.jpg) 
 
 2022-02-27 | [Lamplugh Glacier in Glacier Bay National Park, Alaska (© Andrew Peacock/Getty Images)](./wallpaper/2022-02-27.jpg) 
@@ -58,6 +60,4 @@
 2022-01-31 | [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](./wallpaper/2022-01-31.jpg) 
 
 2022-01-30 | [Symmetrical brain coral on a reef in the Caribbean Sea near Grand Cayman, Cayman Islands (© Alex Mustard/Minden Pictures)](./wallpaper/2022-01-30.jpg) 
-
-2022-01-29 | [Short-eared owl hunting at dusk in Worlaby Carrs, Lincolnshire, England (© Ben Hall/Minden Pictures)](./wallpaper/2022-01-29.jpg) 
 
