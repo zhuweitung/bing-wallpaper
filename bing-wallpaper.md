@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-02 | [US Army Nurse Corps personnel, 1944 (© Bettmann/Getty Images)](./wallpaper/2022-03-02.jpg) 
+
 2022-03-01 | [Hoarfrost and snow in the Cotswolds, England (© Peter Adams/Getty Images)](./wallpaper/2022-03-01.jpg) 
 
 2022-02-28 | [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](./wallpaper/2022-02-28.jpg) 
@@ -58,6 +60,4 @@
 2022-02-01 | [Workers sorting incense in the Huyện Ứng Hòa district of Hanoi, Vietnam (© Azim Khan Ronnie/Amazing Aerial Agency)](./wallpaper/2022-02-01.jpg) 
 
 2022-01-31 | [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](./wallpaper/2022-01-31.jpg) 
-
-2022-01-30 | [Symmetrical brain coral on a reef in the Caribbean Sea near Grand Cayman, Cayman Islands (© Alex Mustard/Minden Pictures)](./wallpaper/2022-01-30.jpg) 
 
