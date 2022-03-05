@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-06 | [The island of Mont-Saint-Michel in Normandy, France (© DaLiu/Getty Images)](./wallpaper/2022-03-06.jpg) 
+
 2022-03-05 | [The National Aquatics Center in Beijing, China (© Han Haidan/China News Service via Getty Images)](./wallpaper/2022-03-05.jpg) 
 
 2022-03-04 | [Greater one-horned rhinoceroses in Kaziranga National Park, Assam, India (© Robert Harding World Imagery/Shutterstock)](./wallpaper/2022-03-04.jpg) 
@@ -58,6 +60,4 @@
 2022-02-05 | [Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)](./wallpaper/2022-02-05.jpg) 
 
 2022-02-04 | [Corjuem Fort in Goa, India (© Ingvar Kuznetsov/Shutterstock)](./wallpaper/2022-02-04.jpg) 
-
-2022-02-03 | [Alpine marmot in Hohe Tauern National Park, Austria (© Misja Smits/Minden Pictures)](./wallpaper/2022-02-03.jpg) 
 
