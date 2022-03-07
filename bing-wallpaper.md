@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-08 | [Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](./wallpaper/2022-03-08.jpg) 
+
 2022-03-07 | [Great cormorants gliding through a snowstorm in Hesse, Germany (© Wilfried Martin/Getty Images)](./wallpaper/2022-03-07.jpg) 
 
 2022-03-06 | [The island of Mont-Saint-Michel in Normandy, France (© DaLiu/Getty Images)](./wallpaper/2022-03-06.jpg) 
@@ -58,6 +60,4 @@
 2022-02-07 | [Winter in Oymyakon, Russia (© Alexandr Berdicevschi/Getty Images)](./wallpaper/2022-02-07.jpg) 
 
 2022-02-06 | [Monarch butterflies in the Monarch Butterfly Biosphere Reserve, Angangueo, Mexico (© Sylvain Cordier/Minden Pictures)](./wallpaper/2022-02-06.jpg) 
-
-2022-02-05 | [Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)](./wallpaper/2022-02-05.jpg) 
 
