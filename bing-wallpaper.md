@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-09 | [The 'Fearless Girl' statue outside the New York Stock Exchange in New York City (© Brendan McDermid/Alamy)](./wallpaper/2022-03-09.jpg) 
+
 2022-03-08 | [Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](./wallpaper/2022-03-08.jpg) 
 
 2022-03-07 | [Great cormorants gliding through a snowstorm in Hesse, Germany (© Wilfried Martin/Getty Images)](./wallpaper/2022-03-07.jpg) 
@@ -58,6 +60,4 @@
 2022-02-08 | [Rideau Canal Skateway during Winterlude in Ottawa, Canada (© Preappy/Getty Images)](./wallpaper/2022-02-08.jpg) 
 
 2022-02-07 | [Winter in Oymyakon, Russia (© Alexandr Berdicevschi/Getty Images)](./wallpaper/2022-02-07.jpg) 
-
-2022-02-06 | [Monarch butterflies in the Monarch Butterfly Biosphere Reserve, Angangueo, Mexico (© Sylvain Cordier/Minden Pictures)](./wallpaper/2022-02-06.jpg) 
 
