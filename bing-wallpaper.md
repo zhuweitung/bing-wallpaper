@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-13 | [Girl Scouts camping on the shore of Todd Lake in 1960, Deschutes National Forest, Oregon (© CORBIS/Corbis via Getty Images)](./wallpaper/2022-03-13.jpg) 
+
 2022-03-12 | [Field of sunflowers, Ukraine's national flower (© Oleksandrum/Shutterstock)](./wallpaper/2022-03-12.jpg) 
 
 2022-03-11 | [The Ponte Vecchio, a bridge near Bobbio, Italy (© afinocchiaro/Getty Images)](./wallpaper/2022-03-11.jpg) 
@@ -58,6 +60,4 @@
 2022-02-12 | ['Go' by Kehinde Wiley, displayed inside Moynihan Train Hall at New York City's Penn Station (© Spencer Platt/Getty Images)](./wallpaper/2022-02-12.jpg) 
 
 2022-02-11 | [The Old City of Bern, Switzerland (© Xantana/Getty Images)](./wallpaper/2022-02-11.jpg) 
-
-2022-02-10 | [The Ceremony Hall of Icehotel in Jukkasjarvi, Sweden (© Wolfgang Kaehler/LightRocket via Getty Images)](./wallpaper/2022-02-10.jpg) 
 
