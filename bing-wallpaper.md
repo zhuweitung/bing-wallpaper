@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-19 | [Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](./wallpaper/2022-03-19.jpg) 
+
 2022-03-18 | [Coastal redwoods and wood sorrel, Prairie Creek Redwoods State Park, California (© Jack Dykinga/Minden Pictures)](./wallpaper/2022-03-18.jpg) 
 
 2022-03-17 | [Giant panda in Wolong National Nature Reserve, Sichuan, China (© Katherine Feng/Minden Pictures)](./wallpaper/2022-03-17.jpg) 
@@ -58,6 +60,4 @@
 2022-02-18 | [Flamenco dancers outside Palma de Majorca, Spain (© Torleif Svensson/Getty Images)](./wallpaper/2022-02-18.jpg) 
 
 2022-02-17 | [Beech woodland in hoarfrost, Cranborne Chase, Dorset, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2022-02-17.jpg) 
-
-2022-02-16 | [Red lanterns hanging on trees during the Lantern Festival in Chengdu, Sichuan, China (© Philippe Lejeanvre/Getty Images)](./wallpaper/2022-02-16.jpg) 
 
