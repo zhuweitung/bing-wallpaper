@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-21 | [Javan tree frog, Indonesia (© kuritafsheen/Getty Images)](./wallpaper/2022-03-21.jpg) 
+
 2022-03-20 | [Chicagohenge sunset, Chicago, Illinois (© Razvan Sera/Amazing Aerial Agency)](./wallpaper/2022-03-20.jpg) 
 
 2022-03-19 | [Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](./wallpaper/2022-03-19.jpg) 
@@ -58,6 +60,4 @@
 2022-02-20 | [Mount Logan in Kluane National Park and Reserve, Yukon, Canada (© plainpicture/Design Pics/Robert Postma)](./wallpaper/2022-02-20.jpg) 
 
 2022-02-19 | [Great tits on a branch during winter in France (© Eric Ferry/Alamy)](./wallpaper/2022-02-19.jpg) 
-
-2022-02-18 | [Flamenco dancers outside Palma de Majorca, Spain (© Torleif Svensson/Getty Images)](./wallpaper/2022-02-18.jpg) 
 
