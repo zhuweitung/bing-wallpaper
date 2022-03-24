@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-25 | [Red squirrel in a nest of lichen and pine needles, Scottish Highlands (© Neil Anderson/Minden Pictures)](./wallpaper/2022-03-25.jpg) 
+
 2022-03-24 | [Grand Canyon National Park during a thunderstorm, Arizona (© spkeelin/Getty Images)](./wallpaper/2022-03-24.jpg) 
 
 2022-03-23 | [Waterfalls in Thousand Springs State Park, Hagerman Valley, Idaho (© knowlesgallery/Getty Images)](./wallpaper/2022-03-23.jpg) 
@@ -58,6 +60,4 @@
 2022-02-24 | [The cypress tunnel at Point Reyes National Seashore in California (© Spondylolithesis/Getty Images)](./wallpaper/2022-02-24.jpg) 
 
 2022-02-23 | [Two Bactrian camels in Kazakhstan for Twosday (© Nurlan Kulcha/Alamy)](./wallpaper/2022-02-23.jpg) 
-
-2022-02-22 | [The Washington Monument seen from the Lincoln Memorial in Washington, DC (© lucky-photographer/Getty Images)](./wallpaper/2022-02-22.jpg) 
 
