@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-28 | [Ancient theater of Taormina in Sicily, Italy (© Antonino Bartuccio/eStock Photo)](./wallpaper/2022-03-28.jpg) 
+
 2022-03-27 | [Great tit and yellow crocuses (© Nataba/Getty Images)](./wallpaper/2022-03-27.jpg) 
 
 2022-03-26 | [Lauterbrunnen Valley in the Swiss Alps (© Leonid Andronov/Getty Images)](./wallpaper/2022-03-26.jpg) 
@@ -58,6 +60,4 @@
 2022-02-27 | [Lamplugh Glacier in Glacier Bay National Park, Alaska (© Andrew Peacock/Getty Images)](./wallpaper/2022-02-27.jpg) 
 
 2022-02-26 | ['Legacy' mural painted by Josh Sarantitis and Eric Okdeh within the Mural Arts Program in Philadelphia, Pennsylvania (© Vespasian/Alamy)](./wallpaper/2022-02-26.jpg) 
-
-2022-02-25 | [Flowing river inside a glacier cave, Vatnajökull, Iceland (© Marco Bottigelli/Getty Images)](./wallpaper/2022-02-25.jpg) 
 
