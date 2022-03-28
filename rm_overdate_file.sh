@@ -10,7 +10,7 @@ for hash in $(git verify-pack -v .git/objects/pack/*.idx | grep blob | sort -k 3
     fi
 done
 
-git push origin master --force
+git push origin main --force
 git for-each-ref --format='delete %(refname)' refs/original | git update-ref --stdin
 git reflog expire --expire=now --all
 git gc --prune=now
