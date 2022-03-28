@@ -15,8 +15,8 @@ jobs:
     
     - name: test
       run: |
-        echo $(git rev-list --objects --all | grep efa24a5be7232f696d7ed3a8eaea8336c747a51e | awk '{print$2}')
-        export filename=$(git rev-list --objects --all | grep efa24a5be7232f696d7ed3a8eaea8336c747a51e | awk '{print$2}' | grep '^wallpaper.*jpg$')
+        echo $(git rev-list --objects --all | grep 25cea959e02961e9b82e0a57a717c1d01a1495b2 | awk '{print$2}')
+        export filename=$(git rev-list --objects --all | grep 25cea959e02961e9b82e0a57a717c1d01a1495b2 | awk '{print$2}' | grep '^wallpaper.*jpg$')
         echo $filename
         echo $(git log --pretty=oneline --branches -- ${filename} | wc -l)
     
