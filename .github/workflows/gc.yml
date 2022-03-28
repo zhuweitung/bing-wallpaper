@@ -13,13 +13,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
-    - name: test
-      run: |
-        echo $(git rev-list --objects --all | grep 25cea959e02961e9b82e0a57a717c1d01a1495b2 | awk '{print$2}')
-        export filename=$(git rev-list --objects --all | grep 25cea959e02961e9b82e0a57a717c1d01a1495b2 | awk '{print$2}' | grep '^wallpaper.*jpg$')
-        echo $filename
-        echo $(git log --pretty=oneline --branches -- ${filename} | wc -l)
-    
     - name: run gc
       run: bash rm_overdate_file.sh
       
