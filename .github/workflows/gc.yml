@@ -15,9 +15,8 @@ jobs:
     
     - name: test
       run: |
-        export hashs=$(git verify-pack -v .git/objects/pack/*.idx | grep blob | sort -k 3 -n -r | awk '{print$1}')
-        echo $hashs
-        export filename=$(git rev-list --objects --all | grep $hashs[0] | awk '{print$2}' | grep '^wallpaper.*jpg$')
+        echo $(git rev-list --objects --all | grep efa24a5be7232f696d7ed3a8eaea8336c747a51e | awk '{print$2}')
+        export filename=$(git rev-list --objects --all | grep efa24a5be7232f696d7ed3a8eaea8336c747a51e | awk '{print$2}' | grep '^wallpaper.*jpg$')
         echo $filename
         echo $(git log --pretty=oneline --branches -- ${filename} | wc -l)
     
