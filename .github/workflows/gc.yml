@@ -1,0 +1,17 @@
+name: gc
+
+on:
+  schedule:
+    - cron:  '30 10 * * *'
+  workflow_dispatch: # on button click
+  
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: run gc
+      run: bash rm_overdate_file.sh
