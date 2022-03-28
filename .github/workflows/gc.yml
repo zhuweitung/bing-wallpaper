@@ -15,3 +15,9 @@ jobs:
     
     - name: run gc
       run: bash rm_overdate_file.sh
+      
+    - name: Git auto commit
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Remove overdate images
+        push_options: '--force'
