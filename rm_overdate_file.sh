@@ -1,7 +1,6 @@
 #!/bin/bash
 
 for hash in $(git verify-pack -v .git/objects/pack/*.idx | grep blob | sort -k 3 -n -r | awk '{print$1}'); do
-    echo -e "get file by hash: ${hash}"
     filename=$(git rev-list --objects --all | grep ${hash} | awk '{print$2}' | grep '^wallpaper.*jpg$')
     if [[ "$filename" != "" ]]; then
         if [[ $(git log --pretty=oneline --branches -- ${filename} | wc -l) -eq 2 ]]; then
@@ -10,7 +9,5 @@ for hash in $(git verify-pack -v .git/objects/pack/*.idx | grep blob | sort -k 3
         else
             echo -e "file is not overdate: ${filename}"
         fi
-    else
-        echo -e "file's type is incompatible: ${filename}"
     fi
 done
