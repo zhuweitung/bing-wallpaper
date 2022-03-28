@@ -6,12 +6,16 @@ on:
   workflow_dispatch: # on button click
   
 jobs:
-  build:
+  start:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
+    
+    - name: test
+      run: |
+        echo $(git verify-pack -v .git/objects/pack/*.idx | grep blob | sort -k 3 -n -r | awk '{print$1}')
     
     - name: run gc
       run: bash rm_overdate_file.sh
