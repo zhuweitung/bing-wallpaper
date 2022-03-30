@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-03-31 | [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](./wallpaper/2022-03-31.jpg) 
+
 2022-03-30 | [Caribbean coast near Parque Nacional Natural Tayrona, Colombia (© Nicholas Hills/Getty Images)](./wallpaper/2022-03-30.jpg) 
 
 2022-03-29 | [Wisteria blooms at Kawachi Fuji Garden in Kitakyushu, Japan (© Steve Tan C K Photography/Getty Images)](./wallpaper/2022-03-29.jpg) 
@@ -58,6 +60,4 @@
 2022-03-02 | [US Army Nurse Corps personnel, 1944 (© Bettmann/Getty Images)](./wallpaper/2022-03-02.jpg) 
 
 2022-03-01 | [Hoarfrost and snow in the Cotswolds, England (© Peter Adams/Getty Images)](./wallpaper/2022-03-01.jpg) 
-
-2022-02-28 | [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](./wallpaper/2022-02-28.jpg) 
 
