@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](./wallpaper/2022-04-02.jpg) 
+
 2022-04-01 | [Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](./wallpaper/2022-04-01.jpg) 
 
 2022-03-31 | [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](./wallpaper/2022-03-31.jpg) 
@@ -58,6 +60,4 @@
 2022-03-04 | [Greater one-horned rhinoceroses in Kaziranga National Park, Assam, India (© Robert Harding World Imagery/Shutterstock)](./wallpaper/2022-03-04.jpg) 
 
 2022-03-03 | [Moonlight and the Milky Way over Mount Rainier in Mount Rainier National Park, Washington (© Brad Goldpaint/Cavan)](./wallpaper/2022-03-03.jpg) 
-
-2022-03-02 | [US Army Nurse Corps personnel, 1944 (© Bettmann/Getty Images)](./wallpaper/2022-03-02.jpg) 
 
