@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-04 | [Cherry blossoms at Lake Tai at Wuxi, China (© Eric Yang/Getty Images)](./wallpaper/2022-04-04.jpg) 
+
 2022-04-03 | [Whangārei Falls near the city of Whangārei, North Island, New Zealand (© Nathan Kavumbura/Getty Images)](./wallpaper/2022-04-03.jpg) 
 
 2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](./wallpaper/2022-04-02.jpg) 
@@ -58,6 +60,4 @@
 2022-03-06 | [The island of Mont-Saint-Michel in Normandy, France (© DaLiu/Getty Images)](./wallpaper/2022-03-06.jpg) 
 
 2022-03-05 | [The National Aquatics Center in Beijing, China (© Han Haidan/China News Service via Getty Images)](./wallpaper/2022-03-05.jpg) 
-
-2022-03-04 | [Greater one-horned rhinoceroses in Kaziranga National Park, Assam, India (© Robert Harding World Imagery/Shutterstock)](./wallpaper/2022-03-04.jpg) 
 
