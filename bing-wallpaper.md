@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-06 | [Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](./wallpaper/2022-04-06.jpg) 
+
 2022-04-05 | [The Kjeragbolten boulder on the mountain Kjerag in Rogaland county, Norway (© Angel FAyE/Getty Images)](./wallpaper/2022-04-05.jpg) 
 
 2022-04-04 | [Cherry blossoms at Lake Tai at Wuxi, China (© Eric Yang/Getty Images)](./wallpaper/2022-04-04.jpg) 
@@ -58,6 +60,4 @@
 2022-03-08 | [Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](./wallpaper/2022-03-08.jpg) 
 
 2022-03-07 | [Great cormorants gliding through a snowstorm in Hesse, Germany (© Wilfried Martin/Getty Images)](./wallpaper/2022-03-07.jpg) 
-
-2022-03-06 | [The island of Mont-Saint-Michel in Normandy, France (© DaLiu/Getty Images)](./wallpaper/2022-03-06.jpg) 
 
