@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-08 | [Old town of Málaga, Spain (© Sean Pavone Photo/Getty Images)](./wallpaper/2022-04-08.jpg) 
+
 2022-04-07 | [Crested caracara birds courting in Texas (© Alan Murphy/Minden Pictures)](./wallpaper/2022-04-07.jpg) 
 
 2022-04-06 | [Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](./wallpaper/2022-04-06.jpg) 
@@ -58,6 +60,4 @@
 2022-03-10 | [The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany (© Patrick Pleul/picture alliance via Getty Images)](./wallpaper/2022-03-10.jpg) 
 
 2022-03-09 | [The 'Fearless Girl' statue outside the New York Stock Exchange in New York City (© Brendan McDermid/Alamy)](./wallpaper/2022-03-09.jpg) 
-
-2022-03-08 | [Lake Tekapo with Aoraki/Mount Cook National Park in the background on New Zealand's South Island (© Sophie Dover/Getty Images)](./wallpaper/2022-03-08.jpg) 
 
