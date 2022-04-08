@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-09 | [Coast near Ponta Delgada, Madeira, Portugal (© Jan Wlodarczyk/Alamy)](./wallpaper/2022-04-09.jpg) 
+
 2022-04-08 | [Old town of Málaga, Spain (© Sean Pavone Photo/Getty Images)](./wallpaper/2022-04-08.jpg) 
 
 2022-04-07 | [Crested caracara birds courting in Texas (© Alan Murphy/Minden Pictures)](./wallpaper/2022-04-07.jpg) 
@@ -58,6 +60,4 @@
 2022-03-11 | [The Ponte Vecchio, a bridge near Bobbio, Italy (© afinocchiaro/Getty Images)](./wallpaper/2022-03-11.jpg) 
 
 2022-03-10 | [The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany (© Patrick Pleul/picture alliance via Getty Images)](./wallpaper/2022-03-10.jpg) 
-
-2022-03-09 | [The 'Fearless Girl' statue outside the New York Stock Exchange in New York City (© Brendan McDermid/Alamy)](./wallpaper/2022-03-09.jpg) 
 
