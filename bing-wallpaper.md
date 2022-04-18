@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-19 | [Square Tower House in Mesa Verde National Park, Colorado (© lightphoto/Getty Images)](./wallpaper/2022-04-19.jpg) 
+
 2022-04-18 | [The blue eggs of an American robin in New Jersey (© Mira/Alamy)](./wallpaper/2022-04-18.jpg) 
 
 2022-04-17 | [Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2022-04-17.jpg) 
@@ -58,6 +60,4 @@
 2022-03-21 | [Javan tree frog, Indonesia (© kuritafsheen/Getty Images)](./wallpaper/2022-03-21.jpg) 
 
 2022-03-20 | [Chicagohenge sunset, Chicago, Illinois (© Razvan Sera/Amazing Aerial Agency)](./wallpaper/2022-03-20.jpg) 
-
-2022-03-19 | [Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](./wallpaper/2022-03-19.jpg) 
 
