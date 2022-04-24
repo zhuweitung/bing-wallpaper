@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-25 | [Milky Way rising above Half Dome in Yosemite National Park, California (© Cory Marshall/Tandem Stills + Motion)](./wallpaper/2022-04-25.jpg) 
+
 2022-04-24 | [Tianjin Binhai New Area Library in Tianjin, China (© Imaginechina Limited/Alamy)](./wallpaper/2022-04-24.jpg) 
 
 2022-04-23 | [Small lake in Karula National Park, Valgamaa County, Estonia (© Sven Zacek/Minden Pictures)](./wallpaper/2022-04-23.jpg) 
@@ -58,6 +60,4 @@
 2022-03-27 | [Great tit and yellow crocuses (© Nataba/Getty Images)](./wallpaper/2022-03-27.jpg) 
 
 2022-03-26 | [Lauterbrunnen Valley in the Swiss Alps (© Leonid Andronov/Getty Images)](./wallpaper/2022-03-26.jpg) 
-
-2022-03-25 | [Red squirrel in a nest of lichen and pine needles, Scottish Highlands (© Neil Anderson/Minden Pictures)](./wallpaper/2022-03-25.jpg) 
 
