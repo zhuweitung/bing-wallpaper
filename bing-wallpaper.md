@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-01 | [The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco (© Kosso/Getty Images)](./wallpaper/2022-05-01.jpg) 
+
 2022-04-30 | [A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](./wallpaper/2022-04-30.jpg) 
 
 2022-04-29 | [Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock)](./wallpaper/2022-04-29.jpg) 
@@ -58,6 +60,4 @@
 2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](./wallpaper/2022-04-02.jpg) 
 
 2022-04-01 | [Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](./wallpaper/2022-04-01.jpg) 
-
-2022-03-31 | [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](./wallpaper/2022-03-31.jpg) 
 
