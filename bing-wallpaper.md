@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-03 | [Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](./wallpaper/2022-05-03.jpg) 
+
 2022-05-02 | [Dancers on the site of a lele (altar) on Mount Maunaloa, Molokai, Hawaii (© Alvis Upitis/Getty Images)](./wallpaper/2022-05-02.jpg) 
 
 2022-05-01 | [The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco (© Kosso/Getty Images)](./wallpaper/2022-05-01.jpg) 
@@ -58,6 +60,4 @@
 2022-04-04 | [Cherry blossoms at Lake Tai at Wuxi, China (© Eric Yang/Getty Images)](./wallpaper/2022-04-04.jpg) 
 
 2022-04-03 | [Whangārei Falls near the city of Whangārei, North Island, New Zealand (© Nathan Kavumbura/Getty Images)](./wallpaper/2022-04-03.jpg) 
-
-2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](./wallpaper/2022-04-02.jpg) 
 
