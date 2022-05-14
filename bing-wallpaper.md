@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-15 | [Windmills, Kinderdijk, Netherlands (© Achim Thomae/Getty Images)](./wallpaper/2022-05-15.jpg) 
+
 2022-05-14 | [Masai giraffe in Maasai Mara, Kenya (© Andy Rouse/Minden Pictures)](./wallpaper/2022-05-14.jpg) 
 
 2022-05-13 | [Nurses serving with the American Red Cross in Paris, France, in May 1919 (© Universal History Archive/Universal Images Group via Getty Images)](./wallpaper/2022-05-13.jpg) 
@@ -58,6 +60,4 @@
 2022-04-16 | ['L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France (© Bruno de HOGUES/Getty Images)](./wallpaper/2022-04-16.jpg) 
 
 2022-04-15 | [Horseshoe Bend, Arizona (© Michael Dunn/Getty Images)](./wallpaper/2022-04-15.jpg) 
-
-2022-04-14 | [Mitsumata (aka paperbush) in a forest in Japan (© nattya3714/Getty Images)](./wallpaper/2022-04-14.jpg) 
 
