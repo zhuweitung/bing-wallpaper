@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-17 | [Burrowing owl chicks gaze out from among flowers near the Pawnee National Grassland in Colorado (© Roberta Olenick/Alamy)](./wallpaper/2022-05-17.jpg) 
+
 2022-05-16 | [Panoramic view of the Bernina Range with blood moon, Eastern Alps, Engadin, Switzerland (© Bernd Zoller/Shutterstock)](./wallpaper/2022-05-16.jpg) 
 
 2022-05-15 | [Windmills, Kinderdijk, Netherlands (© Achim Thomae/Getty Images)](./wallpaper/2022-05-15.jpg) 
@@ -58,6 +60,4 @@
 2022-04-18 | [The blue eggs of an American robin in New Jersey (© Mira/Alamy)](./wallpaper/2022-04-18.jpg) 
 
 2022-04-17 | [Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2022-04-17.jpg) 
-
-2022-04-16 | ['L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France (© Bruno de HOGUES/Getty Images)](./wallpaper/2022-04-16.jpg) 
 
