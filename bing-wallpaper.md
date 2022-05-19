@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-20 | [Glass bridge of Zhangjiajie, Hunan, China (© MediaProduction/Getty Images)](./wallpaper/2022-05-20.jpg) 
+
 2022-05-19 | [Museum at Prairiefire, Overland Park, Kansas (© Bernard P. Friel/Universal Images Group via Getty Images)](./wallpaper/2022-05-19.jpg) 
 
 2022-05-18 | [Salt ponds of Maras in Peru's Sacred Valley of the Incas (© Fotofeeling/Westend61 on Offset/Shutterstock)](./wallpaper/2022-05-18.jpg) 
@@ -58,6 +60,4 @@
 2022-04-21 | [Mute swan chicks shelter under mom's tail feathers, Massapequa Preserve, Long Island, New York (© Vicki Jauron/Getty Images)](./wallpaper/2022-04-21.jpg) 
 
 2022-04-20 | [Plitvice Lakes National Park, Croatia (© Janne Kahila/Getty Images)](./wallpaper/2022-04-20.jpg) 
-
-2022-04-19 | [Square Tower House in Mesa Verde National Park, Colorado (© lightphoto/Getty Images)](./wallpaper/2022-04-19.jpg) 
 
