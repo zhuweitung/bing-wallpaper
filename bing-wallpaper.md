@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-27 | [Hanging bridge in the Monteverde Cloud Forest Reserve, Costa Rica (© Dmitriy Burlakov/Getty Images)](./wallpaper/2022-05-27.jpg) 
+
 2022-05-26 | [Alhambra in Granada, Andalusia, Spain (© Armand Tamboly/Getty Images)](./wallpaper/2022-05-26.jpg) 
 
 2022-05-25 | [Kornati National Park, Croatia (© Anton Petrus/Getty Images)](./wallpaper/2022-05-25.jpg) 
@@ -58,6 +60,4 @@
 2022-04-28 | [Midnight sun in Svalbard, Norway (© Nature Picture Library/Alamy)](./wallpaper/2022-04-28.jpg) 
 
 2022-04-27 | [Central Park, New York City (© Tony Shi Photography/Getty Images)](./wallpaper/2022-04-27.jpg) 
-
-2022-04-26 | [Three king penguins on the shore of St. Andrew's Bay, South Georgia Island (© Paul Souders/Getty Images)](./wallpaper/2022-04-26.jpg) 
 
