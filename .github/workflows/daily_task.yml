@@ -33,7 +33,9 @@ jobs:
       run: mvn -B package --file pom.xml
 
     - name: Run Java Application
-      run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
+      env:
+        tinifyApiKey: ${{ secrets.tinifyApiKey }}
+      run: java -jar target/bing-wallpaper-jar-with-dependencies.jar ${tinifyApiKey}
 
     - name: Git auto commit
       uses: stefanzweifel/git-auto-commit-action@v4
