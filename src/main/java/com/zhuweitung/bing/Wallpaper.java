@@ -16,6 +16,7 @@ import java.util.stream.Collectors;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import com.tinify.Tinify;
 import lombok.extern.log4j.Log4j2;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.time.DateUtils;
@@ -36,6 +37,12 @@ public class Wallpaper {
     private static final String BING_URL = "https://cn.bing.com";
 
     public static void main(String[] args) throws IOException, ParseException {
+
+        String tinifyApiKey = null;
+        if (args.length > 0) {
+            tinifyApiKey = args[0];
+        }
+
         String httpContent = HttpUtls.getHttpContent(BING_API);
         JSONObject jsonObject = JSON.parseObject(httpContent);
         JSONArray jsonArray = jsonObject.getJSONArray("images");
@@ -99,6 +106,21 @@ public class Wallpaper {
                 }
                 log.info("删除{}的本地图片", image.getDate());
                 imagesIterator.remove();
+            }
+        }
+
+        // 压缩新增图片
+        if (StringUtils.isNotBlank(tinifyApiKey) && imagesMap.get(enddate) != null) {
+            Tinify.setKey(tinifyApiKey);
+            Images image = imagesMap.get(enddate);
+            for (String imageFormat : imageFormats) {
+                try {
+                    long compressStartTime = System.currentTimeMillis();
+                    Tinify.fromFile(image.getAbsoluteUrl(imageFormat)).toFile(image.getAbsoluteUrl(imageFormat));
+                    log.info("压缩图片{}, 耗时: {}ms", image.getAbsoluteUrl(imageFormat), System.currentTimeMillis() - compressStartTime);
+                } catch (Exception e) {
+                    log.error("图片压缩失败，路径={}", image.getAbsoluteUrl(imageFormat), e.getMessage());
+                }
             }
         }
 

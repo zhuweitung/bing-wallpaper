@@ -58,6 +58,14 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.tinify/tinify -->
+        <dependency>
+            <groupId>com.tinify</groupId>
+            <artifactId>tinify</artifactId>
+            <version>1.6.4</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>
