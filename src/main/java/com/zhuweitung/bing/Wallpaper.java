@@ -42,6 +42,11 @@ public class Wallpaper {
         if (args.length > 0) {
             tinifyApiKey = args[0];
         }
+        boolean compress = false;
+        if (StringUtils.isNotBlank(tinifyApiKey)) {
+            Tinify.setKey(tinifyApiKey);
+            compress = true;
+        }
 
         String httpContent = HttpUtls.getHttpContent(BING_API);
         JSONObject jsonObject = JSON.parseObject(httpContent);
@@ -64,13 +69,13 @@ public class Wallpaper {
 
         // 保存图片到本地
         String localFileName = String.format(Images.IMAGE_FORMAT, enddate);
-        downloadImageFromUrl(url, localFileName);
+        downloadImageFromUrl(url, localFileName, compress);
         // 保存1080图片到本地
         String local1080FileName = String.format(Images.IMAGE_FORMAT_1080, enddate);
-        downloadImageFromUrl(url + Images.IMAGE_URL_PARAMS_1080, local1080FileName);
+        downloadImageFromUrl(url + Images.IMAGE_URL_PARAMS_1080, local1080FileName, compress);
         // 保存small图片到本地
         String localSmallFileName = String.format(Images.IMAGE_FORMAT_SMALL, enddate);
-        downloadImageFromUrl(url + Images.IMAGE_URL_PARAMS_SMALL, localSmallFileName);
+        downloadImageFromUrl(url + Images.IMAGE_URL_PARAMS_SMALL, localSmallFileName, compress);
 
         List<Images> imagesList = FileUtils.readBing();
         Map<String, Images> imagesMap = imagesList.stream().collect(Collectors.toMap(Images::getDate, image -> image));
@@ -109,21 +114,6 @@ public class Wallpaper {
             }
         }
 
-        // 压缩新增图片
-        if (StringUtils.isNotBlank(tinifyApiKey) && imagesMap.get(enddate) != null) {
-            Tinify.setKey(tinifyApiKey);
-            Images image = imagesMap.get(enddate);
-            for (String imageFormat : imageFormats) {
-                try {
-                    long compressStartTime = System.currentTimeMillis();
-                    Tinify.fromFile(image.getAbsoluteUrl(imageFormat)).toFile(image.getAbsoluteUrl(imageFormat));
-                    log.info("压缩图片{}, 耗时: {}ms", image.getAbsoluteUrl(imageFormat), System.currentTimeMillis() - compressStartTime);
-                } catch (Exception e) {
-                    log.error("图片压缩失败，路径={}", image.getAbsoluteUrl(imageFormat), e.getMessage());
-                }
-            }
-        }
-
         // 替换固定地址图片
         cld.setTime(today);
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
@@ -145,39 +135,52 @@ public class Wallpaper {
         FileUtils.writeBing(imagesList);
         FileUtils.writeReadme(imagesList);
 
+        System.exit(0);
     }
 
     /**
      * 下载远程图片
      * @param originalUrl 图片地址
      * @param fileName 保存图片文件名
+     * @param compress 是否压缩
      * @return java.awt.image.BufferedImage
      * @author zhuweitung
      * @date 2021/10/31
      */
-    public static boolean downloadImageFromUrl(String originalUrl, String fileName) {
+    public static boolean downloadImageFromUrl(String originalUrl, String fileName, boolean compress) {
         // 图片本地路径
         String localUrl = Images.WALLPAPER_SAVE_ROOT + File.separator + fileName;
 
         File file = new File(localUrl);
         // 判断是否已下载
         if (file.exists()) {
+            log.info("{} is already exist", localUrl);
             return true;
         }
         HttpURLConnection conn = null;
+        log.info("process on download {} to local...", originalUrl);
         try {
-            URL url = new URL(originalUrl);
-            conn = (HttpURLConnection) url.openConnection();
-            if (conn.getResponseCode() == 200) {
-                BufferedImage image = ImageIO.read(conn.getInputStream());
-                ImageIO.write(image, "jpg", file);
-                log.info("download {} as {}", originalUrl, localUrl);
+            if (compress) {
+                long compressStartTime = System.currentTimeMillis();
+                Tinify.fromUrl(originalUrl).toFile(localUrl);
+                log.info("download and compress {} as {}, cost {} ms", originalUrl, localUrl, System.currentTimeMillis() - compressStartTime);
                 return true;
+            } else {
+                URL url = new URL(originalUrl);
+                conn = (HttpURLConnection) url.openConnection();
+                if (conn.getResponseCode() == 200) {
+                    BufferedImage image = ImageIO.read(conn.getInputStream());
+                    ImageIO.write(image, "jpg", file);
+                    log.info("download {} as {}", originalUrl, localUrl);
+                    return true;
+                }
             }
         } catch (Exception e) {
             log.error("获取网络图片出错, url={}, ", originalUrl, e.getMessage());
         } finally {
-            conn.disconnect();
+            if (conn != null) {
+                conn.disconnect();
+            }
         }
         return false;
     }
