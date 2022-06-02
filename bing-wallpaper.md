@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-03 | [Buckingham Palace in London, England (© Pajor Pawel/Shutterstock)](./wallpaper/2022-06-03.jpg) 
+
 2022-06-01 | [Scarlet macaw in Costa Rica (© Harry Collins/Getty Images)](./wallpaper/2022-06-01.jpg) 
 
 2022-05-31 | [Rainbow Pool and the field of stars in the World War II Memorial with the Lincoln Memorial in the background, Washington, DC (© Sean Pavone/Getty Images)](./wallpaper/2022-05-31.jpg) 
@@ -56,8 +58,4 @@
 2022-05-05 | [Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images)](./wallpaper/2022-05-05.jpg) 
 
 2022-05-04 | [Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](./wallpaper/2022-05-04.jpg) 
-
-2022-05-03 | [Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](./wallpaper/2022-05-03.jpg) 
-
-2022-05-02 | [Dancers on the site of a lele (altar) on Mount Maunaloa, Molokai, Hawaii (© Alvis Upitis/Getty Images)](./wallpaper/2022-05-02.jpg) 
 
