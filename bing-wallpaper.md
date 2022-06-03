@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-04 | [Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](./wallpaper/2022-06-04.jpg) 
+
 2022-06-03 | [Buckingham Palace in London, England (© Pajor Pawel/Shutterstock)](./wallpaper/2022-06-03.jpg) 
 
 2022-06-01 | [Scarlet macaw in Costa Rica (© Harry Collins/Getty Images)](./wallpaper/2022-06-01.jpg) 
@@ -56,6 +58,4 @@
 2022-05-06 | [Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico (© Brian Overcast/Alamy)](./wallpaper/2022-05-06.jpg) 
 
 2022-05-05 | [Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images)](./wallpaper/2022-05-05.jpg) 
-
-2022-05-04 | [Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](./wallpaper/2022-05-04.jpg) 
 
