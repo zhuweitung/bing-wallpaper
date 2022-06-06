@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-07 | [An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](./wallpaper/2022-06-07.jpg) 
+
 2022-06-06 | [Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](./wallpaper/2022-06-06.jpg) 
 
 2022-06-05 | [Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](./wallpaper/2022-06-05.jpg) 
@@ -56,6 +58,4 @@
 2022-05-09 | [Koala mother and 8-month-old joey, Queensland, Australia (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2022-05-09.jpg) 
 
 2022-05-08 | [Swedish telescope at La Silla ESO Observatory, Chile (© Alberto Ghizzi Panizza/Getty Images)](./wallpaper/2022-05-08.jpg) 
-
-2022-05-07 | [A path winding through a forest carpeted with bluebells in Hertfordshire, England (© JayKay57/Getty Images)](./wallpaper/2022-05-07.jpg) 
 
