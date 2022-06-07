@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-08 | [Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](./wallpaper/2022-06-08.jpg) 
+
 2022-06-07 | [An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](./wallpaper/2022-06-07.jpg) 
 
 2022-06-06 | [Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](./wallpaper/2022-06-06.jpg) 
@@ -56,6 +58,4 @@
 2022-05-10 | [View of Göreme from an observation deck, Göreme National Park, Cappadocia, Turkey (© Anton Petrus/Getty Images)](./wallpaper/2022-05-10.jpg) 
 
 2022-05-09 | [Koala mother and 8-month-old joey, Queensland, Australia (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2022-05-09.jpg) 
-
-2022-05-08 | [Swedish telescope at La Silla ESO Observatory, Chile (© Alberto Ghizzi Panizza/Getty Images)](./wallpaper/2022-05-08.jpg) 
 
