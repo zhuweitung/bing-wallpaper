@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-12 | [Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](./wallpaper/2022-06-12.jpg) 
+
 2022-06-11 | [Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](./wallpaper/2022-06-11.jpg) 
 
 2022-06-10 | [Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](./wallpaper/2022-06-10.jpg) 
@@ -56,6 +58,4 @@
 2022-05-14 | [Masai giraffe in Maasai Mara, Kenya (© Andy Rouse/Minden Pictures)](./wallpaper/2022-05-14.jpg) 
 
 2022-05-13 | [Nurses serving with the American Red Cross in Paris, France, in May 1919 (© Universal History Archive/Universal Images Group via Getty Images)](./wallpaper/2022-05-13.jpg) 
-
-2022-05-12 | [The village of Oia on the island of Santorini, Greece (© Zebra-Studio/Shutterstock)](./wallpaper/2022-05-12.jpg) 
 
