@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-17 | [Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](./wallpaper/2022-06-17.jpg) 
+
 2022-06-16 | [Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images)](./wallpaper/2022-06-16.jpg) 
 
 2022-06-15 | [The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock)](./wallpaper/2022-06-15.jpg) 
@@ -56,6 +58,4 @@
 2022-05-19 | [Museum at Prairiefire, Overland Park, Kansas (© Bernard P. Friel/Universal Images Group via Getty Images)](./wallpaper/2022-05-19.jpg) 
 
 2022-05-18 | [Salt ponds of Maras in Peru's Sacred Valley of the Incas (© Fotofeeling/Westend61 on Offset/Shutterstock)](./wallpaper/2022-05-18.jpg) 
-
-2022-05-17 | [Burrowing owl chicks gaze out from among flowers near the Pawnee National Grassland in Colorado (© Roberta Olenick/Alamy)](./wallpaper/2022-05-17.jpg) 
 
