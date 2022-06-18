@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-19 | [Surfers catching waves at Palm Beach on the Gold Coast, Queensland, Australia (© Darren Tierney/Getty Images)](./wallpaper/2022-06-19.jpg) 
+
 2022-06-18 | [Balsamroot wildflowers bloom below the Teton Mountains in Grand Teton National Park, Wyoming (© Mike Cavaroc/Tandem Stills + Motion)](./wallpaper/2022-06-18.jpg) 
 
 2022-06-17 | [Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](./wallpaper/2022-06-17.jpg) 
@@ -56,6 +58,4 @@
 2022-05-21 | [Honey bee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)](./wallpaper/2022-05-21.jpg) 
 
 2022-05-20 | [Glass bridge of Zhangjiajie, Hunan, China (© MediaProduction/Getty Images)](./wallpaper/2022-05-20.jpg) 
-
-2022-05-19 | [Museum at Prairiefire, Overland Park, Kansas (© Bernard P. Friel/Universal Images Group via Getty Images)](./wallpaper/2022-05-19.jpg) 
 
