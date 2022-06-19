@@ -10,11 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Remote SSH Pusblish
-        uses: nerd4ever/ssh-action@0.1.0
+      - name: Execute bash script
+        uses: appleboy/ssh-action@master
         with:
-          command: |
-            bash /root/lsky-pro/update_bing.sh
           host: ${{ secrets.HOST }}
-          user: root
-          key: ${{ secrets.PRIVATE_KEY }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.KEY }}
+          script: bash /root/lsky-pro/update_bing.sh
