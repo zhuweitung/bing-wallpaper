@@ -1,8 +1,10 @@
 name: Sync to Lsky Pro
 
 on:
-  push:
-    branches: [ "main" ]
+  workflow_run:
+    workflows: ["Daily task"]
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
