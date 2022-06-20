@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-21 | [Old World swallowtail butterflies on a flower (© Alberto Ghizzi Panizza/Getty Images)](./wallpaper/2022-06-21.jpg) 
+
 2022-06-20 | [Southern cassowary father with chicks, Kuranda, Queensland, Australia (© Martin Willis/Minden Pictures)](./wallpaper/2022-06-20.jpg) 
 
 2022-06-19 | [Surfers catching waves at Palm Beach on the Gold Coast, Queensland, Australia (© Darren Tierney/Getty Images)](./wallpaper/2022-06-19.jpg) 
@@ -56,6 +58,4 @@
 2022-05-23 | [A Burchell's zebra and a cattle egret at the Rietvlei Nature Reserve in South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2022-05-23.jpg) 
 
 2022-05-22 | [Albion Falls, Hamilton, Ontario, Canada (�� Alexander Sviridov/Shutterstock)](./wallpaper/2022-05-22.jpg) 
-
-2022-05-21 | [Honey bee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)](./wallpaper/2022-05-21.jpg) 
 
