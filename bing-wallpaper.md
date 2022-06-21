@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-22 | [View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2022-06-22.jpg) 
+
 2022-06-21 | [Old World swallowtail butterflies on a flower (© Alberto Ghizzi Panizza/Getty Images)](./wallpaper/2022-06-21.jpg) 
 
 2022-06-20 | [Southern cassowary father with chicks, Kuranda, Queensland, Australia (© Martin Willis/Minden Pictures)](./wallpaper/2022-06-20.jpg) 
@@ -56,6 +58,4 @@
 2022-05-24 | [Florida red-bellied turtle in Rainbow Springs, Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](./wallpaper/2022-05-24.jpg) 
 
 2022-05-23 | [A Burchell's zebra and a cattle egret at the Rietvlei Nature Reserve in South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2022-05-23.jpg) 
-
-2022-05-22 | [Albion Falls, Hamilton, Ontario, Canada (�� Alexander Sviridov/Shutterstock)](./wallpaper/2022-05-22.jpg) 
 
