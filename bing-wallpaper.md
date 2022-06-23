@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-24 | [Stari Most in Mostar, Bosnia and Herzegovina (© Ayhan Altun/Getty Images)](./wallpaper/2022-06-24.jpg) 
+
 2022-06-23 | [Yasuní National Park in Amazonian Ecuador (© Paul Bertner/Minden Pictures)](./wallpaper/2022-06-23.jpg) 
 
 2022-06-22 | [View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2022-06-22.jpg) 
@@ -56,6 +58,4 @@
 2022-05-26 | [Alhambra in Granada, Andalusia, Spain (© Armand Tamboly/Getty Images)](./wallpaper/2022-05-26.jpg) 
 
 2022-05-25 | [Kornati National Park, Croatia (© Anton Petrus/Getty Images)](./wallpaper/2022-05-25.jpg) 
-
-2022-05-24 | [Florida red-bellied turtle in Rainbow Springs, Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](./wallpaper/2022-05-24.jpg) 
 
