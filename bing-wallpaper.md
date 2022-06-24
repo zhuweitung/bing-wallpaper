@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-25 | [Scuba diver exploring the underwater cenotes near Puerto Aventuras, Mexico (© Extreme Photographer/Getty Images)](./wallpaper/2022-06-25.jpg) 
+
 2022-06-24 | [Stari Most in Mostar, Bosnia and Herzegovina (© Ayhan Altun/Getty Images)](./wallpaper/2022-06-24.jpg) 
 
 2022-06-23 | [Yasuní National Park in Amazonian Ecuador (© Paul Bertner/Minden Pictures)](./wallpaper/2022-06-23.jpg) 
@@ -56,6 +58,4 @@
 2022-05-27 | [Hanging bridge in the Monteverde Cloud Forest Reserve, Costa Rica (© Dmitriy Burlakov/Getty Images)](./wallpaper/2022-05-27.jpg) 
 
 2022-05-26 | [Alhambra in Granada, Andalusia, Spain (© Armand Tamboly/Getty Images)](./wallpaper/2022-05-26.jpg) 
-
-2022-05-25 | [Kornati National Park, Croatia (© Anton Petrus/Getty Images)](./wallpaper/2022-05-25.jpg) 
 
