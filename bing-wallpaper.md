@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-02 | ['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](./wallpaper/2022-07-02.jpg) 
+
 2022-07-01 | [The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](./wallpaper/2022-07-01.jpg) 
 
 2022-06-30 | [Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](./wallpaper/2022-06-30.jpg) 
@@ -56,6 +58,4 @@
 2022-06-04 | [Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](./wallpaper/2022-06-04.jpg) 
 
 2022-06-03 | [Buckingham Palace in London, England (© Pajor Pawel/Shutterstock)](./wallpaper/2022-06-03.jpg) 
-
-2022-06-01 | [Scarlet macaw in Costa Rica (© Harry Collins/Getty Images)](./wallpaper/2022-06-01.jpg) 
 
