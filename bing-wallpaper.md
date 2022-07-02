@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-03 | [Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](./wallpaper/2022-07-03.jpg) 
+
 2022-07-02 | ['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](./wallpaper/2022-07-02.jpg) 
 
 2022-07-01 | [The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](./wallpaper/2022-07-01.jpg) 
