@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-04 | [Red fox (© Yossi Eshbol/Minden Pictures)](./wallpaper/2022-07-04.jpg) 
+
 2022-07-03 | [Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](./wallpaper/2022-07-03.jpg) 
 
 2022-07-02 | ['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](./wallpaper/2022-07-02.jpg) 
@@ -58,6 +60,4 @@
 2022-06-05 | [Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](./wallpaper/2022-06-05.jpg) 
 
 2022-06-04 | [Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](./wallpaper/2022-06-04.jpg) 
-
-2022-06-03 | [Buckingham Palace in London, England (© Pajor Pawel/Shutterstock)](./wallpaper/2022-06-03.jpg) 
 
