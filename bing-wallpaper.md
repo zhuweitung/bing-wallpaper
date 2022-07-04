@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-05 | [Fireworks explode during Independence Day celebrations on July 4, 2021, in Washington, DC (© White House Photo/Alamy)](./wallpaper/2022-07-05.jpg) 
+
 2022-07-04 | [Red fox (© Yossi Eshbol/Minden Pictures)](./wallpaper/2022-07-04.jpg) 
 
 2022-07-03 | [Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](./wallpaper/2022-07-03.jpg) 
@@ -58,6 +60,4 @@
 2022-06-06 | [Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](./wallpaper/2022-06-06.jpg) 
 
 2022-06-05 | [Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](./wallpaper/2022-06-05.jpg) 
-
-2022-06-04 | [Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](./wallpaper/2022-06-04.jpg) 
 
