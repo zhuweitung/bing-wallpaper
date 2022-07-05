@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-06 | [Fannette Island surrounded by Emerald Bay, Lake Tahoe, California (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2022-07-06.jpg) 
+
 2022-07-05 | [Fireworks explode during Independence Day celebrations on July 4, 2021, in Washington, DC (© White House Photo/Alamy)](./wallpaper/2022-07-05.jpg) 
 
 2022-07-04 | [Red fox (© Yossi Eshbol/Minden Pictures)](./wallpaper/2022-07-04.jpg) 
@@ -58,6 +60,4 @@
 2022-06-07 | [An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](./wallpaper/2022-06-07.jpg) 
 
 2022-06-06 | [Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](./wallpaper/2022-06-06.jpg) 
-
-2022-06-05 | [Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](./wallpaper/2022-06-05.jpg) 
 
