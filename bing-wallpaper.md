@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-08 | [Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](./wallpaper/2022-07-08.jpg) 
+
 2022-07-07 | [Atlantic puffin pair billing, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)](./wallpaper/2022-07-07.jpg) 
 
 2022-07-06 | [Fannette Island surrounded by Emerald Bay, Lake Tahoe, California (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2022-07-06.jpg) 
@@ -58,6 +60,4 @@
 2022-06-09 | [Long-beaked common dolphin pod and diving Cape gannets hunting sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures)](./wallpaper/2022-06-09.jpg) 
 
 2022-06-08 | [Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](./wallpaper/2022-06-08.jpg) 
-
-2022-06-07 | [An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](./wallpaper/2022-06-07.jpg) 
 
