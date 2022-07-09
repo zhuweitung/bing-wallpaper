@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-10 | [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](./wallpaper/2022-07-10.jpg) 
+
 2022-07-09 | [Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](./wallpaper/2022-07-09.jpg) 
 
 2022-07-08 | [Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](./wallpaper/2022-07-08.jpg) 
@@ -58,6 +60,4 @@
 2022-06-11 | [Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](./wallpaper/2022-06-11.jpg) 
 
 2022-06-10 | [Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](./wallpaper/2022-06-10.jpg) 
-
-2022-06-09 | [Long-beaked common dolphin pod and diving Cape gannets hunting sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures)](./wallpaper/2022-06-09.jpg) 
 
