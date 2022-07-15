@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-16 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](./wallpaper/2022-07-16.jpg) 
+
 2022-07-15 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](./wallpaper/2022-07-15.jpg) 
 
 2022-07-14 | [Basalt columns of Giant's Causeway, Northern Ireland (© Olimpio Fantuz/eStock Photo)](./wallpaper/2022-07-14.jpg) 
@@ -58,6 +60,4 @@
 2022-06-17 | [Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](./wallpaper/2022-06-17.jpg) 
 
 2022-06-16 | [Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images)](./wallpaper/2022-06-16.jpg) 
-
-2022-06-15 | [The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock)](./wallpaper/2022-06-15.jpg) 
 
