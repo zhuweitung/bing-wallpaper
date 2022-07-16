@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-17 | [Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](./wallpaper/2022-07-17.jpg) 
+
 2022-07-16 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](./wallpaper/2022-07-16.jpg) 
 
 2022-07-15 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](./wallpaper/2022-07-15.jpg) 
@@ -58,6 +60,4 @@
 2022-06-18 | [Balsamroot wildflowers bloom below the Teton Mountains in Grand Teton National Park, Wyoming (© Mike Cavaroc/Tandem Stills + Motion)](./wallpaper/2022-06-18.jpg) 
 
 2022-06-17 | [Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](./wallpaper/2022-06-17.jpg) 
-
-2022-06-16 | [Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images)](./wallpaper/2022-06-16.jpg) 
 
