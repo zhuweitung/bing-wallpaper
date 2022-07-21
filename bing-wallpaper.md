@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-22 | [Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](./wallpaper/2022-07-22.jpg) 
+
 2022-07-21 | [Composite photo showing the phases of the moon (© Delpixart/Getty Images)](./wallpaper/2022-07-21.jpg) 
 
 2022-07-20 | [Male American bison in Yellowstone National Park, Wyoming (© Donyanedomam/Getty Images)](./wallpaper/2022-07-20.jpg) 
@@ -58,6 +60,4 @@
 2022-06-23 | [Yasuní National Park in Amazonian Ecuador (© Paul Bertner/Minden Pictures)](./wallpaper/2022-06-23.jpg) 
 
 2022-06-22 | [View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2022-06-22.jpg) 
-
-2022-06-21 | [Old World swallowtail butterflies on a flower (© Alberto Ghizzi Panizza/Getty Images)](./wallpaper/2022-06-21.jpg) 
 
