@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-24 | [Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](./wallpaper/2022-07-24.jpg) 
+
 2022-07-23 | [Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro (© Dmitrii Sakharov/Shutterstock)](./wallpaper/2022-07-23.jpg) 
 
 2022-07-22 | [Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](./wallpaper/2022-07-22.jpg) 
@@ -58,6 +60,4 @@
 2022-06-25 | [Scuba diver exploring the underwater cenotes near Puerto Aventuras, Mexico (© Extreme Photographer/Getty Images)](./wallpaper/2022-06-25.jpg) 
 
 2022-06-24 | [Stari Most in Mostar, Bosnia and Herzegovina (© Ayhan Altun/Getty Images)](./wallpaper/2022-06-24.jpg) 
-
-2022-06-23 | [Yasuní National Park in Amazonian Ecuador (© Paul Bertner/Minden Pictures)](./wallpaper/2022-06-23.jpg) 
 
