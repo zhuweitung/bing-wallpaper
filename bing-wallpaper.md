@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-26 | [Golden Gallopers Carousel on the seafront in Brighton, East Sussex, England (© Graham Prentice/Alamy)](./wallpaper/2022-07-26.jpg) 
+
 2022-07-25 | [Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](./wallpaper/2022-07-25.jpg) 
 
 2022-07-24 | [Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](./wallpaper/2022-07-24.jpg) 
@@ -58,6 +60,4 @@
 2022-06-27 | [Rainbow flag (© Matt Jeacock/Getty Images)](./wallpaper/2022-06-27.jpg) 
 
 2022-06-26 | [Brown bear mother and cub in Katmai National Park and Preserve, Alaska (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2022-06-26.jpg) 
-
-2022-06-25 | [Scuba diver exploring the underwater cenotes near Puerto Aventuras, Mexico (© Extreme Photographer/Getty Images)](./wallpaper/2022-06-25.jpg) 
 
