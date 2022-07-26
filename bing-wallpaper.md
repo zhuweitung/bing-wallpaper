@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-27 | [Mangrove forest in the Saloum Delta National Park, Senegal (© mariusz_prusaczyk/Getty Images)](./wallpaper/2022-07-27.jpg) 
+
 2022-07-26 | [Golden Gallopers Carousel on the seafront in Brighton, East Sussex, England (© Graham Prentice/Alamy)](./wallpaper/2022-07-26.jpg) 
 
 2022-07-25 | [Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](./wallpaper/2022-07-25.jpg) 
@@ -58,6 +60,4 @@
 2022-06-28 | [Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)](./wallpaper/2022-06-28.jpg) 
 
 2022-06-27 | [Rainbow flag (© Matt Jeacock/Getty Images)](./wallpaper/2022-06-27.jpg) 
-
-2022-06-26 | [Brown bear mother and cub in Katmai National Park and Preserve, Alaska (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2022-06-26.jpg) 
 
