@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-07-28 | [Nabataean tomb in Mada'in Saleh (aka Hegra), Saudi Arabia (© Tuul & Bruno Morandi/Getty Images)](./wallpaper/2022-07-28.jpg) 
+
 2022-07-27 | [Mangrove forest in the Saloum Delta National Park, Senegal (© mariusz_prusaczyk/Getty Images)](./wallpaper/2022-07-27.jpg) 
 
 2022-07-26 | [Golden Gallopers Carousel on the seafront in Brighton, East Sussex, England (© Graham Prentice/Alamy)](./wallpaper/2022-07-26.jpg) 
@@ -58,6 +60,4 @@
 2022-06-29 | [An old kasbah in the Tafilalet region, Morocco (© José Antonio Moreno/agefotostock)](./wallpaper/2022-06-29.jpg) 
 
 2022-06-28 | [Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)](./wallpaper/2022-06-28.jpg) 
-
-2022-06-27 | [Rainbow flag (© Matt Jeacock/Getty Images)](./wallpaper/2022-06-27.jpg) 
 
