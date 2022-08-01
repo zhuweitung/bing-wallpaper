@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-02 | [An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](./wallpaper/2022-08-02.jpg) 
+
 2022-08-01 | [Noctilucent clouds in Lithuania (© ljphoto7/Getty Images)](./wallpaper/2022-08-01.jpg) 
 
 2022-07-31 | [Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2022-07-31.jpg) 
@@ -58,6 +60,4 @@
 2022-07-04 | [Red fox (© Yossi Eshbol/Minden Pictures)](./wallpaper/2022-07-04.jpg) 
 
 2022-07-03 | [Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](./wallpaper/2022-07-03.jpg) 
-
-2022-07-02 | ['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](./wallpaper/2022-07-02.jpg) 
 
