@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-04 | [Red-necked grebes in Germany (© Edo van Uchelen/Minden Pictures)](./wallpaper/2022-08-04.jpg) 
+
 2022-08-03 | [The Hickman Bridge at Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](./wallpaper/2022-08-03.jpg) 
 
 2022-08-02 | [An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](./wallpaper/2022-08-02.jpg) 
@@ -58,6 +60,4 @@
 2022-07-06 | [Fannette Island surrounded by Emerald Bay, Lake Tahoe, California (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2022-07-06.jpg) 
 
 2022-07-05 | [Fireworks explode during Independence Day celebrations on July 4, 2021, in Washington, DC (© White House Photo/Alamy)](./wallpaper/2022-07-05.jpg) 
-
-2022-07-04 | [Red fox (© Yossi Eshbol/Minden Pictures)](./wallpaper/2022-07-04.jpg) 
 
