@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-07 | [Salt flats in San Francisco Bay (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2022-08-07.jpg) 
+
 2022-08-06 | [Edinburgh city skyline at night, Scotland (© Suranga Weeratuna/Alamy)](./wallpaper/2022-08-06.jpg) 
 
 2022-08-05 | [Farmers collecting water lilies in the Satla marshland near Bagdha, Barisal, Bangladesh (© Mustasinur Rahman Alvi/Future Publishing via Getty Images)](./wallpaper/2022-08-05.jpg) 
@@ -58,6 +60,4 @@
 2022-07-09 | [Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](./wallpaper/2022-07-09.jpg) 
 
 2022-07-08 | [Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](./wallpaper/2022-07-08.jpg) 
-
-2022-07-07 | [Atlantic puffin pair billing, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)](./wallpaper/2022-07-07.jpg) 
 
