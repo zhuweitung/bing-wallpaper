@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-08 | [Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](./wallpaper/2022-08-08.jpg) 
+
 2022-08-07 | [Salt flats in San Francisco Bay (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2022-08-07.jpg) 
 
 2022-08-06 | [Edinburgh city skyline at night, Scotland (© Suranga Weeratuna/Alamy)](./wallpaper/2022-08-06.jpg) 
@@ -58,6 +60,4 @@
 2022-07-10 | [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](./wallpaper/2022-07-10.jpg) 
 
 2022-07-09 | [Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](./wallpaper/2022-07-09.jpg) 
-
-2022-07-08 | [Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](./wallpaper/2022-07-08.jpg) 
 
