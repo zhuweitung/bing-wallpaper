@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-09 | [Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](./wallpaper/2022-08-09.jpg) 
+
 2022-08-08 | [Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](./wallpaper/2022-08-08.jpg) 
 
 2022-08-07 | [Salt flats in San Francisco Bay (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2022-08-07.jpg) 
@@ -58,6 +60,4 @@
 2022-07-11 | [Aerial view of colorful boats in the Mediterranean Sea in Ölüdeniz, Turkey (© den-belitsky/Getty Images)](./wallpaper/2022-07-11.jpg) 
 
 2022-07-10 | [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](./wallpaper/2022-07-10.jpg) 
-
-2022-07-09 | [Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](./wallpaper/2022-07-09.jpg) 
 
