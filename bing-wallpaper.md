@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-10 | [Cueva de las Manos (Cave of the Hands) in Santa Cruz, Argentina (© Adwo/Alamy)](./wallpaper/2022-08-10.jpg) 
+
 2022-08-09 | [Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](./wallpaper/2022-08-09.jpg) 
 
 2022-08-08 | [Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](./wallpaper/2022-08-08.jpg) 
@@ -58,6 +60,4 @@
 2022-07-12 | [Barcelona, Spain (© SW Photography/Getty Images)](./wallpaper/2022-07-12.jpg) 
 
 2022-07-11 | [Aerial view of colorful boats in the Mediterranean Sea in Ölüdeniz, Turkey (© den-belitsky/Getty Images)](./wallpaper/2022-07-11.jpg) 
-
-2022-07-10 | [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](./wallpaper/2022-07-10.jpg) 
 
