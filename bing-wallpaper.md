@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-13 | [Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](./wallpaper/2022-08-13.jpg) 
+
 2022-08-12 | [Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](./wallpaper/2022-08-12.jpg) 
 
 2022-08-11 | [Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](./wallpaper/2022-08-11.jpg) 
@@ -58,6 +60,4 @@
 2022-07-15 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](./wallpaper/2022-07-15.jpg) 
 
 2022-07-14 | [Basalt columns of Giant's Causeway, Northern Ireland (© Olimpio Fantuz/eStock Photo)](./wallpaper/2022-07-14.jpg) 
-
-2022-07-13 | [Bay Marker Lookout, Sydney Olympic Park, Australia (© ai_yoshi/Getty Images)](./wallpaper/2022-07-13.jpg) 
 
