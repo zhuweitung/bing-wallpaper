@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-15 | [Panther chameleon in Amber Mountain National Park, Madagascar (© Christian Ziegler/Minden Pictures)](./wallpaper/2022-08-15.jpg) 
+
 2022-08-14 | [Boundary Waters Canoe Area Wilderness, Superior National Forest, Minnesota (© Dukas/Universal Images Group via Getty Images)](./wallpaper/2022-08-14.jpg) 
 
 2022-08-13 | [Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](./wallpaper/2022-08-13.jpg) 
@@ -58,6 +60,4 @@
 2022-07-17 | [Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](./wallpaper/2022-07-17.jpg) 
 
 2022-07-16 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](./wallpaper/2022-07-16.jpg) 
-
-2022-07-15 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](./wallpaper/2022-07-15.jpg) 
 
