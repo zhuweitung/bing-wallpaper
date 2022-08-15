@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-16 | [Chittorgarh Fort, India (© Anand Purohit/Getty Images)](./wallpaper/2022-08-16.jpg) 
+
 2022-08-15 | [Panther chameleon in Amber Mountain National Park, Madagascar (© Christian Ziegler/Minden Pictures)](./wallpaper/2022-08-15.jpg) 
 
 2022-08-14 | [Boundary Waters Canoe Area Wilderness, Superior National Forest, Minnesota (© Dukas/Universal Images Group via Getty Images)](./wallpaper/2022-08-14.jpg) 
@@ -58,6 +60,4 @@
 2022-07-18 | [The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](./wallpaper/2022-07-18.jpg) 
 
 2022-07-17 | [Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](./wallpaper/2022-07-17.jpg) 
-
-2022-07-16 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](./wallpaper/2022-07-16.jpg) 
 
