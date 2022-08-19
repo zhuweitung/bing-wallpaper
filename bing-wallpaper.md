@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-20 | [Solar Impulse 2 flying over the pyramids in Giza, Egypt (© Jean Revillard/Solar Impulse2 via Getty Images)](./wallpaper/2022-08-20.jpg) 
+
 2022-08-19 | [Källö-Knippla, an island in the archipelago of Gothenburg, Sweden (© Martin Wahlborg/Getty Images)](./wallpaper/2022-08-19.jpg) 
 
 2022-08-18 | [Freshwater plants and tetra fish, Aquário Natural, Rio Baía Bonita, Mato Grosso do Sul, Brazil (© Michel Roggo/Minden Pictures)](./wallpaper/2022-08-18.jpg) 
@@ -58,6 +60,4 @@
 2022-07-22 | [Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](./wallpaper/2022-07-22.jpg) 
 
 2022-07-21 | [Composite photo showing the phases of the moon (© Delpixart/Getty Images)](./wallpaper/2022-07-21.jpg) 
-
-2022-07-20 | [Male American bison in Yellowstone National Park, Wyoming (© Donyanedomam/Getty Images)](./wallpaper/2022-07-20.jpg) 
 
