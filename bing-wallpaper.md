@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-22 | [Faro de Playa Lago, Costa da Morte, Muxia, Galicia, Spain (© Carlos Fernandez/Getty Images)](./wallpaper/2022-08-22.jpg) 
+
 2022-08-21 | [Beehives in the Muniellos Nature Reserve, Asturias province, Spain (© ABB Photo/Shutterstock)](./wallpaper/2022-08-21.jpg) 
 
 2022-08-20 | [Solar Impulse 2 flying over the pyramids in Giza, Egypt (© Jean Revillard/Solar Impulse2 via Getty Images)](./wallpaper/2022-08-20.jpg) 
@@ -58,6 +60,4 @@
 2022-07-24 | [Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](./wallpaper/2022-07-24.jpg) 
 
 2022-07-23 | [Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro (© Dmitrii Sakharov/Shutterstock)](./wallpaper/2022-07-23.jpg) 
-
-2022-07-22 | [Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](./wallpaper/2022-07-22.jpg) 
 
