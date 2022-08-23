@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-24 | [Menton, France (© Flavio Foglietta/Getty Images)](./wallpaper/2022-08-24.jpg) 
+
 2022-08-23 | [A burrowing owl chick and adult in South Florida (© Carlos Carreno/Getty Images)](./wallpaper/2022-08-23.jpg) 
 
 2022-08-22 | [Faro de Playa Lago, Costa da Morte, Muxia, Galicia, Spain (© Carlos Fernandez/Getty Images)](./wallpaper/2022-08-22.jpg) 
@@ -58,6 +60,4 @@
 2022-07-26 | [Golden Gallopers Carousel on the seafront in Brighton, East Sussex, England (© Graham Prentice/Alamy)](./wallpaper/2022-07-26.jpg) 
 
 2022-07-25 | [Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](./wallpaper/2022-07-25.jpg) 
-
-2022-07-24 | [Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](./wallpaper/2022-07-24.jpg) 
 
