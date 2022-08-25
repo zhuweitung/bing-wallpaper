@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-26 | [North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion)](./wallpaper/2022-08-26.jpg) 
+
 2022-08-25 | [Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](./wallpaper/2022-08-25.jpg) 
 
 2022-08-24 | [Menton, France (© Flavio Foglietta/Getty Images)](./wallpaper/2022-08-24.jpg) 
@@ -58,6 +60,4 @@
 2022-07-28 | [Nabataean tomb in Mada'in Saleh (aka Hegra), Saudi Arabia (© Tuul & Bruno Morandi/Getty Images)](./wallpaper/2022-07-28.jpg) 
 
 2022-07-27 | [Mangrove forest in the Saloum Delta National Park, Senegal (© mariusz_prusaczyk/Getty Images)](./wallpaper/2022-07-27.jpg) 
-
-2022-07-26 | [Golden Gallopers Carousel on the seafront in Brighton, East Sussex, England (© Graham Prentice/Alamy)](./wallpaper/2022-07-26.jpg) 
 
