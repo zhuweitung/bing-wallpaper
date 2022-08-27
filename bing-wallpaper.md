@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-28 | [Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](./wallpaper/2022-08-28.jpg) 
+
 2022-08-27 | [Kiteboarders and windsurfers off the Pelješac Peninsula, Croatia (© helivideo/Getty Images)](./wallpaper/2022-08-27.jpg) 
 
 2022-08-26 | [North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion)](./wallpaper/2022-08-26.jpg) 
@@ -58,6 +60,4 @@
 2022-07-30 | [Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy)](./wallpaper/2022-07-30.jpg) 
 
 2022-07-29 | [Longs Peak in Rocky Mountain National Park, Colorado (© Andrew R. Slaton/Tandem Stills + Motion)](./wallpaper/2022-07-29.jpg) 
-
-2022-07-28 | [Nabataean tomb in Mada'in Saleh (aka Hegra), Saudi Arabia (© Tuul & Bruno Morandi/Getty Images)](./wallpaper/2022-07-28.jpg) 
 
