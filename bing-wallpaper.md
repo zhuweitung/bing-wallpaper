@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-08-30 | [Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](./wallpaper/2022-08-30.jpg) 
+
 2022-08-29 | [Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](./wallpaper/2022-08-29.jpg) 
 
 2022-08-28 | [Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](./wallpaper/2022-08-28.jpg) 
@@ -58,6 +60,4 @@
 2022-08-01 | [Noctilucent clouds in Lithuania (© ljphoto7/Getty Images)](./wallpaper/2022-08-01.jpg) 
 
 2022-07-31 | [Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2022-07-31.jpg) 
-
-2022-07-30 | [Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy)](./wallpaper/2022-07-30.jpg) 
 
