@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-01 | [Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](./wallpaper/2022-09-01.jpg) 
+
 2022-08-31 | [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](./wallpaper/2022-08-31.jpg) 
 
 2022-08-30 | [Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](./wallpaper/2022-08-30.jpg) 
@@ -58,6 +60,4 @@
 2022-08-03 | [The Hickman Bridge at Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](./wallpaper/2022-08-03.jpg) 
 
 2022-08-02 | [An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](./wallpaper/2022-08-02.jpg) 
-
-2022-08-01 | [Noctilucent clouds in Lithuania (© ljphoto7/Getty Images)](./wallpaper/2022-08-01.jpg) 
 
