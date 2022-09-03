@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-04 | [Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](./wallpaper/2022-09-04.jpg) 
+
 2022-09-03 | [Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](./wallpaper/2022-09-03.jpg) 
 
 2022-09-02 | [Wildlife crossing in Wierden, Netherlands (© Frans Lemmens/Alamy)](./wallpaper/2022-09-02.jpg) 
@@ -58,6 +60,4 @@
 2022-08-06 | [Edinburgh city skyline at night, Scotland (© Suranga Weeratuna/Alamy)](./wallpaper/2022-08-06.jpg) 
 
 2022-08-05 | [Farmers collecting water lilies in the Satla marshland near Bagdha, Barisal, Bangladesh (© Mustasinur Rahman Alvi/Future Publishing via Getty Images)](./wallpaper/2022-08-05.jpg) 
-
-2022-08-04 | [Red-necked grebes in Germany (© Edo van Uchelen/Minden Pictures)](./wallpaper/2022-08-04.jpg) 
 
