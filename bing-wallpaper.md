@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-08 | [Museu do Amanhã (Museum of Tomorrow) in Rio de Janeiro, Brazil (© Nido Huebl/Shutterstock)](./wallpaper/2022-09-08.jpg) 
+
 2022-09-07 | [Red squirrel carrying a mushroom (© Michael Quinton/Minden Pictures)](./wallpaper/2022-09-07.jpg) 
 
 2022-09-06 | [Labor Day parade in 1934, Gastonia, North Carolina (© Bettmann/Getty Images)](./wallpaper/2022-09-06.jpg) 
@@ -58,6 +60,4 @@
 2022-08-10 | [Cueva de las Manos (Cave of the Hands) in Santa Cruz, Argentina (© Adwo/Alamy)](./wallpaper/2022-08-10.jpg) 
 
 2022-08-09 | [Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](./wallpaper/2022-08-09.jpg) 
-
-2022-08-08 | [Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](./wallpaper/2022-08-08.jpg) 
 
