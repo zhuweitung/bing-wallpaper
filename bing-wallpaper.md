@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-11 | [Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](./wallpaper/2022-09-11.jpg) 
+
 2022-09-10 | [Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](./wallpaper/2022-09-10.jpg) 
 
 2022-09-09 | [View of the city from the Setas de Sevilla (Metropol Parasol) in Seville, Spain (© LucVi/Shutterstock)](./wallpaper/2022-09-09.jpg) 
@@ -58,6 +60,4 @@
 2022-08-13 | [Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](./wallpaper/2022-08-13.jpg) 
 
 2022-08-12 | [Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](./wallpaper/2022-08-12.jpg) 
-
-2022-08-11 | [Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](./wallpaper/2022-08-11.jpg) 
 
