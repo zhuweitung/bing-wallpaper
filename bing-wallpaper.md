@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-13 | [Chestnut-eared aracari in the Pantanal region of Brazil (© Ana Gram/Shutterstock)](./wallpaper/2022-09-13.jpg) 
+
 2022-09-12 | [Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock)](./wallpaper/2022-09-12.jpg) 
 
 2022-09-11 | [Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](./wallpaper/2022-09-11.jpg) 
@@ -58,6 +60,4 @@
 2022-08-15 | [Panther chameleon in Amber Mountain National Park, Madagascar (© Christian Ziegler/Minden Pictures)](./wallpaper/2022-08-15.jpg) 
 
 2022-08-14 | [Boundary Waters Canoe Area Wilderness, Superior National Forest, Minnesota (© Dukas/Universal Images Group via Getty Images)](./wallpaper/2022-08-14.jpg) 
-
-2022-08-13 | [Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](./wallpaper/2022-08-13.jpg) 
 
