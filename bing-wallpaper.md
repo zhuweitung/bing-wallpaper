@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-16 | [Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](./wallpaper/2022-09-16.jpg) 
+
 2022-09-15 | [Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](./wallpaper/2022-09-15.jpg) 
 
 2022-09-14 | [Great Sand Dunes National Park and Preserve, Colorado (© Y Paudel/Getty Images)](./wallpaper/2022-09-14.jpg) 
@@ -58,6 +60,4 @@
 2022-08-18 | [Freshwater plants and tetra fish, Aquário Natural, Rio Baía Bonita, Mato Grosso do Sul, Brazil (© Michel Roggo/Minden Pictures)](./wallpaper/2022-08-18.jpg) 
 
 2022-08-17 | [The Great White Roller Coaster at Wildwood, New Jersey (© John Van Decker/Alamy)](./wallpaper/2022-08-17.jpg) 
-
-2022-08-16 | [Chittorgarh Fort, India (© Anand Purohit/Getty Images)](./wallpaper/2022-08-16.jpg) 
 
