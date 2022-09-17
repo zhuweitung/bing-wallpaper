@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-18 | [Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](./wallpaper/2022-09-18.jpg) 
+
 2022-09-17 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](./wallpaper/2022-09-17.jpg) 
 
 2022-09-16 | [Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](./wallpaper/2022-09-16.jpg) 
@@ -58,6 +60,4 @@
 2022-08-20 | [Solar Impulse 2 flying over the pyramids in Giza, Egypt (© Jean Revillard/Solar Impulse2 via Getty Images)](./wallpaper/2022-08-20.jpg) 
 
 2022-08-19 | [Källö-Knippla, an island in the archipelago of Gothenburg, Sweden (© Martin Wahlborg/Getty Images)](./wallpaper/2022-08-19.jpg) 
-
-2022-08-18 | [Freshwater plants and tetra fish, Aquário Natural, Rio Baía Bonita, Mato Grosso do Sul, Brazil (© Michel Roggo/Minden Pictures)](./wallpaper/2022-08-18.jpg) 
 
