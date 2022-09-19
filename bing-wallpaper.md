@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-20 | [Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](./wallpaper/2022-09-20.jpg) 
+
 2022-09-19 | [Footpath in the Arashiyama Bamboo Grove, Kyoto, Japan (© Razvan Ciuca/Getty Images)](./wallpaper/2022-09-19.jpg) 
 
 2022-09-18 | [Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](./wallpaper/2022-09-18.jpg) 
@@ -58,6 +60,4 @@
 2022-08-22 | [Faro de Playa Lago, Costa da Morte, Muxia, Galicia, Spain (© Carlos Fernandez/Getty Images)](./wallpaper/2022-08-22.jpg) 
 
 2022-08-21 | [Beehives in the Muniellos Nature Reserve, Asturias province, Spain (© ABB Photo/Shutterstock)](./wallpaper/2022-08-21.jpg) 
-
-2022-08-20 | [Solar Impulse 2 flying over the pyramids in Giza, Egypt (© Jean Revillard/Solar Impulse2 via Getty Images)](./wallpaper/2022-08-20.jpg) 
 
