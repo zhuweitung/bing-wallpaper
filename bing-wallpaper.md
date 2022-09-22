@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-23 | [The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](./wallpaper/2022-09-23.jpg) 
+
 2022-09-22 | ['Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](./wallpaper/2022-09-22.jpg) 
 
 2022-09-21 | [Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](./wallpaper/2022-09-21.jpg) 
@@ -58,6 +60,4 @@
 2022-08-25 | [Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](./wallpaper/2022-08-25.jpg) 
 
 2022-08-24 | [Menton, France (© Flavio Foglietta/Getty Images)](./wallpaper/2022-08-24.jpg) 
-
-2022-08-23 | [A burrowing owl chick and adult in South Florida (© Carlos Carreno/Getty Images)](./wallpaper/2022-08-23.jpg) 
 
