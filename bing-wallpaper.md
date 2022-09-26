@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-27 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](./wallpaper/2022-09-27.jpg) 
+
 2022-09-26 | [Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](./wallpaper/2022-09-26.jpg) 
 
 2022-09-25 | [Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](./wallpaper/2022-09-25.jpg) 
@@ -58,6 +60,4 @@
 2022-08-29 | [Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](./wallpaper/2022-08-29.jpg) 
 
 2022-08-28 | [Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](./wallpaper/2022-08-28.jpg) 
-
-2022-08-27 | [Kiteboarders and windsurfers off the Pelješac Peninsula, Croatia (© helivideo/Getty Images)](./wallpaper/2022-08-27.jpg) 
 
