@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-28 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](./wallpaper/2022-09-28.jpg) 
+
 2022-09-27 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](./wallpaper/2022-09-27.jpg) 
 
 2022-09-26 | [Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](./wallpaper/2022-09-26.jpg) 
@@ -58,6 +60,4 @@
 2022-08-30 | [Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](./wallpaper/2022-08-30.jpg) 
 
 2022-08-29 | [Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](./wallpaper/2022-08-29.jpg) 
-
-2022-08-28 | [Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](./wallpaper/2022-08-28.jpg) 
 
