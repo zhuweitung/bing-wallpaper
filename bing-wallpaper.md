@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-09-30 | [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](./wallpaper/2022-09-30.jpg) 
+
 2022-09-29 | [A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](./wallpaper/2022-09-29.jpg) 
 
 2022-09-28 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](./wallpaper/2022-09-28.jpg) 
@@ -58,6 +60,4 @@
 2022-09-01 | [Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](./wallpaper/2022-09-01.jpg) 
 
 2022-08-31 | [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](./wallpaper/2022-08-31.jpg) 
-
-2022-08-30 | [Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](./wallpaper/2022-08-30.jpg) 
 
