@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-02 | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](./wallpaper/2022-10-02.jpg) 
+
 2022-10-01 | [Southern right whale diving in the Golfo Nuevo near the Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)](./wallpaper/2022-10-01.jpg) 
 
 2022-09-30 | [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](./wallpaper/2022-09-30.jpg) 
@@ -58,6 +60,4 @@
 2022-09-03 | [Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](./wallpaper/2022-09-03.jpg) 
 
 2022-09-02 | [Wildlife crossing in Wierden, Netherlands (© Frans Lemmens/Alamy)](./wallpaper/2022-09-02.jpg) 
-
-2022-09-01 | [Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](./wallpaper/2022-09-01.jpg) 
 
