@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-03 | [Hot air balloons at the Albuquerque International Balloon Fiesta in Albuquerque, New Mexico (© gmeland/Shutterstock)](./wallpaper/2022-10-03.jpg) 
+
 2022-10-02 | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](./wallpaper/2022-10-02.jpg) 
 
 2022-10-01 | [Southern right whale diving in the Golfo Nuevo near the Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)](./wallpaper/2022-10-01.jpg) 
@@ -58,6 +60,4 @@
 2022-09-04 | [Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](./wallpaper/2022-09-04.jpg) 
 
 2022-09-03 | [Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](./wallpaper/2022-09-03.jpg) 
-
-2022-09-02 | [Wildlife crossing in Wierden, Netherlands (© Frans Lemmens/Alamy)](./wallpaper/2022-09-02.jpg) 
 
