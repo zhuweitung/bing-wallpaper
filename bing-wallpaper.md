@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2022-10-06.jpg) 
+
 2022-10-05 | [Cosmic Cliffs in the Carina Nebula (© NASA, ESA, CSA, and STScI)](./wallpaper/2022-10-05.jpg) 
 
 2022-10-04 | [The Port House, designed by Zaha Hadid Architects, Antwerp, Belgium (© Dmitry Rukhlenko/Alamy)](./wallpaper/2022-10-04.jpg) 
@@ -58,6 +60,4 @@
 2022-09-07 | [Red squirrel carrying a mushroom (© Michael Quinton/Minden Pictures)](./wallpaper/2022-09-07.jpg) 
 
 2022-09-06 | [Labor Day parade in 1934, Gastonia, North Carolina (© Bettmann/Getty Images)](./wallpaper/2022-09-06.jpg) 
-
-2022-09-05 | [Arambol Beach in Goa, India (© Ben Pipe/Alamy)](./wallpaper/2022-09-05.jpg) 
 
