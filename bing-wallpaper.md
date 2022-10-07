@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](./wallpaper/2022-10-08.jpg) 
+
 2022-10-07 | [Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](./wallpaper/2022-10-07.jpg) 
 
 2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2022-10-06.jpg) 
@@ -58,6 +60,4 @@
 2022-09-09 | [View of the city from the Setas de Sevilla (Metropol Parasol) in Seville, Spain (© LucVi/Shutterstock)](./wallpaper/2022-09-09.jpg) 
 
 2022-09-08 | [Museu do Amanhã (Museum of Tomorrow) in Rio de Janeiro, Brazil (© Nido Huebl/Shutterstock)](./wallpaper/2022-09-08.jpg) 
-
-2022-09-07 | [Red squirrel carrying a mushroom (© Michael Quinton/Minden Pictures)](./wallpaper/2022-09-07.jpg) 
 
