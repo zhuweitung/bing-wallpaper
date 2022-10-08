@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](./wallpaper/2022-10-09.jpg) 
+
 2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](./wallpaper/2022-10-08.jpg) 
 
 2022-10-07 | [Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](./wallpaper/2022-10-07.jpg) 
@@ -58,6 +60,4 @@
 2022-09-10 | [Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](./wallpaper/2022-09-10.jpg) 
 
 2022-09-09 | [View of the city from the Setas de Sevilla (Metropol Parasol) in Seville, Spain (© LucVi/Shutterstock)](./wallpaper/2022-09-09.jpg) 
-
-2022-09-08 | [Museu do Amanhã (Museum of Tomorrow) in Rio de Janeiro, Brazil (© Nido Huebl/Shutterstock)](./wallpaper/2022-09-08.jpg) 
 
