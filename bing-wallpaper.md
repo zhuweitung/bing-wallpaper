@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-11 | [The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](./wallpaper/2022-10-11.jpg) 
+
 2022-10-10 | [Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](./wallpaper/2022-10-10.jpg) 
 
 2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](./wallpaper/2022-10-09.jpg) 
@@ -58,6 +60,4 @@
 2022-09-12 | [Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock)](./wallpaper/2022-09-12.jpg) 
 
 2022-09-11 | [Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](./wallpaper/2022-09-11.jpg) 
-
-2022-09-10 | [Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](./wallpaper/2022-09-10.jpg) 
 
