@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-13 | [Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](./wallpaper/2022-10-13.jpg) 
+
 2022-10-12 | [Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](./wallpaper/2022-10-12.jpg) 
 
 2022-10-11 | [The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](./wallpaper/2022-10-11.jpg) 
@@ -58,6 +60,4 @@
 2022-09-14 | [Great Sand Dunes National Park and Preserve, Colorado (© Y Paudel/Getty Images)](./wallpaper/2022-09-14.jpg) 
 
 2022-09-13 | [Chestnut-eared aracari in the Pantanal region of Brazil (© Ana Gram/Shutterstock)](./wallpaper/2022-09-13.jpg) 
-
-2022-09-12 | [Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock)](./wallpaper/2022-09-12.jpg) 
 
