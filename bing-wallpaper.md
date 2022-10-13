@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-14 | [Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2022-10-14.jpg) 
+
 2022-10-13 | [Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](./wallpaper/2022-10-13.jpg) 
 
 2022-10-12 | [Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](./wallpaper/2022-10-12.jpg) 
@@ -58,6 +60,4 @@
 2022-09-15 | [Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](./wallpaper/2022-09-15.jpg) 
 
 2022-09-14 | [Great Sand Dunes National Park and Preserve, Colorado (© Y Paudel/Getty Images)](./wallpaper/2022-09-14.jpg) 
-
-2022-09-13 | [Chestnut-eared aracari in the Pantanal region of Brazil (© Ana Gram/Shutterstock)](./wallpaper/2022-09-13.jpg) 
 
