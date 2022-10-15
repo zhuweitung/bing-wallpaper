@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](./wallpaper/2022-10-16.jpg) 
+
 2022-10-15 | [Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](./wallpaper/2022-10-15.jpg) 
 
 2022-10-14 | [Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2022-10-14.jpg) 
@@ -58,6 +60,4 @@
 2022-09-17 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](./wallpaper/2022-09-17.jpg) 
 
 2022-09-16 | [Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](./wallpaper/2022-09-16.jpg) 
-
-2022-09-15 | [Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](./wallpaper/2022-09-15.jpg) 
 
