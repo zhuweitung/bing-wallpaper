@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-19 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](./wallpaper/2022-10-19.jpg) 
+
 2022-10-18 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](./wallpaper/2022-10-18.jpg) 
 
 2022-10-17 | [Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](./wallpaper/2022-10-17.jpg) 
@@ -58,6 +60,4 @@
 2022-09-20 | [Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](./wallpaper/2022-09-20.jpg) 
 
 2022-09-19 | [Footpath in the Arashiyama Bamboo Grove, Kyoto, Japan (© Razvan Ciuca/Getty Images)](./wallpaper/2022-09-19.jpg) 
-
-2022-09-18 | [Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](./wallpaper/2022-09-18.jpg) 
 
