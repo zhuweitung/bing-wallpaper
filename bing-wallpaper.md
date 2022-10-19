@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-20 | [Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](./wallpaper/2022-10-20.jpg) 
+
 2022-10-19 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](./wallpaper/2022-10-19.jpg) 
 
 2022-10-18 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](./wallpaper/2022-10-18.jpg) 
@@ -58,6 +60,4 @@
 2022-09-21 | [Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](./wallpaper/2022-09-21.jpg) 
 
 2022-09-20 | [Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](./wallpaper/2022-09-20.jpg) 
-
-2022-09-19 | [Footpath in the Arashiyama Bamboo Grove, Kyoto, Japan (© Razvan Ciuca/Getty Images)](./wallpaper/2022-09-19.jpg) 
 
