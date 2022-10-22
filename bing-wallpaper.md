@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-23 | [Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](./wallpaper/2022-10-23.jpg) 
+
 2022-10-22 | [Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](./wallpaper/2022-10-22.jpg) 
 
 2022-10-21 | [Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2022-10-21.jpg) 
@@ -58,6 +60,4 @@
 2022-09-24 | [Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](./wallpaper/2022-09-24.jpg) 
 
 2022-09-23 | [The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](./wallpaper/2022-09-23.jpg) 
-
-2022-09-22 | ['Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](./wallpaper/2022-09-22.jpg) 
 
