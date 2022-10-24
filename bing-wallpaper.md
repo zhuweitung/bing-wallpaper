@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-25 | [Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](./wallpaper/2022-10-25.jpg) 
+
 2022-10-24 | [Mute swan in Valkenhorst Nature Reserve, near Valkenswaard, the Netherlands (© David Pattyn/Minden Pictures)](./wallpaper/2022-10-24.jpg) 
 
 2022-10-23 | [Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](./wallpaper/2022-10-23.jpg) 
@@ -58,6 +60,4 @@
 2022-09-26 | [Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](./wallpaper/2022-09-26.jpg) 
 
 2022-09-25 | [Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](./wallpaper/2022-09-25.jpg) 
-
-2022-09-24 | [Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](./wallpaper/2022-09-24.jpg) 
 
