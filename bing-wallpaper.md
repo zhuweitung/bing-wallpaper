@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-27 | [Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](./wallpaper/2022-10-27.jpg) 
+
 2022-10-26 | [Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](./wallpaper/2022-10-26.jpg) 
 
 2022-10-25 | [Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](./wallpaper/2022-10-25.jpg) 
@@ -58,6 +60,4 @@
 2022-09-28 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](./wallpaper/2022-09-28.jpg) 
 
 2022-09-27 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](./wallpaper/2022-09-27.jpg) 
-
-2022-09-26 | [Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](./wallpaper/2022-09-26.jpg) 
 
