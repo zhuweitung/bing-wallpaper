@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-28 | [Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](./wallpaper/2022-10-28.jpg) 
+
 2022-10-27 | [Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](./wallpaper/2022-10-27.jpg) 
 
 2022-10-26 | [Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](./wallpaper/2022-10-26.jpg) 
@@ -58,6 +60,4 @@
 2022-09-29 | [A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](./wallpaper/2022-09-29.jpg) 
 
 2022-09-28 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](./wallpaper/2022-09-28.jpg) 
-
-2022-09-27 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](./wallpaper/2022-09-27.jpg) 
 
