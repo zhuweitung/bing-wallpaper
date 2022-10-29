@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-30 | [Sea angel (© Alexander Semenov Images/Shutterstock)](./wallpaper/2022-10-30.jpg) 
+
 2022-10-29 | [Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)](./wallpaper/2022-10-29.jpg) 
 
 2022-10-28 | [Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](./wallpaper/2022-10-28.jpg) 
@@ -58,6 +60,4 @@
 2022-10-01 | [Southern right whale diving in the Golfo Nuevo near the Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)](./wallpaper/2022-10-01.jpg) 
 
 2022-09-30 | [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](./wallpaper/2022-09-30.jpg) 
-
-2022-09-29 | [A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](./wallpaper/2022-09-29.jpg) 
 
