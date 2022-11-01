@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-02 | [Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](./wallpaper/2022-11-02.jpg) 
+
 2022-11-01 | [Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)](./wallpaper/2022-11-01.jpg) 
 
 2022-10-31 | [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](./wallpaper/2022-10-31.jpg) 
@@ -58,6 +60,4 @@
 2022-10-04 | [The Port House, designed by Zaha Hadid Architects, Antwerp, Belgium (© Dmitry Rukhlenko/Alamy)](./wallpaper/2022-10-04.jpg) 
 
 2022-10-03 | [Hot air balloons at the Albuquerque International Balloon Fiesta in Albuquerque, New Mexico (© gmeland/Shutterstock)](./wallpaper/2022-10-03.jpg) 
-
-2022-10-02 | [Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](./wallpaper/2022-10-02.jpg) 
 
