@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](./wallpaper/2022-11-05.jpg) 
+
 2022-11-04 | [Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](./wallpaper/2022-11-04.jpg) 
 
 2022-11-03 | [The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](./wallpaper/2022-11-03.jpg) 
@@ -58,6 +60,4 @@
 2022-10-07 | [Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](./wallpaper/2022-10-07.jpg) 
 
 2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2022-10-06.jpg) 
-
-2022-10-05 | [Cosmic Cliffs in the Carina Nebula (© NASA, ESA, CSA, and STScI)](./wallpaper/2022-10-05.jpg) 
 
