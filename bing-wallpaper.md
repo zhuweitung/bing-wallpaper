@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-06 | [Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](./wallpaper/2022-11-06.jpg) 
+
 2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](./wallpaper/2022-11-05.jpg) 
 
 2022-11-04 | [Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](./wallpaper/2022-11-04.jpg) 
@@ -58,6 +60,4 @@
 2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](./wallpaper/2022-10-08.jpg) 
 
 2022-10-07 | [Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](./wallpaper/2022-10-07.jpg) 
-
-2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2022-10-06.jpg) 
 
