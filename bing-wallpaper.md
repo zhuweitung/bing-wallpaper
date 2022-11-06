@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-07 | [Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](./wallpaper/2022-11-07.jpg) 
+
 2022-11-06 | [Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](./wallpaper/2022-11-06.jpg) 
 
 2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](./wallpaper/2022-11-05.jpg) 
@@ -58,6 +60,4 @@
 2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](./wallpaper/2022-10-09.jpg) 
 
 2022-10-08 | [Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](./wallpaper/2022-10-08.jpg) 
-
-2022-10-07 | [Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](./wallpaper/2022-10-07.jpg) 
 
