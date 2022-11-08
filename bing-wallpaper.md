@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](./wallpaper/2022-11-09.jpg) 
+
 2022-11-08 | [Lunar eclipse above Mount Crested Butte, Colorado (© Mengzhonghua Photography/Getty Images)](./wallpaper/2022-11-08.jpg) 
 
 2022-11-07 | [Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](./wallpaper/2022-11-07.jpg) 
@@ -58,6 +60,4 @@
 2022-10-11 | [The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](./wallpaper/2022-10-11.jpg) 
 
 2022-10-10 | [Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](./wallpaper/2022-10-10.jpg) 
-
-2022-10-09 | [Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](./wallpaper/2022-10-09.jpg) 
 
