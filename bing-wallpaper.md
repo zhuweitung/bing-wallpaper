@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-11 | [Rock formations in Badlands National Park during a lightning storm, South Dakota (© DEEPOL by plainpicture)](./wallpaper/2022-11-11.jpg) 
+
 2022-11-10 | [European hedgehog in Sussex, England (© Jules Cox/Minden Pictures)](./wallpaper/2022-11-10.jpg) 
 
 2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](./wallpaper/2022-11-09.jpg) 
@@ -58,6 +60,4 @@
 2022-10-13 | [Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](./wallpaper/2022-10-13.jpg) 
 
 2022-10-12 | [Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](./wallpaper/2022-10-12.jpg) 
-
-2022-10-11 | [The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](./wallpaper/2022-10-11.jpg) 
 
