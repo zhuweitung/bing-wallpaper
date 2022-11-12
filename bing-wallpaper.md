@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-13 | [Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](./wallpaper/2022-11-13.jpg) 
+
 2022-11-12 | [The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](./wallpaper/2022-11-12.jpg) 
 
 2022-11-11 | [Rock formations in Badlands National Park during a lightning storm, South Dakota (© DEEPOL by plainpicture)](./wallpaper/2022-11-11.jpg) 
@@ -58,6 +60,4 @@
 2022-10-15 | [Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](./wallpaper/2022-10-15.jpg) 
 
 2022-10-14 | [Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2022-10-14.jpg) 
-
-2022-10-13 | [Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](./wallpaper/2022-10-13.jpg) 
 
