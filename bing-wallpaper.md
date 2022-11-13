@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-14 | [The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland (© AWL Images/Danita Delimont)](./wallpaper/2022-11-14.jpg) 
+
 2022-11-13 | [Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](./wallpaper/2022-11-13.jpg) 
 
 2022-11-12 | [The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](./wallpaper/2022-11-12.jpg) 
@@ -58,6 +60,4 @@
 2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](./wallpaper/2022-10-16.jpg) 
 
 2022-10-15 | [Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](./wallpaper/2022-10-15.jpg) 
-
-2022-10-14 | [Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2022-10-14.jpg) 
 
