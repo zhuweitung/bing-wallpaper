@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-16 | [North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](./wallpaper/2022-11-16.jpg) 
+
 2022-11-15 | [Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](./wallpaper/2022-11-15.jpg) 
 
 2022-11-14 | [The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland (© AWL Images/Danita Delimont)](./wallpaper/2022-11-14.jpg) 
@@ -58,6 +60,4 @@
 2022-10-18 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](./wallpaper/2022-10-18.jpg) 
 
 2022-10-17 | [Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](./wallpaper/2022-10-17.jpg) 
-
-2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](./wallpaper/2022-10-16.jpg) 
 
