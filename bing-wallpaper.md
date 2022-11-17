@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](./wallpaper/2022-11-18.jpg) 
+
 2022-11-17 | [Cliff dwellings in Mesa Verde National Park, Colorado (© Brad McGinley Photography/Getty Images)](./wallpaper/2022-11-17.jpg) 
 
 2022-11-16 | [North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](./wallpaper/2022-11-16.jpg) 
@@ -58,6 +60,4 @@
 2022-10-20 | [Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](./wallpaper/2022-10-20.jpg) 
 
 2022-10-19 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](./wallpaper/2022-10-19.jpg) 
-
-2022-10-18 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](./wallpaper/2022-10-18.jpg) 
 
