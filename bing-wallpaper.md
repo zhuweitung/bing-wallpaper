@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-20 | [Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](./wallpaper/2022-11-20.jpg) 
+
 2022-11-19 | [The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](./wallpaper/2022-11-19.jpg) 
 
 2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](./wallpaper/2022-11-18.jpg) 
@@ -58,6 +60,4 @@
 2022-10-22 | [Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](./wallpaper/2022-10-22.jpg) 
 
 2022-10-21 | [Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2022-10-21.jpg) 
-
-2022-10-20 | [Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](./wallpaper/2022-10-20.jpg) 
 
