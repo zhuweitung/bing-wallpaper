@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-21 | ['World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](./wallpaper/2022-11-21.jpg) 
+
 2022-11-20 | [Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](./wallpaper/2022-11-20.jpg) 
 
 2022-11-19 | [The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](./wallpaper/2022-11-19.jpg) 
@@ -58,6 +60,4 @@
 2022-10-23 | [Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](./wallpaper/2022-10-23.jpg) 
 
 2022-10-22 | [Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](./wallpaper/2022-10-22.jpg) 
-
-2022-10-21 | [Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2022-10-21.jpg) 
 
