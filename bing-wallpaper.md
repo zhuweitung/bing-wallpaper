@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-23 | [Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](./wallpaper/2022-11-23.jpg) 
+
 2022-11-22 | [Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](./wallpaper/2022-11-22.jpg) 
 
 2022-11-21 | ['World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](./wallpaper/2022-11-21.jpg) 
@@ -58,6 +60,4 @@
 2022-10-25 | [Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](./wallpaper/2022-10-25.jpg) 
 
 2022-10-24 | [Mute swan in Valkenhorst Nature Reserve, near Valkenswaard, the Netherlands (© David Pattyn/Minden Pictures)](./wallpaper/2022-10-24.jpg) 
-
-2022-10-23 | [Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](./wallpaper/2022-10-23.jpg) 
 
