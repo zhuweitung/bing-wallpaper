@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-25 | [Cranberry bog (© SHSPhotography/Getty Images)](./wallpaper/2022-11-25.jpg) 
+
 2022-11-24 | [Sunflower (© Dileep Chandran/Alamy)](./wallpaper/2022-11-24.jpg) 
 
 2022-11-23 | [Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](./wallpaper/2022-11-23.jpg) 
@@ -58,6 +60,4 @@
 2022-10-27 | [Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](./wallpaper/2022-10-27.jpg) 
 
 2022-10-26 | [Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](./wallpaper/2022-10-26.jpg) 
-
-2022-10-25 | [Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](./wallpaper/2022-10-25.jpg) 
 
