@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-27 | [An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](./wallpaper/2022-11-27.jpg) 
+
 2022-11-26 | [Monks Mound at the Cahokia Mounds UNESCO World Heritage Site near Collinsville, Illinois (© Matthew Gush/Alamy)](./wallpaper/2022-11-26.jpg) 
 
 2022-11-25 | [Cranberry bog (© SHSPhotography/Getty Images)](./wallpaper/2022-11-25.jpg) 
@@ -58,6 +60,4 @@
 2022-10-29 | [Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)](./wallpaper/2022-10-29.jpg) 
 
 2022-10-28 | [Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](./wallpaper/2022-10-28.jpg) 
-
-2022-10-27 | [Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](./wallpaper/2022-10-27.jpg) 
 
