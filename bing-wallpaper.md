@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-03 | [Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images)](./wallpaper/2022-12-03.jpg) 
+
 2022-12-02 | [Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](./wallpaper/2022-12-02.jpg) 
 
 2022-12-01 | [The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)](./wallpaper/2022-12-01.jpg) 
@@ -58,6 +60,4 @@
 2022-11-04 | [Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](./wallpaper/2022-11-04.jpg) 
 
 2022-11-03 | [The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](./wallpaper/2022-11-03.jpg) 
-
-2022-11-02 | [Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](./wallpaper/2022-11-02.jpg) 
 
