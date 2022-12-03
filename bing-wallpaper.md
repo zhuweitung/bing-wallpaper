@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-04 | [Miami Beach, Florida (© Matteo Colombo/Getty Images)](./wallpaper/2022-12-04.jpg) 
+
 2022-12-03 | [Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images)](./wallpaper/2022-12-03.jpg) 
 
 2022-12-02 | [Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](./wallpaper/2022-12-02.jpg) 
@@ -58,6 +60,4 @@
 2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](./wallpaper/2022-11-05.jpg) 
 
 2022-11-04 | [Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](./wallpaper/2022-11-04.jpg) 
-
-2022-11-03 | [The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](./wallpaper/2022-11-03.jpg) 
 
