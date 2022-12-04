@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-05 | [Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](./wallpaper/2022-12-05.jpg) 
+
 2022-12-04 | [Miami Beach, Florida (© Matteo Colombo/Getty Images)](./wallpaper/2022-12-04.jpg) 
 
 2022-12-03 | [Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images)](./wallpaper/2022-12-03.jpg) 
@@ -58,6 +60,4 @@
 2022-11-06 | [Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](./wallpaper/2022-11-06.jpg) 
 
 2022-11-05 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](./wallpaper/2022-11-05.jpg) 
-
-2022-11-04 | [Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](./wallpaper/2022-11-04.jpg) 
 
