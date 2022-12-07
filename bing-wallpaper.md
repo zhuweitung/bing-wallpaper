@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-08 | [Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](./wallpaper/2022-12-08.jpg) 
+
 2022-12-07 | [A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](./wallpaper/2022-12-07.jpg) 
 
 2022-12-06 | [Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)](./wallpaper/2022-12-06.jpg) 
@@ -58,6 +60,4 @@
 2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](./wallpaper/2022-11-09.jpg) 
 
 2022-11-08 | [Lunar eclipse above Mount Crested Butte, Colorado (© Mengzhonghua Photography/Getty Images)](./wallpaper/2022-11-08.jpg) 
-
-2022-11-07 | [Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](./wallpaper/2022-11-07.jpg) 
 
