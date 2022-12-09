@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-10 | [Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](./wallpaper/2022-12-10.jpg) 
+
 2022-12-09 | [The Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](./wallpaper/2022-12-09.jpg) 
 
 2022-12-08 | [Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](./wallpaper/2022-12-08.jpg) 
@@ -58,6 +60,4 @@
 2022-11-11 | [Rock formations in Badlands National Park during a lightning storm, South Dakota (© DEEPOL by plainpicture)](./wallpaper/2022-11-11.jpg) 
 
 2022-11-10 | [European hedgehog in Sussex, England (© Jules Cox/Minden Pictures)](./wallpaper/2022-11-10.jpg) 
-
-2022-11-09 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](./wallpaper/2022-11-09.jpg) 
 
