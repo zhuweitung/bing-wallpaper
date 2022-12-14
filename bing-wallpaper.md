@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-15 | [Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona (© John Cancalosi/Minden Pictures)](./wallpaper/2022-12-15.jpg) 
+
 2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](./wallpaper/2022-12-14.jpg) 
 
 2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](./wallpaper/2022-12-13.jpg) 
@@ -58,6 +60,4 @@
 2022-11-16 | [North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](./wallpaper/2022-11-16.jpg) 
 
 2022-11-15 | [Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](./wallpaper/2022-11-15.jpg) 
-
-2022-11-14 | [The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland (© AWL Images/Danita Delimont)](./wallpaper/2022-11-14.jpg) 
 
