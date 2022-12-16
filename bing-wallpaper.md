@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-17 | [Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](./wallpaper/2022-12-17.jpg) 
+
 2022-12-16 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](./wallpaper/2022-12-16.jpg) 
 
 2022-12-15 | [Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona (© John Cancalosi/Minden Pictures)](./wallpaper/2022-12-15.jpg) 
@@ -58,6 +60,4 @@
 2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](./wallpaper/2022-11-18.jpg) 
 
 2022-11-17 | [Cliff dwellings in Mesa Verde National Park, Colorado (© Brad McGinley Photography/Getty Images)](./wallpaper/2022-11-17.jpg) 
-
-2022-11-16 | [North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](./wallpaper/2022-11-16.jpg) 
 
