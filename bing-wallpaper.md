@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-19 | [South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](./wallpaper/2022-12-19.jpg) 
+
 2022-12-18 | [Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](./wallpaper/2022-12-18.jpg) 
 
 2022-12-17 | [Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](./wallpaper/2022-12-17.jpg) 
@@ -58,6 +60,4 @@
 2022-11-20 | [Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](./wallpaper/2022-11-20.jpg) 
 
 2022-11-19 | [The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](./wallpaper/2022-11-19.jpg) 
-
-2022-11-18 | [Bridge on the McKenzie River Trail, Willamette National Forest, Oregon (© Don Paulson/Danita Delimont)](./wallpaper/2022-11-18.jpg) 
 
