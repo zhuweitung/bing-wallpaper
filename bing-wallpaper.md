@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-20 | [A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](./wallpaper/2022-12-20.jpg) 
+
 2022-12-19 | [South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](./wallpaper/2022-12-19.jpg) 
 
 2022-12-18 | [Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](./wallpaper/2022-12-18.jpg) 
@@ -58,6 +60,4 @@
 2022-11-21 | ['World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](./wallpaper/2022-11-21.jpg) 
 
 2022-11-20 | [Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](./wallpaper/2022-11-20.jpg) 
-
-2022-11-19 | [The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](./wallpaper/2022-11-19.jpg) 
 
