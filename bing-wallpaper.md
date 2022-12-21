@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-22 | [Sun halo over Lake Antermoia in the Dolomite Mountains of Italy (© Walter Donega/Getty Images)](./wallpaper/2022-12-22.jpg) 
+
 2022-12-21 | [Christmas market at Belvedere in Vienna, Austria (© Diyana Dimitrova/Alamy)](./wallpaper/2022-12-21.jpg) 
 
 2022-12-20 | [A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](./wallpaper/2022-12-20.jpg) 
@@ -58,6 +60,4 @@
 2022-11-23 | [Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](./wallpaper/2022-11-23.jpg) 
 
 2022-11-22 | [Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](./wallpaper/2022-11-22.jpg) 
-
-2022-11-21 | ['World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](./wallpaper/2022-11-21.jpg) 
 
