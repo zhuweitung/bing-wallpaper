@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-26 | [Miniature holiday scene in Strasbourg, France (© Kavalenkava Volha/Alamy)](./wallpaper/2022-12-26.jpg) 
+
 2022-12-25 | [Amalga Harbor, Alaska (© Mark Kelley/Tandem Stills + Motion)](./wallpaper/2022-12-25.jpg) 
 
 2022-12-24 | [Gentoo penguins in Antarctica (© Nature Picture Library/Alamy)](./wallpaper/2022-12-24.jpg) 
@@ -58,6 +60,4 @@
 2022-11-27 | [An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](./wallpaper/2022-11-27.jpg) 
 
 2022-11-26 | [Monks Mound at the Cahokia Mounds UNESCO World Heritage Site near Collinsville, Illinois (© Matthew Gush/Alamy)](./wallpaper/2022-11-26.jpg) 
-
-2022-11-25 | [Cranberry bog (© SHSPhotography/Getty Images)](./wallpaper/2022-11-25.jpg) 
 
