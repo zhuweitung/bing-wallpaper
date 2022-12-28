@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-29 | [Maloja, Switzerland (© Roberto Moiola/Getty)](./wallpaper/2022-12-29.jpg) 
+
 2022-12-28 | [Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images)](./wallpaper/2022-12-28.jpg) 
 
 2022-12-27 | [Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy)](./wallpaper/2022-12-27.jpg) 
@@ -58,6 +60,4 @@
 2022-11-30 | [Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)](./wallpaper/2022-11-30.jpg) 
 
 2022-11-29 | [Mars (© NASA/Alamy)](./wallpaper/2022-11-29.jpg) 
-
-2022-11-28 | [Cecropia leaf atop lobster claw petals, Mexico (© Gerry Ellis/Minden Pictures)](./wallpaper/2022-11-28.jpg) 
 
