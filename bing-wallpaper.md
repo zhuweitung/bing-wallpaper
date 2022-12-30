@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-31 | [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](./wallpaper/2022-12-31.jpg) 
+
 2022-12-30 | [A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)](./wallpaper/2022-12-30.jpg) 
 
 2022-12-29 | [Maloja, Switzerland (© Roberto Moiola/Getty)](./wallpaper/2022-12-29.jpg) 
@@ -58,6 +60,4 @@
 2022-12-02 | [Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](./wallpaper/2022-12-02.jpg) 
 
 2022-12-01 | [The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)](./wallpaper/2022-12-01.jpg) 
-
-2022-11-30 | [Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)](./wallpaper/2022-11-30.jpg) 
 
