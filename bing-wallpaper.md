@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-02 | [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](./wallpaper/2023-01-02.jpg) 
+
 2023-01-01 | [New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](./wallpaper/2023-01-01.jpg) 
 
 2022-12-31 | [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](./wallpaper/2022-12-31.jpg) 
@@ -58,6 +60,4 @@
 2022-12-04 | [Miami Beach, Florida (© Matteo Colombo/Getty Images)](./wallpaper/2022-12-04.jpg) 
 
 2022-12-03 | [Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images)](./wallpaper/2022-12-03.jpg) 
-
-2022-12-02 | [Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](./wallpaper/2022-12-02.jpg) 
 
