@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-03 | [Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](./wallpaper/2023-01-03.jpg) 
+
 2023-01-02 | [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](./wallpaper/2023-01-02.jpg) 
 
 2023-01-01 | [New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](./wallpaper/2023-01-01.jpg) 
@@ -58,6 +60,4 @@
 2022-12-05 | [Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](./wallpaper/2022-12-05.jpg) 
 
 2022-12-04 | [Miami Beach, Florida (© Matteo Colombo/Getty Images)](./wallpaper/2022-12-04.jpg) 
-
-2022-12-03 | [Tlikakila River Delta in Lake Clark National Park, Alaska (© Dawn Wilson Photography/Getty Images)](./wallpaper/2022-12-03.jpg) 
 
