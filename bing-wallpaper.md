@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-04 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico (© Jay Goodrich/Tandem Stills + Motion)](./wallpaper/2023-01-04.jpg) 
+
 2023-01-03 | [Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](./wallpaper/2023-01-03.jpg) 
 
 2023-01-02 | [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](./wallpaper/2023-01-02.jpg) 
@@ -58,6 +60,4 @@
 2022-12-06 | [Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)](./wallpaper/2022-12-06.jpg) 
 
 2022-12-05 | [Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](./wallpaper/2022-12-05.jpg) 
-
-2022-12-04 | [Miami Beach, Florida (© Matteo Colombo/Getty Images)](./wallpaper/2022-12-04.jpg) 
 
