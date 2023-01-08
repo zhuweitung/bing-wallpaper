@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-09 | [Breckenridge, Colorado (© Sean Pavone/Shutterstock)](./wallpaper/2023-01-09.jpg) 
+
 2023-01-08 | [Wool and mohair yarn (© Jurate Buiviene/Alamy)](./wallpaper/2023-01-08.jpg) 
 
 2023-01-07 | [Black Fell, Lake District, England (© Daniel Kay/Shutterstock)](./wallpaper/2023-01-07.jpg) 
@@ -58,6 +60,4 @@
 2022-12-11 | [Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](./wallpaper/2022-12-11.jpg) 
 
 2022-12-10 | [Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](./wallpaper/2022-12-10.jpg) 
-
-2022-12-09 | [The Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](./wallpaper/2022-12-09.jpg) 
 
