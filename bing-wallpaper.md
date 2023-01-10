@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-11 | [Hummock ice on Lake Peipus in Estonia (© Sven Zacek/Minden Pictures)](./wallpaper/2023-01-11.jpg) 
+
 2023-01-10 | [Bison in Wind Cave National Park, South Dakota (© Charlie Summers/Minden Pictures)](./wallpaper/2023-01-10.jpg) 
 
 2023-01-09 | [Breckenridge, Colorado (© Sean Pavone/Shutterstock)](./wallpaper/2023-01-09.jpg) 
@@ -58,6 +60,4 @@
 2022-12-13 | [Poinsettia plants (© Elizabeth Fernandez/Getty Images)](./wallpaper/2022-12-13.jpg) 
 
 2022-12-12 | [Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](./wallpaper/2022-12-12.jpg) 
-
-2022-12-11 | [Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](./wallpaper/2022-12-11.jpg) 
 
