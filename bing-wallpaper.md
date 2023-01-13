@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-14 | [Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](./wallpaper/2023-01-14.jpg) 
+
 2023-01-13 | [Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency)](./wallpaper/2023-01-13.jpg) 
 
 2023-01-12 | ['Umschreibung,' a sculpture by artist Olafur Eliasson in Munich, Germany (© Manfred Bail/Alamy)](./wallpaper/2023-01-12.jpg) 
@@ -58,6 +60,4 @@
 2022-12-16 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](./wallpaper/2022-12-16.jpg) 
 
 2022-12-15 | [Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona (© John Cancalosi/Minden Pictures)](./wallpaper/2022-12-15.jpg) 
-
-2022-12-14 | [Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](./wallpaper/2022-12-14.jpg) 
 
