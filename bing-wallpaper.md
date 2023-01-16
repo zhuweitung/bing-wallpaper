@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-17 | [Inscription Wall at the Martin Luther King Jr. Memorial in Washington, DC (© Ken Howard/Alamy)](./wallpaper/2023-01-17.jpg) 
+
 2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](./wallpaper/2023-01-16.jpg) 
 
 2023-01-15 | [Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy)](./wallpaper/2023-01-15.jpg) 
@@ -58,6 +60,4 @@
 2022-12-19 | [South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](./wallpaper/2022-12-19.jpg) 
 
 2022-12-18 | [Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](./wallpaper/2022-12-18.jpg) 
-
-2022-12-17 | [Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](./wallpaper/2022-12-17.jpg) 
 
