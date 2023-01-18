@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-19 | [White Sands National Park, New Mexico (© Andrea Harrell/Tandem Stills + Motion)](./wallpaper/2023-01-19.jpg) 
+
 2023-01-18 | [Muniellos Nature Reserve in Asturias, Spain (© Andres M. Dominguez/Minden Pictures)](./wallpaper/2023-01-18.jpg) 
 
 2023-01-17 | [Inscription Wall at the Martin Luther King Jr. Memorial in Washington, DC (© Ken Howard/Alamy)](./wallpaper/2023-01-17.jpg) 
@@ -58,6 +60,4 @@
 2022-12-21 | [Christmas market at Belvedere in Vienna, Austria (© Diyana Dimitrova/Alamy)](./wallpaper/2022-12-21.jpg) 
 
 2022-12-20 | [A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](./wallpaper/2022-12-20.jpg) 
-
-2022-12-19 | [South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](./wallpaper/2022-12-19.jpg) 
 
