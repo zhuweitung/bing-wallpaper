@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-22 | [Kangaroo mother and baby (© Belle Ciezak/Shutterstock)](./wallpaper/2023-01-22.jpg) 
+
 2023-01-21 | [King penguins in the Falkland Islands (© Elmar Weiss/Getty Images)](./wallpaper/2023-01-21.jpg) 
 
 2023-01-20 | [Park City, Utah (© Kruck20/Getty Images)](./wallpaper/2023-01-20.jpg) 
@@ -58,6 +60,4 @@
 2022-12-24 | [Gentoo penguins in Antarctica (© Nature Picture Library/Alamy)](./wallpaper/2022-12-24.jpg) 
 
 2022-12-23 | [Christmas tree of the Galeries Lafayette in Paris, France (© Geoffroy Van der Hasselt/AFP via Getty Images)](./wallpaper/2022-12-23.jpg) 
-
-2022-12-22 | [Sun halo over Lake Antermoia in the Dolomite Mountains of Italy (© Walter Donega/Getty Images)](./wallpaper/2022-12-22.jpg) 
 
