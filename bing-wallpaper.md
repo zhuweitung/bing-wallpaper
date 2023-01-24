@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-25 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](./wallpaper/2023-01-25.jpg) 
+
 2023-01-24 | [Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2023-01-24.jpg) 
 
 2023-01-23 | [Mountain hare in Derbyshire, England (© Ben Hall/Minden Pictures)](./wallpaper/2023-01-23.jpg) 
@@ -58,6 +60,4 @@
 2022-12-27 | [Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy)](./wallpaper/2022-12-27.jpg) 
 
 2022-12-26 | [Miniature holiday scene in Strasbourg, France (© Kavalenkava Volha/Alamy)](./wallpaper/2022-12-26.jpg) 
-
-2022-12-25 | [Amalga Harbor, Alaska (© Mark Kelley/Tandem Stills + Motion)](./wallpaper/2022-12-25.jpg) 
 
