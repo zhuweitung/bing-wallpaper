@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-27 | [Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](./wallpaper/2023-01-27.jpg) 
+
 2023-01-25 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](./wallpaper/2023-01-25.jpg) 
 
 2023-01-24 | [Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2023-01-24.jpg) 
@@ -56,8 +58,4 @@
 2022-12-29 | [Maloja, Switzerland (© Roberto Moiola/Getty)](./wallpaper/2022-12-29.jpg) 
 
 2022-12-28 | [Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images)](./wallpaper/2022-12-28.jpg) 
-
-2022-12-27 | [Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy)](./wallpaper/2022-12-27.jpg) 
-
-2022-12-26 | [Miniature holiday scene in Strasbourg, France (© Kavalenkava Volha/Alamy)](./wallpaper/2022-12-26.jpg) 
 
