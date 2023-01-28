@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-29 | [Blue-green waters around the Bahamas as seen from the International Space Station (© NASA)](./wallpaper/2023-01-29.jpg) 
+
 2023-01-28 | [Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](./wallpaper/2023-01-28.jpg) 
 
 2023-01-27 | [Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](./wallpaper/2023-01-27.jpg) 
@@ -56,6 +58,4 @@
 2022-12-31 | [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](./wallpaper/2022-12-31.jpg) 
 
 2022-12-30 | [A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)](./wallpaper/2022-12-30.jpg) 
-
-2022-12-29 | [Maloja, Switzerland (© Roberto Moiola/Getty)](./wallpaper/2022-12-29.jpg) 
 
