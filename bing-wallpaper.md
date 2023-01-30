@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-31 | [Ice and Snow Sailing European Championships on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](./wallpaper/2023-01-31.jpg) 
+
 2023-01-30 | [Blackbird in Essex, England (© Bill Coster/Alamy)](./wallpaper/2023-01-30.jpg) 
 
 2023-01-29 | [Blue-green waters around the Bahamas as seen from the International Space Station (© NASA)](./wallpaper/2023-01-29.jpg) 
@@ -56,6 +58,4 @@
 2023-01-02 | [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](./wallpaper/2023-01-02.jpg) 
 
 2023-01-01 | [New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](./wallpaper/2023-01-01.jpg) 
-
-2022-12-31 | [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](./wallpaper/2022-12-31.jpg) 
 
