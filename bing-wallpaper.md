@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-02 | ['Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](./wallpaper/2023-02-02.jpg) 
+
 2023-02-01 | [Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2023-02-01.jpg) 
 
 2023-01-31 | [Ice and Snow Sailing European Championships on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](./wallpaper/2023-01-31.jpg) 
@@ -56,6 +58,4 @@
 2023-01-04 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico (© Jay Goodrich/Tandem Stills + Motion)](./wallpaper/2023-01-04.jpg) 
 
 2023-01-03 | [Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](./wallpaper/2023-01-03.jpg) 
-
-2023-01-02 | [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](./wallpaper/2023-01-02.jpg) 
 
