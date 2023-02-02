@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-03 | [Alpine marmots in Hohe Tauern National Park, Austria (© Michaela Walch/Alamy)](./wallpaper/2023-02-03.jpg) 
+
 2023-02-02 | ['Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](./wallpaper/2023-02-02.jpg) 
 
 2023-02-01 | [Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2023-02-01.jpg) 
@@ -56,6 +58,4 @@
 2023-01-05 | [Earth as seen from the International Space Station (© JSC/NASA)](./wallpaper/2023-01-05.jpg) 
 
 2023-01-04 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico (© Jay Goodrich/Tandem Stills + Motion)](./wallpaper/2023-01-04.jpg) 
-
-2023-01-03 | [Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](./wallpaper/2023-01-03.jpg) 
 
