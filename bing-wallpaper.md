@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-10 | [Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](./wallpaper/2023-02-10.jpg) 
+
 2023-02-09 | [Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway (© Eyesite/Alamy)](./wallpaper/2023-02-09.jpg) 
 
 2023-02-08 | [Village of Labro, Rieti Province, Italy (© Marco Ilari/Shutterstock)](./wallpaper/2023-02-08.jpg) 
@@ -56,6 +58,4 @@
 2023-01-12 | ['Umschreibung,' a sculpture by artist Olafur Eliasson in Munich, Germany (© Manfred Bail/Alamy)](./wallpaper/2023-01-12.jpg) 
 
 2023-01-11 | [Hummock ice on Lake Peipus in Estonia (© Sven Zacek/Minden Pictures)](./wallpaper/2023-01-11.jpg) 
-
-2023-01-10 | [Bison in Wind Cave National Park, South Dakota (© Charlie Summers/Minden Pictures)](./wallpaper/2023-01-10.jpg) 
 
