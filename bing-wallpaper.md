@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-12 | [The Milky Way over Zabriskie Point, Death Valley, California (© Matt Anderson Photography/Getty Images)](./wallpaper/2023-02-12.jpg) 
+
 2023-02-11 | [Ancient theater of Epidaurus in Argolis province, Greece (© George Pachantouris/Getty Images)](./wallpaper/2023-02-11.jpg) 
 
 2023-02-10 | [Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](./wallpaper/2023-02-10.jpg) 
@@ -56,6 +58,4 @@
 2023-01-14 | [Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](./wallpaper/2023-01-14.jpg) 
 
 2023-01-13 | [Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency)](./wallpaper/2023-01-13.jpg) 
-
-2023-01-12 | ['Umschreibung,' a sculpture by artist Olafur Eliasson in Munich, Germany (© Manfred Bail/Alamy)](./wallpaper/2023-01-12.jpg) 
 
