@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-15 | [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](./wallpaper/2023-02-15.jpg) 
+
 2023-02-14 | [Achaches lookout, El Valle de la Luna, Chile (© Ignacio Palacios/Getty Images)](./wallpaper/2023-02-14.jpg) 
 
 2023-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2023-02-13.jpg) 
@@ -56,6 +58,4 @@
 2023-01-17 | [Inscription Wall at the Martin Luther King Jr. Memorial in Washington, DC (© Ken Howard/Alamy)](./wallpaper/2023-01-17.jpg) 
 
 2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](./wallpaper/2023-01-16.jpg) 
-
-2023-01-15 | [Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy)](./wallpaper/2023-01-15.jpg) 
 
