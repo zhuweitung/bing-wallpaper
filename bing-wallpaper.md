@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-16 | [Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](./wallpaper/2023-02-16.jpg) 
+
 2023-02-15 | [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](./wallpaper/2023-02-15.jpg) 
 
 2023-02-14 | [Achaches lookout, El Valle de la Luna, Chile (© Ignacio Palacios/Getty Images)](./wallpaper/2023-02-14.jpg) 
@@ -56,6 +58,4 @@
 2023-01-18 | [Muniellos Nature Reserve in Asturias, Spain (© Andres M. Dominguez/Minden Pictures)](./wallpaper/2023-01-18.jpg) 
 
 2023-01-17 | [Inscription Wall at the Martin Luther King Jr. Memorial in Washington, DC (© Ken Howard/Alamy)](./wallpaper/2023-01-17.jpg) 
-
-2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](./wallpaper/2023-01-16.jpg) 
 
