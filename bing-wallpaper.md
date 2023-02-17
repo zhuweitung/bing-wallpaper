@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-18 | [Allen's hummingbird perched on a red kangaroo paw plant (© GypsyPictureShow/Shutterstock)](./wallpaper/2023-02-18.jpg) 
+
 2023-02-17 | ['Firefall' on Horsetail Fall, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](./wallpaper/2023-02-17.jpg) 
 
 2023-02-16 | [Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](./wallpaper/2023-02-16.jpg) 
@@ -56,6 +58,4 @@
 2023-01-20 | [Park City, Utah (© Kruck20/Getty Images)](./wallpaper/2023-01-20.jpg) 
 
 2023-01-19 | [White Sands National Park, New Mexico (© Andrea Harrell/Tandem Stills + Motion)](./wallpaper/2023-01-19.jpg) 
-
-2023-01-18 | [Muniellos Nature Reserve in Asturias, Spain (© Andres M. Dominguez/Minden Pictures)](./wallpaper/2023-01-18.jpg) 
 
