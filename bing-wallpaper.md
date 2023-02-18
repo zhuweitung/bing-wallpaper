@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-19 | [Eben Ice Caves, Upper Peninsula, Michigan (© Dean Pennala/Shutterstock)](./wallpaper/2023-02-19.jpg) 
+
 2023-02-18 | [Allen's hummingbird perched on a red kangaroo paw plant (© GypsyPictureShow/Shutterstock)](./wallpaper/2023-02-18.jpg) 
 
 2023-02-17 | ['Firefall' on Horsetail Fall, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](./wallpaper/2023-02-17.jpg) 
@@ -56,6 +58,4 @@
 2023-01-21 | [King penguins in the Falkland Islands (© Elmar Weiss/Getty Images)](./wallpaper/2023-01-21.jpg) 
 
 2023-01-20 | [Park City, Utah (© Kruck20/Getty Images)](./wallpaper/2023-01-20.jpg) 
-
-2023-01-19 | [White Sands National Park, New Mexico (© Andrea Harrell/Tandem Stills + Motion)](./wallpaper/2023-01-19.jpg) 
 
