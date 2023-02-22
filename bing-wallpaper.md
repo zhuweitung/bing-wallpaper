@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-23 | [Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](./wallpaper/2023-02-23.jpg) 
+
 2023-02-22 | [French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](./wallpaper/2023-02-22.jpg) 
 
 2023-02-21 | [Washington Monument and Capitol Building on the National Mall, Washington, DC (© AevanStock/Shutterstock)](./wallpaper/2023-02-21.jpg) 
@@ -56,6 +58,4 @@
 2023-01-25 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](./wallpaper/2023-01-25.jpg) 
 
 2023-01-24 | [Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2023-01-24.jpg) 
-
-2023-01-23 | [Mountain hare in Derbyshire, England (© Ben Hall/Minden Pictures)](./wallpaper/2023-01-23.jpg) 
 
