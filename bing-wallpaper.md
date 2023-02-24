@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-25 | [Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](./wallpaper/2023-02-25.jpg) 
+
 2023-02-24 | [Paris, France (© somchaij/Shutterstock)](./wallpaper/2023-02-24.jpg) 
 
 2023-02-23 | [Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](./wallpaper/2023-02-23.jpg) 
@@ -56,6 +58,4 @@
 2023-01-28 | [Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](./wallpaper/2023-01-28.jpg) 
 
 2023-01-27 | [Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](./wallpaper/2023-01-27.jpg) 
-
-2023-01-25 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](./wallpaper/2023-01-25.jpg) 
 
