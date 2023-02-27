@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-28 | [Polar bears asleep in Canada (© David Pike/Minden Pictures)](./wallpaper/2023-02-28.jpg) 
+
 2023-02-27 | [Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](./wallpaper/2023-02-27.jpg) 
 
 2023-02-26 | [Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](./wallpaper/2023-02-26.jpg) 
@@ -58,6 +60,4 @@
 2023-01-30 | [Blackbird in Essex, England (© Bill Coster/Alamy)](./wallpaper/2023-01-30.jpg) 
 
 2023-01-29 | [Blue-green waters around the Bahamas as seen from the International Space Station (© NASA)](./wallpaper/2023-01-29.jpg) 
-
-2023-01-28 | [Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](./wallpaper/2023-01-28.jpg) 
 
