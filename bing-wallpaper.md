@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-02 | [Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC (© Andrew Harrer/Bloomberg/Getty Images)](./wallpaper/2023-03-02.jpg) 
+
 2023-03-01 | [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](./wallpaper/2023-03-01.jpg) 
 
 2023-02-28 | [Polar bears asleep in Canada (© David Pike/Minden Pictures)](./wallpaper/2023-02-28.jpg) 
@@ -58,6 +60,4 @@
 2023-02-01 | [Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2023-02-01.jpg) 
 
 2023-01-31 | [Ice and Snow Sailing European Championships on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](./wallpaper/2023-01-31.jpg) 
-
-2023-01-30 | [Blackbird in Essex, England (© Bill Coster/Alamy)](./wallpaper/2023-01-30.jpg) 
 
