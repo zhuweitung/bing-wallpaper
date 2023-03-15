@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-16 | [Agüero, Spain (© Andrea Comi/Getty Images)](./wallpaper/2023-03-16.jpg) 
+
 2023-03-15 | [Hedge maze in Cyherbia Botanical Park, Cyprus (© Tpopova/Getty Images)](./wallpaper/2023-03-15.jpg) 
 
 2023-03-14 | [Female lions sleeping, Serengeti National Park, Tanzania (© Cavan Images/Shutterstock)](./wallpaper/2023-03-14.jpg) 
@@ -58,6 +60,4 @@
 2023-02-15 | [Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](./wallpaper/2023-02-15.jpg) 
 
 2023-02-14 | [Achaches lookout, El Valle de la Luna, Chile (© Ignacio Palacios/Getty Images)](./wallpaper/2023-02-14.jpg) 
-
-2023-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2023-02-13.jpg) 
 
