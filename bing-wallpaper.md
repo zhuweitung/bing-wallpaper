@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-26 | [Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](./wallpaper/2023-03-26.jpg) 
+
 2023-03-25 | [Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)](./wallpaper/2023-03-25.jpg) 
 
 2023-03-24 | [Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)](./wallpaper/2023-03-24.jpg) 
@@ -58,6 +60,4 @@
 2023-02-25 | [Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](./wallpaper/2023-02-25.jpg) 
 
 2023-02-24 | [Paris, France (© somchaij/Shutterstock)](./wallpaper/2023-02-24.jpg) 
-
-2023-02-23 | [Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](./wallpaper/2023-02-23.jpg) 
 
