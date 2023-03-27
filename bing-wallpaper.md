@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-28 | [New York City skyline in fog (© Orbon Alija/Getty Images)](./wallpaper/2023-03-28.jpg) 
+
 2023-03-27 | [Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)](./wallpaper/2023-03-27.jpg) 
 
 2023-03-26 | [Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](./wallpaper/2023-03-26.jpg) 
@@ -58,6 +60,4 @@
 2023-02-27 | [Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](./wallpaper/2023-02-27.jpg) 
 
 2023-02-26 | [Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](./wallpaper/2023-02-26.jpg) 
-
-2023-02-25 | [Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](./wallpaper/2023-02-25.jpg) 
 
