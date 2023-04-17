@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-18 | ['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](./wallpaper/2023-04-18.jpg) 
+
 2023-04-17 | [Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](./wallpaper/2023-04-17.jpg) 
 
 2023-04-16 | ['Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](./wallpaper/2023-04-16.jpg) 
@@ -58,6 +60,4 @@
 2023-03-20 | [Barn owl, England (© Ondrej Prosicky/Getty Images)](./wallpaper/2023-03-20.jpg) 
 
 2023-03-19 | [Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)](./wallpaper/2023-03-19.jpg) 
-
-2023-03-18 | [Ballyvooney Cove, Copper Coast Geopark, County Waterford, Ireland (© Andrea Pistolesi/Getty Images)](./wallpaper/2023-03-18.jpg) 
 
