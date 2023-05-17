@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-18 | [Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-05-18.jpg) 
+
 2023-05-17 | [Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)](./wallpaper/2023-05-17.jpg) 
 
 2023-05-16 | [Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain (© Gavin Hellier/Getty Images)](./wallpaper/2023-05-16.jpg) 
@@ -58,6 +60,4 @@
 2023-04-19 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](./wallpaper/2023-04-19.jpg) 
 
 2023-04-18 | ['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](./wallpaper/2023-04-18.jpg) 
-
-2023-04-17 | [Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](./wallpaper/2023-04-17.jpg) 
 
