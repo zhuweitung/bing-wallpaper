@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-27 | [Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)](./wallpaper/2023-05-27.jpg) 
+
 2023-05-26 | [Saksun, Faroe Islands, Denmark (© miroslav_1/Getty Images)](./wallpaper/2023-05-26.jpg) 
 
 2023-05-25 | [The Old Fortress of Corfu, Greece (© Netfalls Remy Musser/Shutterstock)](./wallpaper/2023-05-25.jpg) 
@@ -58,6 +60,4 @@
 2023-04-28 | [South Padre Island, Texas (© Jeff R Clow/Getty Images)](./wallpaper/2023-04-28.jpg) 
 
 2023-04-27 | [Great horned owl fledglings (© Michael Morse/Getty Images)](./wallpaper/2023-04-27.jpg) 
-
-2023-04-26 | [Adélie penguins in Antarctica (© David Merron Photography/Getty Images)](./wallpaper/2023-04-26.jpg) 
 
