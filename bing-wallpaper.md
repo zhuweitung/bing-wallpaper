@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-02 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2023-06-02.jpg) 
+
 2023-06-01 | [Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](./wallpaper/2023-06-01.jpg) 
 
 2023-05-31 | [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](./wallpaper/2023-05-31.jpg) 
@@ -58,6 +60,4 @@
 2023-05-04 | [Wildebeests in the Maasai Mara National Reserve, Kenya (© Matt Polski/Getty Images)](./wallpaper/2023-05-04.jpg) 
 
 2023-05-03 | [Jöriseen lakes in the Silvretta Alps, Switzerland (© Florin Baumann/Getty Images)](./wallpaper/2023-05-03.jpg) 
-
-2023-05-02 | [Korean Bell of Friendship, Los Angeles (© Carlos Marin/Getty Images)](./wallpaper/2023-05-02.jpg) 
 
