@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-04 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](./wallpaper/2023-06-04.jpg) 
+
 2023-06-03 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](./wallpaper/2023-06-03.jpg) 
 
 2023-06-02 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2023-06-02.jpg) 
@@ -58,6 +60,4 @@
 2023-05-06 | [Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)](./wallpaper/2023-05-06.jpg) 
 
 2023-05-05 | [Mayan ruins in Tikal, Guatemala (© THP Creative/Getty Images)](./wallpaper/2023-05-05.jpg) 
-
-2023-05-04 | [Wildebeests in the Maasai Mara National Reserve, Kenya (© Matt Polski/Getty Images)](./wallpaper/2023-05-04.jpg) 
 
