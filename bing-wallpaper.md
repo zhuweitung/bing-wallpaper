@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-06 | ['Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota (© Michael Siluk/UCG/Universal Images Group via Getty Images)](./wallpaper/2023-06-06.jpg) 
+
 2023-06-05 | [Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](./wallpaper/2023-06-05.jpg) 
 
 2023-06-04 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](./wallpaper/2023-06-04.jpg) 
@@ -58,6 +60,4 @@
 2023-05-08 | [Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)](./wallpaper/2023-05-08.jpg) 
 
 2023-05-07 | [Royal azaleas in bloom on Hwangmaesan Mountain, South Korea (© Stock for you/Shutterstock)](./wallpaper/2023-05-07.jpg) 
-
-2023-05-06 | [Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)](./wallpaper/2023-05-06.jpg) 
 
