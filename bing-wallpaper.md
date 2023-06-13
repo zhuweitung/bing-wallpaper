@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-14 | [Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](./wallpaper/2023-06-14.jpg) 
+
 2023-06-13 | [Prickly pear cactus, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](./wallpaper/2023-06-13.jpg) 
 
 2023-06-12 | [Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)](./wallpaper/2023-06-12.jpg) 
@@ -58,6 +60,4 @@
 2023-05-16 | [Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain (© Gavin Hellier/Getty Images)](./wallpaper/2023-05-16.jpg) 
 
 2023-05-15 | [White-tailed deer doe and newborn fawn, Montana (© Donald M. Jones/Minden Pictures)](./wallpaper/2023-05-15.jpg) 
-
-2023-05-14 | [Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)](./wallpaper/2023-05-14.jpg) 
 
