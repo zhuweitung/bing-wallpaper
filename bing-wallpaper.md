@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-16 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](./wallpaper/2023-06-16.jpg) 
+
 2023-06-15 | [US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](./wallpaper/2023-06-15.jpg) 
 
 2023-06-14 | [Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](./wallpaper/2023-06-14.jpg) 
@@ -58,6 +60,4 @@
 2023-05-18 | [Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-05-18.jpg) 
 
 2023-05-17 | [Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)](./wallpaper/2023-05-17.jpg) 
-
-2023-05-16 | [Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain (© Gavin Hellier/Getty Images)](./wallpaper/2023-05-16.jpg) 
 
