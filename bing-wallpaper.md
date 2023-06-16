@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-17 | [Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](./wallpaper/2023-06-17.jpg) 
+
 2023-06-16 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](./wallpaper/2023-06-16.jpg) 
 
 2023-06-15 | [US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](./wallpaper/2023-06-15.jpg) 
@@ -58,6 +60,4 @@
 2023-05-19 | [Museo Soumaya, Plaza Carso, Mexico City, Mexico (© Juan Romero/Alamy)](./wallpaper/2023-05-19.jpg) 
 
 2023-05-18 | [Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-05-18.jpg) 
-
-2023-05-17 | [Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)](./wallpaper/2023-05-17.jpg) 
 
