@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-01 | [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](./wallpaper/2023-07-01.jpg) 
+
 2023-06-30 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](./wallpaper/2023-06-30.jpg) 
 
 2023-06-29 | [Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)](./wallpaper/2023-06-29.jpg) 
@@ -58,6 +60,4 @@
 2023-06-02 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2023-06-02.jpg) 
 
 2023-06-01 | [Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](./wallpaper/2023-06-01.jpg) 
-
-2023-05-31 | [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](./wallpaper/2023-05-31.jpg) 
 
