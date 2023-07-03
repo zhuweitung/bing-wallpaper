@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-04 | [A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)](./wallpaper/2023-07-04.jpg) 
+
 2023-07-03 | [Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](./wallpaper/2023-07-03.jpg) 
 
 2023-07-02 | [Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)](./wallpaper/2023-07-02.jpg) 
@@ -58,6 +60,4 @@
 2023-06-05 | [Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](./wallpaper/2023-06-05.jpg) 
 
 2023-06-04 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](./wallpaper/2023-06-04.jpg) 
-
-2023-06-03 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](./wallpaper/2023-06-03.jpg) 
 
