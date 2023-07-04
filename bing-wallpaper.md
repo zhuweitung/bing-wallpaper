@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-05 | [Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)](./wallpaper/2023-07-05.jpg) 
+
 2023-07-04 | [A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)](./wallpaper/2023-07-04.jpg) 
 
 2023-07-03 | [Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](./wallpaper/2023-07-03.jpg) 
@@ -58,6 +60,4 @@
 2023-06-06 | ['Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota (© Michael Siluk/UCG/Universal Images Group via Getty Images)](./wallpaper/2023-06-06.jpg) 
 
 2023-06-05 | [Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](./wallpaper/2023-06-05.jpg) 
-
-2023-06-04 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](./wallpaper/2023-06-04.jpg) 
 
