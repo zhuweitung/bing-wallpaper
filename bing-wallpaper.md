@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-08 | [Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](./wallpaper/2023-07-08.jpg) 
+
 2023-07-07 | [Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)](./wallpaper/2023-07-07.jpg) 
 
 2023-07-06 | [Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)](./wallpaper/2023-07-06.jpg) 
@@ -58,6 +60,4 @@
 2023-06-09 | [Humpback whale (© Philip Thurston/Getty Images)](./wallpaper/2023-06-09.jpg) 
 
 2023-06-08 | [Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2023-06-08.jpg) 
-
-2023-06-07 | [The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](./wallpaper/2023-06-07.jpg) 
 
