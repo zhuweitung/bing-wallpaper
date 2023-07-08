@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-09 | [Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](./wallpaper/2023-07-09.jpg) 
+
 2023-07-08 | [Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](./wallpaper/2023-07-08.jpg) 
 
 2023-07-07 | [Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)](./wallpaper/2023-07-07.jpg) 
@@ -58,6 +60,4 @@
 2023-06-10 | [Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](./wallpaper/2023-06-10.jpg) 
 
 2023-06-09 | [Humpback whale (© Philip Thurston/Getty Images)](./wallpaper/2023-06-09.jpg) 
-
-2023-06-08 | [Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2023-06-08.jpg) 
 
