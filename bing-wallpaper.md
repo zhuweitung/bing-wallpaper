@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-12 | [Hong Kong SAR (© leungchopan/Getty Images)](./wallpaper/2023-07-12.jpg) 
+
 2023-07-11 | [Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](./wallpaper/2023-07-11.jpg) 
 
 2023-07-10 | [Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](./wallpaper/2023-07-10.jpg) 
@@ -58,6 +60,4 @@
 2023-06-13 | [Prickly pear cactus, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](./wallpaper/2023-06-13.jpg) 
 
 2023-06-12 | [Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)](./wallpaper/2023-06-12.jpg) 
-
-2023-06-11 | [Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)](./wallpaper/2023-06-11.jpg) 
 
