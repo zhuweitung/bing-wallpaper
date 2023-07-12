@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-13 | [Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)](./wallpaper/2023-07-13.jpg) 
+
 2023-07-12 | [Hong Kong SAR (© leungchopan/Getty Images)](./wallpaper/2023-07-12.jpg) 
 
 2023-07-11 | [Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](./wallpaper/2023-07-11.jpg) 
@@ -58,6 +60,4 @@
 2023-06-14 | [Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](./wallpaper/2023-06-14.jpg) 
 
 2023-06-13 | [Prickly pear cactus, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](./wallpaper/2023-06-13.jpg) 
-
-2023-06-12 | [Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)](./wallpaper/2023-06-12.jpg) 
 
