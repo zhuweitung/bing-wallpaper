@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-15 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](./wallpaper/2023-07-15.jpg) 
+
 2023-07-14 | [Zhangye Danxia National Geopark, Gansu province, China (© TONNAJA/Getty Images)](./wallpaper/2023-07-14.jpg) 
 
 2023-07-13 | [Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)](./wallpaper/2023-07-13.jpg) 
@@ -58,6 +60,4 @@
 2023-06-16 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](./wallpaper/2023-06-16.jpg) 
 
 2023-06-15 | [US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](./wallpaper/2023-06-15.jpg) 
-
-2023-06-14 | [Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](./wallpaper/2023-06-14.jpg) 
 
