@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-16 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](./wallpaper/2023-07-16.jpg) 
+
 2023-07-15 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](./wallpaper/2023-07-15.jpg) 
 
 2023-07-14 | [Zhangye Danxia National Geopark, Gansu province, China (© TONNAJA/Getty Images)](./wallpaper/2023-07-14.jpg) 
@@ -58,6 +60,4 @@
 2023-06-17 | [Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](./wallpaper/2023-06-17.jpg) 
 
 2023-06-16 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](./wallpaper/2023-06-16.jpg) 
-
-2023-06-15 | [US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](./wallpaper/2023-06-15.jpg) 
 
