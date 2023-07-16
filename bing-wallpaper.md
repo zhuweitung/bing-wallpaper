@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-17 | [Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](./wallpaper/2023-07-17.jpg) 
+
 2023-07-16 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](./wallpaper/2023-07-16.jpg) 
 
 2023-07-15 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](./wallpaper/2023-07-15.jpg) 
@@ -58,6 +60,4 @@
 2023-06-18 | ['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](./wallpaper/2023-06-18.jpg) 
 
 2023-06-17 | [Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](./wallpaper/2023-06-17.jpg) 
-
-2023-06-16 | [Synchronous fireflies, Great Smoky Mountains National Park, Tennessee (© Floris Van Bruegel/Minden Pictures)](./wallpaper/2023-06-16.jpg) 
 
