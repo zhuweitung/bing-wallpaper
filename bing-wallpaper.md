@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-20 | [Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](./wallpaper/2023-07-20.jpg) 
+
 2023-07-19 | [Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)](./wallpaper/2023-07-19.jpg) 
 
 2023-07-18 | [Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](./wallpaper/2023-07-18.jpg) 
@@ -58,6 +60,4 @@
 2023-06-21 | [Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](./wallpaper/2023-06-21.jpg) 
 
 2023-06-20 | [City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)](./wallpaper/2023-06-20.jpg) 
-
-2023-06-19 | [Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2023-06-19.jpg) 
 
