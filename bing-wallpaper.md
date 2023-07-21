@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-22 | [Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)](./wallpaper/2023-07-22.jpg) 
+
 2023-07-21 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](./wallpaper/2023-07-21.jpg) 
 
 2023-07-20 | [Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](./wallpaper/2023-07-20.jpg) 
@@ -58,6 +60,4 @@
 2023-06-23 | [Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)](./wallpaper/2023-06-23.jpg) 
 
 2023-06-22 | [Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)](./wallpaper/2023-06-22.jpg) 
-
-2023-06-21 | [Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](./wallpaper/2023-06-21.jpg) 
 
