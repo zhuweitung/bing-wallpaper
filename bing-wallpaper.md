@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-23 | [Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2023-07-23.jpg) 
+
 2023-07-22 | [Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)](./wallpaper/2023-07-22.jpg) 
 
 2023-07-21 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](./wallpaper/2023-07-21.jpg) 
@@ -58,6 +60,4 @@
 2023-06-24 | [Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](./wallpaper/2023-06-24.jpg) 
 
 2023-06-23 | [Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)](./wallpaper/2023-06-23.jpg) 
-
-2023-06-22 | [Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)](./wallpaper/2023-06-22.jpg) 
 
