@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-25 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](./wallpaper/2023-07-25.jpg) 
+
 2023-07-24 | [Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](./wallpaper/2023-07-24.jpg) 
 
 2023-07-23 | [Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2023-07-23.jpg) 
@@ -58,6 +60,4 @@
 2023-06-26 | [Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](./wallpaper/2023-06-26.jpg) 
 
 2023-06-25 | [Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](./wallpaper/2023-06-25.jpg) 
-
-2023-06-24 | [Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](./wallpaper/2023-06-24.jpg) 
 
