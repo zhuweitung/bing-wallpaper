@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-27 | [Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-07-27.jpg) 
+
 2023-07-26 | [Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2023-07-26.jpg) 
 
 2023-07-25 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](./wallpaper/2023-07-25.jpg) 
@@ -58,6 +60,4 @@
 2023-06-28 | [Sedona, Arizona (© Jonathan Ross/Getty Images)](./wallpaper/2023-06-28.jpg) 
 
 2023-06-27 | [Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](./wallpaper/2023-06-27.jpg) 
-
-2023-06-26 | [Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](./wallpaper/2023-06-26.jpg) 
 
