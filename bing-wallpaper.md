@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-29 | [San Blas Islands, Panama (© bgremler/Shutterstock)](./wallpaper/2023-07-29.jpg) 
+
 2023-07-28 | [Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](./wallpaper/2023-07-28.jpg) 
 
 2023-07-27 | [Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-07-27.jpg) 
@@ -58,6 +60,4 @@
 2023-06-30 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](./wallpaper/2023-06-30.jpg) 
 
 2023-06-29 | [Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)](./wallpaper/2023-06-29.jpg) 
-
-2023-06-28 | [Sedona, Arizona (© Jonathan Ross/Getty Images)](./wallpaper/2023-06-28.jpg) 
 
