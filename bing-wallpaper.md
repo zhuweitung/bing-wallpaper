@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-30 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](./wallpaper/2023-07-30.jpg) 
+
 2023-07-29 | [San Blas Islands, Panama (© bgremler/Shutterstock)](./wallpaper/2023-07-29.jpg) 
 
 2023-07-28 | [Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](./wallpaper/2023-07-28.jpg) 
@@ -58,6 +60,4 @@
 2023-07-01 | [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](./wallpaper/2023-07-01.jpg) 
 
 2023-06-30 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](./wallpaper/2023-06-30.jpg) 
-
-2023-06-29 | [Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)](./wallpaper/2023-06-29.jpg) 
 
