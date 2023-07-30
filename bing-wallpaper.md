@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-31 | [Farmland in the Palouse, Washington (© EJ-J/Getty Images)](./wallpaper/2023-07-31.jpg) 
+
 2023-07-30 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](./wallpaper/2023-07-30.jpg) 
 
 2023-07-29 | [San Blas Islands, Panama (© bgremler/Shutterstock)](./wallpaper/2023-07-29.jpg) 
@@ -58,6 +60,4 @@
 2023-07-02 | [Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)](./wallpaper/2023-07-02.jpg) 
 
 2023-07-01 | [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](./wallpaper/2023-07-01.jpg) 
-
-2023-06-30 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](./wallpaper/2023-06-30.jpg) 
 
