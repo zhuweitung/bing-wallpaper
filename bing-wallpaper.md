@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-04 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](./wallpaper/2023-08-04.jpg) 
+
 2023-08-03 | [Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-08-03.jpg) 
 
 2023-08-02 | [Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](./wallpaper/2023-08-02.jpg) 
@@ -58,6 +60,4 @@
 2023-07-06 | [Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)](./wallpaper/2023-07-06.jpg) 
 
 2023-07-05 | [Empire State Building on the Fourth of July, New York City (© Tetra Images/Getty Images)](./wallpaper/2023-07-05.jpg) 
-
-2023-07-04 | [A coyote in Banff, Alberta, Canada (© Harry Collins/Getty Images)](./wallpaper/2023-07-04.jpg) 
 
