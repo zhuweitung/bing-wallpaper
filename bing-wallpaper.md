@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-06 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](./wallpaper/2023-08-06.jpg) 
+
 2023-08-05 | [Tintern Abbey, Wales (© matthibcn/Getty Images)](./wallpaper/2023-08-05.jpg) 
 
 2023-08-04 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](./wallpaper/2023-08-04.jpg) 
@@ -58,6 +60,4 @@
 2023-07-08 | [Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](./wallpaper/2023-07-08.jpg) 
 
 2023-07-07 | [Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)](./wallpaper/2023-07-07.jpg) 
-
-2023-07-06 | [Porto Timoni beach, Corfu, Greece (© nantonov/Getty Images)](./wallpaper/2023-07-06.jpg) 
 
