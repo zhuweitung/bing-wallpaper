@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-08 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](./wallpaper/2023-08-08.jpg) 
+
 2023-08-07 | [Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)](./wallpaper/2023-08-07.jpg) 
 
 2023-08-06 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](./wallpaper/2023-08-06.jpg) 
@@ -58,6 +60,4 @@
 2023-07-10 | [Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](./wallpaper/2023-07-10.jpg) 
 
 2023-07-09 | [Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](./wallpaper/2023-07-09.jpg) 
-
-2023-07-08 | [Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](./wallpaper/2023-07-08.jpg) 
 
