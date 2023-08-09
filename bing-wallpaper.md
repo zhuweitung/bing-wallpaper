@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-10 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](./wallpaper/2023-08-10.jpg) 
+
 2023-08-09 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](./wallpaper/2023-08-09.jpg) 
 
 2023-08-08 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](./wallpaper/2023-08-08.jpg) 
@@ -58,6 +60,4 @@
 2023-07-12 | [Hong Kong SAR (© leungchopan/Getty Images)](./wallpaper/2023-07-12.jpg) 
 
 2023-07-11 | [Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](./wallpaper/2023-07-11.jpg) 
-
-2023-07-10 | [Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](./wallpaper/2023-07-10.jpg) 
 
