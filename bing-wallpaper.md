@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-12 | ['Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)](./wallpaper/2023-08-12.jpg) 
+
 2023-08-11 | [A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](./wallpaper/2023-08-11.jpg) 
 
 2023-08-10 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](./wallpaper/2023-08-10.jpg) 
@@ -58,6 +60,4 @@
 2023-07-14 | [Zhangye Danxia National Geopark, Gansu province, China (© TONNAJA/Getty Images)](./wallpaper/2023-07-14.jpg) 
 
 2023-07-13 | [Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)](./wallpaper/2023-07-13.jpg) 
-
-2023-07-12 | [Hong Kong SAR (© leungchopan/Getty Images)](./wallpaper/2023-07-12.jpg) 
 
