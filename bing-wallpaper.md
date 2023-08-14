@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-15 | [Tiny gecko on a leaf (© Darren Greenwood/Alamy)](./wallpaper/2023-08-15.jpg) 
+
 2023-08-14 | [Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)](./wallpaper/2023-08-14.jpg) 
 
 2023-08-13 | [Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2023-08-13.jpg) 
@@ -58,6 +60,4 @@
 2023-07-17 | [Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](./wallpaper/2023-07-17.jpg) 
 
 2023-07-16 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](./wallpaper/2023-07-16.jpg) 
-
-2023-07-15 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](./wallpaper/2023-07-15.jpg) 
 
