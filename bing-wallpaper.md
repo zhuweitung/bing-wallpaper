@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-16 | [Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](./wallpaper/2023-08-16.jpg) 
+
 2023-08-15 | [Tiny gecko on a leaf (© Darren Greenwood/Alamy)](./wallpaper/2023-08-15.jpg) 
 
 2023-08-14 | [Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)](./wallpaper/2023-08-14.jpg) 
@@ -58,6 +60,4 @@
 2023-07-18 | [Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](./wallpaper/2023-07-18.jpg) 
 
 2023-07-17 | [Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](./wallpaper/2023-07-17.jpg) 
-
-2023-07-16 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](./wallpaper/2023-07-16.jpg) 
 
