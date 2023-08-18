@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-19 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-08-19.jpg) 
+
 2023-08-18 | [Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](./wallpaper/2023-08-18.jpg) 
 
 2023-08-17 | [Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](./wallpaper/2023-08-17.jpg) 
@@ -58,6 +60,4 @@
 2023-07-21 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](./wallpaper/2023-07-21.jpg) 
 
 2023-07-20 | [Crescent Lake near Dunhuang, Gansu province, China (© R7 Photo/Shutterstock)](./wallpaper/2023-07-20.jpg) 
-
-2023-07-19 | [Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)](./wallpaper/2023-07-19.jpg) 
 
