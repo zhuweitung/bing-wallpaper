@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-21 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2023-08-21.jpg) 
+
 2023-08-20 | [Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](./wallpaper/2023-08-20.jpg) 
 
 2023-08-19 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-08-19.jpg) 
@@ -58,6 +60,4 @@
 2023-07-23 | [Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2023-07-23.jpg) 
 
 2023-07-22 | [Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)](./wallpaper/2023-07-22.jpg) 
-
-2023-07-21 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](./wallpaper/2023-07-21.jpg) 
 
