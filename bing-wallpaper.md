@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-23 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](./wallpaper/2023-08-23.jpg) 
+
 2023-08-22 | [Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](./wallpaper/2023-08-22.jpg) 
 
 2023-08-21 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2023-08-21.jpg) 
@@ -58,6 +60,4 @@
 2023-07-25 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](./wallpaper/2023-07-25.jpg) 
 
 2023-07-24 | [Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](./wallpaper/2023-07-24.jpg) 
-
-2023-07-23 | [Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2023-07-23.jpg) 
 
