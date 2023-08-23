@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-24 | [Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](./wallpaper/2023-08-24.jpg) 
+
 2023-08-23 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](./wallpaper/2023-08-23.jpg) 
 
 2023-08-22 | [Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](./wallpaper/2023-08-22.jpg) 
@@ -58,6 +60,4 @@
 2023-07-26 | [Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2023-07-26.jpg) 
 
 2023-07-25 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](./wallpaper/2023-07-25.jpg) 
-
-2023-07-24 | [Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](./wallpaper/2023-07-24.jpg) 
 
