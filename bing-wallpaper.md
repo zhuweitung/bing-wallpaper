@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-25 | [Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](./wallpaper/2023-08-25.jpg) 
+
 2023-08-24 | [Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](./wallpaper/2023-08-24.jpg) 
 
 2023-08-23 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](./wallpaper/2023-08-23.jpg) 
@@ -58,6 +60,4 @@
 2023-07-27 | [Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-07-27.jpg) 
 
 2023-07-26 | [Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2023-07-26.jpg) 
-
-2023-07-25 | [Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](./wallpaper/2023-07-25.jpg) 
 
