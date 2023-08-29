@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-30 | [American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2023-08-30.jpg) 
+
 2023-08-29 | [Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](./wallpaper/2023-08-29.jpg) 
 
 2023-08-28 | [Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](./wallpaper/2023-08-28.jpg) 
@@ -58,6 +60,4 @@
 2023-08-01 | [Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](./wallpaper/2023-08-01.jpg) 
 
 2023-07-31 | [Farmland in the Palouse, Washington (© EJ-J/Getty Images)](./wallpaper/2023-07-31.jpg) 
-
-2023-07-30 | [Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](./wallpaper/2023-07-30.jpg) 
 
