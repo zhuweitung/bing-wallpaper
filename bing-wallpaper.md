@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-04 | [Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)](./wallpaper/2023-09-04.jpg) 
+
 2023-09-03 | [Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](./wallpaper/2023-09-03.jpg) 
 
 2023-09-02 | [Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](./wallpaper/2023-09-02.jpg) 
@@ -58,6 +60,4 @@
 2023-08-06 | [Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](./wallpaper/2023-08-06.jpg) 
 
 2023-08-05 | [Tintern Abbey, Wales (© matthibcn/Getty Images)](./wallpaper/2023-08-05.jpg) 
-
-2023-08-04 | [Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](./wallpaper/2023-08-04.jpg) 
 
