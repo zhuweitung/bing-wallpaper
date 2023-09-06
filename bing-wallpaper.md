@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-07 | [Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](./wallpaper/2023-09-07.jpg) 
+
 2023-09-06 | [Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](./wallpaper/2023-09-06.jpg) 
 
 2023-09-05 | [Construction workers on scaffolding (© Bits and Splits/Shutterstock)](./wallpaper/2023-09-05.jpg) 
@@ -58,6 +60,4 @@
 2023-08-09 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](./wallpaper/2023-08-09.jpg) 
 
 2023-08-08 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](./wallpaper/2023-08-08.jpg) 
-
-2023-08-07 | [Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)](./wallpaper/2023-08-07.jpg) 
 
