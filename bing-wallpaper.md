@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-09 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](./wallpaper/2023-09-09.jpg) 
+
 2023-09-07 | [Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](./wallpaper/2023-09-07.jpg) 
 
 2023-09-06 | [Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](./wallpaper/2023-09-06.jpg) 
@@ -56,8 +58,4 @@
 2023-08-11 | [A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](./wallpaper/2023-08-11.jpg) 
 
 2023-08-10 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](./wallpaper/2023-08-10.jpg) 
-
-2023-08-09 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](./wallpaper/2023-08-09.jpg) 
-
-2023-08-08 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](./wallpaper/2023-08-08.jpg) 
 
