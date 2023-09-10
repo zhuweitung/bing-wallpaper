@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-11 | [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](./wallpaper/2023-09-11.jpg) 
+
 2023-09-10 | [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](./wallpaper/2023-09-10.jpg) 
 
 2023-09-09 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](./wallpaper/2023-09-09.jpg) 
@@ -56,6 +58,4 @@
 2023-08-13 | [Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2023-08-13.jpg) 
 
 2023-08-12 | ['Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)](./wallpaper/2023-08-12.jpg) 
-
-2023-08-11 | [A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](./wallpaper/2023-08-11.jpg) 
 
