@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-14 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](./wallpaper/2023-09-14.jpg) 
+
 2023-09-13 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](./wallpaper/2023-09-13.jpg) 
 
 2023-09-12 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](./wallpaper/2023-09-12.jpg) 
@@ -56,6 +58,4 @@
 2023-08-16 | [Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](./wallpaper/2023-08-16.jpg) 
 
 2023-08-15 | [Tiny gecko on a leaf (© Darren Greenwood/Alamy)](./wallpaper/2023-08-15.jpg) 
-
-2023-08-14 | [Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)](./wallpaper/2023-08-14.jpg) 
 
