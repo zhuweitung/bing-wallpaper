@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-17 | [A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)](./wallpaper/2023-09-17.jpg) 
+
 2023-09-16 | [Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)](./wallpaper/2023-09-16.jpg) 
 
 2023-09-15 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](./wallpaper/2023-09-15.jpg) 
@@ -56,6 +58,4 @@
 2023-08-19 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-08-19.jpg) 
 
 2023-08-18 | [Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](./wallpaper/2023-08-18.jpg) 
-
-2023-08-17 | [Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](./wallpaper/2023-08-17.jpg) 
 
