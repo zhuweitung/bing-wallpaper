@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-18 | [Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)](./wallpaper/2023-09-18.jpg) 
+
 2023-09-17 | [A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)](./wallpaper/2023-09-17.jpg) 
 
 2023-09-16 | [Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)](./wallpaper/2023-09-16.jpg) 
@@ -56,6 +58,4 @@
 2023-08-20 | [Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](./wallpaper/2023-08-20.jpg) 
 
 2023-08-19 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2023-08-19.jpg) 
-
-2023-08-18 | [Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](./wallpaper/2023-08-18.jpg) 
 
