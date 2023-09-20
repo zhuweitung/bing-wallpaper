@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-21 | [Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](./wallpaper/2023-09-21.jpg) 
+
 2023-09-20 | [Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](./wallpaper/2023-09-20.jpg) 
 
 2023-09-19 | [Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](./wallpaper/2023-09-19.jpg) 
@@ -56,6 +58,4 @@
 2023-08-23 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](./wallpaper/2023-08-23.jpg) 
 
 2023-08-22 | [Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](./wallpaper/2023-08-22.jpg) 
-
-2023-08-21 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2023-08-21.jpg) 
 
