@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-22 | [Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](./wallpaper/2023-09-22.jpg) 
+
 2023-09-21 | [Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](./wallpaper/2023-09-21.jpg) 
 
 2023-09-20 | [Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](./wallpaper/2023-09-20.jpg) 
@@ -56,6 +58,4 @@
 2023-08-24 | [Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](./wallpaper/2023-08-24.jpg) 
 
 2023-08-23 | [Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](./wallpaper/2023-08-23.jpg) 
-
-2023-08-22 | [Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](./wallpaper/2023-08-22.jpg) 
 
