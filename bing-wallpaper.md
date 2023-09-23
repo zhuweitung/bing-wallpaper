@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-24 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2023-09-24.jpg) 
+
 2023-09-23 | [Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](./wallpaper/2023-09-23.jpg) 
 
 2023-09-22 | [Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](./wallpaper/2023-09-22.jpg) 
@@ -56,6 +58,4 @@
 2023-08-26 | [Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)](./wallpaper/2023-08-26.jpg) 
 
 2023-08-25 | [Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](./wallpaper/2023-08-25.jpg) 
-
-2023-08-24 | [Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](./wallpaper/2023-08-24.jpg) 
 
