@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-26 | [Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)](./wallpaper/2023-09-26.jpg) 
+
 2023-09-25 | [The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)](./wallpaper/2023-09-25.jpg) 
 
 2023-09-24 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2023-09-24.jpg) 
@@ -56,6 +58,4 @@
 2023-08-28 | [Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](./wallpaper/2023-08-28.jpg) 
 
 2023-08-27 | [Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)](./wallpaper/2023-08-27.jpg) 
-
-2023-08-26 | [Lower Yellowstone Falls, Yellowstone National Park, Wyoming (© Tim Fitzharris/Minden Pictures)](./wallpaper/2023-08-26.jpg) 
 
