@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-28 | [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](./wallpaper/2023-09-28.jpg) 
+
 2023-09-27 | [Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](./wallpaper/2023-09-27.jpg) 
 
 2023-09-26 | [Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)](./wallpaper/2023-09-26.jpg) 
@@ -56,6 +58,4 @@
 2023-08-30 | [American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2023-08-30.jpg) 
 
 2023-08-29 | [Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](./wallpaper/2023-08-29.jpg) 
-
-2023-08-28 | [Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](./wallpaper/2023-08-28.jpg) 
 
