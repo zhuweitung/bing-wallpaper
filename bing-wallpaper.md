@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-30 | [Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](./wallpaper/2023-09-30.jpg) 
+
 2023-09-29 | [Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](./wallpaper/2023-09-29.jpg) 
 
 2023-09-28 | [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](./wallpaper/2023-09-28.jpg) 
@@ -56,6 +58,4 @@
 2023-09-01 | [Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](./wallpaper/2023-09-01.jpg) 
 
 2023-08-31 | [Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](./wallpaper/2023-08-31.jpg) 
-
-2023-08-30 | [American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2023-08-30.jpg) 
 
