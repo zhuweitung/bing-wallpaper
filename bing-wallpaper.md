@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-01 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](./wallpaper/2023-10-01.jpg) 
+
 2023-09-30 | [Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](./wallpaper/2023-09-30.jpg) 
 
 2023-09-29 | [Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](./wallpaper/2023-09-29.jpg) 
@@ -56,6 +58,4 @@
 2023-09-02 | [Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](./wallpaper/2023-09-02.jpg) 
 
 2023-09-01 | [Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](./wallpaper/2023-09-01.jpg) 
-
-2023-08-31 | [Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](./wallpaper/2023-08-31.jpg) 
 
