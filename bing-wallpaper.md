@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-02 | [Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)](./wallpaper/2023-10-02.jpg) 
+
 2023-10-01 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](./wallpaper/2023-10-01.jpg) 
 
 2023-09-30 | [Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](./wallpaper/2023-09-30.jpg) 
@@ -56,6 +58,4 @@
 2023-09-03 | [Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](./wallpaper/2023-09-03.jpg) 
 
 2023-09-02 | [Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](./wallpaper/2023-09-02.jpg) 
-
-2023-09-01 | [Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](./wallpaper/2023-09-01.jpg) 
 
