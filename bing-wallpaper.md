@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-04 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](./wallpaper/2023-10-04.jpg) 
+
 2023-10-03 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](./wallpaper/2023-10-03.jpg) 
 
 2023-10-02 | [Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)](./wallpaper/2023-10-02.jpg) 
@@ -56,6 +58,4 @@
 2023-09-05 | [Construction workers on scaffolding (© Bits and Splits/Shutterstock)](./wallpaper/2023-09-05.jpg) 
 
 2023-09-04 | [Aerial view of Manhattan, New York City (© Wojtek Zagorski/Getty Images)](./wallpaper/2023-09-04.jpg) 
-
-2023-09-03 | [Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](./wallpaper/2023-09-03.jpg) 
 
