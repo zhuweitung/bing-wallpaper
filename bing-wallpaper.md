@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-06 | [Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](./wallpaper/2023-10-06.jpg) 
+
 2023-10-05 | [Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](./wallpaper/2023-10-05.jpg) 
 
 2023-10-04 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](./wallpaper/2023-10-04.jpg) 
@@ -56,6 +58,4 @@
 2023-09-07 | [Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](./wallpaper/2023-09-07.jpg) 
 
 2023-09-06 | [Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](./wallpaper/2023-09-06.jpg) 
-
-2023-09-05 | [Construction workers on scaffolding (© Bits and Splits/Shutterstock)](./wallpaper/2023-09-05.jpg) 
 
