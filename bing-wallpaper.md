@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-07 | [Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](./wallpaper/2023-10-07.jpg) 
+
 2023-10-06 | [Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](./wallpaper/2023-10-06.jpg) 
 
 2023-10-05 | [Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](./wallpaper/2023-10-05.jpg) 
@@ -56,6 +58,4 @@
 2023-09-09 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](./wallpaper/2023-09-09.jpg) 
 
 2023-09-07 | [Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](./wallpaper/2023-09-07.jpg) 
-
-2023-09-06 | [Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](./wallpaper/2023-09-06.jpg) 
 
