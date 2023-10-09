@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-10 | [Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](./wallpaper/2023-10-10.jpg) 
+
 2023-10-09 | [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](./wallpaper/2023-10-09.jpg) 
 
 2023-10-08 | [Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](./wallpaper/2023-10-08.jpg) 
@@ -58,6 +60,4 @@
 2023-09-11 | [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](./wallpaper/2023-09-11.jpg) 
 
 2023-09-10 | [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](./wallpaper/2023-09-10.jpg) 
-
-2023-09-09 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](./wallpaper/2023-09-09.jpg) 
 
