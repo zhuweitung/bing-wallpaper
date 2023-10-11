@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-12 | [The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](./wallpaper/2023-10-12.jpg) 
+
 2023-10-11 | [Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2023-10-11.jpg) 
 
 2023-10-10 | [Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](./wallpaper/2023-10-10.jpg) 
@@ -58,6 +60,4 @@
 2023-09-13 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](./wallpaper/2023-09-13.jpg) 
 
 2023-09-12 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](./wallpaper/2023-09-12.jpg) 
-
-2023-09-11 | [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](./wallpaper/2023-09-11.jpg) 
 
