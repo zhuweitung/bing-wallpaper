@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-13 | [Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)](./wallpaper/2023-10-13.jpg) 
+
 2023-10-12 | [The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](./wallpaper/2023-10-12.jpg) 
 
 2023-10-11 | [Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2023-10-11.jpg) 
@@ -58,6 +60,4 @@
 2023-09-14 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](./wallpaper/2023-09-14.jpg) 
 
 2023-09-13 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](./wallpaper/2023-09-13.jpg) 
-
-2023-09-12 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](./wallpaper/2023-09-12.jpg) 
 
