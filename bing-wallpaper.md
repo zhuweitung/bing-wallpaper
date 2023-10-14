@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-15 | ['Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)](./wallpaper/2023-10-15.jpg) 
+
 2023-10-14 | [Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)](./wallpaper/2023-10-14.jpg) 
 
 2023-10-13 | [Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)](./wallpaper/2023-10-13.jpg) 
@@ -58,6 +60,4 @@
 2023-09-16 | [Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico (© Thomas Roche/Getty Images)](./wallpaper/2023-09-16.jpg) 
 
 2023-09-15 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](./wallpaper/2023-09-15.jpg) 
-
-2023-09-14 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](./wallpaper/2023-09-14.jpg) 
 
