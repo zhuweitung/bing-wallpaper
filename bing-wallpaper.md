@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-21 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2023-10-21.jpg) 
+
 2023-10-20 | [Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](./wallpaper/2023-10-20.jpg) 
 
 2023-10-19 | [Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2023-10-19.jpg) 
@@ -58,6 +60,4 @@
 2023-09-22 | [Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](./wallpaper/2023-09-22.jpg) 
 
 2023-09-21 | [Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](./wallpaper/2023-09-21.jpg) 
-
-2023-09-20 | [Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](./wallpaper/2023-09-20.jpg) 
 
