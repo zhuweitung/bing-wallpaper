@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-23 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](./wallpaper/2023-10-23.jpg) 
+
 2023-10-22 | [Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)](./wallpaper/2023-10-22.jpg) 
 
 2023-10-21 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2023-10-21.jpg) 
@@ -58,6 +60,4 @@
 2023-09-24 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2023-09-24.jpg) 
 
 2023-09-23 | [Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa (© David Silverman/Getty Images)](./wallpaper/2023-09-23.jpg) 
-
-2023-09-22 | [Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](./wallpaper/2023-09-22.jpg) 
 
