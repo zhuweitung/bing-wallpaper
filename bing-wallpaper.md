@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-25 | [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](./wallpaper/2023-10-25.jpg) 
+
 2023-10-24 | [Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](./wallpaper/2023-10-24.jpg) 
 
 2023-10-23 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](./wallpaper/2023-10-23.jpg) 
@@ -58,6 +60,4 @@
 2023-09-26 | [Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska (© Andrew Peacock/Tandem Stills + Motion)](./wallpaper/2023-09-26.jpg) 
 
 2023-09-25 | [The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)](./wallpaper/2023-09-25.jpg) 
-
-2023-09-24 | [Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2023-09-24.jpg) 
 
