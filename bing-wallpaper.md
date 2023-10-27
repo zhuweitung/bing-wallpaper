@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-28 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](./wallpaper/2023-10-28.jpg) 
+
 2023-10-27 | [Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](./wallpaper/2023-10-27.jpg) 
 
 2023-10-26 | [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](./wallpaper/2023-10-26.jpg) 
@@ -58,6 +60,4 @@
 2023-09-29 | [Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](./wallpaper/2023-09-29.jpg) 
 
 2023-09-28 | [The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](./wallpaper/2023-09-28.jpg) 
-
-2023-09-27 | [Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](./wallpaper/2023-09-27.jpg) 
 
