@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-01 | [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](./wallpaper/2023-11-01.jpg) 
+
 2023-10-31 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](./wallpaper/2023-10-31.jpg) 
 
 2023-10-30 | [Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](./wallpaper/2023-10-30.jpg) 
@@ -58,6 +60,4 @@
 2023-10-03 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](./wallpaper/2023-10-03.jpg) 
 
 2023-10-02 | [Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)](./wallpaper/2023-10-02.jpg) 
-
-2023-10-01 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](./wallpaper/2023-10-01.jpg) 
 
