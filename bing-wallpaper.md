@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-02 | [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](./wallpaper/2023-11-02.jpg) 
+
 2023-11-01 | [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](./wallpaper/2023-11-01.jpg) 
 
 2023-10-31 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](./wallpaper/2023-10-31.jpg) 
@@ -58,6 +60,4 @@
 2023-10-04 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](./wallpaper/2023-10-04.jpg) 
 
 2023-10-03 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](./wallpaper/2023-10-03.jpg) 
-
-2023-10-02 | [Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)](./wallpaper/2023-10-02.jpg) 
 
