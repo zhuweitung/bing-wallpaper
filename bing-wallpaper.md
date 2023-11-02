@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-03 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-11-03.jpg) 
+
 2023-11-02 | [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](./wallpaper/2023-11-02.jpg) 
 
 2023-11-01 | [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](./wallpaper/2023-11-01.jpg) 
@@ -58,6 +60,4 @@
 2023-10-05 | [Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](./wallpaper/2023-10-05.jpg) 
 
 2023-10-04 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](./wallpaper/2023-10-04.jpg) 
-
-2023-10-03 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](./wallpaper/2023-10-03.jpg) 
 
