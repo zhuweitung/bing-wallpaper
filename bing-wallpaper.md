@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-05 | [American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)](./wallpaper/2023-11-05.jpg) 
+
 2023-11-04 | [Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-11-04.jpg) 
 
 2023-11-03 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-11-03.jpg) 
@@ -58,6 +60,4 @@
 2023-10-07 | [Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](./wallpaper/2023-10-07.jpg) 
 
 2023-10-06 | [Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](./wallpaper/2023-10-06.jpg) 
-
-2023-10-05 | [Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](./wallpaper/2023-10-05.jpg) 
 
