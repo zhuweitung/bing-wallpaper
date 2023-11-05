@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-06 | [Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](./wallpaper/2023-11-06.jpg) 
+
 2023-11-05 | [American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)](./wallpaper/2023-11-05.jpg) 
 
 2023-11-04 | [Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-11-04.jpg) 
@@ -58,6 +60,4 @@
 2023-10-08 | [Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](./wallpaper/2023-10-08.jpg) 
 
 2023-10-07 | [Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](./wallpaper/2023-10-07.jpg) 
-
-2023-10-06 | [Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](./wallpaper/2023-10-06.jpg) 
 
