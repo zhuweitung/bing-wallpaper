@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-09 | [West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2023-11-09.jpg) 
+
 2023-11-08 | [Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](./wallpaper/2023-11-08.jpg) 
 
 2023-11-07 | [Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](./wallpaper/2023-11-07.jpg) 
@@ -58,6 +60,4 @@
 2023-10-11 | [Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2023-10-11.jpg) 
 
 2023-10-10 | [Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](./wallpaper/2023-10-10.jpg) 
-
-2023-10-09 | [Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](./wallpaper/2023-10-09.jpg) 
 
