@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-15 | [Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2023-11-15.jpg) 
+
 2023-11-14 | [Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](./wallpaper/2023-11-14.jpg) 
 
 2023-11-13 | [Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](./wallpaper/2023-11-13.jpg) 
@@ -58,6 +60,4 @@
 2023-10-17 | [Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-10-17.jpg) 
 
 2023-10-16 | [European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)](./wallpaper/2023-10-16.jpg) 
-
-2023-10-15 | ['Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)](./wallpaper/2023-10-15.jpg) 
 
