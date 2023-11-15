@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-16 | [Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](./wallpaper/2023-11-16.jpg) 
+
 2023-11-15 | [Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2023-11-15.jpg) 
 
 2023-11-14 | [Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](./wallpaper/2023-11-14.jpg) 
@@ -58,6 +60,4 @@
 2023-10-18 | [Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](./wallpaper/2023-10-18.jpg) 
 
 2023-10-17 | [Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-10-17.jpg) 
-
-2023-10-16 | [European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)](./wallpaper/2023-10-16.jpg) 
 
