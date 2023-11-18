@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-19 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](./wallpaper/2023-11-19.jpg) 
+
 2023-11-18 | [Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)](./wallpaper/2023-11-18.jpg) 
 
 2023-11-17 | [View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](./wallpaper/2023-11-17.jpg) 
@@ -58,6 +60,4 @@
 2023-10-21 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2023-10-21.jpg) 
 
 2023-10-20 | [Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](./wallpaper/2023-10-20.jpg) 
-
-2023-10-19 | [Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2023-10-19.jpg) 
 
