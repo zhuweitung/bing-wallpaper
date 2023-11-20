@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-21 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](./wallpaper/2023-11-21.jpg) 
+
 2023-11-20 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](./wallpaper/2023-11-20.jpg) 
 
 2023-11-19 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](./wallpaper/2023-11-19.jpg) 
@@ -58,6 +60,4 @@
 2023-10-23 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](./wallpaper/2023-10-23.jpg) 
 
 2023-10-22 | [Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)](./wallpaper/2023-10-22.jpg) 
-
-2023-10-21 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2023-10-21.jpg) 
 
