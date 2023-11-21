@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-22 | [Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)](./wallpaper/2023-11-22.jpg) 
+
 2023-11-21 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](./wallpaper/2023-11-21.jpg) 
 
 2023-11-20 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](./wallpaper/2023-11-20.jpg) 
@@ -58,6 +60,4 @@
 2023-10-24 | [Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](./wallpaper/2023-10-24.jpg) 
 
 2023-10-23 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](./wallpaper/2023-10-23.jpg) 
-
-2023-10-22 | [Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)](./wallpaper/2023-10-22.jpg) 
 
