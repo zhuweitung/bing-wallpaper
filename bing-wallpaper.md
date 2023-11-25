@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-26 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](./wallpaper/2023-11-26.jpg) 
+
 2023-11-25 | [Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)](./wallpaper/2023-11-25.jpg) 
 
 2023-11-24 | [Flint corn (© Cynthia Liang/Shutterstock)](./wallpaper/2023-11-24.jpg) 
@@ -58,6 +60,4 @@
 2023-10-28 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](./wallpaper/2023-10-28.jpg) 
 
 2023-10-27 | [Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](./wallpaper/2023-10-27.jpg) 
-
-2023-10-26 | [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](./wallpaper/2023-10-26.jpg) 
 
