@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-28 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](./wallpaper/2023-11-28.jpg) 
+
 2023-11-27 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](./wallpaper/2023-11-27.jpg) 
 
 2023-11-26 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](./wallpaper/2023-11-26.jpg) 
@@ -58,6 +60,4 @@
 2023-10-30 | [Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](./wallpaper/2023-10-30.jpg) 
 
 2023-10-29 | [Windmills in Castilla-La Mancha, Spain (© Getty Images)](./wallpaper/2023-10-29.jpg) 
-
-2023-10-28 | [Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](./wallpaper/2023-10-28.jpg) 
 
