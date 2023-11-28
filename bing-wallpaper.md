@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-29 | [Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](./wallpaper/2023-11-29.jpg) 
+
 2023-11-28 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](./wallpaper/2023-11-28.jpg) 
 
 2023-11-27 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](./wallpaper/2023-11-27.jpg) 
@@ -58,6 +60,4 @@
 2023-10-31 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](./wallpaper/2023-10-31.jpg) 
 
 2023-10-30 | [Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](./wallpaper/2023-10-30.jpg) 
-
-2023-10-29 | [Windmills in Castilla-La Mancha, Spain (© Getty Images)](./wallpaper/2023-10-29.jpg) 
 
