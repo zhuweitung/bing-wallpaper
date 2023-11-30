@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-01 | [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2023-12-01.jpg) 
+
 2023-11-30 | [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](./wallpaper/2023-11-30.jpg) 
 
 2023-11-29 | [Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](./wallpaper/2023-11-29.jpg) 
@@ -58,6 +60,4 @@
 2023-11-02 | [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](./wallpaper/2023-11-02.jpg) 
 
 2023-11-01 | [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](./wallpaper/2023-11-01.jpg) 
-
-2023-10-31 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](./wallpaper/2023-10-31.jpg) 
 
