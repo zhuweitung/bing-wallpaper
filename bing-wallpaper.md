@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-03 | [North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](./wallpaper/2023-12-03.jpg) 
+
 2023-12-02 | [Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](./wallpaper/2023-12-02.jpg) 
 
 2023-12-01 | [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2023-12-01.jpg) 
@@ -58,6 +60,4 @@
 2023-11-04 | [Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-11-04.jpg) 
 
 2023-11-03 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-11-03.jpg) 
-
-2023-11-02 | [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](./wallpaper/2023-11-02.jpg) 
 
