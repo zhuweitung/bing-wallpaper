@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-05 | [A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)](./wallpaper/2023-12-05.jpg) 
+
 2023-12-04 | [Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2023-12-04.jpg) 
 
 2023-12-03 | [North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](./wallpaper/2023-12-03.jpg) 
@@ -58,6 +60,4 @@
 2023-11-06 | [Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](./wallpaper/2023-11-06.jpg) 
 
 2023-11-05 | [American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)](./wallpaper/2023-11-05.jpg) 
-
-2023-11-04 | [Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2023-11-04.jpg) 
 
