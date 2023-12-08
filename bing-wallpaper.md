@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-09 | [La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)](./wallpaper/2023-12-09.jpg) 
+
 2023-12-08 | [USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)](./wallpaper/2023-12-08.jpg) 
 
 2023-12-07 | [The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](./wallpaper/2023-12-07.jpg) 
@@ -58,6 +60,4 @@
 2023-11-10 | [Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)](./wallpaper/2023-11-10.jpg) 
 
 2023-11-09 | [West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2023-11-09.jpg) 
-
-2023-11-08 | [Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](./wallpaper/2023-11-08.jpg) 
 
