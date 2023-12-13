@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-14 | [Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](./wallpaper/2023-12-14.jpg) 
+
 2023-12-13 | [Poinsettias (© Yarygin/Getty Images)](./wallpaper/2023-12-13.jpg) 
 
 2023-12-12 | [Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](./wallpaper/2023-12-12.jpg) 
@@ -58,6 +60,4 @@
 2023-11-15 | [Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2023-11-15.jpg) 
 
 2023-11-14 | [Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](./wallpaper/2023-11-14.jpg) 
-
-2023-11-13 | [Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](./wallpaper/2023-11-13.jpg) 
 
