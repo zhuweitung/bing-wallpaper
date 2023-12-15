@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-16 | [SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](./wallpaper/2023-12-16.jpg) 
+
 2023-12-15 | [Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)](./wallpaper/2023-12-15.jpg) 
 
 2023-12-14 | [Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](./wallpaper/2023-12-14.jpg) 
@@ -58,6 +60,4 @@
 2023-11-17 | [View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](./wallpaper/2023-11-17.jpg) 
 
 2023-11-16 | [Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](./wallpaper/2023-11-16.jpg) 
-
-2023-11-15 | [Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2023-11-15.jpg) 
 
