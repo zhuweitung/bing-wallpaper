@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-18 | [Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)](./wallpaper/2023-12-18.jpg) 
+
 2023-12-17 | [Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)](./wallpaper/2023-12-17.jpg) 
 
 2023-12-16 | [SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](./wallpaper/2023-12-16.jpg) 
@@ -58,6 +60,4 @@
 2023-11-19 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](./wallpaper/2023-11-19.jpg) 
 
 2023-11-18 | [Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)](./wallpaper/2023-11-18.jpg) 
-
-2023-11-17 | [View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](./wallpaper/2023-11-17.jpg) 
 
