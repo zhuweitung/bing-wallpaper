@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-20 | [Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)](./wallpaper/2023-12-20.jpg) 
+
 2023-12-19 | [Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)](./wallpaper/2023-12-19.jpg) 
 
 2023-12-18 | [Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)](./wallpaper/2023-12-18.jpg) 
@@ -58,6 +60,4 @@
 2023-11-21 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](./wallpaper/2023-11-21.jpg) 
 
 2023-11-20 | [Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](./wallpaper/2023-11-20.jpg) 
-
-2023-11-19 | [Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)](./wallpaper/2023-11-19.jpg) 
 
