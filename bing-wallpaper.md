@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-22 | [Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)](./wallpaper/2023-12-22.jpg) 
+
 2023-12-21 | [Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)](./wallpaper/2023-12-21.jpg) 
 
 2023-12-20 | [Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)](./wallpaper/2023-12-20.jpg) 
@@ -58,6 +60,4 @@
 2023-11-23 | [Grand Teton National Park, Wyoming (© Westend61/Getty Images)](./wallpaper/2023-11-23.jpg) 
 
 2023-11-22 | [Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)](./wallpaper/2023-11-22.jpg) 
-
-2023-11-21 | [Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](./wallpaper/2023-11-21.jpg) 
 
