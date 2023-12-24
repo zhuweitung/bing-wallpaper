@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-25 | [Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)](./wallpaper/2023-12-25.jpg) 
+
 2023-12-24 | [Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)](./wallpaper/2023-12-24.jpg) 
 
 2023-12-23 | [Ljubljana, Slovenia (© kasto80/Getty images)](./wallpaper/2023-12-23.jpg) 
@@ -58,6 +60,4 @@
 2023-11-26 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](./wallpaper/2023-11-26.jpg) 
 
 2023-11-25 | [Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)](./wallpaper/2023-11-25.jpg) 
-
-2023-11-24 | [Flint corn (© Cynthia Liang/Shutterstock)](./wallpaper/2023-11-24.jpg) 
 
