@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-27 | [Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)](./wallpaper/2023-12-27.jpg) 
+
 2023-12-26 | [Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](./wallpaper/2023-12-26.jpg) 
 
 2023-12-25 | [Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)](./wallpaper/2023-12-25.jpg) 
@@ -58,6 +60,4 @@
 2023-11-28 | [Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](./wallpaper/2023-11-28.jpg) 
 
 2023-11-27 | [Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](./wallpaper/2023-11-27.jpg) 
-
-2023-11-26 | [Toledo, Spain (© Carlos Fernandez/Getty Images)](./wallpaper/2023-11-26.jpg) 
 
