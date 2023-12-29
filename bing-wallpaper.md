@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-30 | [Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2023-12-30.jpg) 
+
 2023-12-29 | [Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)](./wallpaper/2023-12-29.jpg) 
 
 2023-12-28 | [Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](./wallpaper/2023-12-28.jpg) 
@@ -58,6 +60,4 @@
 2023-12-01 | [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2023-12-01.jpg) 
 
 2023-11-30 | [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](./wallpaper/2023-11-30.jpg) 
-
-2023-11-29 | [Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](./wallpaper/2023-11-29.jpg) 
 
