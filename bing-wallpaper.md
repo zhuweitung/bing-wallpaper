@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-02 | [Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)](./wallpaper/2024-01-02.jpg) 
+
 2024-01-01 | [Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)](./wallpaper/2024-01-01.jpg) 
 
 2023-12-31 | [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](./wallpaper/2023-12-31.jpg) 
@@ -58,6 +60,4 @@
 2023-12-04 | [Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2023-12-04.jpg) 
 
 2023-12-03 | [North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia (© Amazing Travel Lifestyle/Shutterstock)](./wallpaper/2023-12-03.jpg) 
-
-2023-12-02 | [Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](./wallpaper/2023-12-02.jpg) 
 
