@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-05 | [Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-01-05.jpg) 
+
 2024-01-04 | [Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)](./wallpaper/2024-01-04.jpg) 
 
 2024-01-03 | [Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)](./wallpaper/2024-01-03.jpg) 
@@ -58,6 +60,4 @@
 2023-12-07 | [The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](./wallpaper/2023-12-07.jpg) 
 
 2023-12-06 | [Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)](./wallpaper/2023-12-06.jpg) 
-
-2023-12-05 | [A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)](./wallpaper/2023-12-05.jpg) 
 
