@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-09 | [Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](./wallpaper/2024-01-09.jpg) 
+
 2024-01-08 | [Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2024-01-08.jpg) 
 
 2024-01-07 | [Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)](./wallpaper/2024-01-07.jpg) 
@@ -58,6 +60,4 @@
 2023-12-11 | [Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](./wallpaper/2023-12-11.jpg) 
 
 2023-12-10 | [Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2023-12-10.jpg) 
-
-2023-12-09 | [La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)](./wallpaper/2023-12-09.jpg) 
 
