@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-11 | [Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](./wallpaper/2024-01-11.jpg) 
+
 2024-01-10 | [Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)](./wallpaper/2024-01-10.jpg) 
 
 2024-01-09 | [Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](./wallpaper/2024-01-09.jpg) 
@@ -58,6 +60,4 @@
 2023-12-13 | [Poinsettias (© Yarygin/Getty Images)](./wallpaper/2023-12-13.jpg) 
 
 2023-12-12 | [Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](./wallpaper/2023-12-12.jpg) 
-
-2023-12-11 | [Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](./wallpaper/2023-12-11.jpg) 
 
