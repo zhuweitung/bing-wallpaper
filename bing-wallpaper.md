@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-12 | [Eurasian lynx in the snow (© Jan Stria/Shutterstock)](./wallpaper/2024-01-12.jpg) 
+
 2024-01-11 | [Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](./wallpaper/2024-01-11.jpg) 
 
 2024-01-10 | [Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)](./wallpaper/2024-01-10.jpg) 
@@ -58,6 +60,4 @@
 2023-12-14 | [Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](./wallpaper/2023-12-14.jpg) 
 
 2023-12-13 | [Poinsettias (© Yarygin/Getty Images)](./wallpaper/2023-12-13.jpg) 
-
-2023-12-12 | [Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](./wallpaper/2023-12-12.jpg) 
 
