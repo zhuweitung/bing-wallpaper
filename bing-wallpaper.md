@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-14 | [Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](./wallpaper/2024-01-14.jpg) 
+
 2024-01-13 | [Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](./wallpaper/2024-01-13.jpg) 
 
 2024-01-12 | [Eurasian lynx in the snow (© Jan Stria/Shutterstock)](./wallpaper/2024-01-12.jpg) 
@@ -58,6 +60,4 @@
 2023-12-16 | [SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](./wallpaper/2023-12-16.jpg) 
 
 2023-12-15 | [Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)](./wallpaper/2023-12-15.jpg) 
-
-2023-12-14 | [Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](./wallpaper/2023-12-14.jpg) 
 
