@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-19 | [Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)](./wallpaper/2024-01-19.jpg) 
+
 2024-01-18 | [Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)](./wallpaper/2024-01-18.jpg) 
 
 2024-01-17 | [Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)](./wallpaper/2024-01-17.jpg) 
@@ -58,6 +60,4 @@
 2023-12-21 | [Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)](./wallpaper/2023-12-21.jpg) 
 
 2023-12-20 | [Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)](./wallpaper/2023-12-20.jpg) 
-
-2023-12-19 | [Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)](./wallpaper/2023-12-19.jpg) 
 
