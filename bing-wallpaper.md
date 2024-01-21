@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-22 | [Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)](./wallpaper/2024-01-22.jpg) 
+
 2024-01-21 | [Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)](./wallpaper/2024-01-21.jpg) 
 
 2024-01-20 | [Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)](./wallpaper/2024-01-20.jpg) 
@@ -58,6 +60,4 @@
 2023-12-24 | [Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)](./wallpaper/2023-12-24.jpg) 
 
 2023-12-23 | [Ljubljana, Slovenia (© kasto80/Getty images)](./wallpaper/2023-12-23.jpg) 
-
-2023-12-22 | [Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)](./wallpaper/2023-12-22.jpg) 
 
