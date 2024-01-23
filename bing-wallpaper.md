@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-24 | [Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2024-01-24.jpg) 
+
 2024-01-23 | [Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)](./wallpaper/2024-01-23.jpg) 
 
 2024-01-22 | [Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)](./wallpaper/2024-01-22.jpg) 
@@ -58,6 +60,4 @@
 2023-12-26 | [Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](./wallpaper/2023-12-26.jpg) 
 
 2023-12-25 | [Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)](./wallpaper/2023-12-25.jpg) 
-
-2023-12-24 | [Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)](./wallpaper/2023-12-24.jpg) 
 
