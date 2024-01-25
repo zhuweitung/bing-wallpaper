@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-26 | [Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](./wallpaper/2024-01-26.jpg) 
+
 2024-01-25 | [Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2024-01-25.jpg) 
 
 2024-01-24 | [Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2024-01-24.jpg) 
@@ -58,6 +60,4 @@
 2023-12-28 | [Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](./wallpaper/2023-12-28.jpg) 
 
 2023-12-27 | [Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)](./wallpaper/2023-12-27.jpg) 
-
-2023-12-26 | [Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](./wallpaper/2023-12-26.jpg) 
 
