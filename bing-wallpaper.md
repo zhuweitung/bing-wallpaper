@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-28 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](./wallpaper/2024-01-28.jpg) 
+
 2024-01-27 | [Northern hawk-owl (© Remo Savisaar/Alamy)](./wallpaper/2024-01-27.jpg) 
 
 2024-01-26 | [Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](./wallpaper/2024-01-26.jpg) 
@@ -58,6 +60,4 @@
 2023-12-30 | [Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2023-12-30.jpg) 
 
 2023-12-29 | [Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)](./wallpaper/2023-12-29.jpg) 
-
-2023-12-28 | [Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](./wallpaper/2023-12-28.jpg) 
 
