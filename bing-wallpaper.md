@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-29 | [Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](./wallpaper/2024-01-29.jpg) 
+
 2024-01-28 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](./wallpaper/2024-01-28.jpg) 
 
 2024-01-27 | [Northern hawk-owl (© Remo Savisaar/Alamy)](./wallpaper/2024-01-27.jpg) 
@@ -58,6 +60,4 @@
 2023-12-31 | [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](./wallpaper/2023-12-31.jpg) 
 
 2023-12-30 | [Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2023-12-30.jpg) 
-
-2023-12-29 | [Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)](./wallpaper/2023-12-29.jpg) 
 
