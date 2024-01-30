@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-31 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2024-01-31.jpg) 
+
 2024-01-30 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](./wallpaper/2024-01-30.jpg) 
 
 2024-01-29 | [Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](./wallpaper/2024-01-29.jpg) 
@@ -58,6 +60,4 @@
 2024-01-02 | [Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)](./wallpaper/2024-01-02.jpg) 
 
 2024-01-01 | [Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)](./wallpaper/2024-01-01.jpg) 
-
-2023-12-31 | [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](./wallpaper/2023-12-31.jpg) 
 
