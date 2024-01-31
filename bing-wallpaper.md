@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-01 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2024-02-01.jpg) 
+
 2024-01-31 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2024-01-31.jpg) 
 
 2024-01-30 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](./wallpaper/2024-01-30.jpg) 
@@ -58,6 +60,4 @@
 2024-01-03 | [Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)](./wallpaper/2024-01-03.jpg) 
 
 2024-01-02 | [Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)](./wallpaper/2024-01-02.jpg) 
-
-2024-01-01 | [Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)](./wallpaper/2024-01-01.jpg) 
 
