@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-03 | [Marmot peeking out of its burrow (© Scacciamosche/Getty Images)](./wallpaper/2024-02-03.jpg) 
+
 2024-02-02 | [Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)](./wallpaper/2024-02-02.jpg) 
 
 2024-02-01 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2024-02-01.jpg) 
@@ -58,6 +60,4 @@
 2024-01-05 | [Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-01-05.jpg) 
 
 2024-01-04 | [Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)](./wallpaper/2024-01-04.jpg) 
-
-2024-01-03 | [Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)](./wallpaper/2024-01-03.jpg) 
 
