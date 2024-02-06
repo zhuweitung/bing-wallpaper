@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-07 | [Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-02-07.jpg) 
+
 2024-02-06 | [Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)](./wallpaper/2024-02-06.jpg) 
 
 2024-02-05 | [Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](./wallpaper/2024-02-05.jpg) 
@@ -58,6 +60,4 @@
 2024-01-09 | [Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](./wallpaper/2024-01-09.jpg) 
 
 2024-01-08 | [Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2024-01-08.jpg) 
-
-2024-01-07 | [Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)](./wallpaper/2024-01-07.jpg) 
 
