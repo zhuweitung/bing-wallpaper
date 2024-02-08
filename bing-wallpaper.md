@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-09 | [Mount Hood, Oregon (© Inigo Cia/Getty Images)](./wallpaper/2024-02-09.jpg) 
+
 2024-02-08 | [St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)](./wallpaper/2024-02-08.jpg) 
 
 2024-02-07 | [Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-02-07.jpg) 
@@ -58,6 +60,4 @@
 2024-01-11 | [Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](./wallpaper/2024-01-11.jpg) 
 
 2024-01-10 | [Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)](./wallpaper/2024-01-10.jpg) 
-
-2024-01-09 | [Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](./wallpaper/2024-01-09.jpg) 
 
