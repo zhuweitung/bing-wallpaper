@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-12 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2024-02-12.jpg) 
+
 2024-02-11 | [Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)](./wallpaper/2024-02-11.jpg) 
 
 2024-02-10 | [Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)](./wallpaper/2024-02-10.jpg) 
@@ -58,6 +60,4 @@
 2024-01-14 | [Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](./wallpaper/2024-01-14.jpg) 
 
 2024-01-13 | [Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](./wallpaper/2024-01-13.jpg) 
-
-2024-01-12 | [Eurasian lynx in the snow (© Jan Stria/Shutterstock)](./wallpaper/2024-01-12.jpg) 
 
