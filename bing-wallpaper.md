@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-14 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](./wallpaper/2024-02-14.jpg) 
+
 2024-02-13 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2024-02-13.jpg) 
 
 2024-02-12 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2024-02-12.jpg) 
@@ -58,6 +60,4 @@
 2024-01-16 | [Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](./wallpaper/2024-01-16.jpg) 
 
 2024-01-15 | [Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)](./wallpaper/2024-01-15.jpg) 
-
-2024-01-14 | [Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](./wallpaper/2024-01-14.jpg) 
 
