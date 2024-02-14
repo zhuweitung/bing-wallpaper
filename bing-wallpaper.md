@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-15 | [Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](./wallpaper/2024-02-15.jpg) 
+
 2024-02-14 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](./wallpaper/2024-02-14.jpg) 
 
 2024-02-13 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2024-02-13.jpg) 
@@ -58,6 +60,4 @@
 2024-01-17 | [Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)](./wallpaper/2024-01-17.jpg) 
 
 2024-01-16 | [Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](./wallpaper/2024-01-16.jpg) 
-
-2024-01-15 | [Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)](./wallpaper/2024-01-15.jpg) 
 
