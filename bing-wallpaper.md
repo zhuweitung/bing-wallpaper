@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-16 | [Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](./wallpaper/2024-02-16.jpg) 
+
 2024-02-15 | [Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](./wallpaper/2024-02-15.jpg) 
 
 2024-02-14 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](./wallpaper/2024-02-14.jpg) 
@@ -58,6 +60,4 @@
 2024-01-18 | [Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)](./wallpaper/2024-01-18.jpg) 
 
 2024-01-17 | [Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)](./wallpaper/2024-01-17.jpg) 
-
-2024-01-16 | [Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](./wallpaper/2024-01-16.jpg) 
 
