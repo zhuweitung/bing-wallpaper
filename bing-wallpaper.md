@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-18 | [The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)](./wallpaper/2024-02-18.jpg) 
+
 2024-02-17 | [Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)](./wallpaper/2024-02-17.jpg) 
 
 2024-02-16 | [Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](./wallpaper/2024-02-16.jpg) 
@@ -58,6 +60,4 @@
 2024-01-20 | [Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)](./wallpaper/2024-01-20.jpg) 
 
 2024-01-19 | [Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)](./wallpaper/2024-01-19.jpg) 
-
-2024-01-18 | [Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)](./wallpaper/2024-01-18.jpg) 
 
