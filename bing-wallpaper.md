@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-19 | [Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)](./wallpaper/2024-02-19.jpg) 
+
 2024-02-18 | [The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)](./wallpaper/2024-02-18.jpg) 
 
 2024-02-17 | [Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)](./wallpaper/2024-02-17.jpg) 
@@ -58,6 +60,4 @@
 2024-01-21 | [Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)](./wallpaper/2024-01-21.jpg) 
 
 2024-01-20 | [Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)](./wallpaper/2024-01-20.jpg) 
-
-2024-01-19 | [Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)](./wallpaper/2024-01-19.jpg) 
 
