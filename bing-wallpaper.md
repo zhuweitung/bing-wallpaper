@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-22 | [Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)](./wallpaper/2024-02-22.jpg) 
+
 2024-02-21 | [Kinder Scout at sunrise, Peak District National Park, England (© john finney photography/Getty Images)](./wallpaper/2024-02-21.jpg) 
 
 2024-02-20 | [Lincoln Memorial, Washington, DC (© Steve Whiston/Fallen Log Photography/Getty Images)](./wallpaper/2024-02-20.jpg) 
@@ -58,6 +60,4 @@
 2024-01-24 | [Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2024-01-24.jpg) 
 
 2024-01-23 | [Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)](./wallpaper/2024-01-23.jpg) 
-
-2024-01-22 | [Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)](./wallpaper/2024-01-22.jpg) 
 
