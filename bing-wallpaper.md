@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-24 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](./wallpaper/2024-02-24.jpg) 
+
 2024-02-23 | [Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](./wallpaper/2024-02-23.jpg) 
 
 2024-02-22 | [Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)](./wallpaper/2024-02-22.jpg) 
@@ -58,6 +60,4 @@
 2024-01-26 | [Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](./wallpaper/2024-01-26.jpg) 
 
 2024-01-25 | [Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2024-01-25.jpg) 
-
-2024-01-24 | [Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)](./wallpaper/2024-01-24.jpg) 
 
