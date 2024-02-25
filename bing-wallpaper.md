@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-26 | ['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](./wallpaper/2024-02-26.jpg) 
+
 2024-02-25 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2024-02-25.jpg) 
 
 2024-02-24 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](./wallpaper/2024-02-24.jpg) 
@@ -58,6 +60,4 @@
 2024-01-28 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](./wallpaper/2024-01-28.jpg) 
 
 2024-01-27 | [Northern hawk-owl (© Remo Savisaar/Alamy)](./wallpaper/2024-01-27.jpg) 
-
-2024-01-26 | [Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](./wallpaper/2024-01-26.jpg) 
 
