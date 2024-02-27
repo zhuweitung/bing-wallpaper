@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-28 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](./wallpaper/2024-02-28.jpg) 
+
 2024-02-27 | [Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](./wallpaper/2024-02-27.jpg) 
 
 2024-02-26 | ['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](./wallpaper/2024-02-26.jpg) 
@@ -58,6 +60,4 @@
 2024-01-30 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](./wallpaper/2024-01-30.jpg) 
 
 2024-01-29 | [Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](./wallpaper/2024-01-29.jpg) 
-
-2024-01-28 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](./wallpaper/2024-01-28.jpg) 
 
