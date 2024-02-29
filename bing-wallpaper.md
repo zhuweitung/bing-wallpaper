@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-01 | [Eurasian red squirrel (© Westend61/Getty Images)](./wallpaper/2024-03-01.jpg) 
+
 2024-02-29 | [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](./wallpaper/2024-02-29.jpg) 
 
 2024-02-28 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](./wallpaper/2024-02-28.jpg) 
@@ -58,6 +60,4 @@
 2024-02-01 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2024-02-01.jpg) 
 
 2024-01-31 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2024-01-31.jpg) 
-
-2024-01-30 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](./wallpaper/2024-01-30.jpg) 
 
