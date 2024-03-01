@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-02 | [Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)](./wallpaper/2024-03-02.jpg) 
+
 2024-03-01 | [Eurasian red squirrel (© Westend61/Getty Images)](./wallpaper/2024-03-01.jpg) 
 
 2024-02-29 | [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](./wallpaper/2024-02-29.jpg) 
@@ -58,6 +60,4 @@
 2024-02-02 | [Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)](./wallpaper/2024-02-02.jpg) 
 
 2024-02-01 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](./wallpaper/2024-02-01.jpg) 
-
-2024-01-31 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2024-01-31.jpg) 
 
