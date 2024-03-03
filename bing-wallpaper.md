@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-04 | [Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)](./wallpaper/2024-03-04.jpg) 
+
 2024-03-03 | [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](./wallpaper/2024-03-03.jpg) 
 
 2024-03-02 | [Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)](./wallpaper/2024-03-02.jpg) 
@@ -58,6 +60,4 @@
 2024-02-04 | [Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](./wallpaper/2024-02-04.jpg) 
 
 2024-02-03 | [Marmot peeking out of its burrow (© Scacciamosche/Getty Images)](./wallpaper/2024-02-03.jpg) 
-
-2024-02-02 | [Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)](./wallpaper/2024-02-02.jpg) 
 
