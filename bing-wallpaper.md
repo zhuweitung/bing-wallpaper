@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-07 | [Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2024-03-07.jpg) 
+
 2024-03-06 | [Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](./wallpaper/2024-03-06.jpg) 
 
 2024-03-05 | [Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](./wallpaper/2024-03-05.jpg) 
@@ -58,6 +60,4 @@
 2024-02-07 | [Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-02-07.jpg) 
 
 2024-02-06 | [Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)](./wallpaper/2024-02-06.jpg) 
-
-2024-02-05 | [Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](./wallpaper/2024-02-05.jpg) 
 
