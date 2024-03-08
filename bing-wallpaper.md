@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-09 | [Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](./wallpaper/2024-03-09.jpg) 
+
 2024-03-08 | [Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](./wallpaper/2024-03-08.jpg) 
 
 2024-03-07 | [Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2024-03-07.jpg) 
@@ -58,6 +60,4 @@
 2024-02-09 | [Mount Hood, Oregon (© Inigo Cia/Getty Images)](./wallpaper/2024-02-09.jpg) 
 
 2024-02-08 | [St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)](./wallpaper/2024-02-08.jpg) 
-
-2024-02-07 | [Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-02-07.jpg) 
 
