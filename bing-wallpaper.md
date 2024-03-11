@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-12 | [A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](./wallpaper/2024-03-12.jpg) 
+
 2024-03-11 | [San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](./wallpaper/2024-03-11.jpg) 
 
 2024-03-10 | [Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2024-03-10.jpg) 
@@ -58,6 +60,4 @@
 2024-02-12 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2024-02-12.jpg) 
 
 2024-02-11 | [Artists performing the dragon dance for Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)](./wallpaper/2024-02-11.jpg) 
-
-2024-02-10 | [Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)](./wallpaper/2024-02-10.jpg) 
 
