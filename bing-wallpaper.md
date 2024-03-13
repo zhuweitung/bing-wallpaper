@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-14 | [Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2024-03-14.jpg) 
+
 2024-03-13 | [Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-03-13.jpg) 
 
 2024-03-12 | [A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](./wallpaper/2024-03-12.jpg) 
@@ -58,6 +60,4 @@
 2024-02-14 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](./wallpaper/2024-02-14.jpg) 
 
 2024-02-13 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2024-02-13.jpg) 
-
-2024-02-12 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2024-02-12.jpg) 
 
