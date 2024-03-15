@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-16 | [Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2024-03-16.jpg) 
+
 2024-03-15 | [Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)](./wallpaper/2024-03-15.jpg) 
 
 2024-03-14 | [Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2024-03-14.jpg) 
@@ -58,6 +60,4 @@
 2024-02-16 | [Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](./wallpaper/2024-02-16.jpg) 
 
 2024-02-15 | [Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](./wallpaper/2024-02-15.jpg) 
-
-2024-02-14 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](./wallpaper/2024-02-14.jpg) 
 
