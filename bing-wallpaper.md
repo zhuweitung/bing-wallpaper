@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-25 | [Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)](./wallpaper/2024-03-25.jpg) 
+
 2024-03-24 | [Large anvil clouds above the Amazon in Brazil (© NASA)](./wallpaper/2024-03-24.jpg) 
 
 2024-03-23 | [Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)](./wallpaper/2024-03-23.jpg) 
@@ -58,6 +60,4 @@
 2024-02-25 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2024-02-25.jpg) 
 
 2024-02-24 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](./wallpaper/2024-02-24.jpg) 
-
-2024-02-23 | [Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](./wallpaper/2024-02-23.jpg) 
 
