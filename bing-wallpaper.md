@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-27 | [Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](./wallpaper/2024-03-27.jpg) 
+
 2024-03-26 | [Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](./wallpaper/2024-03-26.jpg) 
 
 2024-03-25 | [Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)](./wallpaper/2024-03-25.jpg) 
@@ -58,6 +60,4 @@
 2024-02-27 | [Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](./wallpaper/2024-02-27.jpg) 
 
 2024-02-26 | ['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](./wallpaper/2024-02-26.jpg) 
-
-2024-02-25 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](./wallpaper/2024-02-25.jpg) 
 
