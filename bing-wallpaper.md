@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-30 | [South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)](./wallpaper/2024-03-30.jpg) 
+
 2024-03-29 | [Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](./wallpaper/2024-03-29.jpg) 
 
 2024-03-28 | [Teatro Colón in Buenos Aires, Argentina (© Wei Hao Ho/Alamy)](./wallpaper/2024-03-28.jpg) 
@@ -58,6 +60,4 @@
 2024-03-01 | [Eurasian red squirrel (© Westend61/Getty Images)](./wallpaper/2024-03-01.jpg) 
 
 2024-02-29 | [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](./wallpaper/2024-02-29.jpg) 
-
-2024-02-28 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](./wallpaper/2024-02-28.jpg) 
 
