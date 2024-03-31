@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-01 | [Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](./wallpaper/2024-04-01.jpg) 
+
 2024-03-31 | [Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2024-03-31.jpg) 
 
 2024-03-30 | [South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)](./wallpaper/2024-03-30.jpg) 
@@ -58,6 +60,4 @@
 2024-03-03 | [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](./wallpaper/2024-03-03.jpg) 
 
 2024-03-02 | [Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915 (© Bettmann/Getty Images)](./wallpaper/2024-03-02.jpg) 
-
-2024-03-01 | [Eurasian red squirrel (© Westend61/Getty Images)](./wallpaper/2024-03-01.jpg) 
 
