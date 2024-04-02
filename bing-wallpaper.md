@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-03 | [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](./wallpaper/2024-04-03.jpg) 
+
 2024-04-02 | ['Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)](./wallpaper/2024-04-02.jpg) 
 
 2024-04-01 | [Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](./wallpaper/2024-04-01.jpg) 
@@ -58,6 +60,4 @@
 2024-03-05 | [Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](./wallpaper/2024-03-05.jpg) 
 
 2024-03-04 | [Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)](./wallpaper/2024-03-04.jpg) 
-
-2024-03-03 | [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](./wallpaper/2024-03-03.jpg) 
 
