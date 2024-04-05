@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-06 | [The Bahamas photographed from the International Space Station (© NASA)](./wallpaper/2024-04-06.jpg) 
+
 2024-04-05 | [Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2024-04-05.jpg) 
 
 2024-04-04 | [A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)](./wallpaper/2024-04-04.jpg) 
@@ -58,6 +60,4 @@
 2024-03-08 | [Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](./wallpaper/2024-03-08.jpg) 
 
 2024-03-07 | [Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2024-03-07.jpg) 
-
-2024-03-06 | [Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](./wallpaper/2024-03-06.jpg) 
 
