@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-07 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](./wallpaper/2024-04-07.jpg) 
+
 2024-04-06 | [The Bahamas photographed from the International Space Station (© NASA)](./wallpaper/2024-04-06.jpg) 
 
 2024-04-05 | [Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2024-04-05.jpg) 
@@ -58,6 +60,4 @@
 2024-03-09 | [Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](./wallpaper/2024-03-09.jpg) 
 
 2024-03-08 | [Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](./wallpaper/2024-03-08.jpg) 
-
-2024-03-07 | [Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2024-03-07.jpg) 
 
