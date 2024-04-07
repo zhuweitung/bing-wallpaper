@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-08 | [North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](./wallpaper/2024-04-08.jpg) 
+
 2024-04-07 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](./wallpaper/2024-04-07.jpg) 
 
 2024-04-06 | [The Bahamas photographed from the International Space Station (© NASA)](./wallpaper/2024-04-06.jpg) 
@@ -58,6 +60,4 @@
 2024-03-10 | [Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2024-03-10.jpg) 
 
 2024-03-09 | [Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](./wallpaper/2024-03-09.jpg) 
-
-2024-03-08 | [Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](./wallpaper/2024-03-08.jpg) 
 
