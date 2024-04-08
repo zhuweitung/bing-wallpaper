@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-09 | [Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)](./wallpaper/2024-04-09.jpg) 
+
 2024-04-08 | [North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](./wallpaper/2024-04-08.jpg) 
 
 2024-04-07 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](./wallpaper/2024-04-07.jpg) 
@@ -58,6 +60,4 @@
 2024-03-11 | [San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](./wallpaper/2024-03-11.jpg) 
 
 2024-03-10 | [Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2024-03-10.jpg) 
-
-2024-03-09 | [Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](./wallpaper/2024-03-09.jpg) 
 
