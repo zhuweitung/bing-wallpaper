@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-13 | [Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)](./wallpaper/2024-04-13.jpg) 
+
 2024-04-12 | [Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2024-04-12.jpg) 
 
 2024-04-11 | [Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)](./wallpaper/2024-04-11.jpg) 
@@ -58,6 +60,4 @@
 2024-03-15 | [Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)](./wallpaper/2024-03-15.jpg) 
 
 2024-03-14 | [Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2024-03-14.jpg) 
-
-2024-03-13 | [Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2024-03-13.jpg) 
 
