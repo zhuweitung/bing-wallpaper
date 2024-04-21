@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-22 | [Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)](./wallpaper/2024-04-22.jpg) 
+
 2024-04-21 | [Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](./wallpaper/2024-04-21.jpg) 
 
 2024-04-20 | [The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](./wallpaper/2024-04-20.jpg) 
@@ -58,6 +60,4 @@
 2024-03-24 | [Large anvil clouds above the Amazon in Brazil (© NASA)](./wallpaper/2024-03-24.jpg) 
 
 2024-03-23 | [Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)](./wallpaper/2024-03-23.jpg) 
-
-2024-03-22 | [Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](./wallpaper/2024-03-22.jpg) 
 
