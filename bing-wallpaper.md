@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-29 | [El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)](./wallpaper/2024-04-29.jpg) 
+
 2024-04-28 | [Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California (© yhelfman/Getty Images)](./wallpaper/2024-04-28.jpg) 
 
 2024-04-27 | [Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)](./wallpaper/2024-04-27.jpg) 
@@ -58,6 +60,4 @@
 2024-03-31 | [Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2024-03-31.jpg) 
 
 2024-03-30 | [South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)](./wallpaper/2024-03-30.jpg) 
-
-2024-03-29 | [Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](./wallpaper/2024-03-29.jpg) 
 
