@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-02 | [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](./wallpaper/2024-05-02.jpg) 
+
 2024-05-01 | [Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)](./wallpaper/2024-05-01.jpg) 
 
 2024-04-30 | [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](./wallpaper/2024-04-30.jpg) 
@@ -58,6 +60,4 @@
 2024-04-03 | [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](./wallpaper/2024-04-03.jpg) 
 
 2024-04-02 | ['Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)](./wallpaper/2024-04-02.jpg) 
-
-2024-04-01 | [Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](./wallpaper/2024-04-01.jpg) 
 
