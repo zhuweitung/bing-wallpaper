@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-03 | [Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](./wallpaper/2024-05-03.jpg) 
+
 2024-05-02 | [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](./wallpaper/2024-05-02.jpg) 
 
 2024-05-01 | [Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)](./wallpaper/2024-05-01.jpg) 
@@ -58,6 +60,4 @@
 2024-04-04 | [A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan (© Emad aljumah/Getty Images)](./wallpaper/2024-04-04.jpg) 
 
 2024-04-03 | [Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)](./wallpaper/2024-04-03.jpg) 
-
-2024-04-02 | ['Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)](./wallpaper/2024-04-02.jpg) 
 
