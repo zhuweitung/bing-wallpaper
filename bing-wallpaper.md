@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-06 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](./wallpaper/2024-05-06.jpg) 
+
 2024-05-05 | [Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)](./wallpaper/2024-05-05.jpg) 
 
 2024-05-04 | [Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](./wallpaper/2024-05-04.jpg) 
@@ -58,6 +60,4 @@
 2024-04-07 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](./wallpaper/2024-04-07.jpg) 
 
 2024-04-06 | [The Bahamas photographed from the International Space Station (© NASA)](./wallpaper/2024-04-06.jpg) 
-
-2024-04-05 | [Red lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2024-04-05.jpg) 
 
