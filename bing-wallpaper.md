@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-08 | [A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)](./wallpaper/2024-05-08.jpg) 
+
 2024-05-07 | [The Roaches, Peak District, England (© George W Johnson/Getty Images)](./wallpaper/2024-05-07.jpg) 
 
 2024-05-06 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](./wallpaper/2024-05-06.jpg) 
@@ -58,6 +60,4 @@
 2024-04-09 | [Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)](./wallpaper/2024-04-09.jpg) 
 
 2024-04-08 | [North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](./wallpaper/2024-04-08.jpg) 
-
-2024-04-07 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](./wallpaper/2024-04-07.jpg) 
 
