@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-17 | ['Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)](./wallpaper/2024-05-17.jpg) 
+
 2024-05-16 | [The Blue City of Jodhpur, India (© cinoby/Getty Images)](./wallpaper/2024-05-16.jpg) 
 
 2024-05-15 | [Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)](./wallpaper/2024-05-15.jpg) 
@@ -58,6 +60,4 @@
 2024-04-18 | [American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)](./wallpaper/2024-04-18.jpg) 
 
 2024-04-17 | [Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)](./wallpaper/2024-04-17.jpg) 
-
-2024-04-16 | [The RedBall Project art installation, Centraal Station, Antwerp, Belgium (© Brit Worgan/Getty Images)](./wallpaper/2024-04-16.jpg) 
 
