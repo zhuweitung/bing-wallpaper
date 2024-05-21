@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-22 | [Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)](./wallpaper/2024-05-22.jpg) 
+
 2024-05-21 | [Bee tending a honeycomb (© Simun Ascic/Alamy)](./wallpaper/2024-05-21.jpg) 
 
 2024-05-20 | [Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)](./wallpaper/2024-05-20.jpg) 
@@ -58,6 +60,4 @@
 2024-04-23 | [Green sea turtle, San Diego, California (© Ralph Pace/Minden Pictures)](./wallpaper/2024-04-23.jpg) 
 
 2024-04-22 | [Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)](./wallpaper/2024-04-22.jpg) 
-
-2024-04-21 | [Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](./wallpaper/2024-04-21.jpg) 
 
