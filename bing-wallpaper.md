@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-26 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](./wallpaper/2024-05-26.jpg) 
+
 2024-05-25 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](./wallpaper/2024-05-25.jpg) 
 
 2024-05-23 | [Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)](./wallpaper/2024-05-23.jpg) 
@@ -56,6 +58,4 @@
 2024-04-27 | [Tree of Life, Kalaloch Beach, Olympic National Park, Washington (© Abbie Warnock-Matthews/Shutterstock)](./wallpaper/2024-04-27.jpg) 
 
 2024-04-26 | [Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)](./wallpaper/2024-04-26.jpg) 
-
-2024-04-25 | [White trilliums blooming in Ontario, Canada (© Jun Zhang/Getty Images)](./wallpaper/2024-04-25.jpg) 
 
