@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-02 | [San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)](./wallpaper/2024-06-02.jpg) 
+
 2024-06-01 | [Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)](./wallpaper/2024-06-01.jpg) 
 
 2024-05-31 | [A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](./wallpaper/2024-05-31.jpg) 
@@ -56,6 +58,4 @@
 2024-05-04 | [Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](./wallpaper/2024-05-04.jpg) 
 
 2024-05-03 | [Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](./wallpaper/2024-05-03.jpg) 
-
-2024-05-02 | [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](./wallpaper/2024-05-02.jpg) 
 
