@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-04 | [Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)](./wallpaper/2024-06-04.jpg) 
+
 2024-06-03 | [Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)](./wallpaper/2024-06-03.jpg) 
 
 2024-06-02 | [San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)](./wallpaper/2024-06-02.jpg) 
@@ -56,6 +58,4 @@
 2024-05-06 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](./wallpaper/2024-05-06.jpg) 
 
 2024-05-05 | [Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)](./wallpaper/2024-05-05.jpg) 
-
-2024-05-04 | [Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](./wallpaper/2024-05-04.jpg) 
 
