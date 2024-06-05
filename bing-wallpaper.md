@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-06 | [Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](./wallpaper/2024-06-06.jpg) 
+
 2024-06-05 | [Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)](./wallpaper/2024-06-05.jpg) 
 
 2024-06-04 | [Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)](./wallpaper/2024-06-04.jpg) 
@@ -56,6 +58,4 @@
 2024-05-08 | [A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)](./wallpaper/2024-05-08.jpg) 
 
 2024-05-07 | [The Roaches, Peak District, England (© George W Johnson/Getty Images)](./wallpaper/2024-05-07.jpg) 
-
-2024-05-06 | [Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](./wallpaper/2024-05-06.jpg) 
 
