@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-09 | [Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2024-06-09.jpg) 
+
 2024-06-08 | [Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2024-06-08.jpg) 
 
 2024-06-07 | [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](./wallpaper/2024-06-07.jpg) 
@@ -56,6 +58,4 @@
 2024-05-11 | [Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](./wallpaper/2024-05-11.jpg) 
 
 2024-05-10 | [Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](./wallpaper/2024-05-10.jpg) 
-
-2024-05-09 | [View of Château d'If in the port of Marseille, France (© Sergii Figurnyi/Alamy)](./wallpaper/2024-05-09.jpg) 
 
