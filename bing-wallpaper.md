@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-12 | [Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2024-06-12.jpg) 
+
 2024-06-11 | [Osaka at night, Japan (© wichianduangsri/Getty Images)](./wallpaper/2024-06-11.jpg) 
 
 2024-06-10 | [Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)](./wallpaper/2024-06-10.jpg) 
@@ -56,6 +58,4 @@
 2024-05-14 | [Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)](./wallpaper/2024-05-14.jpg) 
 
 2024-05-13 | [Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina (© Gabriel Rojo/Minden Pictures)](./wallpaper/2024-05-13.jpg) 
-
-2024-05-12 | [An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)](./wallpaper/2024-05-12.jpg) 
 
