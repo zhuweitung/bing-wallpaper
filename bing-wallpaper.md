@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-14 | [Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](./wallpaper/2024-06-14.jpg) 
+
 2024-06-13 | [Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)](./wallpaper/2024-06-13.jpg) 
 
 2024-06-12 | [Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2024-06-12.jpg) 
@@ -56,6 +58,4 @@
 2024-05-16 | [The Blue City of Jodhpur, India (© cinoby/Getty Images)](./wallpaper/2024-05-16.jpg) 
 
 2024-05-15 | [Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)](./wallpaper/2024-05-15.jpg) 
-
-2024-05-14 | [Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)](./wallpaper/2024-05-14.jpg) 
 
