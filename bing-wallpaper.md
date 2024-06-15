@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-16 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](./wallpaper/2024-06-16.jpg) 
+
 2024-06-15 | [Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](./wallpaper/2024-06-15.jpg) 
 
 2024-06-14 | [Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](./wallpaper/2024-06-14.jpg) 
@@ -56,6 +58,4 @@
 2024-05-18 | [A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2024-05-18.jpg) 
 
 2024-05-17 | ['Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)](./wallpaper/2024-05-17.jpg) 
-
-2024-05-16 | [The Blue City of Jodhpur, India (© cinoby/Getty Images)](./wallpaper/2024-05-16.jpg) 
 
