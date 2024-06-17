@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-18 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](./wallpaper/2024-06-18.jpg) 
+
 2024-06-17 | [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](./wallpaper/2024-06-17.jpg) 
 
 2024-06-16 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](./wallpaper/2024-06-16.jpg) 
@@ -56,6 +58,4 @@
 2024-05-20 | [Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)](./wallpaper/2024-05-20.jpg) 
 
 2024-05-19 | [Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)](./wallpaper/2024-05-19.jpg) 
-
-2024-05-18 | [A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2024-05-18.jpg) 
 
