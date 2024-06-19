@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-20 | [Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](./wallpaper/2024-06-20.jpg) 
+
 2024-06-19 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](./wallpaper/2024-06-19.jpg) 
 
 2024-06-18 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](./wallpaper/2024-06-18.jpg) 
@@ -56,6 +58,4 @@
 2024-05-22 | [Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)](./wallpaper/2024-05-22.jpg) 
 
 2024-05-21 | [Bee tending a honeycomb (© Simun Ascic/Alamy)](./wallpaper/2024-05-21.jpg) 
-
-2024-05-20 | [Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)](./wallpaper/2024-05-20.jpg) 
 
