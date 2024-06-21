@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-22 | [Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)](./wallpaper/2024-06-22.jpg) 
+
 2024-06-21 | [Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)](./wallpaper/2024-06-21.jpg) 
 
 2024-06-20 | [Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](./wallpaper/2024-06-20.jpg) 
@@ -56,6 +58,4 @@
 2024-05-25 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](./wallpaper/2024-05-25.jpg) 
 
 2024-05-23 | [Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)](./wallpaper/2024-05-23.jpg) 
-
-2024-05-22 | [Cameron Highlands tea plantation, Malaysia (© alex cheong/Getty Images)](./wallpaper/2024-05-22.jpg) 
 
