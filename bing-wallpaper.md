@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-25 | [Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](./wallpaper/2024-06-25.jpg) 
+
 2024-06-24 | [Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](./wallpaper/2024-06-24.jpg) 
 
 2024-06-23 | [Amazon rainforest, Brazil (© Claus Meyer/plainpicture)](./wallpaper/2024-06-23.jpg) 
@@ -58,6 +60,4 @@
 2024-05-27 | [Balsamroot and lupines, Methow Valley, North Cascades, Washington (© Alan Majchrowicz/Getty Images)](./wallpaper/2024-05-27.jpg) 
 
 2024-05-26 | [Aït Benhaddou, Morocco (© Grant Faint/Getty Images)](./wallpaper/2024-05-26.jpg) 
-
-2024-05-25 | [Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain (© Marisa Estivill/Shutterstock)](./wallpaper/2024-05-25.jpg) 
 
