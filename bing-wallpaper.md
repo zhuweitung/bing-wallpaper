@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-28 | [Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)](./wallpaper/2024-06-28.jpg) 
+
 2024-06-27 | [Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)](./wallpaper/2024-06-27.jpg) 
 
 2024-06-26 | [Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](./wallpaper/2024-06-26.jpg) 
@@ -58,6 +60,4 @@
 2024-05-30 | [Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)](./wallpaper/2024-05-30.jpg) 
 
 2024-05-29 | [Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](./wallpaper/2024-05-29.jpg) 
-
-2024-05-28 | [Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)](./wallpaper/2024-05-28.jpg) 
 
