@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-29 | [Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)](./wallpaper/2024-06-29.jpg) 
+
 2024-06-28 | [Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)](./wallpaper/2024-06-28.jpg) 
 
 2024-06-27 | [Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)](./wallpaper/2024-06-27.jpg) 
@@ -58,6 +60,4 @@
 2024-05-31 | [A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](./wallpaper/2024-05-31.jpg) 
 
 2024-05-30 | [Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)](./wallpaper/2024-05-30.jpg) 
-
-2024-05-29 | [Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](./wallpaper/2024-05-29.jpg) 
 
