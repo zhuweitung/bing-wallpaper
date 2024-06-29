@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-30 | [Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)](./wallpaper/2024-06-30.jpg) 
+
 2024-06-29 | [Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)](./wallpaper/2024-06-29.jpg) 
 
 2024-06-28 | [Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)](./wallpaper/2024-06-28.jpg) 
@@ -58,6 +60,4 @@
 2024-06-01 | [Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)](./wallpaper/2024-06-01.jpg) 
 
 2024-05-31 | [A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](./wallpaper/2024-05-31.jpg) 
-
-2024-05-30 | [Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)](./wallpaper/2024-05-30.jpg) 
 
