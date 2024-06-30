@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-01 | [Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](./wallpaper/2024-07-01.jpg) 
+
 2024-06-30 | [Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)](./wallpaper/2024-06-30.jpg) 
 
 2024-06-29 | [Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)](./wallpaper/2024-06-29.jpg) 
@@ -58,6 +60,4 @@
 2024-06-02 | [San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)](./wallpaper/2024-06-02.jpg) 
 
 2024-06-01 | [Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)](./wallpaper/2024-06-01.jpg) 
-
-2024-05-31 | [A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](./wallpaper/2024-05-31.jpg) 
 
