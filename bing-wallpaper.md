@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-03 | [The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](./wallpaper/2024-07-03.jpg) 
+
 2024-07-02 | [Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)](./wallpaper/2024-07-02.jpg) 
 
 2024-07-01 | [Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](./wallpaper/2024-07-01.jpg) 
@@ -58,6 +60,4 @@
 2024-06-04 | [Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)](./wallpaper/2024-06-04.jpg) 
 
 2024-06-03 | [Flowers blooming in a garden, Alaska (© jet 67/Shutterstock)](./wallpaper/2024-06-03.jpg) 
-
-2024-06-02 | [San Francisco City Hall lit up in rainbow lights for Pride, California (© Josh Edelson/AFP via Getty Images)](./wallpaper/2024-06-02.jpg) 
 
