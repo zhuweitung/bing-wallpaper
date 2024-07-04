@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-05 | [Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)](./wallpaper/2024-07-05.jpg) 
+
 2024-07-04 | [Meerkat family (© anetapics/Shutterstock)](./wallpaper/2024-07-04.jpg) 
 
 2024-07-03 | [The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](./wallpaper/2024-07-03.jpg) 
@@ -58,6 +60,4 @@
 2024-06-06 | [Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](./wallpaper/2024-06-06.jpg) 
 
 2024-06-05 | [Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)](./wallpaper/2024-06-05.jpg) 
-
-2024-06-04 | [Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)](./wallpaper/2024-06-04.jpg) 
 
