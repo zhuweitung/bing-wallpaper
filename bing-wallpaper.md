@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-07 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](./wallpaper/2024-07-07.jpg) 
+
 2024-07-06 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](./wallpaper/2024-07-06.jpg) 
 
 2024-07-05 | [Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)](./wallpaper/2024-07-05.jpg) 
@@ -58,6 +60,4 @@
 2024-06-08 | [Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2024-06-08.jpg) 
 
 2024-06-07 | [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](./wallpaper/2024-06-07.jpg) 
-
-2024-06-06 | [Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](./wallpaper/2024-06-06.jpg) 
 
