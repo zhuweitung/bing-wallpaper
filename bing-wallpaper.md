@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-08 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](./wallpaper/2024-07-08.jpg) 
+
 2024-07-07 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](./wallpaper/2024-07-07.jpg) 
 
 2024-07-06 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](./wallpaper/2024-07-06.jpg) 
@@ -58,6 +60,4 @@
 2024-06-09 | [Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2024-06-09.jpg) 
 
 2024-06-08 | [Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2024-06-08.jpg) 
-
-2024-06-07 | [Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](./wallpaper/2024-06-07.jpg) 
 
