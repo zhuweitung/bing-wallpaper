@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-09 | [Blueberries growing in the wild (© Baac3nes/Getty Images)](./wallpaper/2024-07-09.jpg) 
+
 2024-07-08 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](./wallpaper/2024-07-08.jpg) 
 
 2024-07-07 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](./wallpaper/2024-07-07.jpg) 
@@ -58,6 +60,4 @@
 2024-06-10 | [Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)](./wallpaper/2024-06-10.jpg) 
 
 2024-06-09 | [Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2024-06-09.jpg) 
-
-2024-06-08 | [Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](./wallpaper/2024-06-08.jpg) 
 
