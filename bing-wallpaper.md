@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-11 | [Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2024-07-11.jpg) 
+
 2024-07-10 | [Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)](./wallpaper/2024-07-10.jpg) 
 
 2024-07-09 | [Blueberries growing in the wild (© Baac3nes/Getty Images)](./wallpaper/2024-07-09.jpg) 
@@ -58,6 +60,4 @@
 2024-06-12 | [Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](./wallpaper/2024-06-12.jpg) 
 
 2024-06-11 | [Osaka at night, Japan (© wichianduangsri/Getty Images)](./wallpaper/2024-06-11.jpg) 
-
-2024-06-10 | [Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)](./wallpaper/2024-06-10.jpg) 
 
