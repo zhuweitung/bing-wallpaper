@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-15 | [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](./wallpaper/2024-07-15.jpg) 
+
 2024-07-14 | [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](./wallpaper/2024-07-14.jpg) 
 
 2024-07-13 | [Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)](./wallpaper/2024-07-13.jpg) 
@@ -58,6 +60,4 @@
 2024-06-16 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](./wallpaper/2024-06-16.jpg) 
 
 2024-06-15 | [Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](./wallpaper/2024-06-15.jpg) 
-
-2024-06-14 | [Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](./wallpaper/2024-06-14.jpg) 
 
