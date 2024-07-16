@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-17 | [The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](./wallpaper/2024-07-17.jpg) 
+
 2024-07-16 | [Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](./wallpaper/2024-07-16.jpg) 
 
 2024-07-15 | [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](./wallpaper/2024-07-15.jpg) 
@@ -58,6 +60,4 @@
 2024-06-18 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](./wallpaper/2024-06-18.jpg) 
 
 2024-06-17 | [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](./wallpaper/2024-06-17.jpg) 
-
-2024-06-16 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](./wallpaper/2024-06-16.jpg) 
 
