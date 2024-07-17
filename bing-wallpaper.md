@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-18 | [Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](./wallpaper/2024-07-18.jpg) 
+
 2024-07-17 | [The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](./wallpaper/2024-07-17.jpg) 
 
 2024-07-16 | [Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](./wallpaper/2024-07-16.jpg) 
@@ -58,6 +60,4 @@
 2024-06-19 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](./wallpaper/2024-06-19.jpg) 
 
 2024-06-18 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](./wallpaper/2024-06-18.jpg) 
-
-2024-06-17 | [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](./wallpaper/2024-06-17.jpg) 
 
