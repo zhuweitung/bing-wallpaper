@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-20 | [A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](./wallpaper/2024-07-20.jpg) 
+
 2024-07-19 | [Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)](./wallpaper/2024-07-19.jpg) 
 
 2024-07-18 | [Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](./wallpaper/2024-07-18.jpg) 
@@ -58,6 +60,4 @@
 2024-06-21 | [Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)](./wallpaper/2024-06-21.jpg) 
 
 2024-06-20 | [Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](./wallpaper/2024-06-20.jpg) 
-
-2024-06-19 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](./wallpaper/2024-06-19.jpg) 
 
