@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-22 | [Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)](./wallpaper/2024-07-22.jpg) 
+
 2024-07-21 | [The moon (© Victor Blum/Getty Images)](./wallpaper/2024-07-21.jpg) 
 
 2024-07-20 | [A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](./wallpaper/2024-07-20.jpg) 
@@ -58,6 +60,4 @@
 2024-06-23 | [Amazon rainforest, Brazil (© Claus Meyer/plainpicture)](./wallpaper/2024-06-23.jpg) 
 
 2024-06-22 | [Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)](./wallpaper/2024-06-22.jpg) 
-
-2024-06-21 | [Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)](./wallpaper/2024-06-21.jpg) 
 
