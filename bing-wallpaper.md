@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-25 | [Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](./wallpaper/2024-07-25.jpg) 
+
 2024-07-24 | [Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](./wallpaper/2024-07-24.jpg) 
 
 2024-07-23 | [Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2024-07-23.jpg) 
@@ -58,6 +60,4 @@
 2024-06-26 | [Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](./wallpaper/2024-06-26.jpg) 
 
 2024-06-25 | [Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](./wallpaper/2024-06-25.jpg) 
-
-2024-06-24 | [Aerial view of an intersection in Dhaka, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](./wallpaper/2024-06-24.jpg) 
 
