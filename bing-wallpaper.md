@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-26 | [Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)](./wallpaper/2024-07-26.jpg) 
+
 2024-07-25 | [Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](./wallpaper/2024-07-25.jpg) 
 
 2024-07-24 | [Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](./wallpaper/2024-07-24.jpg) 
@@ -58,6 +60,4 @@
 2024-06-27 | [Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)](./wallpaper/2024-06-27.jpg) 
 
 2024-06-26 | [Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](./wallpaper/2024-06-26.jpg) 
-
-2024-06-25 | [Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](./wallpaper/2024-06-25.jpg) 
 
