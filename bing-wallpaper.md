@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-27 | [Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](./wallpaper/2024-07-27.jpg) 
+
 2024-07-26 | [Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)](./wallpaper/2024-07-26.jpg) 
 
 2024-07-25 | [Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](./wallpaper/2024-07-25.jpg) 
@@ -58,6 +60,4 @@
 2024-06-28 | [Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)](./wallpaper/2024-06-28.jpg) 
 
 2024-06-27 | [Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)](./wallpaper/2024-06-27.jpg) 
-
-2024-06-26 | [Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](./wallpaper/2024-06-26.jpg) 
 
