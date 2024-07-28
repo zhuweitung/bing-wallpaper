@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-29 | [Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)](./wallpaper/2024-07-29.jpg) 
+
 2024-07-28 | [Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)](./wallpaper/2024-07-28.jpg) 
 
 2024-07-27 | [Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](./wallpaper/2024-07-27.jpg) 
@@ -58,6 +60,4 @@
 2024-06-30 | [Cyclists in the 2013 Tour de France, Corsica, France (© Pascal Pochard-Casabianca/AFP via Getty Images)](./wallpaper/2024-06-30.jpg) 
 
 2024-06-29 | [Pride flags at Christopher Park, Stonewall National Monument, New York City (© Noam Galai/Getty Images)](./wallpaper/2024-06-29.jpg) 
-
-2024-06-28 | [Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)](./wallpaper/2024-06-28.jpg) 
 
