@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-01 | [Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)](./wallpaper/2024-08-01.jpg) 
+
 2024-07-31 | [San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)](./wallpaper/2024-07-31.jpg) 
 
 2024-07-30 | [Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)](./wallpaper/2024-07-30.jpg) 
@@ -58,6 +60,4 @@
 2024-07-03 | [The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](./wallpaper/2024-07-03.jpg) 
 
 2024-07-02 | [Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)](./wallpaper/2024-07-02.jpg) 
-
-2024-07-01 | [Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](./wallpaper/2024-07-01.jpg) 
 
