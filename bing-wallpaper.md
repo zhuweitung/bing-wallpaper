@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-06 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](./wallpaper/2024-08-06.jpg) 
+
 2024-08-05 | [Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](./wallpaper/2024-08-05.jpg) 
 
 2024-08-04 | [Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](./wallpaper/2024-08-04.jpg) 
@@ -58,6 +60,4 @@
 2024-07-08 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](./wallpaper/2024-07-08.jpg) 
 
 2024-07-07 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](./wallpaper/2024-07-07.jpg) 
-
-2024-07-06 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](./wallpaper/2024-07-06.jpg) 
 
