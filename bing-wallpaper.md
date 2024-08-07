@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-08 | [St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](./wallpaper/2024-08-08.jpg) 
+
 2024-08-07 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](./wallpaper/2024-08-07.jpg) 
 
 2024-08-06 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](./wallpaper/2024-08-06.jpg) 
@@ -58,6 +60,4 @@
 2024-07-10 | [Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)](./wallpaper/2024-07-10.jpg) 
 
 2024-07-09 | [Blueberries growing in the wild (© Baac3nes/Getty Images)](./wallpaper/2024-07-09.jpg) 
-
-2024-07-08 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](./wallpaper/2024-07-08.jpg) 
 
