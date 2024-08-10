@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-11 | [Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](./wallpaper/2024-08-11.jpg) 
+
 2024-08-10 | [Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)](./wallpaper/2024-08-10.jpg) 
 
 2024-08-09 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](./wallpaper/2024-08-09.jpg) 
@@ -58,6 +60,4 @@
 2024-07-13 | [Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)](./wallpaper/2024-07-13.jpg) 
 
 2024-07-12 | [Gangi, Sicily, Italy (© Andrea Caruso/Amazing Aerial Agency)](./wallpaper/2024-07-12.jpg) 
-
-2024-07-11 | [Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2024-07-11.jpg) 
 
