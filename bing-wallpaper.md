@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-13 | [African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)](./wallpaper/2024-08-13.jpg) 
+
 2024-08-12 | [Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)](./wallpaper/2024-08-12.jpg) 
 
 2024-08-11 | [Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](./wallpaper/2024-08-11.jpg) 
@@ -58,6 +60,4 @@
 2024-07-15 | [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](./wallpaper/2024-07-15.jpg) 
 
 2024-07-14 | [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](./wallpaper/2024-07-14.jpg) 
-
-2024-07-13 | [Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)](./wallpaper/2024-07-13.jpg) 
 
