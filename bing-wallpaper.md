@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-14 | [Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](./wallpaper/2024-08-14.jpg) 
+
 2024-08-13 | [African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)](./wallpaper/2024-08-13.jpg) 
 
 2024-08-12 | [Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)](./wallpaper/2024-08-12.jpg) 
@@ -58,6 +60,4 @@
 2024-07-16 | [Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](./wallpaper/2024-07-16.jpg) 
 
 2024-07-15 | [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](./wallpaper/2024-07-15.jpg) 
-
-2024-07-14 | [Fairy chimneys and cave dwellings in Cappadocia, Türkiye (© Storm Is Me/Shutterstock)](./wallpaper/2024-07-14.jpg) 
 
