@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-18 | [Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](./wallpaper/2024-08-18.jpg) 
+
 2024-08-17 | [Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)](./wallpaper/2024-08-17.jpg) 
 
 2024-08-16 | [Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](./wallpaper/2024-08-16.jpg) 
@@ -58,6 +60,4 @@
 2024-07-20 | [A young jaguar on a riverbank, Pantanal, Brazil (© Tambako the Jaguar/Getty Images)](./wallpaper/2024-07-20.jpg) 
 
 2024-07-19 | [Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)](./wallpaper/2024-07-19.jpg) 
-
-2024-07-18 | [Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](./wallpaper/2024-07-18.jpg) 
 
