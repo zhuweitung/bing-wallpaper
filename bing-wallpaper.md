@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-22 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2024-08-22.jpg) 
+
 2024-08-21 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](./wallpaper/2024-08-21.jpg) 
 
 2024-08-20 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](./wallpaper/2024-08-20.jpg) 
@@ -58,6 +60,4 @@
 2024-07-24 | [Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](./wallpaper/2024-07-24.jpg) 
 
 2024-07-23 | [Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2024-07-23.jpg) 
-
-2024-07-22 | [Wooden fishing boats at Kendwa, Zanzibar, Tanzania (© Lubos Paukeje/Alamy)](./wallpaper/2024-07-22.jpg) 
 
