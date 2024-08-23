@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-24 | [Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](./wallpaper/2024-08-24.jpg) 
+
 2024-08-23 | [Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)](./wallpaper/2024-08-23.jpg) 
 
 2024-08-22 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2024-08-22.jpg) 
@@ -58,6 +60,4 @@
 2024-07-26 | [Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)](./wallpaper/2024-07-26.jpg) 
 
 2024-07-25 | [Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](./wallpaper/2024-07-25.jpg) 
-
-2024-07-24 | [Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](./wallpaper/2024-07-24.jpg) 
 
