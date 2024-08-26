@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-27 | [Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2024-08-27.jpg) 
+
 2024-08-26 | [Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)](./wallpaper/2024-08-26.jpg) 
 
 2024-08-25 | [Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](./wallpaper/2024-08-25.jpg) 
@@ -58,6 +60,4 @@
 2024-07-29 | [Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)](./wallpaper/2024-07-29.jpg) 
 
 2024-07-28 | [Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany (© Jorg Greuel/Getty Images)](./wallpaper/2024-07-28.jpg) 
-
-2024-07-27 | [Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](./wallpaper/2024-07-27.jpg) 
 
