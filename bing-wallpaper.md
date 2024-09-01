@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-02 | [River Thames, London, England (© Puthipong Worasaran/Getty Images)](./wallpaper/2024-09-02.jpg) 
+
 2024-09-01 | [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](./wallpaper/2024-09-01.jpg) 
 
 2024-08-31 | [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](./wallpaper/2024-08-31.jpg) 
@@ -58,6 +60,4 @@
 2024-08-04 | [Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](./wallpaper/2024-08-04.jpg) 
 
 2024-08-03 | [Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)](./wallpaper/2024-08-03.jpg) 
-
-2024-08-02 | [Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](./wallpaper/2024-08-02.jpg) 
 
