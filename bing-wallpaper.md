@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-06 | [Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)](./wallpaper/2024-09-06.jpg) 
+
 2024-09-05 | [Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](./wallpaper/2024-09-05.jpg) 
 
 2024-09-04 | [Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](./wallpaper/2024-09-04.jpg) 
@@ -58,6 +60,4 @@
 2024-08-08 | [St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](./wallpaper/2024-08-08.jpg) 
 
 2024-08-07 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](./wallpaper/2024-08-07.jpg) 
-
-2024-08-06 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](./wallpaper/2024-08-06.jpg) 
 
