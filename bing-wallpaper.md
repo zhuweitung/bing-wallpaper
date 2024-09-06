@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-07 | [Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](./wallpaper/2024-09-07.jpg) 
+
 2024-09-06 | [Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)](./wallpaper/2024-09-06.jpg) 
 
 2024-09-05 | [Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](./wallpaper/2024-09-05.jpg) 
@@ -58,6 +60,4 @@
 2024-08-09 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](./wallpaper/2024-08-09.jpg) 
 
 2024-08-08 | [St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](./wallpaper/2024-08-08.jpg) 
-
-2024-08-07 | [Molokini Crater, Maui, Hawaii (© Douglas Peebles/eStock Photo)](./wallpaper/2024-08-07.jpg) 
 
