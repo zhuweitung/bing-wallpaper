@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-09 | [Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](./wallpaper/2024-09-09.jpg) 
+
 2024-09-08 | [Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](./wallpaper/2024-09-08.jpg) 
 
 2024-09-07 | [Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](./wallpaper/2024-09-07.jpg) 
@@ -58,6 +60,4 @@
 2024-08-11 | [Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](./wallpaper/2024-08-11.jpg) 
 
 2024-08-10 | [Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)](./wallpaper/2024-08-10.jpg) 
-
-2024-08-09 | [Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](./wallpaper/2024-08-09.jpg) 
 
