@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-10 | [Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2024-09-10.jpg) 
+
 2024-09-09 | [Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](./wallpaper/2024-09-09.jpg) 
 
 2024-09-08 | [Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](./wallpaper/2024-09-08.jpg) 
@@ -58,6 +60,4 @@
 2024-08-12 | [Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)](./wallpaper/2024-08-12.jpg) 
 
 2024-08-11 | [Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](./wallpaper/2024-08-11.jpg) 
-
-2024-08-10 | [Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)](./wallpaper/2024-08-10.jpg) 
 
