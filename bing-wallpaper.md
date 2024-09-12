@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-13 | [Dolphin pod near Réunion, overseas department of France, Indian Ocean (© Joost van Uffelen/Shutterstock)](./wallpaper/2024-09-13.jpg) 
+
 2024-09-12 | [National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)](./wallpaper/2024-09-12.jpg) 
 
 2024-09-11 | [Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](./wallpaper/2024-09-11.jpg) 
@@ -58,6 +60,4 @@
 2024-08-15 | [Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2024-08-15.jpg) 
 
 2024-08-14 | [Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](./wallpaper/2024-08-14.jpg) 
-
-2024-08-13 | [African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)](./wallpaper/2024-08-13.jpg) 
 
