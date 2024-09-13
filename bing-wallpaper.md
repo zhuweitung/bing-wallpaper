@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-14 | [Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)](./wallpaper/2024-09-14.jpg) 
+
 2024-09-13 | [Dolphin pod near Réunion, overseas department of France, Indian Ocean (© Joost van Uffelen/Shutterstock)](./wallpaper/2024-09-13.jpg) 
 
 2024-09-12 | [National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)](./wallpaper/2024-09-12.jpg) 
@@ -58,6 +60,4 @@
 2024-08-16 | [Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](./wallpaper/2024-08-16.jpg) 
 
 2024-08-15 | [Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](./wallpaper/2024-08-15.jpg) 
-
-2024-08-14 | [Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](./wallpaper/2024-08-14.jpg) 
 
