@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-16 | [Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)](./wallpaper/2024-09-16.jpg) 
+
 2024-09-15 | [Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](./wallpaper/2024-09-15.jpg) 
 
 2024-09-14 | [Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)](./wallpaper/2024-09-14.jpg) 
@@ -58,6 +60,4 @@
 2024-08-18 | [Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](./wallpaper/2024-08-18.jpg) 
 
 2024-08-17 | [Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)](./wallpaper/2024-08-17.jpg) 
-
-2024-08-16 | [Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam (© Geng Xu/Getty Images)](./wallpaper/2024-08-16.jpg) 
 
