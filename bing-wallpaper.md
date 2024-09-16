@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-17 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](./wallpaper/2024-09-17.jpg) 
+
 2024-09-16 | [Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)](./wallpaper/2024-09-16.jpg) 
 
 2024-09-15 | [Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](./wallpaper/2024-09-15.jpg) 
@@ -58,6 +60,4 @@
 2024-08-19 | [Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](./wallpaper/2024-08-19.jpg) 
 
 2024-08-18 | [Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](./wallpaper/2024-08-18.jpg) 
-
-2024-08-17 | [Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)](./wallpaper/2024-08-17.jpg) 
 
