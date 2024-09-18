@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-19 | [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](./wallpaper/2024-09-19.jpg) 
+
 2024-09-18 | [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](./wallpaper/2024-09-18.jpg) 
 
 2024-09-17 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](./wallpaper/2024-09-17.jpg) 
@@ -58,6 +60,4 @@
 2024-08-21 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](./wallpaper/2024-08-21.jpg) 
 
 2024-08-20 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](./wallpaper/2024-08-20.jpg) 
-
-2024-08-19 | [Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](./wallpaper/2024-08-19.jpg) 
 
