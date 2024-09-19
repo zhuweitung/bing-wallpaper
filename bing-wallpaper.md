@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-20 | [Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](./wallpaper/2024-09-20.jpg) 
+
 2024-09-19 | [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](./wallpaper/2024-09-19.jpg) 
 
 2024-09-18 | [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](./wallpaper/2024-09-18.jpg) 
@@ -58,6 +60,4 @@
 2024-08-22 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2024-08-22.jpg) 
 
 2024-08-21 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](./wallpaper/2024-08-21.jpg) 
-
-2024-08-20 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](./wallpaper/2024-08-20.jpg) 
 
