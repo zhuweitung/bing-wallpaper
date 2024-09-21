@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-22 | [Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](./wallpaper/2024-09-22.jpg) 
+
 2024-09-21 | [Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)](./wallpaper/2024-09-21.jpg) 
 
 2024-09-20 | [Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](./wallpaper/2024-09-20.jpg) 
@@ -58,6 +60,4 @@
 2024-08-24 | [Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](./wallpaper/2024-08-24.jpg) 
 
 2024-08-23 | [Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)](./wallpaper/2024-08-23.jpg) 
-
-2024-08-22 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2024-08-22.jpg) 
 
