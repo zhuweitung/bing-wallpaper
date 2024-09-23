@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-24 | [Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](./wallpaper/2024-09-24.jpg) 
+
 2024-09-23 | [Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)](./wallpaper/2024-09-23.jpg) 
 
 2024-09-22 | [Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](./wallpaper/2024-09-22.jpg) 
@@ -58,6 +60,4 @@
 2024-08-26 | [Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)](./wallpaper/2024-08-26.jpg) 
 
 2024-08-25 | [Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](./wallpaper/2024-08-25.jpg) 
-
-2024-08-24 | [Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](./wallpaper/2024-08-24.jpg) 
 
