@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-27 | [Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)](./wallpaper/2024-09-27.jpg) 
+
 2024-09-26 | [Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)](./wallpaper/2024-09-26.jpg) 
 
 2024-09-25 | [Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](./wallpaper/2024-09-25.jpg) 
@@ -58,6 +60,4 @@
 2024-08-29 | [Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)](./wallpaper/2024-08-29.jpg) 
 
 2024-08-28 | [Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)](./wallpaper/2024-08-28.jpg) 
-
-2024-08-27 | [Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2024-08-27.jpg) 
 
