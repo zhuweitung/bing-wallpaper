@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-30 | [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](./wallpaper/2024-09-30.jpg) 
+
 2024-09-29 | [Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2024-09-29.jpg) 
 
 2024-09-28 | [Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](./wallpaper/2024-09-28.jpg) 
@@ -58,6 +60,4 @@
 2024-09-01 | [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](./wallpaper/2024-09-01.jpg) 
 
 2024-08-31 | [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](./wallpaper/2024-08-31.jpg) 
-
-2024-08-30 | [Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)](./wallpaper/2024-08-30.jpg) 
 
