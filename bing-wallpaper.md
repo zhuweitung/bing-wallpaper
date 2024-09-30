@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-01 | [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](./wallpaper/2024-10-01.jpg) 
+
 2024-09-30 | [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](./wallpaper/2024-09-30.jpg) 
 
 2024-09-29 | [Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2024-09-29.jpg) 
@@ -58,6 +60,4 @@
 2024-09-02 | [River Thames, London, England (© Puthipong Worasaran/Getty Images)](./wallpaper/2024-09-02.jpg) 
 
 2024-09-01 | [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](./wallpaper/2024-09-01.jpg) 
-
-2024-08-31 | [A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)](./wallpaper/2024-08-31.jpg) 
 
