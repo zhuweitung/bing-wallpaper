@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-03 | [Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)](./wallpaper/2024-10-03.jpg) 
+
 2024-10-02 | [Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)](./wallpaper/2024-10-02.jpg) 
 
 2024-10-01 | [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](./wallpaper/2024-10-01.jpg) 
@@ -58,6 +60,4 @@
 2024-09-04 | [Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](./wallpaper/2024-09-04.jpg) 
 
 2024-09-03 | ['Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)](./wallpaper/2024-09-03.jpg) 
-
-2024-09-02 | [River Thames, London, England (© Puthipong Worasaran/Getty Images)](./wallpaper/2024-09-02.jpg) 
 
