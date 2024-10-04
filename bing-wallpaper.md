@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-05 | [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](./wallpaper/2024-10-05.jpg) 
+
 2024-10-04 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](./wallpaper/2024-10-04.jpg) 
 
 2024-10-03 | [Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)](./wallpaper/2024-10-03.jpg) 
@@ -58,6 +60,4 @@
 2024-09-06 | [Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)](./wallpaper/2024-09-06.jpg) 
 
 2024-09-05 | [Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](./wallpaper/2024-09-05.jpg) 
-
-2024-09-04 | [Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](./wallpaper/2024-09-04.jpg) 
 
