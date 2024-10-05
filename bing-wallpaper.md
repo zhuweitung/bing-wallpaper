@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-06 | [African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](./wallpaper/2024-10-06.jpg) 
+
 2024-10-05 | [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](./wallpaper/2024-10-05.jpg) 
 
 2024-10-04 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](./wallpaper/2024-10-04.jpg) 
@@ -58,6 +60,4 @@
 2024-09-07 | [Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](./wallpaper/2024-09-07.jpg) 
 
 2024-09-06 | [Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)](./wallpaper/2024-09-06.jpg) 
-
-2024-09-05 | [Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)](./wallpaper/2024-09-05.jpg) 
 
