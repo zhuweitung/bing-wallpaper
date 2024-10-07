@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-08 | [The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)](./wallpaper/2024-10-08.jpg) 
+
 2024-10-07 | [Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)](./wallpaper/2024-10-07.jpg) 
 
 2024-10-06 | [African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](./wallpaper/2024-10-06.jpg) 
@@ -58,6 +60,4 @@
 2024-09-09 | [Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](./wallpaper/2024-09-09.jpg) 
 
 2024-09-08 | [Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](./wallpaper/2024-09-08.jpg) 
-
-2024-09-07 | [Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](./wallpaper/2024-09-07.jpg) 
 
