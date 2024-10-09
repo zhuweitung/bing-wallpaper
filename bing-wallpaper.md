@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-10 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2024-10-10.jpg) 
+
 2024-10-09 | [Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](./wallpaper/2024-10-09.jpg) 
 
 2024-10-08 | [The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)](./wallpaper/2024-10-08.jpg) 
@@ -58,6 +60,4 @@
 2024-09-11 | [Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](./wallpaper/2024-09-11.jpg) 
 
 2024-09-10 | [Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2024-09-10.jpg) 
-
-2024-09-09 | [Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](./wallpaper/2024-09-09.jpg) 
 
