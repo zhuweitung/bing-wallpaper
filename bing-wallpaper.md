@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-12 | [Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](./wallpaper/2024-10-12.jpg) 
+
 2024-10-11 | [Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](./wallpaper/2024-10-11.jpg) 
 
 2024-10-10 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2024-10-10.jpg) 
@@ -58,6 +60,4 @@
 2024-09-13 | [Dolphin pod near Réunion, overseas department of France, Indian Ocean (© Joost van Uffelen/Shutterstock)](./wallpaper/2024-09-13.jpg) 
 
 2024-09-12 | [National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)](./wallpaper/2024-09-12.jpg) 
-
-2024-09-11 | [Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](./wallpaper/2024-09-11.jpg) 
 
