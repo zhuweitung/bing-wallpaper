@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-14 | [Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](./wallpaper/2024-10-14.jpg) 
+
 2024-10-13 | [Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](./wallpaper/2024-10-13.jpg) 
 
 2024-10-12 | [Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](./wallpaper/2024-10-12.jpg) 
@@ -58,6 +60,4 @@
 2024-09-15 | [Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](./wallpaper/2024-09-15.jpg) 
 
 2024-09-14 | [Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)](./wallpaper/2024-09-14.jpg) 
-
-2024-09-13 | [Dolphin pod near Réunion, overseas department of France, Indian Ocean (© Joost van Uffelen/Shutterstock)](./wallpaper/2024-09-13.jpg) 
 
