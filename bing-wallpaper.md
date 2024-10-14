@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-15 | [Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)](./wallpaper/2024-10-15.jpg) 
+
 2024-10-14 | [Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](./wallpaper/2024-10-14.jpg) 
 
 2024-10-13 | [Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](./wallpaper/2024-10-13.jpg) 
@@ -58,6 +60,4 @@
 2024-09-16 | [Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)](./wallpaper/2024-09-16.jpg) 
 
 2024-09-15 | [Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](./wallpaper/2024-09-15.jpg) 
-
-2024-09-14 | [Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)](./wallpaper/2024-09-14.jpg) 
 
