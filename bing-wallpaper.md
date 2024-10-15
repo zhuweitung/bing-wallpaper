@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-16 | [Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)](./wallpaper/2024-10-16.jpg) 
+
 2024-10-15 | [Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona (© Andrew Peacock/Tandem Stills + Motion)](./wallpaper/2024-10-15.jpg) 
 
 2024-10-14 | [Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](./wallpaper/2024-10-14.jpg) 
@@ -58,6 +60,4 @@
 2024-09-17 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](./wallpaper/2024-09-17.jpg) 
 
 2024-09-16 | [Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)](./wallpaper/2024-09-16.jpg) 
-
-2024-09-15 | [Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](./wallpaper/2024-09-15.jpg) 
 
