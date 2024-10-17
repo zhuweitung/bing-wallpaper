@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-18 | [Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](./wallpaper/2024-10-18.jpg) 
+
 2024-10-17 | [Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)](./wallpaper/2024-10-17.jpg) 
 
 2024-10-16 | [Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)](./wallpaper/2024-10-16.jpg) 
@@ -58,6 +60,4 @@
 2024-09-19 | [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](./wallpaper/2024-09-19.jpg) 
 
 2024-09-18 | [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](./wallpaper/2024-09-18.jpg) 
-
-2024-09-17 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](./wallpaper/2024-09-17.jpg) 
 
