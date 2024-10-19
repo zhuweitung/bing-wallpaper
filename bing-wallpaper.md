@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-20 | [Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](./wallpaper/2024-10-20.jpg) 
+
 2024-10-19 | [Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](./wallpaper/2024-10-19.jpg) 
 
 2024-10-18 | [Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](./wallpaper/2024-10-18.jpg) 
@@ -58,6 +60,4 @@
 2024-09-21 | [Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)](./wallpaper/2024-09-21.jpg) 
 
 2024-09-20 | [Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](./wallpaper/2024-09-20.jpg) 
-
-2024-09-19 | [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](./wallpaper/2024-09-19.jpg) 
 
