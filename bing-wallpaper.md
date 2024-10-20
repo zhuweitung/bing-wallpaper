@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-21 | [Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)](./wallpaper/2024-10-21.jpg) 
+
 2024-10-20 | [Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](./wallpaper/2024-10-20.jpg) 
 
 2024-10-19 | [Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](./wallpaper/2024-10-19.jpg) 
@@ -58,6 +60,4 @@
 2024-09-22 | [Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](./wallpaper/2024-09-22.jpg) 
 
 2024-09-21 | [Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)](./wallpaper/2024-09-21.jpg) 
-
-2024-09-20 | [Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](./wallpaper/2024-09-20.jpg) 
 
