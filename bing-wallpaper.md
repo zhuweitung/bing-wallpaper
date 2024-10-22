@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-23 | [Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](./wallpaper/2024-10-23.jpg) 
+
 2024-10-22 | [Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2024-10-22.jpg) 
 
 2024-10-21 | [Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)](./wallpaper/2024-10-21.jpg) 
@@ -58,6 +60,4 @@
 2024-09-24 | [Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](./wallpaper/2024-09-24.jpg) 
 
 2024-09-23 | [Buttermere, Lake District National Park, England (© Alan Novelli/Alamy)](./wallpaper/2024-09-23.jpg) 
-
-2024-09-22 | [Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](./wallpaper/2024-09-22.jpg) 
 
