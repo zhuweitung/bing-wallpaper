@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-25 | [Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](./wallpaper/2024-10-25.jpg) 
+
 2024-10-24 | [Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)](./wallpaper/2024-10-24.jpg) 
 
 2024-10-23 | [Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](./wallpaper/2024-10-23.jpg) 
@@ -58,6 +60,4 @@
 2024-09-26 | [Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)](./wallpaper/2024-09-26.jpg) 
 
 2024-09-25 | [Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](./wallpaper/2024-09-25.jpg) 
-
-2024-09-24 | [Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](./wallpaper/2024-09-24.jpg) 
 
