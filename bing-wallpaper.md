@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-27 | [Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)](./wallpaper/2024-10-27.jpg) 
+
 2024-10-26 | [The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)](./wallpaper/2024-10-26.jpg) 
 
 2024-10-25 | [Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](./wallpaper/2024-10-25.jpg) 
@@ -58,6 +60,4 @@
 2024-09-28 | [Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](./wallpaper/2024-09-28.jpg) 
 
 2024-09-27 | [Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)](./wallpaper/2024-09-27.jpg) 
-
-2024-09-26 | [Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)](./wallpaper/2024-09-26.jpg) 
 
