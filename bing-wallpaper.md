@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-28 | [Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)](./wallpaper/2024-10-28.jpg) 
+
 2024-10-27 | [Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)](./wallpaper/2024-10-27.jpg) 
 
 2024-10-26 | [The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)](./wallpaper/2024-10-26.jpg) 
@@ -58,6 +60,4 @@
 2024-09-29 | [Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2024-09-29.jpg) 
 
 2024-09-28 | [Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](./wallpaper/2024-09-28.jpg) 
-
-2024-09-27 | [Blue-throated toucanet, Los Quetzales National Park, Costa Rica (© Oscar Dominguez/Tandem Stills + Motion)](./wallpaper/2024-09-27.jpg) 
 
