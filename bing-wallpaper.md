@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-31 | [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](./wallpaper/2024-10-31.jpg) 
+
 2024-10-30 | [Great horned owl (© Mark Newman/Getty Images)](./wallpaper/2024-10-30.jpg) 
 
 2024-10-29 | [Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](./wallpaper/2024-10-29.jpg) 
@@ -58,6 +60,4 @@
 2024-10-02 | [Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)](./wallpaper/2024-10-02.jpg) 
 
 2024-10-01 | [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/Danita Delimont)](./wallpaper/2024-10-01.jpg) 
-
-2024-09-30 | [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](./wallpaper/2024-09-30.jpg) 
 
