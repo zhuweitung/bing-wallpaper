@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-02 | [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](./wallpaper/2024-11-02.jpg) 
+
 2024-11-01 | [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](./wallpaper/2024-11-01.jpg) 
 
 2024-10-31 | [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](./wallpaper/2024-10-31.jpg) 
@@ -58,6 +60,4 @@
 2024-10-04 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](./wallpaper/2024-10-04.jpg) 
 
 2024-10-03 | [Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)](./wallpaper/2024-10-03.jpg) 
-
-2024-10-02 | [Last light on Half Dome, Yosemite National Park, California (© Adam Burton/Alamy)](./wallpaper/2024-10-02.jpg) 
 
