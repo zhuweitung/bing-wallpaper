@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-03 | [American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](./wallpaper/2024-11-03.jpg) 
+
 2024-11-02 | [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](./wallpaper/2024-11-02.jpg) 
 
 2024-11-01 | [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](./wallpaper/2024-11-01.jpg) 
@@ -58,6 +60,4 @@
 2024-10-05 | [Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](./wallpaper/2024-10-05.jpg) 
 
 2024-10-04 | [Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)](./wallpaper/2024-10-04.jpg) 
-
-2024-10-03 | [Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska (© Design Pics/Danita Delimont)](./wallpaper/2024-10-03.jpg) 
 
