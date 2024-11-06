@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-07 | [Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)](./wallpaper/2024-11-07.jpg) 
+
 2024-11-06 | [Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)](./wallpaper/2024-11-06.jpg) 
 
 2024-11-05 | [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](./wallpaper/2024-11-05.jpg) 
@@ -58,6 +60,4 @@
 2024-10-09 | [Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](./wallpaper/2024-10-09.jpg) 
 
 2024-10-08 | [The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)](./wallpaper/2024-10-08.jpg) 
-
-2024-10-07 | [Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)](./wallpaper/2024-10-07.jpg) 
 
