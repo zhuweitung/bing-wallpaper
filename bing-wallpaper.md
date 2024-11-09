@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-10 | [Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](./wallpaper/2024-11-10.jpg) 
+
 2024-11-09 | [Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)](./wallpaper/2024-11-09.jpg) 
 
 2024-11-08 | [Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](./wallpaper/2024-11-08.jpg) 
@@ -58,6 +60,4 @@
 2024-10-12 | [Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](./wallpaper/2024-10-12.jpg) 
 
 2024-10-11 | [Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](./wallpaper/2024-10-11.jpg) 
-
-2024-10-10 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2024-10-10.jpg) 
 
