@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-12 | [Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)](./wallpaper/2024-11-12.jpg) 
+
 2024-11-11 | [Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)](./wallpaper/2024-11-11.jpg) 
 
 2024-11-10 | [Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](./wallpaper/2024-11-10.jpg) 
@@ -58,6 +60,4 @@
 2024-10-14 | [Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](./wallpaper/2024-10-14.jpg) 
 
 2024-10-13 | [Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](./wallpaper/2024-10-13.jpg) 
-
-2024-10-12 | [Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](./wallpaper/2024-10-12.jpg) 
 
