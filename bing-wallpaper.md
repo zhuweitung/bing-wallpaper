@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-16 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](./wallpaper/2024-11-16.jpg) 
+
 2024-11-15 | [Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](./wallpaper/2024-11-15.jpg) 
 
 2024-11-14 | [California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2024-11-14.jpg) 
@@ -58,6 +60,4 @@
 2024-10-18 | [Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](./wallpaper/2024-10-18.jpg) 
 
 2024-10-17 | [Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)](./wallpaper/2024-10-17.jpg) 
-
-2024-10-16 | [Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)](./wallpaper/2024-10-16.jpg) 
 
