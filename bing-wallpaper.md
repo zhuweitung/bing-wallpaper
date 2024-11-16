@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-17 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](./wallpaper/2024-11-17.jpg) 
+
 2024-11-16 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](./wallpaper/2024-11-16.jpg) 
 
 2024-11-15 | [Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](./wallpaper/2024-11-15.jpg) 
@@ -58,6 +60,4 @@
 2024-10-19 | [Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](./wallpaper/2024-10-19.jpg) 
 
 2024-10-18 | [Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](./wallpaper/2024-10-18.jpg) 
-
-2024-10-17 | [Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy)](./wallpaper/2024-10-17.jpg) 
 
