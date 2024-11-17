@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-18 | [Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](./wallpaper/2024-11-18.jpg) 
+
 2024-11-17 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](./wallpaper/2024-11-17.jpg) 
 
 2024-11-16 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](./wallpaper/2024-11-16.jpg) 
@@ -58,6 +60,4 @@
 2024-10-20 | [Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](./wallpaper/2024-10-20.jpg) 
 
 2024-10-19 | [Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](./wallpaper/2024-10-19.jpg) 
-
-2024-10-18 | [Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](./wallpaper/2024-10-18.jpg) 
 
