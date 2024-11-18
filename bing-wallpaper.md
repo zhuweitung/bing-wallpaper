@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-19 | [Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](./wallpaper/2024-11-19.jpg) 
+
 2024-11-18 | [Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](./wallpaper/2024-11-18.jpg) 
 
 2024-11-17 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](./wallpaper/2024-11-17.jpg) 
@@ -58,6 +60,4 @@
 2024-10-21 | [Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)](./wallpaper/2024-10-21.jpg) 
 
 2024-10-20 | [Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](./wallpaper/2024-10-20.jpg) 
-
-2024-10-19 | [Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](./wallpaper/2024-10-19.jpg) 
 
