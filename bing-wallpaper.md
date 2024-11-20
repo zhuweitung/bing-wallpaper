@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-21 | [Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](./wallpaper/2024-11-21.jpg) 
+
 2024-11-20 | [Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)](./wallpaper/2024-11-20.jpg) 
 
 2024-11-19 | [Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](./wallpaper/2024-11-19.jpg) 
@@ -58,6 +60,4 @@
 2024-10-23 | [Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](./wallpaper/2024-10-23.jpg) 
 
 2024-10-22 | [Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2024-10-22.jpg) 
-
-2024-10-21 | [Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)](./wallpaper/2024-10-21.jpg) 
 
