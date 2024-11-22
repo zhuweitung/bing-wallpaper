@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-23 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](./wallpaper/2024-11-23.jpg) 
+
 2024-11-22 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](./wallpaper/2024-11-22.jpg) 
 
 2024-11-21 | [Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](./wallpaper/2024-11-21.jpg) 
@@ -58,6 +60,4 @@
 2024-10-25 | [Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](./wallpaper/2024-10-25.jpg) 
 
 2024-10-24 | [Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)](./wallpaper/2024-10-24.jpg) 
-
-2024-10-23 | [Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](./wallpaper/2024-10-23.jpg) 
 
