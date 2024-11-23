@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-24 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](./wallpaper/2024-11-24.jpg) 
+
 2024-11-23 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](./wallpaper/2024-11-23.jpg) 
 
 2024-11-22 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](./wallpaper/2024-11-22.jpg) 
@@ -58,6 +60,4 @@
 2024-10-26 | [The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)](./wallpaper/2024-10-26.jpg) 
 
 2024-10-25 | [Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](./wallpaper/2024-10-25.jpg) 
-
-2024-10-24 | [Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)](./wallpaper/2024-10-24.jpg) 
 
