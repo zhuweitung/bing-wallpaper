@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-27 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](./wallpaper/2024-11-27.jpg) 
+
 2024-11-26 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](./wallpaper/2024-11-26.jpg) 
 
 2024-11-25 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2024-11-25.jpg) 
@@ -58,6 +60,4 @@
 2024-10-29 | [Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](./wallpaper/2024-10-29.jpg) 
 
 2024-10-28 | [Polar bear mom and cub, Churchill, Manitoba, Canada (© Design Pics/plainpicture)](./wallpaper/2024-10-28.jpg) 
-
-2024-10-27 | [Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy)](./wallpaper/2024-10-27.jpg) 
 
