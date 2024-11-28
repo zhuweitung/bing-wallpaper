@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-29 | [Wild turkeys, New York (© John Cancalosi/Alamy)](./wallpaper/2024-11-29.jpg) 
+
 2024-11-28 | [Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)](./wallpaper/2024-11-28.jpg) 
 
 2024-11-27 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](./wallpaper/2024-11-27.jpg) 
@@ -58,6 +60,4 @@
 2024-10-31 | [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](./wallpaper/2024-10-31.jpg) 
 
 2024-10-30 | [Great horned owl (© Mark Newman/Getty Images)](./wallpaper/2024-10-30.jpg) 
-
-2024-10-29 | [Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](./wallpaper/2024-10-29.jpg) 
 
