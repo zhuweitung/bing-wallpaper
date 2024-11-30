@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-01 | [Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](./wallpaper/2024-12-01.jpg) 
+
 2024-11-30 | [Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](./wallpaper/2024-11-30.jpg) 
 
 2024-11-29 | [Wild turkeys, New York (© John Cancalosi/Alamy)](./wallpaper/2024-11-29.jpg) 
@@ -58,6 +60,4 @@
 2024-11-02 | [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](./wallpaper/2024-11-02.jpg) 
 
 2024-11-01 | [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](./wallpaper/2024-11-01.jpg) 
-
-2024-10-31 | [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](./wallpaper/2024-10-31.jpg) 
 
