@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-04 | [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](./wallpaper/2024-12-04.jpg) 
+
 2024-12-03 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](./wallpaper/2024-12-03.jpg) 
 
 2024-12-02 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](./wallpaper/2024-12-02.jpg) 
@@ -58,6 +60,4 @@
 2024-11-05 | [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](./wallpaper/2024-11-05.jpg) 
 
 2024-11-04 | [Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2024-11-04.jpg) 
-
-2024-11-03 | [American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](./wallpaper/2024-11-03.jpg) 
 
