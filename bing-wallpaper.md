@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-07 | [Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](./wallpaper/2024-12-07.jpg) 
+
 2024-12-06 | [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](./wallpaper/2024-12-06.jpg) 
 
 2024-12-05 | [Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)](./wallpaper/2024-12-05.jpg) 
@@ -58,6 +60,4 @@
 2024-11-08 | [Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](./wallpaper/2024-11-08.jpg) 
 
 2024-11-07 | [Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)](./wallpaper/2024-11-07.jpg) 
-
-2024-11-06 | [Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)](./wallpaper/2024-11-06.jpg) 
 
