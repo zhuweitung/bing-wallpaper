@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-08 | [Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](./wallpaper/2024-12-08.jpg) 
+
 2024-12-07 | [Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](./wallpaper/2024-12-07.jpg) 
 
 2024-12-06 | [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](./wallpaper/2024-12-06.jpg) 
@@ -58,6 +60,4 @@
 2024-11-09 | [Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)](./wallpaper/2024-11-09.jpg) 
 
 2024-11-08 | [Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy)](./wallpaper/2024-11-08.jpg) 
-
-2024-11-07 | [Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)](./wallpaper/2024-11-07.jpg) 
 
