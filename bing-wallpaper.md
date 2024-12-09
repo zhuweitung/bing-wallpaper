@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-10 | [Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)](./wallpaper/2024-12-10.jpg) 
+
 2024-12-09 | [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](./wallpaper/2024-12-09.jpg) 
 
 2024-12-08 | [Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](./wallpaper/2024-12-08.jpg) 
@@ -58,6 +60,4 @@
 2024-11-11 | [Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)](./wallpaper/2024-11-11.jpg) 
 
 2024-11-10 | [Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](./wallpaper/2024-11-10.jpg) 
-
-2024-11-09 | [Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)](./wallpaper/2024-11-09.jpg) 
 
