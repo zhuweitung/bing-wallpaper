@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-12 | [Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)](./wallpaper/2024-12-12.jpg) 
+
 2024-12-11 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](./wallpaper/2024-12-11.jpg) 
 
 2024-12-10 | [Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)](./wallpaper/2024-12-10.jpg) 
@@ -58,6 +60,4 @@
 2024-11-13 | [Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)](./wallpaper/2024-11-13.jpg) 
 
 2024-11-12 | [Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)](./wallpaper/2024-11-12.jpg) 
-
-2024-11-11 | [Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)](./wallpaper/2024-11-11.jpg) 
 
