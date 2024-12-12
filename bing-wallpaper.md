@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-13 | [Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)](./wallpaper/2024-12-13.jpg) 
+
 2024-12-12 | [Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)](./wallpaper/2024-12-12.jpg) 
 
 2024-12-11 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](./wallpaper/2024-12-11.jpg) 
@@ -58,6 +60,4 @@
 2024-11-14 | [California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2024-11-14.jpg) 
 
 2024-11-13 | [Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)](./wallpaper/2024-11-13.jpg) 
-
-2024-11-12 | [Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)](./wallpaper/2024-11-12.jpg) 
 
