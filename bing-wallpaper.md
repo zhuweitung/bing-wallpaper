@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-15 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](./wallpaper/2024-12-15.jpg) 
+
 2024-12-14 | [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](./wallpaper/2024-12-14.jpg) 
 
 2024-12-13 | [Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)](./wallpaper/2024-12-13.jpg) 
@@ -58,6 +60,4 @@
 2024-11-16 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](./wallpaper/2024-11-16.jpg) 
 
 2024-11-15 | [Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](./wallpaper/2024-11-15.jpg) 
-
-2024-11-14 | [California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)](./wallpaper/2024-11-14.jpg) 
 
