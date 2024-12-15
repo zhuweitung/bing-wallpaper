@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-16 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](./wallpaper/2024-12-16.jpg) 
+
 2024-12-15 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](./wallpaper/2024-12-15.jpg) 
 
 2024-12-14 | [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](./wallpaper/2024-12-14.jpg) 
@@ -58,6 +60,4 @@
 2024-11-17 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](./wallpaper/2024-11-17.jpg) 
 
 2024-11-16 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](./wallpaper/2024-11-16.jpg) 
-
-2024-11-15 | [Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](./wallpaper/2024-11-15.jpg) 
 
