@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-17 | [Salzburg, Austria (© bluejayphoto/Getty Images)](./wallpaper/2024-12-17.jpg) 
+
 2024-12-16 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](./wallpaper/2024-12-16.jpg) 
 
 2024-12-15 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](./wallpaper/2024-12-15.jpg) 
@@ -58,6 +60,4 @@
 2024-11-18 | [Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](./wallpaper/2024-11-18.jpg) 
 
 2024-11-17 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](./wallpaper/2024-11-17.jpg) 
-
-2024-11-16 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](./wallpaper/2024-11-16.jpg) 
 
