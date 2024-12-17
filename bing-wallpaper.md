@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-18 | [Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)](./wallpaper/2024-12-18.jpg) 
+
 2024-12-17 | [Salzburg, Austria (© bluejayphoto/Getty Images)](./wallpaper/2024-12-17.jpg) 
 
 2024-12-16 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](./wallpaper/2024-12-16.jpg) 
@@ -58,6 +60,4 @@
 2024-11-19 | [Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](./wallpaper/2024-11-19.jpg) 
 
 2024-11-18 | [Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](./wallpaper/2024-11-18.jpg) 
-
-2024-11-17 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](./wallpaper/2024-11-17.jpg) 
 
