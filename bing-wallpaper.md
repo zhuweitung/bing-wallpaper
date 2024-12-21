@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-22 | [Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](./wallpaper/2024-12-22.jpg) 
+
 2024-12-21 | [Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](./wallpaper/2024-12-21.jpg) 
 
 2024-12-20 | [Christmas market in Sibiu, Romania (© Calin Stan/Alamy)](./wallpaper/2024-12-20.jpg) 
@@ -58,6 +60,4 @@
 2024-11-23 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](./wallpaper/2024-11-23.jpg) 
 
 2024-11-22 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](./wallpaper/2024-11-22.jpg) 
-
-2024-11-21 | [Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](./wallpaper/2024-11-21.jpg) 
 
