@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-23 | [Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)](./wallpaper/2024-12-23.jpg) 
+
 2024-12-22 | [Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](./wallpaper/2024-12-22.jpg) 
 
 2024-12-21 | [Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](./wallpaper/2024-12-21.jpg) 
@@ -58,6 +60,4 @@
 2024-11-24 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](./wallpaper/2024-11-24.jpg) 
 
 2024-11-23 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](./wallpaper/2024-11-23.jpg) 
-
-2024-11-22 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](./wallpaper/2024-11-22.jpg) 
 
