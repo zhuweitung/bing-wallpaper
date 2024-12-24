@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-25 | [Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](./wallpaper/2024-12-25.jpg) 
+
 2024-12-24 | [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](./wallpaper/2024-12-24.jpg) 
 
 2024-12-23 | [Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)](./wallpaper/2024-12-23.jpg) 
@@ -58,6 +60,4 @@
 2024-11-26 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](./wallpaper/2024-11-26.jpg) 
 
 2024-11-25 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2024-11-25.jpg) 
-
-2024-11-24 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](./wallpaper/2024-11-24.jpg) 
 
