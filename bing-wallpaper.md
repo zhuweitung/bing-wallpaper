@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-26 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](./wallpaper/2024-12-26.jpg) 
+
 2024-12-25 | [Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](./wallpaper/2024-12-25.jpg) 
 
 2024-12-24 | [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](./wallpaper/2024-12-24.jpg) 
@@ -58,6 +60,4 @@
 2024-11-27 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](./wallpaper/2024-11-27.jpg) 
 
 2024-11-26 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](./wallpaper/2024-11-26.jpg) 
-
-2024-11-25 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](./wallpaper/2024-11-25.jpg) 
 
