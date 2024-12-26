@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-27 | [Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)](./wallpaper/2024-12-27.jpg) 
+
 2024-12-26 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](./wallpaper/2024-12-26.jpg) 
 
 2024-12-25 | [Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](./wallpaper/2024-12-25.jpg) 
@@ -58,6 +60,4 @@
 2024-11-28 | [Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)](./wallpaper/2024-11-28.jpg) 
 
 2024-11-27 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](./wallpaper/2024-11-27.jpg) 
-
-2024-11-26 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](./wallpaper/2024-11-26.jpg) 
 
