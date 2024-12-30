@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-31 | [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](./wallpaper/2024-12-31.jpg) 
+
 2024-12-30 | [Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](./wallpaper/2024-12-30.jpg) 
 
 2024-12-29 | [A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)](./wallpaper/2024-12-29.jpg) 
@@ -58,6 +60,4 @@
 2024-12-02 | [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](./wallpaper/2024-12-02.jpg) 
 
 2024-12-01 | [Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](./wallpaper/2024-12-01.jpg) 
-
-2024-11-30 | [Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](./wallpaper/2024-11-30.jpg) 
 
