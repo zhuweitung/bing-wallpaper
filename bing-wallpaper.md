@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-03 | [Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](./wallpaper/2025-01-03.jpg) 
+
 2025-01-02 | [Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](./wallpaper/2025-01-02.jpg) 
 
 2025-01-01 | [New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](./wallpaper/2025-01-01.jpg) 
@@ -58,6 +60,4 @@
 2024-12-05 | [Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)](./wallpaper/2024-12-05.jpg) 
 
 2024-12-04 | [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](./wallpaper/2024-12-04.jpg) 
-
-2024-12-03 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](./wallpaper/2024-12-03.jpg) 
 
