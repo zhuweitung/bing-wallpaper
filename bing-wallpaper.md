@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-06 | [Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](./wallpaper/2025-01-06.jpg) 
+
 2025-01-05 | [Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)](./wallpaper/2025-01-05.jpg) 
 
 2025-01-04 | [The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](./wallpaper/2025-01-04.jpg) 
@@ -58,6 +60,4 @@
 2024-12-08 | [Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](./wallpaper/2024-12-08.jpg) 
 
 2024-12-07 | [Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](./wallpaper/2024-12-07.jpg) 
-
-2024-12-06 | [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](./wallpaper/2024-12-06.jpg) 
 
