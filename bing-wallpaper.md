@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-09 | [Snow on the Great Wall of China (© View Stock/Alamy)](./wallpaper/2025-01-09.jpg) 
+
 2025-01-08 | [Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](./wallpaper/2025-01-08.jpg) 
 
 2025-01-07 | [Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](./wallpaper/2025-01-07.jpg) 
@@ -58,6 +60,4 @@
 2024-12-11 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](./wallpaper/2024-12-11.jpg) 
 
 2024-12-10 | [Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)](./wallpaper/2024-12-10.jpg) 
-
-2024-12-09 | [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](./wallpaper/2024-12-09.jpg) 
 
