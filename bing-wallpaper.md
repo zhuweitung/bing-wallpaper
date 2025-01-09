@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-10 | [The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](./wallpaper/2025-01-10.jpg) 
+
 2025-01-09 | [Snow on the Great Wall of China (© View Stock/Alamy)](./wallpaper/2025-01-09.jpg) 
 
 2025-01-08 | [Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](./wallpaper/2025-01-08.jpg) 
@@ -58,6 +60,4 @@
 2024-12-12 | [Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)](./wallpaper/2024-12-12.jpg) 
 
 2024-12-11 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](./wallpaper/2024-12-11.jpg) 
-
-2024-12-10 | [Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)](./wallpaper/2024-12-10.jpg) 
 
