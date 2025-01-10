@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-11 | [Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](./wallpaper/2025-01-11.jpg) 
+
 2025-01-10 | [The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](./wallpaper/2025-01-10.jpg) 
 
 2025-01-09 | [Snow on the Great Wall of China (© View Stock/Alamy)](./wallpaper/2025-01-09.jpg) 
@@ -58,6 +60,4 @@
 2024-12-13 | [Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)](./wallpaper/2024-12-13.jpg) 
 
 2024-12-12 | [Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)](./wallpaper/2024-12-12.jpg) 
-
-2024-12-11 | [The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)](./wallpaper/2024-12-11.jpg) 
 
