@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-13 | [Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](./wallpaper/2025-01-13.jpg) 
+
 2025-01-12 | [Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)](./wallpaper/2025-01-12.jpg) 
 
 2025-01-11 | [Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](./wallpaper/2025-01-11.jpg) 
@@ -58,6 +60,4 @@
 2024-12-15 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](./wallpaper/2024-12-15.jpg) 
 
 2024-12-14 | [Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)](./wallpaper/2024-12-14.jpg) 
-
-2024-12-13 | [Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)](./wallpaper/2024-12-13.jpg) 
 
