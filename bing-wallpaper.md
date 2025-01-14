@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-15 | [Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)](./wallpaper/2025-01-15.jpg) 
+
 2025-01-14 | [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](./wallpaper/2025-01-14.jpg) 
 
 2025-01-13 | [Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](./wallpaper/2025-01-13.jpg) 
@@ -58,6 +60,4 @@
 2024-12-17 | [Salzburg, Austria (© bluejayphoto/Getty Images)](./wallpaper/2024-12-17.jpg) 
 
 2024-12-16 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](./wallpaper/2024-12-16.jpg) 
-
-2024-12-15 | [Northern hawk-owl, Canada (© pchoui/Getty Images)](./wallpaper/2024-12-15.jpg) 
 
