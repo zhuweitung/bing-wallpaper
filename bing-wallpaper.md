@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-16 | [The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)](./wallpaper/2025-01-16.jpg) 
+
 2025-01-15 | [Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)](./wallpaper/2025-01-15.jpg) 
 
 2025-01-14 | [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](./wallpaper/2025-01-14.jpg) 
@@ -58,6 +60,4 @@
 2024-12-18 | [Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)](./wallpaper/2024-12-18.jpg) 
 
 2024-12-17 | [Salzburg, Austria (© bluejayphoto/Getty Images)](./wallpaper/2024-12-17.jpg) 
-
-2024-12-16 | [Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)](./wallpaper/2024-12-16.jpg) 
 
