@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-19 | [Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)](./wallpaper/2025-01-19.jpg) 
+
 2025-01-18 | [Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)](./wallpaper/2025-01-18.jpg) 
 
 2025-01-17 | [High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](./wallpaper/2025-01-17.jpg) 
@@ -58,6 +60,4 @@
 2024-12-21 | [Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](./wallpaper/2024-12-21.jpg) 
 
 2024-12-20 | [Christmas market in Sibiu, Romania (© Calin Stan/Alamy)](./wallpaper/2024-12-20.jpg) 
-
-2024-12-19 | [English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy)](./wallpaper/2024-12-19.jpg) 
 
