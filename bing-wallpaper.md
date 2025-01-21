@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-22 | [Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](./wallpaper/2025-01-22.jpg) 
+
 2025-01-21 | [Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)](./wallpaper/2025-01-21.jpg) 
 
 2025-01-20 | [Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](./wallpaper/2025-01-20.jpg) 
@@ -58,6 +60,4 @@
 2024-12-24 | [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](./wallpaper/2024-12-24.jpg) 
 
 2024-12-23 | [Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)](./wallpaper/2024-12-23.jpg) 
-
-2024-12-22 | [Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)](./wallpaper/2024-12-22.jpg) 
 
