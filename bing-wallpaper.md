@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-24 | [Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](./wallpaper/2025-01-24.jpg) 
+
 2025-01-23 | [Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](./wallpaper/2025-01-23.jpg) 
 
 2025-01-22 | [Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](./wallpaper/2025-01-22.jpg) 
@@ -58,6 +60,4 @@
 2024-12-26 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](./wallpaper/2024-12-26.jpg) 
 
 2024-12-25 | [Christmas market scene in Germany (© Cyril Gosselin/Getty Images)](./wallpaper/2024-12-25.jpg) 
-
-2024-12-24 | [Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)](./wallpaper/2024-12-24.jpg) 
 
