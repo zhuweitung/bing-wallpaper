@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-26 | [Porto, Portugal (© Starcevic/Getty Images)](./wallpaper/2025-01-26.jpg) 
+
 2025-01-25 | [Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](./wallpaper/2025-01-25.jpg) 
 
 2025-01-24 | [Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](./wallpaper/2025-01-24.jpg) 
@@ -58,6 +60,4 @@
 2024-12-28 | [Lake Bled, Slovenia (© Kesu01/Getty Images)](./wallpaper/2024-12-28.jpg) 
 
 2024-12-27 | [Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)](./wallpaper/2024-12-27.jpg) 
-
-2024-12-26 | [Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](./wallpaper/2024-12-26.jpg) 
 
