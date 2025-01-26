@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-27 | [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](./wallpaper/2025-01-27.jpg) 
+
 2025-01-26 | [Porto, Portugal (© Starcevic/Getty Images)](./wallpaper/2025-01-26.jpg) 
 
 2025-01-25 | [Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](./wallpaper/2025-01-25.jpg) 
@@ -58,6 +60,4 @@
 2024-12-29 | [A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)](./wallpaper/2024-12-29.jpg) 
 
 2024-12-28 | [Lake Bled, Slovenia (© Kesu01/Getty Images)](./wallpaper/2024-12-28.jpg) 
-
-2024-12-27 | [Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)](./wallpaper/2024-12-27.jpg) 
 
