@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-29 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](./wallpaper/2025-01-29.jpg) 
+
 2025-01-28 | [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](./wallpaper/2025-01-28.jpg) 
 
 2025-01-27 | [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](./wallpaper/2025-01-27.jpg) 
@@ -58,6 +60,4 @@
 2024-12-31 | [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](./wallpaper/2024-12-31.jpg) 
 
 2024-12-30 | [Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](./wallpaper/2024-12-30.jpg) 
-
-2024-12-29 | [A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)](./wallpaper/2024-12-29.jpg) 
 
