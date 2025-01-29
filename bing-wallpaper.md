@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-30 | [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](./wallpaper/2025-01-30.jpg) 
+
 2025-01-29 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](./wallpaper/2025-01-29.jpg) 
 
 2025-01-28 | [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](./wallpaper/2025-01-28.jpg) 
@@ -58,6 +60,4 @@
 2025-01-01 | [New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](./wallpaper/2025-01-01.jpg) 
 
 2024-12-31 | [Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](./wallpaper/2024-12-31.jpg) 
-
-2024-12-30 | [Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](./wallpaper/2024-12-30.jpg) 
 
