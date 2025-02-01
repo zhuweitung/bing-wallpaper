@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-02 | [National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)](./wallpaper/2025-02-02.jpg) 
+
 2025-02-01 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](./wallpaper/2025-02-01.jpg) 
 
 2025-01-31 | [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](./wallpaper/2025-01-31.jpg) 
@@ -58,6 +60,4 @@
 2025-01-04 | [The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](./wallpaper/2025-01-04.jpg) 
 
 2025-01-03 | [Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](./wallpaper/2025-01-03.jpg) 
-
-2025-01-02 | [Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](./wallpaper/2025-01-02.jpg) 
 
