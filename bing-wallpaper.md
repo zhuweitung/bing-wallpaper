@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-06 | [Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](./wallpaper/2025-02-06.jpg) 
+
 2025-02-05 | [Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)](./wallpaper/2025-02-05.jpg) 
 
 2025-02-04 | [Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)](./wallpaper/2025-02-04.jpg) 
@@ -58,6 +60,4 @@
 2025-01-08 | [Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](./wallpaper/2025-01-08.jpg) 
 
 2025-01-07 | [Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](./wallpaper/2025-01-07.jpg) 
-
-2025-01-06 | [Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](./wallpaper/2025-01-06.jpg) 
 
