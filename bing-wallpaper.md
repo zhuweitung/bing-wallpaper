@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-07 | [Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)](./wallpaper/2025-02-07.jpg) 
+
 2025-02-06 | [Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](./wallpaper/2025-02-06.jpg) 
 
 2025-02-05 | [Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)](./wallpaper/2025-02-05.jpg) 
@@ -58,6 +60,4 @@
 2025-01-09 | [Snow on the Great Wall of China (© View Stock/Alamy)](./wallpaper/2025-01-09.jpg) 
 
 2025-01-08 | [Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](./wallpaper/2025-01-08.jpg) 
-
-2025-01-07 | [Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](./wallpaper/2025-01-07.jpg) 
 
