@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-09 | [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](./wallpaper/2025-02-09.jpg) 
+
 2025-02-08 | [Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](./wallpaper/2025-02-08.jpg) 
 
 2025-02-07 | [Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)](./wallpaper/2025-02-07.jpg) 
@@ -58,6 +60,4 @@
 2025-01-11 | [Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](./wallpaper/2025-01-11.jpg) 
 
 2025-01-10 | [The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](./wallpaper/2025-01-10.jpg) 
-
-2025-01-09 | [Snow on the Great Wall of China (© View Stock/Alamy)](./wallpaper/2025-01-09.jpg) 
 
