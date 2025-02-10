@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](./wallpaper/2025-02-11.jpg) 
+
 2025-02-10 | [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](./wallpaper/2025-02-10.jpg) 
 
 2025-02-09 | [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](./wallpaper/2025-02-09.jpg) 
@@ -58,6 +60,4 @@
 2025-01-13 | [Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](./wallpaper/2025-01-13.jpg) 
 
 2025-01-12 | [Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)](./wallpaper/2025-01-12.jpg) 
-
-2025-01-11 | [Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](./wallpaper/2025-01-11.jpg) 
 
