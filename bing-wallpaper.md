@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-13 | [Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](./wallpaper/2025-02-13.jpg) 
+
 2025-02-12 | [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](./wallpaper/2025-02-12.jpg) 
 
 2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](./wallpaper/2025-02-11.jpg) 
@@ -58,6 +60,4 @@
 2025-01-15 | [Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)](./wallpaper/2025-01-15.jpg) 
 
 2025-01-14 | [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](./wallpaper/2025-01-14.jpg) 
-
-2025-01-13 | [Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](./wallpaper/2025-01-13.jpg) 
 
