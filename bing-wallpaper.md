@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-17 | [Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)](./wallpaper/2025-02-17.jpg) 
+
 2025-02-16 | [Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](./wallpaper/2025-02-16.jpg) 
 
 2025-02-15 | [Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2025-02-15.jpg) 
@@ -58,6 +60,4 @@
 2025-01-19 | [Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)](./wallpaper/2025-01-19.jpg) 
 
 2025-01-18 | [Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)](./wallpaper/2025-01-18.jpg) 
-
-2025-01-17 | [High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](./wallpaper/2025-01-17.jpg) 
 
