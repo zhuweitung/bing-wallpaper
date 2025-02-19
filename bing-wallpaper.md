@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-20 | [European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](./wallpaper/2025-02-20.jpg) 
+
 2025-02-19 | [Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)](./wallpaper/2025-02-19.jpg) 
 
 2025-02-18 | [The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](./wallpaper/2025-02-18.jpg) 
@@ -58,6 +60,4 @@
 2025-01-22 | [Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](./wallpaper/2025-01-22.jpg) 
 
 2025-01-21 | [Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)](./wallpaper/2025-01-21.jpg) 
-
-2025-01-20 | [Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](./wallpaper/2025-01-20.jpg) 
 
