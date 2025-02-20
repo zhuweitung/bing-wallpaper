@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-21 | [Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](./wallpaper/2025-02-21.jpg) 
+
 2025-02-20 | [European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](./wallpaper/2025-02-20.jpg) 
 
 2025-02-19 | [Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)](./wallpaper/2025-02-19.jpg) 
@@ -58,6 +60,4 @@
 2025-01-23 | [Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](./wallpaper/2025-01-23.jpg) 
 
 2025-01-22 | [Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](./wallpaper/2025-01-22.jpg) 
-
-2025-01-21 | [Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)](./wallpaper/2025-01-21.jpg) 
 
