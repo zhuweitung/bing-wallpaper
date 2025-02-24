@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-25 | [Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)](./wallpaper/2025-02-25.jpg) 
+
 2025-02-24 | [Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)](./wallpaper/2025-02-24.jpg) 
 
 2025-02-23 | [The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)](./wallpaper/2025-02-23.jpg) 
@@ -58,6 +60,4 @@
 2025-01-27 | [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](./wallpaper/2025-01-27.jpg) 
 
 2025-01-26 | [Porto, Portugal (© Starcevic/Getty Images)](./wallpaper/2025-01-26.jpg) 
-
-2025-01-25 | [Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](./wallpaper/2025-01-25.jpg) 
 
