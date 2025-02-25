@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-26 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](./wallpaper/2025-02-26.jpg) 
+
 2025-02-25 | [Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)](./wallpaper/2025-02-25.jpg) 
 
 2025-02-24 | [Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)](./wallpaper/2025-02-24.jpg) 
@@ -58,6 +60,4 @@
 2025-01-28 | [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](./wallpaper/2025-01-28.jpg) 
 
 2025-01-27 | [European beech forest in Belgium (© Philippe Moes/Minden Pictures)](./wallpaper/2025-01-27.jpg) 
-
-2025-01-26 | [Porto, Portugal (© Starcevic/Getty Images)](./wallpaper/2025-01-26.jpg) 
 
