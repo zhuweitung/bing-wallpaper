@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-28 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](./wallpaper/2025-02-28.jpg) 
+
 2025-02-27 | [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](./wallpaper/2025-02-27.jpg) 
 
 2025-02-26 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](./wallpaper/2025-02-26.jpg) 
@@ -58,6 +60,4 @@
 2025-01-30 | [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](./wallpaper/2025-01-30.jpg) 
 
 2025-01-29 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](./wallpaper/2025-01-29.jpg) 
-
-2025-01-28 | [Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](./wallpaper/2025-01-28.jpg) 
 
