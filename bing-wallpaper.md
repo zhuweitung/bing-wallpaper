@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-01 | [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](./wallpaper/2025-03-01.jpg) 
+
 2025-02-28 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](./wallpaper/2025-02-28.jpg) 
 
 2025-02-27 | [Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)](./wallpaper/2025-02-27.jpg) 
@@ -58,6 +60,4 @@
 2025-01-31 | [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](./wallpaper/2025-01-31.jpg) 
 
 2025-01-30 | [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](./wallpaper/2025-01-30.jpg) 
-
-2025-01-29 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](./wallpaper/2025-01-29.jpg) 
 
