@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-02 | [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](./wallpaper/2025-03-02.jpg) 
+
 2025-03-01 | [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](./wallpaper/2025-03-01.jpg) 
 
 2025-02-28 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](./wallpaper/2025-02-28.jpg) 
@@ -58,6 +60,4 @@
 2025-02-01 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](./wallpaper/2025-02-01.jpg) 
 
 2025-01-31 | [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](./wallpaper/2025-01-31.jpg) 
-
-2025-01-30 | [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](./wallpaper/2025-01-30.jpg) 
 
