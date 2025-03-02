@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-03 | [Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)](./wallpaper/2025-03-03.jpg) 
+
 2025-03-02 | [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](./wallpaper/2025-03-02.jpg) 
 
 2025-03-01 | [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](./wallpaper/2025-03-01.jpg) 
@@ -58,6 +60,4 @@
 2025-02-02 | [National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)](./wallpaper/2025-02-02.jpg) 
 
 2025-02-01 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](./wallpaper/2025-02-01.jpg) 
-
-2025-01-31 | [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](./wallpaper/2025-01-31.jpg) 
 
