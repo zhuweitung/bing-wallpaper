@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-07 | [Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](./wallpaper/2025-03-07.jpg) 
+
 2025-03-03 | [Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)](./wallpaper/2025-03-03.jpg) 
 
 2025-03-02 | [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](./wallpaper/2025-03-02.jpg) 
@@ -52,12 +54,4 @@
 2025-02-06 | [Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](./wallpaper/2025-02-06.jpg) 
 
 2025-02-05 | [Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)](./wallpaper/2025-02-05.jpg) 
-
-2025-02-04 | [Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)](./wallpaper/2025-02-04.jpg) 
-
-2025-02-03 | [Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)](./wallpaper/2025-02-03.jpg) 
-
-2025-02-02 | [National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)](./wallpaper/2025-02-02.jpg) 
-
-2025-02-01 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](./wallpaper/2025-02-01.jpg) 
 
