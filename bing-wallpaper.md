@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-09 | [Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](./wallpaper/2025-03-09.jpg) 
+
 2025-03-08 | [Plum blossoms in China (© zhikun sun/Getty Images)](./wallpaper/2025-03-08.jpg) 
 
 2025-03-07 | [Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](./wallpaper/2025-03-07.jpg) 
@@ -52,6 +54,4 @@
 2025-02-08 | [Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](./wallpaper/2025-02-08.jpg) 
 
 2025-02-07 | [Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)](./wallpaper/2025-02-07.jpg) 
-
-2025-02-06 | [Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](./wallpaper/2025-02-06.jpg) 
 
