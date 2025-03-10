@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-11 | [A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)](./wallpaper/2025-03-11.jpg) 
+
 2025-03-10 | [St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)](./wallpaper/2025-03-10.jpg) 
 
 2025-03-09 | [Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](./wallpaper/2025-03-09.jpg) 
@@ -52,6 +54,4 @@
 2025-02-10 | [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](./wallpaper/2025-02-10.jpg) 
 
 2025-02-09 | [Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](./wallpaper/2025-02-09.jpg) 
-
-2025-02-08 | [Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](./wallpaper/2025-02-08.jpg) 
 
