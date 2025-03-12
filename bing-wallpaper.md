@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-13 | [Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)](./wallpaper/2025-03-13.jpg) 
+
 2025-03-12 | [Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)](./wallpaper/2025-03-12.jpg) 
 
 2025-03-11 | [A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)](./wallpaper/2025-03-11.jpg) 
@@ -52,6 +54,4 @@
 2025-02-12 | [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](./wallpaper/2025-02-12.jpg) 
 
 2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](./wallpaper/2025-02-11.jpg) 
-
-2025-02-10 | [Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](./wallpaper/2025-02-10.jpg) 
 
