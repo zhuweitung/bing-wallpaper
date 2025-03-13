@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-14 | [Holi celebration in Jaipur, India (© powerofforever/Getty Images)](./wallpaper/2025-03-14.jpg) 
+
 2025-03-13 | [Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)](./wallpaper/2025-03-13.jpg) 
 
 2025-03-12 | [Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)](./wallpaper/2025-03-12.jpg) 
@@ -52,6 +54,4 @@
 2025-02-13 | [Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](./wallpaper/2025-02-13.jpg) 
 
 2025-02-12 | [Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](./wallpaper/2025-02-12.jpg) 
-
-2025-02-11 | [Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)](./wallpaper/2025-02-11.jpg) 
 
