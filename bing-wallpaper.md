@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-18 | [Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)](./wallpaper/2025-03-18.jpg) 
+
 2025-03-17 | [Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)](./wallpaper/2025-03-17.jpg) 
 
 2025-03-16 | [The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-03-16.jpg) 
@@ -52,6 +54,4 @@
 2025-02-17 | [Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)](./wallpaper/2025-02-17.jpg) 
 
 2025-02-16 | [Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](./wallpaper/2025-02-16.jpg) 
-
-2025-02-15 | [Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2025-02-15.jpg) 
 
