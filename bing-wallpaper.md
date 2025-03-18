@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-19 | [Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)](./wallpaper/2025-03-19.jpg) 
+
 2025-03-18 | [Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)](./wallpaper/2025-03-18.jpg) 
 
 2025-03-17 | [Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)](./wallpaper/2025-03-17.jpg) 
@@ -52,6 +54,4 @@
 2025-02-18 | [The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](./wallpaper/2025-02-18.jpg) 
 
 2025-02-17 | [Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)](./wallpaper/2025-02-17.jpg) 
-
-2025-02-16 | [Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](./wallpaper/2025-02-16.jpg) 
 
