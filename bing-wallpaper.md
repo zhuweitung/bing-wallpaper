@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-21 | [Spring daffodils glowing in morning light (© LedyX/Shutterstock)](./wallpaper/2025-03-21.jpg) 
+
 2025-03-20 | [A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)](./wallpaper/2025-03-20.jpg) 
 
 2025-03-19 | [Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)](./wallpaper/2025-03-19.jpg) 
@@ -52,6 +54,4 @@
 2025-02-20 | [European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](./wallpaper/2025-02-20.jpg) 
 
 2025-02-19 | [Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)](./wallpaper/2025-02-19.jpg) 
-
-2025-02-18 | [The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](./wallpaper/2025-02-18.jpg) 
 
