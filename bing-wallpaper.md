@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-24 | [Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)](./wallpaper/2025-03-24.jpg) 
+
 2025-03-23 | [Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)](./wallpaper/2025-03-23.jpg) 
 
 2025-03-22 | [Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)](./wallpaper/2025-03-22.jpg) 
@@ -52,6 +54,4 @@
 2025-02-23 | [The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)](./wallpaper/2025-02-23.jpg) 
 
 2025-02-22 | [Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)](./wallpaper/2025-02-22.jpg) 
-
-2025-02-21 | [Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](./wallpaper/2025-02-21.jpg) 
 
