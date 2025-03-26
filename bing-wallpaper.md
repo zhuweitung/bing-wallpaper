@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-27 | [Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)](./wallpaper/2025-03-27.jpg) 
+
 2025-03-26 | [Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)](./wallpaper/2025-03-26.jpg) 
 
 2025-03-25 | [Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)](./wallpaper/2025-03-25.jpg) 
@@ -52,6 +54,4 @@
 2025-02-26 | [Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)](./wallpaper/2025-02-26.jpg) 
 
 2025-02-25 | [Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)](./wallpaper/2025-02-25.jpg) 
-
-2025-02-24 | [Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)](./wallpaper/2025-02-24.jpg) 
 
