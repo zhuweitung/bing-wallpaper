@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-31 | [Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](./wallpaper/2025-03-31.jpg) 
+
 2025-03-30 | [Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](./wallpaper/2025-03-30.jpg) 
 
 2025-03-29 | [Female black-naped monarch nesting (© komkrit tonusin/Alamy)](./wallpaper/2025-03-29.jpg) 
@@ -52,6 +54,4 @@
 2025-03-02 | [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](./wallpaper/2025-03-02.jpg) 
 
 2025-03-01 | [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](./wallpaper/2025-03-01.jpg) 
-
-2025-02-28 | [Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](./wallpaper/2025-02-28.jpg) 
 
