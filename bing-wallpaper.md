@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-02 | [Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](./wallpaper/2025-04-02.jpg) 
+
 2025-04-01 | [Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)](./wallpaper/2025-04-01.jpg) 
 
 2025-03-31 | [Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](./wallpaper/2025-03-31.jpg) 
@@ -52,6 +54,4 @@
 2025-03-07 | [Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](./wallpaper/2025-03-07.jpg) 
 
 2025-03-03 | [Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)](./wallpaper/2025-03-03.jpg) 
-
-2025-03-02 | [Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)](./wallpaper/2025-03-02.jpg) 
 
