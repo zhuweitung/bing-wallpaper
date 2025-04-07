@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-08 | [North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-04-08.jpg) 
+
 2025-04-07 | [George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)](./wallpaper/2025-04-07.jpg) 
 
 2025-04-06 | [Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)](./wallpaper/2025-04-06.jpg) 
@@ -58,6 +60,4 @@
 2025-03-10 | [St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)](./wallpaper/2025-03-10.jpg) 
 
 2025-03-09 | [Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](./wallpaper/2025-03-09.jpg) 
-
-2025-03-08 | [Plum blossoms in China (© zhikun sun/Getty Images)](./wallpaper/2025-03-08.jpg) 
 
