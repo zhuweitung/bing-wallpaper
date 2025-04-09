@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-10 | [Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)](./wallpaper/2025-04-10.jpg) 
+
 2025-04-09 | [Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)](./wallpaper/2025-04-09.jpg) 
 
 2025-04-08 | [North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-04-08.jpg) 
@@ -58,6 +60,4 @@
 2025-03-12 | [Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)](./wallpaper/2025-03-12.jpg) 
 
 2025-03-11 | [A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)](./wallpaper/2025-03-11.jpg) 
-
-2025-03-10 | [St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)](./wallpaper/2025-03-10.jpg) 
 
