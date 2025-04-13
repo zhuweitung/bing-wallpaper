@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-14 | [Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](./wallpaper/2025-04-14.jpg) 
+
 2025-04-13 | [View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)](./wallpaper/2025-04-13.jpg) 
 
 2025-04-12 | [Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)](./wallpaper/2025-04-12.jpg) 
@@ -58,6 +60,4 @@
 2025-03-16 | [The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-03-16.jpg) 
 
 2025-03-15 | [Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture)](./wallpaper/2025-03-15.jpg) 
-
-2025-03-14 | [Holi celebration in Jaipur, India (© powerofforever/Getty Images)](./wallpaper/2025-03-14.jpg) 
 
