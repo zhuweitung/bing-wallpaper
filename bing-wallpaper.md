@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-18 | [Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)](./wallpaper/2025-04-18.jpg) 
+
 2025-04-17 | [Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)](./wallpaper/2025-04-17.jpg) 
 
 2025-04-16 | [Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France (© Hemis/Alamy)](./wallpaper/2025-04-16.jpg) 
@@ -58,6 +60,4 @@
 2025-03-20 | [A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)](./wallpaper/2025-03-20.jpg) 
 
 2025-03-19 | [Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)](./wallpaper/2025-03-19.jpg) 
-
-2025-03-18 | [Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)](./wallpaper/2025-03-18.jpg) 
 
