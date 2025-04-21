@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-22 | [Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](./wallpaper/2025-04-22.jpg) 
+
 2025-04-21 | [Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](./wallpaper/2025-04-21.jpg) 
 
 2025-04-20 | [Zion National Park, Utah (© Simon Dannhauer/Getty Images)](./wallpaper/2025-04-20.jpg) 
@@ -58,6 +60,4 @@
 2025-03-24 | [Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)](./wallpaper/2025-03-24.jpg) 
 
 2025-03-23 | [Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)](./wallpaper/2025-03-23.jpg) 
-
-2025-03-22 | [Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)](./wallpaper/2025-03-22.jpg) 
 
