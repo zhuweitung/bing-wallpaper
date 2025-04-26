@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-27 | [Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)](./wallpaper/2025-04-27.jpg) 
+
 2025-04-26 | [Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)](./wallpaper/2025-04-26.jpg) 
 
 2025-04-25 | [Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)](./wallpaper/2025-04-25.jpg) 
@@ -58,6 +60,4 @@
 2025-03-29 | [Female black-naped monarch nesting (© komkrit tonusin/Alamy)](./wallpaper/2025-03-29.jpg) 
 
 2025-03-28 | [Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)](./wallpaper/2025-03-28.jpg) 
-
-2025-03-27 | [Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)](./wallpaper/2025-03-27.jpg) 
 
