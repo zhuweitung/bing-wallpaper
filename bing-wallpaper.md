@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-28 | [Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)](./wallpaper/2025-04-28.jpg) 
+
 2025-04-27 | [Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)](./wallpaper/2025-04-27.jpg) 
 
 2025-04-26 | [Magellanic penguins, Volunteer Point, Falkland Islands (© imageBROKER/Matthias Graben/Getty Images)](./wallpaper/2025-04-26.jpg) 
@@ -58,6 +60,4 @@
 2025-03-30 | [Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](./wallpaper/2025-03-30.jpg) 
 
 2025-03-29 | [Female black-naped monarch nesting (© komkrit tonusin/Alamy)](./wallpaper/2025-03-29.jpg) 
-
-2025-03-28 | [Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)](./wallpaper/2025-03-28.jpg) 
 
