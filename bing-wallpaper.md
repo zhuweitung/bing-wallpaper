@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-03 | [Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)](./wallpaper/2025-05-03.jpg) 
+
 2025-05-02 | [Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)](./wallpaper/2025-05-02.jpg) 
 
 2025-05-01 | [Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](./wallpaper/2025-05-01.jpg) 
@@ -58,6 +60,4 @@
 2025-04-04 | [Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](./wallpaper/2025-04-04.jpg) 
 
 2025-04-03 | [Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2025-04-03.jpg) 
-
-2025-04-02 | [Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](./wallpaper/2025-04-02.jpg) 
 
