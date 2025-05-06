@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-07 | [An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)](./wallpaper/2025-05-07.jpg) 
+
 2025-05-06 | [Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)](./wallpaper/2025-05-06.jpg) 
 
 2025-05-05 | [Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](./wallpaper/2025-05-05.jpg) 
@@ -58,6 +60,4 @@
 2025-04-08 | [North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-04-08.jpg) 
 
 2025-04-07 | [George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)](./wallpaper/2025-04-07.jpg) 
-
-2025-04-06 | [Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)](./wallpaper/2025-04-06.jpg) 
 
