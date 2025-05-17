@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-18 | [A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)](./wallpaper/2025-05-18.jpg) 
+
 2025-05-17 | [Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](./wallpaper/2025-05-17.jpg) 
 
 2025-05-16 | [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](./wallpaper/2025-05-16.jpg) 
@@ -58,6 +60,4 @@
 2025-04-19 | [Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](./wallpaper/2025-04-19.jpg) 
 
 2025-04-18 | [Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)](./wallpaper/2025-04-18.jpg) 
-
-2025-04-17 | [Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)](./wallpaper/2025-04-17.jpg) 
 
