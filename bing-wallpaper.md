@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-20 | [Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](./wallpaper/2025-05-20.jpg) 
+
 2025-05-19 | ['The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)](./wallpaper/2025-05-19.jpg) 
 
 2025-05-18 | [A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)](./wallpaper/2025-05-18.jpg) 
@@ -58,6 +60,4 @@
 2025-04-21 | [Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](./wallpaper/2025-04-21.jpg) 
 
 2025-04-20 | [Zion National Park, Utah (© Simon Dannhauer/Getty Images)](./wallpaper/2025-04-20.jpg) 
-
-2025-04-19 | [Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](./wallpaper/2025-04-19.jpg) 
 
