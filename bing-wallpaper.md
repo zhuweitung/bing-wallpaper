@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-21 | [Honey bee on lavender flowers (© Anthony Brown/Alamy)](./wallpaper/2025-05-21.jpg) 
+
 2025-05-20 | [Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](./wallpaper/2025-05-20.jpg) 
 
 2025-05-19 | ['The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)](./wallpaper/2025-05-19.jpg) 
@@ -58,6 +60,4 @@
 2025-04-22 | [Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](./wallpaper/2025-04-22.jpg) 
 
 2025-04-21 | [Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](./wallpaper/2025-04-21.jpg) 
-
-2025-04-20 | [Zion National Park, Utah (© Simon Dannhauer/Getty Images)](./wallpaper/2025-04-20.jpg) 
 
