@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-22 | [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](./wallpaper/2025-05-22.jpg) 
+
 2025-05-21 | [Honey bee on lavender flowers (© Anthony Brown/Alamy)](./wallpaper/2025-05-21.jpg) 
 
 2025-05-20 | [Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](./wallpaper/2025-05-20.jpg) 
@@ -58,6 +60,4 @@
 2025-04-23 | [Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)](./wallpaper/2025-04-23.jpg) 
 
 2025-04-22 | [Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](./wallpaper/2025-04-22.jpg) 
-
-2025-04-21 | [Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](./wallpaper/2025-04-21.jpg) 
 
