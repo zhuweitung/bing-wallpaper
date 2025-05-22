@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-23 | [Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)](./wallpaper/2025-05-23.jpg) 
+
 2025-05-22 | [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](./wallpaper/2025-05-22.jpg) 
 
 2025-05-21 | [Honey bee on lavender flowers (© Anthony Brown/Alamy)](./wallpaper/2025-05-21.jpg) 
@@ -58,6 +60,4 @@
 2025-04-24 | [Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)](./wallpaper/2025-04-24.jpg) 
 
 2025-04-23 | [Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)](./wallpaper/2025-04-23.jpg) 
-
-2025-04-22 | [Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](./wallpaper/2025-04-22.jpg) 
 
