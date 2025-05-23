@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-24 | [A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](./wallpaper/2025-05-24.jpg) 
+
 2025-05-23 | [Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)](./wallpaper/2025-05-23.jpg) 
 
 2025-05-22 | [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](./wallpaper/2025-05-22.jpg) 
@@ -58,6 +60,4 @@
 2025-04-25 | [Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)](./wallpaper/2025-04-25.jpg) 
 
 2025-04-24 | [Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)](./wallpaper/2025-04-24.jpg) 
-
-2025-04-23 | [Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)](./wallpaper/2025-04-23.jpg) 
 
