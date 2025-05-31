@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-01 | [Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](./wallpaper/2025-06-01.jpg) 
+
 2025-05-31 | [Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](./wallpaper/2025-05-31.jpg) 
 
 2025-05-30 | [Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)](./wallpaper/2025-05-30.jpg) 
@@ -58,6 +60,4 @@
 2025-05-03 | [Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)](./wallpaper/2025-05-03.jpg) 
 
 2025-05-02 | [Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)](./wallpaper/2025-05-02.jpg) 
-
-2025-05-01 | [Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](./wallpaper/2025-05-01.jpg) 
 
