@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-03 | [Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)](./wallpaper/2025-06-03.jpg) 
+
 2025-06-02 | [Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)](./wallpaper/2025-06-02.jpg) 
 
 2025-06-01 | [Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](./wallpaper/2025-06-01.jpg) 
@@ -58,6 +60,4 @@
 2025-05-05 | [Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](./wallpaper/2025-05-05.jpg) 
 
 2025-05-04 | [The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)](./wallpaper/2025-05-04.jpg) 
-
-2025-05-03 | [Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)](./wallpaper/2025-05-03.jpg) 
 
