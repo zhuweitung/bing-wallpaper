@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-04 | [Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2025-06-04.jpg) 
+
 2025-06-03 | [Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)](./wallpaper/2025-06-03.jpg) 
 
 2025-06-02 | [Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)](./wallpaper/2025-06-02.jpg) 
@@ -58,6 +60,4 @@
 2025-05-06 | [Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)](./wallpaper/2025-05-06.jpg) 
 
 2025-05-05 | [Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](./wallpaper/2025-05-05.jpg) 
-
-2025-05-04 | [The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)](./wallpaper/2025-05-04.jpg) 
 
