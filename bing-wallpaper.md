@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-06 | [Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](./wallpaper/2025-06-06.jpg) 
+
 2025-06-05 | [The beach at Cala Luna, Sardinia, Italy (�� guenterguni/Getty Images)](./wallpaper/2025-06-05.jpg) 
 
 2025-06-04 | [Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2025-06-04.jpg) 
@@ -58,6 +60,4 @@
 2025-05-08 | [Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)](./wallpaper/2025-05-08.jpg) 
 
 2025-05-07 | [An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)](./wallpaper/2025-05-07.jpg) 
-
-2025-05-06 | [Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)](./wallpaper/2025-05-06.jpg) 
 
