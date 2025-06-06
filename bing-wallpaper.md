@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-07 | [Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](./wallpaper/2025-06-07.jpg) 
+
 2025-06-06 | [Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](./wallpaper/2025-06-06.jpg) 
 
 2025-06-05 | [The beach at Cala Luna, Sardinia, Italy (�� guenterguni/Getty Images)](./wallpaper/2025-06-05.jpg) 
@@ -58,6 +60,4 @@
 2025-05-09 | [Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)](./wallpaper/2025-05-09.jpg) 
 
 2025-05-08 | [Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)](./wallpaper/2025-05-08.jpg) 
-
-2025-05-07 | [An ultralight aircraft flying over the sands of Namibia (© Burt Johnson/Alamy)](./wallpaper/2025-05-07.jpg) 
 
