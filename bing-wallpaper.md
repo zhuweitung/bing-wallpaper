@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-09 | [Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)](./wallpaper/2025-06-09.jpg) 
+
 2025-06-08 | [Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)](./wallpaper/2025-06-08.jpg) 
 
 2025-06-07 | [Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](./wallpaper/2025-06-07.jpg) 
@@ -58,6 +60,4 @@
 2025-05-11 | [Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](./wallpaper/2025-05-11.jpg) 
 
 2025-05-10 | [Common chameleon (© Photostock-Israel/SPL/Getty Images)](./wallpaper/2025-05-10.jpg) 
-
-2025-05-09 | [Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)](./wallpaper/2025-05-09.jpg) 
 
