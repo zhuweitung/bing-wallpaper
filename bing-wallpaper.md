@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-12 | [Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](./wallpaper/2025-06-12.jpg) 
+
 2025-06-11 | [Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)](./wallpaper/2025-06-11.jpg) 
 
 2025-06-10 | [Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)](./wallpaper/2025-06-10.jpg) 
@@ -58,6 +60,4 @@
 2025-05-14 | [Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](./wallpaper/2025-05-14.jpg) 
 
 2025-05-13 | [An iris garden in Tokyo, Japan (© M.Arai/Getty Images)](./wallpaper/2025-05-13.jpg) 
-
-2025-05-12 | [Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2025-05-12.jpg) 
 
