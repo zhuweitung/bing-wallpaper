@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-14 | [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](./wallpaper/2025-06-14.jpg) 
+
 2025-06-13 | [Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](./wallpaper/2025-06-13.jpg) 
 
 2025-06-12 | [Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](./wallpaper/2025-06-12.jpg) 
@@ -58,6 +60,4 @@
 2025-05-16 | [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](./wallpaper/2025-05-16.jpg) 
 
 2025-05-15 | [Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2025-05-15.jpg) 
-
-2025-05-14 | [Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](./wallpaper/2025-05-14.jpg) 
 
