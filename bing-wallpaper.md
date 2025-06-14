@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-15 | [Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](./wallpaper/2025-06-15.jpg) 
+
 2025-06-14 | [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](./wallpaper/2025-06-14.jpg) 
 
 2025-06-13 | [Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](./wallpaper/2025-06-13.jpg) 
@@ -58,6 +60,4 @@
 2025-05-17 | [Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](./wallpaper/2025-05-17.jpg) 
 
 2025-05-16 | [Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](./wallpaper/2025-05-16.jpg) 
-
-2025-05-15 | [Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2025-05-15.jpg) 
 
