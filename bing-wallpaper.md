@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-17 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](./wallpaper/2025-06-17.jpg) 
+
 2025-06-16 | [Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](./wallpaper/2025-06-16.jpg) 
 
 2025-06-15 | [Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](./wallpaper/2025-06-15.jpg) 
@@ -58,6 +60,4 @@
 2025-05-19 | ['The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)](./wallpaper/2025-05-19.jpg) 
 
 2025-05-18 | [A delta in the Venetian Lagoon, Italy (© Dimitri Weber/Amazing Aerial Agency)](./wallpaper/2025-05-18.jpg) 
-
-2025-05-17 | [Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](./wallpaper/2025-05-17.jpg) 
 
