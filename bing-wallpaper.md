@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-19 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](./wallpaper/2025-06-19.jpg) 
+
 2025-06-18 | [Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2025-06-18.jpg) 
 
 2025-06-17 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](./wallpaper/2025-06-17.jpg) 
@@ -58,6 +60,4 @@
 2025-05-21 | [Honey bee on lavender flowers (© Anthony Brown/Alamy)](./wallpaper/2025-05-21.jpg) 
 
 2025-05-20 | [Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](./wallpaper/2025-05-20.jpg) 
-
-2025-05-19 | ['The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France (© BERTRAND GUAY/AFP via Getty Images)](./wallpaper/2025-05-19.jpg) 
 
