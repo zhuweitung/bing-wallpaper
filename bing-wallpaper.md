@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-20 | [Texas State Capitol in Austin (© joe daniel price/Getty Images)](./wallpaper/2025-06-20.jpg) 
+
 2025-06-19 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](./wallpaper/2025-06-19.jpg) 
 
 2025-06-18 | [Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2025-06-18.jpg) 
@@ -58,6 +60,4 @@
 2025-05-22 | [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](./wallpaper/2025-05-22.jpg) 
 
 2025-05-21 | [Honey bee on lavender flowers (© Anthony Brown/Alamy)](./wallpaper/2025-05-21.jpg) 
-
-2025-05-20 | [Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](./wallpaper/2025-05-20.jpg) 
 
