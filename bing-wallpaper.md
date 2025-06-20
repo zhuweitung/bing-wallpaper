@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-21 | [Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](./wallpaper/2025-06-21.jpg) 
+
 2025-06-20 | [Texas State Capitol in Austin (© joe daniel price/Getty Images)](./wallpaper/2025-06-20.jpg) 
 
 2025-06-19 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](./wallpaper/2025-06-19.jpg) 
@@ -58,6 +60,4 @@
 2025-05-23 | [Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)](./wallpaper/2025-05-23.jpg) 
 
 2025-05-22 | [Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)](./wallpaper/2025-05-22.jpg) 
-
-2025-05-21 | [Honey bee on lavender flowers (© Anthony Brown/Alamy)](./wallpaper/2025-05-21.jpg) 
 
