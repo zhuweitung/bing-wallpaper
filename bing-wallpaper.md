@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-23 | [Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](./wallpaper/2025-06-23.jpg) 
+
 2025-06-22 | [Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)](./wallpaper/2025-06-22.jpg) 
 
 2025-06-21 | [Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](./wallpaper/2025-06-21.jpg) 
@@ -58,6 +60,4 @@
 2025-05-25 | [Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](./wallpaper/2025-05-25.jpg) 
 
 2025-05-24 | [A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](./wallpaper/2025-05-24.jpg) 
-
-2025-05-23 | [Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)](./wallpaper/2025-05-23.jpg) 
 
