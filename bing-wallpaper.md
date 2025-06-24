@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-25 | [Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)](./wallpaper/2025-06-25.jpg) 
+
 2025-06-23 | [Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](./wallpaper/2025-06-23.jpg) 
 
 2025-06-22 | [Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)](./wallpaper/2025-06-22.jpg) 
@@ -56,8 +58,4 @@
 2025-05-27 | [Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](./wallpaper/2025-05-27.jpg) 
 
 2025-05-26 | [Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)](./wallpaper/2025-05-26.jpg) 
-
-2025-05-25 | [Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](./wallpaper/2025-05-25.jpg) 
-
-2025-05-24 | [A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](./wallpaper/2025-05-24.jpg) 
 
