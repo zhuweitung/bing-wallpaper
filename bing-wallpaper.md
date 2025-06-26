@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-27 | [The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)](./wallpaper/2025-06-27.jpg) 
+
 2025-06-26 | [St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)](./wallpaper/2025-06-26.jpg) 
 
 2025-06-25 | [Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)](./wallpaper/2025-06-25.jpg) 
@@ -56,6 +58,4 @@
 2025-05-29 | [Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](./wallpaper/2025-05-29.jpg) 
 
 2025-05-28 | [Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)](./wallpaper/2025-05-28.jpg) 
-
-2025-05-27 | [Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](./wallpaper/2025-05-27.jpg) 
 
