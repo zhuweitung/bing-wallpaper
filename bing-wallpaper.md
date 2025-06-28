@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-29 | [Rainbow flags at New York Pride (© Alan Schein/Getty Images)](./wallpaper/2025-06-29.jpg) 
+
 2025-06-28 | [Splendid leaf frog (© Jan Stria/Shutterstock)](./wallpaper/2025-06-28.jpg) 
 
 2025-06-27 | [The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)](./wallpaper/2025-06-27.jpg) 
@@ -56,6 +58,4 @@
 2025-05-31 | [Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](./wallpaper/2025-05-31.jpg) 
 
 2025-05-30 | [Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)](./wallpaper/2025-05-30.jpg) 
-
-2025-05-29 | [Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](./wallpaper/2025-05-29.jpg) 
 
