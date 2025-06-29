@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-30 | [Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](./wallpaper/2025-06-30.jpg) 
+
 2025-06-29 | [Rainbow flags at New York Pride (© Alan Schein/Getty Images)](./wallpaper/2025-06-29.jpg) 
 
 2025-06-28 | [Splendid leaf frog (© Jan Stria/Shutterstock)](./wallpaper/2025-06-28.jpg) 
@@ -56,6 +58,4 @@
 2025-06-01 | [Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](./wallpaper/2025-06-01.jpg) 
 
 2025-05-31 | [Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](./wallpaper/2025-05-31.jpg) 
-
-2025-05-30 | [Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)](./wallpaper/2025-05-30.jpg) 
 
