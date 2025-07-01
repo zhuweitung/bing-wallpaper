@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-02 | [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](./wallpaper/2025-07-02.jpg) 
+
 2025-07-01 | [Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](./wallpaper/2025-07-01.jpg) 
 
 2025-06-30 | [Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](./wallpaper/2025-06-30.jpg) 
@@ -56,6 +58,4 @@
 2025-06-03 | [Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)](./wallpaper/2025-06-03.jpg) 
 
 2025-06-02 | [Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)](./wallpaper/2025-06-02.jpg) 
-
-2025-06-01 | [Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](./wallpaper/2025-06-01.jpg) 
 
