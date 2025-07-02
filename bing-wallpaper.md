@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-03 | [Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)](./wallpaper/2025-07-03.jpg) 
+
 2025-07-02 | [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](./wallpaper/2025-07-02.jpg) 
 
 2025-07-01 | [Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](./wallpaper/2025-07-01.jpg) 
@@ -56,6 +58,4 @@
 2025-06-04 | [Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2025-06-04.jpg) 
 
 2025-06-03 | [Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)](./wallpaper/2025-06-03.jpg) 
-
-2025-06-02 | [Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)](./wallpaper/2025-06-02.jpg) 
 
