@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-06 | [Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](./wallpaper/2025-07-06.jpg) 
+
 2025-07-05 | [Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](./wallpaper/2025-07-05.jpg) 
 
 2025-07-04 | [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](./wallpaper/2025-07-04.jpg) 
@@ -56,6 +58,4 @@
 2025-06-07 | [Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](./wallpaper/2025-06-07.jpg) 
 
 2025-06-06 | [Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](./wallpaper/2025-06-06.jpg) 
-
-2025-06-05 | [The beach at Cala Luna, Sardinia, Italy (�� guenterguni/Getty Images)](./wallpaper/2025-06-05.jpg) 
 
