@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-08 | [Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](./wallpaper/2025-07-08.jpg) 
+
 2025-07-07 | [Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](./wallpaper/2025-07-07.jpg) 
 
 2025-07-06 | [Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](./wallpaper/2025-07-06.jpg) 
@@ -56,6 +58,4 @@
 2025-06-09 | [Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)](./wallpaper/2025-06-09.jpg) 
 
 2025-06-08 | [Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)](./wallpaper/2025-06-08.jpg) 
-
-2025-06-07 | [Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](./wallpaper/2025-06-07.jpg) 
 
