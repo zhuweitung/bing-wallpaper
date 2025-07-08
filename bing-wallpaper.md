@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-09 | [Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](./wallpaper/2025-07-09.jpg) 
+
 2025-07-08 | [Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](./wallpaper/2025-07-08.jpg) 
 
 2025-07-07 | [Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](./wallpaper/2025-07-07.jpg) 
@@ -56,6 +58,4 @@
 2025-06-10 | [Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)](./wallpaper/2025-06-10.jpg) 
 
 2025-06-09 | [Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)](./wallpaper/2025-06-09.jpg) 
-
-2025-06-08 | [Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)](./wallpaper/2025-06-08.jpg) 
 
