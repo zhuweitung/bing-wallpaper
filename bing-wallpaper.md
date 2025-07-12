@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-13 | [Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](./wallpaper/2025-07-13.jpg) 
+
 2025-07-12 | [Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](./wallpaper/2025-07-12.jpg) 
 
 2025-07-11 | [Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](./wallpaper/2025-07-11.jpg) 
@@ -56,6 +58,4 @@
 2025-06-14 | [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](./wallpaper/2025-06-14.jpg) 
 
 2025-06-13 | [Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](./wallpaper/2025-06-13.jpg) 
-
-2025-06-12 | [Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](./wallpaper/2025-06-12.jpg) 
 
