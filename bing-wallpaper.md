@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-15 | [Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](./wallpaper/2025-07-15.jpg) 
+
 2025-07-14 | [Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](./wallpaper/2025-07-14.jpg) 
 
 2025-07-13 | [Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](./wallpaper/2025-07-13.jpg) 
@@ -56,6 +58,4 @@
 2025-06-16 | [Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](./wallpaper/2025-06-16.jpg) 
 
 2025-06-15 | [Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](./wallpaper/2025-06-15.jpg) 
-
-2025-06-14 | [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](./wallpaper/2025-06-14.jpg) 
 
