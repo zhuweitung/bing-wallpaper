@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-16 | [Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](./wallpaper/2025-07-16.jpg) 
+
 2025-07-15 | [Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](./wallpaper/2025-07-15.jpg) 
 
 2025-07-14 | [Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](./wallpaper/2025-07-14.jpg) 
@@ -56,6 +58,4 @@
 2025-06-17 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](./wallpaper/2025-06-17.jpg) 
 
 2025-06-16 | [Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](./wallpaper/2025-06-16.jpg) 
-
-2025-06-15 | [Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](./wallpaper/2025-06-15.jpg) 
 
