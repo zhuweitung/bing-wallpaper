@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-18 | [Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](./wallpaper/2025-07-18.jpg) 
+
 2025-07-17 | [Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](./wallpaper/2025-07-17.jpg) 
 
 2025-07-16 | [Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](./wallpaper/2025-07-16.jpg) 
@@ -56,6 +58,4 @@
 2025-06-19 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](./wallpaper/2025-06-19.jpg) 
 
 2025-06-18 | [Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2025-06-18.jpg) 
-
-2025-06-17 | [Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](./wallpaper/2025-06-17.jpg) 
 
