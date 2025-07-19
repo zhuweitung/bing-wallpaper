@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-20 | [Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)](./wallpaper/2025-07-20.jpg) 
+
 2025-07-19 | [Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](./wallpaper/2025-07-19.jpg) 
 
 2025-07-18 | [Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](./wallpaper/2025-07-18.jpg) 
@@ -56,6 +58,4 @@
 2025-06-21 | [Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](./wallpaper/2025-06-21.jpg) 
 
 2025-06-20 | [Texas State Capitol in Austin (© joe daniel price/Getty Images)](./wallpaper/2025-06-20.jpg) 
-
-2025-06-19 | [Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](./wallpaper/2025-06-19.jpg) 
 
