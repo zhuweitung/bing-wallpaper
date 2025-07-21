@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-22 | [Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)](./wallpaper/2025-07-22.jpg) 
+
 2025-07-21 | [The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)](./wallpaper/2025-07-21.jpg) 
 
 2025-07-20 | [Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)](./wallpaper/2025-07-20.jpg) 
@@ -56,6 +58,4 @@
 2025-06-23 | [Amazon rainforest, Ecuador (© Mark Fox/Getty Images)](./wallpaper/2025-06-23.jpg) 
 
 2025-06-22 | [Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)](./wallpaper/2025-06-22.jpg) 
-
-2025-06-21 | [Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)](./wallpaper/2025-06-21.jpg) 
 
