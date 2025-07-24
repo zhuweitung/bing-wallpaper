@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-25 | [Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](./wallpaper/2025-07-25.jpg) 
+
 2025-07-24 | [Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](./wallpaper/2025-07-24.jpg) 
 
 2025-07-23 | [Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)](./wallpaper/2025-07-23.jpg) 
