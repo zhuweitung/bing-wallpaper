@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-27 | [Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)](./wallpaper/2025-07-27.jpg) 
+
 2025-07-26 | [Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](./wallpaper/2025-07-26.jpg) 
 
 2025-07-25 | [Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](./wallpaper/2025-07-25.jpg) 
@@ -58,6 +60,4 @@
 2025-06-28 | [Splendid leaf frog (© Jan Stria/Shutterstock)](./wallpaper/2025-06-28.jpg) 
 
 2025-06-27 | [The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)](./wallpaper/2025-06-27.jpg) 
-
-2025-06-26 | [St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)](./wallpaper/2025-06-26.jpg) 
 
