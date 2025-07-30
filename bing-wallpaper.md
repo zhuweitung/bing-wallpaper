@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-07-31 | ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](./wallpaper/2025-07-31.jpg) 
+
 2025-07-30 | [Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)](./wallpaper/2025-07-30.jpg) 
 
 2025-07-29 | [Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)](./wallpaper/2025-07-29.jpg) 
@@ -58,6 +60,4 @@
 2025-07-02 | [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](./wallpaper/2025-07-02.jpg) 
 
 2025-07-01 | [Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](./wallpaper/2025-07-01.jpg) 
-
-2025-06-30 | [Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](./wallpaper/2025-06-30.jpg) 
 
