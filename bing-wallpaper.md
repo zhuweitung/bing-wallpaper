@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-02 | [Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)](./wallpaper/2025-08-02.jpg) 
+
 2025-08-01 | [Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](./wallpaper/2025-08-01.jpg) 
 
 2025-07-31 | ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](./wallpaper/2025-07-31.jpg) 
@@ -58,6 +60,4 @@
 2025-07-04 | [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](./wallpaper/2025-07-04.jpg) 
 
 2025-07-03 | [Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)](./wallpaper/2025-07-03.jpg) 
-
-2025-07-02 | [Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)](./wallpaper/2025-07-02.jpg) 
 
