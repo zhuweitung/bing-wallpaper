@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-03 | [Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)](./wallpaper/2025-08-03.jpg) 
+
 2025-08-02 | [Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)](./wallpaper/2025-08-02.jpg) 
 
 2025-08-01 | [Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](./wallpaper/2025-08-01.jpg) 
@@ -58,6 +60,4 @@
 2025-07-05 | [Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](./wallpaper/2025-07-05.jpg) 
 
 2025-07-04 | [Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](./wallpaper/2025-07-04.jpg) 
-
-2025-07-03 | [Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)](./wallpaper/2025-07-03.jpg) 
 
