@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-07 | [Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](./wallpaper/2025-08-07.jpg) 
+
 2025-08-06 | [Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](./wallpaper/2025-08-06.jpg) 
 
 2025-08-05 | [Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](./wallpaper/2025-08-05.jpg) 
@@ -58,6 +60,4 @@
 2025-07-09 | [Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](./wallpaper/2025-07-09.jpg) 
 
 2025-07-08 | [Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](./wallpaper/2025-07-08.jpg) 
-
-2025-07-07 | [Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](./wallpaper/2025-07-07.jpg) 
 
