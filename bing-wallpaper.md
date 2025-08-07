@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-08 | [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](./wallpaper/2025-08-08.jpg) 
+
 2025-08-07 | [Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](./wallpaper/2025-08-07.jpg) 
 
 2025-08-06 | [Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](./wallpaper/2025-08-06.jpg) 
@@ -58,6 +60,4 @@
 2025-07-10 | [Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)](./wallpaper/2025-07-10.jpg) 
 
 2025-07-09 | [Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](./wallpaper/2025-07-09.jpg) 
-
-2025-07-08 | [Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](./wallpaper/2025-07-08.jpg) 
 
