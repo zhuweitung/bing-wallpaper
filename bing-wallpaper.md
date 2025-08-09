@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-10 | [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](./wallpaper/2025-08-10.jpg) 
+
 2025-08-09 | [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](./wallpaper/2025-08-09.jpg) 
 
 2025-08-08 | [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](./wallpaper/2025-08-08.jpg) 
@@ -58,6 +60,4 @@
 2025-07-12 | [Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](./wallpaper/2025-07-12.jpg) 
 
 2025-07-11 | [Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](./wallpaper/2025-07-11.jpg) 
-
-2025-07-10 | [Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)](./wallpaper/2025-07-10.jpg) 
 
