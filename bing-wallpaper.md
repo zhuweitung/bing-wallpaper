@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-11 | [Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](./wallpaper/2025-08-11.jpg) 
+
 2025-08-10 | [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](./wallpaper/2025-08-10.jpg) 
 
 2025-08-09 | [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](./wallpaper/2025-08-09.jpg) 
@@ -58,6 +60,4 @@
 2025-07-13 | [Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](./wallpaper/2025-07-13.jpg) 
 
 2025-07-12 | [Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](./wallpaper/2025-07-12.jpg) 
-
-2025-07-11 | [Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](./wallpaper/2025-07-11.jpg) 
 
