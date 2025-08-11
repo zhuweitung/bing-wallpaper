@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-12 | [Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](./wallpaper/2025-08-12.jpg) 
+
 2025-08-11 | [Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](./wallpaper/2025-08-11.jpg) 
 
 2025-08-10 | [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](./wallpaper/2025-08-10.jpg) 
@@ -58,6 +60,4 @@
 2025-07-14 | [Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](./wallpaper/2025-07-14.jpg) 
 
 2025-07-13 | [Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](./wallpaper/2025-07-13.jpg) 
-
-2025-07-12 | [Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](./wallpaper/2025-07-12.jpg) 
 
