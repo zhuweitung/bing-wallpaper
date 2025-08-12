@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-13 | [African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)](./wallpaper/2025-08-13.jpg) 
+
 2025-08-12 | [Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](./wallpaper/2025-08-12.jpg) 
 
 2025-08-11 | [Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](./wallpaper/2025-08-11.jpg) 
@@ -58,6 +60,4 @@
 2025-07-15 | [Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)](./wallpaper/2025-07-15.jpg) 
 
 2025-07-14 | [Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](./wallpaper/2025-07-14.jpg) 
-
-2025-07-13 | [Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](./wallpaper/2025-07-13.jpg) 
 
