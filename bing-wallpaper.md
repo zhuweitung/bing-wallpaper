@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-16 | [Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2025-08-16.jpg) 
+
 2025-08-15 | [Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)](./wallpaper/2025-08-15.jpg) 
 
 2025-08-14 | [A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-08-14.jpg) 
@@ -58,6 +60,4 @@
 2025-07-18 | [Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](./wallpaper/2025-07-18.jpg) 
 
 2025-07-17 | [Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](./wallpaper/2025-07-17.jpg) 
-
-2025-07-16 | [Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](./wallpaper/2025-07-16.jpg) 
 
