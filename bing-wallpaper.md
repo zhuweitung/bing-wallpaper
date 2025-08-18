@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-19 | [Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](./wallpaper/2025-08-19.jpg) 
+
 2025-08-18 | [Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](./wallpaper/2025-08-18.jpg) 
 
 2025-08-16 | [Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2025-08-16.jpg) 
@@ -56,6 +58,4 @@
 2025-07-21 | [The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)](./wallpaper/2025-07-21.jpg) 
 
 2025-07-20 | [Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)](./wallpaper/2025-07-20.jpg) 
-
-2025-07-19 | [Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](./wallpaper/2025-07-19.jpg) 
 
