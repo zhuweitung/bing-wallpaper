@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-22 | [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](./wallpaper/2025-08-22.jpg) 
+
 2025-08-21 | [The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](./wallpaper/2025-08-21.jpg) 
 
 2025-08-20 | [Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](./wallpaper/2025-08-20.jpg) 
@@ -56,6 +58,4 @@
 2025-07-24 | [Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](./wallpaper/2025-07-24.jpg) 
 
 2025-07-23 | [Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)](./wallpaper/2025-07-23.jpg) 
-
-2025-07-22 | [Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)](./wallpaper/2025-07-22.jpg) 
 
