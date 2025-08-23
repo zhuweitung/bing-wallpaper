@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-24 | [St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](./wallpaper/2025-08-24.jpg) 
+
 2025-08-23 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](./wallpaper/2025-08-23.jpg) 
 
 2025-08-22 | [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](./wallpaper/2025-08-22.jpg) 
@@ -56,6 +58,4 @@
 2025-07-26 | [Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](./wallpaper/2025-07-26.jpg) 
 
 2025-07-25 | [Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](./wallpaper/2025-07-25.jpg) 
-
-2025-07-24 | [Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](./wallpaper/2025-07-24.jpg) 
 
