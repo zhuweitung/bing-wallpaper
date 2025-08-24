@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-25 | [European fallow deer, England (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-08-25.jpg) 
+
 2025-08-24 | [St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](./wallpaper/2025-08-24.jpg) 
 
 2025-08-23 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](./wallpaper/2025-08-23.jpg) 
@@ -56,6 +58,4 @@
 2025-07-27 | [Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)](./wallpaper/2025-07-27.jpg) 
 
 2025-07-26 | [Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](./wallpaper/2025-07-26.jpg) 
-
-2025-07-25 | [Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](./wallpaper/2025-07-25.jpg) 
 
