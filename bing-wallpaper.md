@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-27 | [Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](./wallpaper/2025-08-27.jpg) 
+
 2025-08-26 | [Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)](./wallpaper/2025-08-26.jpg) 
 
 2025-08-25 | [European fallow deer, England (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-08-25.jpg) 
@@ -56,6 +58,4 @@
 2025-07-29 | [Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)](./wallpaper/2025-07-29.jpg) 
 
 2025-07-28 | [School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)](./wallpaper/2025-07-28.jpg) 
-
-2025-07-27 | [Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)](./wallpaper/2025-07-27.jpg) 
 
