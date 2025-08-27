@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-28 | [Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](./wallpaper/2025-08-28.jpg) 
+
 2025-08-27 | [Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](./wallpaper/2025-08-27.jpg) 
 
 2025-08-26 | [Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)](./wallpaper/2025-08-26.jpg) 
@@ -56,6 +58,4 @@
 2025-07-30 | [Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)](./wallpaper/2025-07-30.jpg) 
 
 2025-07-29 | [Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)](./wallpaper/2025-07-29.jpg) 
-
-2025-07-28 | [School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)](./wallpaper/2025-07-28.jpg) 
 
