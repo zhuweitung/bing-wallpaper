@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-30 | [Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2025-08-30.jpg) 
+
 2025-08-29 | [Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)](./wallpaper/2025-08-29.jpg) 
 
 2025-08-28 | [Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](./wallpaper/2025-08-28.jpg) 
@@ -56,6 +58,4 @@
 2025-08-01 | [Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](./wallpaper/2025-08-01.jpg) 
 
 2025-07-31 | ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](./wallpaper/2025-07-31.jpg) 
-
-2025-07-30 | [Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)](./wallpaper/2025-07-30.jpg) 
 
