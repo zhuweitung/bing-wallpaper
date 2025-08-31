@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-01 | [Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](./wallpaper/2025-09-01.jpg) 
+
 2025-08-31 | [Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)](./wallpaper/2025-08-31.jpg) 
 
 2025-08-30 | [Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2025-08-30.jpg) 
@@ -56,6 +58,4 @@
 2025-08-03 | [Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)](./wallpaper/2025-08-03.jpg) 
 
 2025-08-02 | [Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)](./wallpaper/2025-08-02.jpg) 
-
-2025-08-01 | [Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](./wallpaper/2025-08-01.jpg) 
 
