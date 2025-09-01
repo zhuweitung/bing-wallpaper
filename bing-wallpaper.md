@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-02 | [Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)](./wallpaper/2025-09-02.jpg) 
+
 2025-09-01 | [Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](./wallpaper/2025-09-01.jpg) 
 
 2025-08-31 | [Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)](./wallpaper/2025-08-31.jpg) 
@@ -56,6 +58,4 @@
 2025-08-04 | [Sunflowers in a field in summer (© Arsgera/Shutterstock)](./wallpaper/2025-08-04.jpg) 
 
 2025-08-03 | [Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)](./wallpaper/2025-08-03.jpg) 
-
-2025-08-02 | [Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)](./wallpaper/2025-08-02.jpg) 
 
