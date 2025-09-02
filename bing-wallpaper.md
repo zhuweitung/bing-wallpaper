@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-03 | [Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](./wallpaper/2025-09-03.jpg) 
+
 2025-09-02 | [Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)](./wallpaper/2025-09-02.jpg) 
 
 2025-09-01 | [Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](./wallpaper/2025-09-01.jpg) 
@@ -56,6 +58,4 @@
 2025-08-05 | [Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](./wallpaper/2025-08-05.jpg) 
 
 2025-08-04 | [Sunflowers in a field in summer (© Arsgera/Shutterstock)](./wallpaper/2025-08-04.jpg) 
-
-2025-08-03 | [Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)](./wallpaper/2025-08-03.jpg) 
 
