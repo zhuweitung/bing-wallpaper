@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-05 | [Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)](./wallpaper/2025-09-05.jpg) 
+
 2025-09-04 | [Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)](./wallpaper/2025-09-04.jpg) 
 
 2025-09-03 | [Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](./wallpaper/2025-09-03.jpg) 
@@ -56,6 +58,4 @@
 2025-08-07 | [Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](./wallpaper/2025-08-07.jpg) 
 
 2025-08-06 | [Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](./wallpaper/2025-08-06.jpg) 
-
-2025-08-05 | [Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](./wallpaper/2025-08-05.jpg) 
 
