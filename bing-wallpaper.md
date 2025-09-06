@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-07 | [Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](./wallpaper/2025-09-07.jpg) 
+
 2025-09-06 | [Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)](./wallpaper/2025-09-06.jpg) 
 
 2025-09-05 | [Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)](./wallpaper/2025-09-05.jpg) 
@@ -56,6 +58,4 @@
 2025-08-09 | [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](./wallpaper/2025-08-09.jpg) 
 
 2025-08-08 | [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](./wallpaper/2025-08-08.jpg) 
-
-2025-08-07 | [Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](./wallpaper/2025-08-07.jpg) 
 
