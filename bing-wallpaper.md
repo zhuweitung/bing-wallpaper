@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-08 | [Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](./wallpaper/2025-09-08.jpg) 
+
 2025-09-07 | [Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](./wallpaper/2025-09-07.jpg) 
 
 2025-09-06 | [Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)](./wallpaper/2025-09-06.jpg) 
@@ -56,6 +58,4 @@
 2025-08-10 | [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](./wallpaper/2025-08-10.jpg) 
 
 2025-08-09 | [Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)](./wallpaper/2025-08-09.jpg) 
-
-2025-08-08 | [Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)](./wallpaper/2025-08-08.jpg) 
 
