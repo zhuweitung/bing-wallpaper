@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-10 | [A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](./wallpaper/2025-09-10.jpg) 
+
 2025-09-09 | [Library@orchard, Singapore (© Darwin Fan/Getty Images)](./wallpaper/2025-09-09.jpg) 
 
 2025-09-08 | [Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](./wallpaper/2025-09-08.jpg) 
@@ -56,6 +58,4 @@
 2025-08-12 | [Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](./wallpaper/2025-08-12.jpg) 
 
 2025-08-11 | [Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](./wallpaper/2025-08-11.jpg) 
-
-2025-08-10 | [Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)](./wallpaper/2025-08-10.jpg) 
 
