@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-11 | [Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-09-11.jpg) 
+
 2025-09-10 | [A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](./wallpaper/2025-09-10.jpg) 
 
 2025-09-09 | [Library@orchard, Singapore (© Darwin Fan/Getty Images)](./wallpaper/2025-09-09.jpg) 
@@ -56,6 +58,4 @@
 2025-08-13 | [African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)](./wallpaper/2025-08-13.jpg) 
 
 2025-08-12 | [Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](./wallpaper/2025-08-12.jpg) 
-
-2025-08-11 | [Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](./wallpaper/2025-08-11.jpg) 
 
