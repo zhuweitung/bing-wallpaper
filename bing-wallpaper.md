@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-12 | [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](./wallpaper/2025-09-12.jpg) 
+
 2025-09-11 | [Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-09-11.jpg) 
 
 2025-09-10 | [A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](./wallpaper/2025-09-10.jpg) 
@@ -56,6 +58,4 @@
 2025-08-14 | [A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-08-14.jpg) 
 
 2025-08-13 | [African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)](./wallpaper/2025-08-13.jpg) 
-
-2025-08-12 | [Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](./wallpaper/2025-08-12.jpg) 
 
