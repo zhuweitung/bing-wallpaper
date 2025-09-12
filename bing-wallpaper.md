@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-13 | [Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)](./wallpaper/2025-09-13.jpg) 
+
 2025-09-12 | [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](./wallpaper/2025-09-12.jpg) 
 
 2025-09-11 | [Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-09-11.jpg) 
@@ -56,6 +58,4 @@
 2025-08-15 | [Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)](./wallpaper/2025-08-15.jpg) 
 
 2025-08-14 | [A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-08-14.jpg) 
-
-2025-08-13 | [African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)](./wallpaper/2025-08-13.jpg) 
 
