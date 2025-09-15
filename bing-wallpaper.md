@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-16 | [Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)](./wallpaper/2025-09-16.jpg) 
+
 2025-09-15 | [A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2025-09-15.jpg) 
 
 2025-09-14 | [Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-09-14.jpg) 
@@ -56,6 +58,4 @@
 2025-08-19 | [Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](./wallpaper/2025-08-19.jpg) 
 
 2025-08-18 | [Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](./wallpaper/2025-08-18.jpg) 
-
-2025-08-16 | [Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](./wallpaper/2025-08-16.jpg) 
 
