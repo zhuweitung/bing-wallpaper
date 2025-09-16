@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-17 | [Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)](./wallpaper/2025-09-17.jpg) 
+
 2025-09-16 | [Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)](./wallpaper/2025-09-16.jpg) 
 
 2025-09-15 | [A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2025-09-15.jpg) 
