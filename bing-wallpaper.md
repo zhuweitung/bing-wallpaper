@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-18 | [Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-09-18.jpg) 
+
 2025-09-17 | [Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)](./wallpaper/2025-09-17.jpg) 
 
 2025-09-16 | [Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)](./wallpaper/2025-09-16.jpg) 
@@ -58,6 +60,4 @@
 2025-08-20 | [Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](./wallpaper/2025-08-20.jpg) 
 
 2025-08-19 | [Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](./wallpaper/2025-08-19.jpg) 
-
-2025-08-18 | [Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](./wallpaper/2025-08-18.jpg) 
 
