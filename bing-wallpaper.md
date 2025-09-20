@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-21 | [Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](./wallpaper/2025-09-21.jpg) 
+
 2025-09-20 | [Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](./wallpaper/2025-09-20.jpg) 
 
 2025-09-19 | [Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)](./wallpaper/2025-09-19.jpg) 
@@ -58,6 +60,4 @@
 2025-08-23 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](./wallpaper/2025-08-23.jpg) 
 
 2025-08-22 | [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](./wallpaper/2025-08-22.jpg) 
-
-2025-08-21 | [The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](./wallpaper/2025-08-21.jpg) 
 
