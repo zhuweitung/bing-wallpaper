@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-22 | [Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](./wallpaper/2025-09-22.jpg) 
+
 2025-09-21 | [Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](./wallpaper/2025-09-21.jpg) 
 
 2025-09-20 | [Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](./wallpaper/2025-09-20.jpg) 
@@ -58,6 +60,4 @@
 2025-08-24 | [St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](./wallpaper/2025-08-24.jpg) 
 
 2025-08-23 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](./wallpaper/2025-08-23.jpg) 
-
-2025-08-22 | [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](./wallpaper/2025-08-22.jpg) 
 
