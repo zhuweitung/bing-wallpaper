@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-23 | [Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](./wallpaper/2025-09-23.jpg) 
+
 2025-09-22 | [Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](./wallpaper/2025-09-22.jpg) 
 
 2025-09-21 | [Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](./wallpaper/2025-09-21.jpg) 
@@ -58,6 +60,4 @@
 2025-08-25 | [European fallow deer, England (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-08-25.jpg) 
 
 2025-08-24 | [St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](./wallpaper/2025-08-24.jpg) 
-
-2025-08-23 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](./wallpaper/2025-08-23.jpg) 
 
