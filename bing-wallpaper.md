@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-24 | [Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2025-09-24.jpg) 
+
 2025-09-23 | [Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](./wallpaper/2025-09-23.jpg) 
 
 2025-09-22 | [Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](./wallpaper/2025-09-22.jpg) 
@@ -58,6 +60,4 @@
 2025-08-26 | [Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)](./wallpaper/2025-08-26.jpg) 
 
 2025-08-25 | [European fallow deer, England (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-08-25.jpg) 
-
-2025-08-24 | [St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](./wallpaper/2025-08-24.jpg) 
 
