@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-26 | [Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](./wallpaper/2025-09-26.jpg) 
+
 2025-09-25 | [Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](./wallpaper/2025-09-25.jpg) 
 
 2025-09-24 | [Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2025-09-24.jpg) 
@@ -58,6 +60,4 @@
 2025-08-28 | [Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](./wallpaper/2025-08-28.jpg) 
 
 2025-08-27 | [Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](./wallpaper/2025-08-27.jpg) 
-
-2025-08-26 | [Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)](./wallpaper/2025-08-26.jpg) 
 
