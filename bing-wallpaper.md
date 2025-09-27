@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-09-28 | [Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](./wallpaper/2025-09-28.jpg) 
+
 2025-09-27 | [Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](./wallpaper/2025-09-27.jpg) 
 
 2025-09-26 | [Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](./wallpaper/2025-09-26.jpg) 
@@ -58,6 +60,4 @@
 2025-08-30 | [Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)](./wallpaper/2025-08-30.jpg) 
 
 2025-08-29 | [Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)](./wallpaper/2025-08-29.jpg) 
-
-2025-08-28 | [Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](./wallpaper/2025-08-28.jpg) 
 
