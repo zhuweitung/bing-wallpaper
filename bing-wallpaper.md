@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-03 | [Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)](./wallpaper/2025-10-03.jpg) 
+
 2025-10-02 | [Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](./wallpaper/2025-10-02.jpg) 
 
 2025-10-01 | [Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](./wallpaper/2025-10-01.jpg) 
@@ -58,6 +60,4 @@
 2025-09-04 | [Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)](./wallpaper/2025-09-04.jpg) 
 
 2025-09-03 | [Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](./wallpaper/2025-09-03.jpg) 
-
-2025-09-02 | [Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)](./wallpaper/2025-09-02.jpg) 
 
