@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-05 | [ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](./wallpaper/2025-10-05.jpg) 
+
 2025-10-04 | [Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)](./wallpaper/2025-10-04.jpg) 
 
 2025-10-03 | [Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)](./wallpaper/2025-10-03.jpg) 
@@ -58,6 +60,4 @@
 2025-09-06 | [Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)](./wallpaper/2025-09-06.jpg) 
 
 2025-09-05 | [Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)](./wallpaper/2025-09-05.jpg) 
-
-2025-09-04 | [Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)](./wallpaper/2025-09-04.jpg) 
 
