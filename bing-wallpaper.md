@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-07 | [Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](./wallpaper/2025-10-07.jpg) 
+
 2025-10-06 | [Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)](./wallpaper/2025-10-06.jpg) 
 
 2025-10-05 | [ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](./wallpaper/2025-10-05.jpg) 
@@ -58,6 +60,4 @@
 2025-09-08 | [Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](./wallpaper/2025-09-08.jpg) 
 
 2025-09-07 | [Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](./wallpaper/2025-09-07.jpg) 
-
-2025-09-06 | [Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)](./wallpaper/2025-09-06.jpg) 
 
