@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-09 | [Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](./wallpaper/2025-10-09.jpg) 
+
 2025-10-08 | [Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-10-08.jpg) 
 
 2025-10-07 | [Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](./wallpaper/2025-10-07.jpg) 
@@ -58,6 +60,4 @@
 2025-09-10 | [A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](./wallpaper/2025-09-10.jpg) 
 
 2025-09-09 | [Library@orchard, Singapore (© Darwin Fan/Getty Images)](./wallpaper/2025-09-09.jpg) 
-
-2025-09-08 | [Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](./wallpaper/2025-09-08.jpg) 
 
