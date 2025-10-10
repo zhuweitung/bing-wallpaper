@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-11 | [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](./wallpaper/2025-10-11.jpg) 
+
 2025-10-10 | [The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](./wallpaper/2025-10-10.jpg) 
 
 2025-10-09 | [Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](./wallpaper/2025-10-09.jpg) 
@@ -58,6 +60,4 @@
 2025-09-12 | [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](./wallpaper/2025-09-12.jpg) 
 
 2025-09-11 | [Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-09-11.jpg) 
-
-2025-09-10 | [A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)](./wallpaper/2025-09-10.jpg) 
 
