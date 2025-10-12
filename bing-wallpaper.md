@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-13 | [Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)](./wallpaper/2025-10-13.jpg) 
+
 2025-10-12 | [Wood duck hen (© ps50ace/iStock/Getty Images)](./wallpaper/2025-10-12.jpg) 
 
 2025-10-11 | [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](./wallpaper/2025-10-11.jpg) 
@@ -58,6 +60,4 @@
 2025-09-14 | [Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)](./wallpaper/2025-09-14.jpg) 
 
 2025-09-13 | [Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)](./wallpaper/2025-09-13.jpg) 
-
-2025-09-12 | [Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](./wallpaper/2025-09-12.jpg) 
 
