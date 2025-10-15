@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-16 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](./wallpaper/2025-10-16.jpg) 
+
 2025-10-15 | [Village of Oia, Santorini, Greece (© f9photos/Getty Images)](./wallpaper/2025-10-15.jpg) 
 
 2025-10-14 | [House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)](./wallpaper/2025-10-14.jpg) 
@@ -58,6 +60,4 @@
 2025-09-17 | [Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)](./wallpaper/2025-09-17.jpg) 
 
 2025-09-16 | [Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)](./wallpaper/2025-09-16.jpg) 
-
-2025-09-15 | [A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)](./wallpaper/2025-09-15.jpg) 
 
