@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-17 | [Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](./wallpaper/2025-10-17.jpg) 
+
 2025-10-16 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](./wallpaper/2025-10-16.jpg) 
 
 2025-10-15 | [Village of Oia, Santorini, Greece (© f9photos/Getty Images)](./wallpaper/2025-10-15.jpg) 
@@ -58,6 +60,4 @@
 2025-09-18 | [Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-09-18.jpg) 
 
 2025-09-17 | [Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)](./wallpaper/2025-09-17.jpg) 
-
-2025-09-16 | [Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)](./wallpaper/2025-09-16.jpg) 
 
