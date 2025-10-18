@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-19 | [Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](./wallpaper/2025-10-19.jpg) 
+
 2025-10-18 | [Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)](./wallpaper/2025-10-18.jpg) 
 
 2025-10-17 | [Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](./wallpaper/2025-10-17.jpg) 
@@ -58,6 +60,4 @@
 2025-09-20 | [Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](./wallpaper/2025-09-20.jpg) 
 
 2025-09-19 | [Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)](./wallpaper/2025-09-19.jpg) 
-
-2025-09-18 | [Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-09-18.jpg) 
 
