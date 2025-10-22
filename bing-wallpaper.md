@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-23 | [Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](./wallpaper/2025-10-23.jpg) 
+
 2025-10-22 | [A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](./wallpaper/2025-10-22.jpg) 
 
 2025-10-21 | [A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)](./wallpaper/2025-10-21.jpg) 
@@ -58,6 +60,4 @@
 2025-09-24 | [Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2025-09-24.jpg) 
 
 2025-09-23 | [Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](./wallpaper/2025-09-23.jpg) 
-
-2025-09-22 | [Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](./wallpaper/2025-09-22.jpg) 
 
