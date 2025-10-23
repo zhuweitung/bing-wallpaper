@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-24 | [Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](./wallpaper/2025-10-24.jpg) 
+
 2025-10-23 | [Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](./wallpaper/2025-10-23.jpg) 
 
 2025-10-22 | [A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](./wallpaper/2025-10-22.jpg) 
@@ -58,6 +60,4 @@
 2025-09-25 | [Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](./wallpaper/2025-09-25.jpg) 
 
 2025-09-24 | [Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](./wallpaper/2025-09-24.jpg) 
-
-2025-09-23 | [Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](./wallpaper/2025-09-23.jpg) 
 
