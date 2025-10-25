@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-26 | [Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)](./wallpaper/2025-10-26.jpg) 
+
 2025-10-25 | [Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)](./wallpaper/2025-10-25.jpg) 
 
 2025-10-24 | [Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](./wallpaper/2025-10-24.jpg) 
@@ -58,6 +60,4 @@
 2025-09-27 | [Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](./wallpaper/2025-09-27.jpg) 
 
 2025-09-26 | [Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](./wallpaper/2025-09-26.jpg) 
-
-2025-09-25 | [Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](./wallpaper/2025-09-25.jpg) 
 
