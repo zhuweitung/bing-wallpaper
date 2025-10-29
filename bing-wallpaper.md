@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-30 | [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](./wallpaper/2025-10-30.jpg) 
+
 2025-10-29 | [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](./wallpaper/2025-10-29.jpg) 
 
 2025-10-28 | [Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)](./wallpaper/2025-10-28.jpg) 
@@ -58,6 +60,4 @@
 2025-10-01 | [Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](./wallpaper/2025-10-01.jpg) 
 
 2025-09-30 | [The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2025-09-30.jpg) 
-
-2025-09-29 | [Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](./wallpaper/2025-09-29.jpg) 
 
