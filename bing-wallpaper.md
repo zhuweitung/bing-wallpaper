@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-31 | [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](./wallpaper/2025-10-31.jpg) 
+
 2025-10-30 | [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](./wallpaper/2025-10-30.jpg) 
 
 2025-10-29 | [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](./wallpaper/2025-10-29.jpg) 
@@ -58,6 +60,4 @@
 2025-10-02 | [Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](./wallpaper/2025-10-02.jpg) 
 
 2025-10-01 | [Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](./wallpaper/2025-10-01.jpg) 
-
-2025-09-30 | [The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](./wallpaper/2025-09-30.jpg) 
 
