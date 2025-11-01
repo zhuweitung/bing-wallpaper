@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-02 | [Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](./wallpaper/2025-11-02.jpg) 
+
 2025-11-01 | [Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)](./wallpaper/2025-11-01.jpg) 
 
 2025-10-31 | [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](./wallpaper/2025-10-31.jpg) 
@@ -58,6 +60,4 @@
 2025-10-04 | [Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)](./wallpaper/2025-10-04.jpg) 
 
 2025-10-03 | [Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)](./wallpaper/2025-10-03.jpg) 
-
-2025-10-02 | [Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](./wallpaper/2025-10-02.jpg) 
 
