@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-04 | [Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](./wallpaper/2025-11-04.jpg) 
+
 2025-11-03 | [Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](./wallpaper/2025-11-03.jpg) 
 
 2025-11-02 | [Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](./wallpaper/2025-11-02.jpg) 
@@ -58,6 +60,4 @@
 2025-10-06 | [Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)](./wallpaper/2025-10-06.jpg) 
 
 2025-10-05 | [ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](./wallpaper/2025-10-05.jpg) 
-
-2025-10-04 | [Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)](./wallpaper/2025-10-04.jpg) 
 
