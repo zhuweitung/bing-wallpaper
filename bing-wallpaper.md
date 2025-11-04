@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-05 | [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-11-05.jpg) 
+
 2025-11-04 | [Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](./wallpaper/2025-11-04.jpg) 
 
 2025-11-03 | [Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](./wallpaper/2025-11-03.jpg) 
@@ -58,6 +60,4 @@
 2025-10-07 | [Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](./wallpaper/2025-10-07.jpg) 
 
 2025-10-06 | [Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)](./wallpaper/2025-10-06.jpg) 
-
-2025-10-05 | [ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](./wallpaper/2025-10-05.jpg) 
 
