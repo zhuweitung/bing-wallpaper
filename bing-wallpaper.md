@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-07 | [Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](./wallpaper/2025-11-07.jpg) 
+
 2025-11-06 | [Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](./wallpaper/2025-11-06.jpg) 
 
 2025-11-05 | [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-11-05.jpg) 
@@ -58,6 +60,4 @@
 2025-10-09 | [Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](./wallpaper/2025-10-09.jpg) 
 
 2025-10-08 | [Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-10-08.jpg) 
-
-2025-10-07 | [Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](./wallpaper/2025-10-07.jpg) 
 
