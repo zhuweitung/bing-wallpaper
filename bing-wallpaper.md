@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-09 | [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-11-09.jpg) 
+
 2025-11-08 | [Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](./wallpaper/2025-11-08.jpg) 
 
 2025-11-07 | [Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](./wallpaper/2025-11-07.jpg) 
@@ -58,6 +60,4 @@
 2025-10-11 | [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](./wallpaper/2025-10-11.jpg) 
 
 2025-10-10 | [The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](./wallpaper/2025-10-10.jpg) 
-
-2025-10-09 | [Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](./wallpaper/2025-10-09.jpg) 
 
