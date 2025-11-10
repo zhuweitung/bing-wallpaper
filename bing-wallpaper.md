@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-11 | [Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](./wallpaper/2025-11-11.jpg) 
+
 2025-11-10 | [Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](./wallpaper/2025-11-10.jpg) 
 
 2025-11-09 | [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-11-09.jpg) 
@@ -58,6 +60,4 @@
 2025-10-13 | [Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)](./wallpaper/2025-10-13.jpg) 
 
 2025-10-12 | [Wood duck hen (© ps50ace/iStock/Getty Images)](./wallpaper/2025-10-12.jpg) 
-
-2025-10-11 | [Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](./wallpaper/2025-10-11.jpg) 
 
