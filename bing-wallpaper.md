@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-14 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](./wallpaper/2025-11-14.jpg) 
+
 2025-11-13 | [Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-11-13.jpg) 
 
 2025-11-12 | [Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)](./wallpaper/2025-11-12.jpg) 
@@ -58,6 +60,4 @@
 2025-10-16 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](./wallpaper/2025-10-16.jpg) 
 
 2025-10-15 | [Village of Oia, Santorini, Greece (© f9photos/Getty Images)](./wallpaper/2025-10-15.jpg) 
-
-2025-10-14 | [House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)](./wallpaper/2025-10-14.jpg) 
 
