@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-15 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2025-11-15.jpg) 
+
 2025-11-14 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](./wallpaper/2025-11-14.jpg) 
 
 2025-11-13 | [Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-11-13.jpg) 
@@ -58,6 +60,4 @@
 2025-10-17 | [Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](./wallpaper/2025-10-17.jpg) 
 
 2025-10-16 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](./wallpaper/2025-10-16.jpg) 
-
-2025-10-15 | [Village of Oia, Santorini, Greece (© f9photos/Getty Images)](./wallpaper/2025-10-15.jpg) 
 
