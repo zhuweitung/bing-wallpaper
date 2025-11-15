@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-16 | [Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](./wallpaper/2025-11-16.jpg) 
+
 2025-11-15 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2025-11-15.jpg) 
 
 2025-11-14 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](./wallpaper/2025-11-14.jpg) 
@@ -58,6 +60,4 @@
 2025-10-18 | [Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)](./wallpaper/2025-10-18.jpg) 
 
 2025-10-17 | [Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](./wallpaper/2025-10-17.jpg) 
-
-2025-10-16 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](./wallpaper/2025-10-16.jpg) 
 
