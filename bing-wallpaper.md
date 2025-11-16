@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-17 | [A traboule in Lyon, France (© TPopova/Getty Images)](./wallpaper/2025-11-17.jpg) 
+
 2025-11-16 | [Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](./wallpaper/2025-11-16.jpg) 
 
 2025-11-15 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2025-11-15.jpg) 
@@ -58,6 +60,4 @@
 2025-10-19 | [Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](./wallpaper/2025-10-19.jpg) 
 
 2025-10-18 | [Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)](./wallpaper/2025-10-18.jpg) 
-
-2025-10-17 | [Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](./wallpaper/2025-10-17.jpg) 
 
