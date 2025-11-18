@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-19 | [Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](./wallpaper/2025-11-19.jpg) 
+
 2025-11-18 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](./wallpaper/2025-11-18.jpg) 
 
 2025-11-17 | [A traboule in Lyon, France (© TPopova/Getty Images)](./wallpaper/2025-11-17.jpg) 
@@ -58,6 +60,4 @@
 2025-10-21 | [A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)](./wallpaper/2025-10-21.jpg) 
 
 2025-10-20 | [Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](./wallpaper/2025-10-20.jpg) 
-
-2025-10-19 | [Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](./wallpaper/2025-10-19.jpg) 
 
