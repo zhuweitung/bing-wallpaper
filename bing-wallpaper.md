@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-21 | [Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)](./wallpaper/2025-11-21.jpg) 
+
 2025-11-20 | [Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)](./wallpaper/2025-11-20.jpg) 
 
 2025-11-19 | [Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](./wallpaper/2025-11-19.jpg) 
@@ -58,6 +60,4 @@
 2025-10-23 | [Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](./wallpaper/2025-10-23.jpg) 
 
 2025-10-22 | [A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](./wallpaper/2025-10-22.jpg) 
-
-2025-10-21 | [A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)](./wallpaper/2025-10-21.jpg) 
 
