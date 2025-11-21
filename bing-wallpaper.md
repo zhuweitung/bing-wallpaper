@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-22 | [Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2025-11-22.jpg) 
+
 2025-11-21 | [Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)](./wallpaper/2025-11-21.jpg) 
 
 2025-11-20 | [Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)](./wallpaper/2025-11-20.jpg) 
@@ -58,6 +60,4 @@
 2025-10-24 | [Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](./wallpaper/2025-10-24.jpg) 
 
 2025-10-23 | [Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](./wallpaper/2025-10-23.jpg) 
-
-2025-10-22 | [A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](./wallpaper/2025-10-22.jpg) 
 
