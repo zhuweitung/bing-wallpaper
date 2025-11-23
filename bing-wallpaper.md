@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-24 | [Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](./wallpaper/2025-11-24.jpg) 
+
 2025-11-23 | [Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](./wallpaper/2025-11-23.jpg) 
 
 2025-11-22 | [Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2025-11-22.jpg) 
@@ -58,6 +60,4 @@
 2025-10-26 | [Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)](./wallpaper/2025-10-26.jpg) 
 
 2025-10-25 | [Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)](./wallpaper/2025-10-25.jpg) 
-
-2025-10-24 | [Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](./wallpaper/2025-10-24.jpg) 
 
