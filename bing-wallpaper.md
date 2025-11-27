@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-28 | [Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](./wallpaper/2025-11-28.jpg) 
+
 2025-11-27 | [Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](./wallpaper/2025-11-27.jpg) 
 
 2025-11-26 | [The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-11-26.jpg) 
@@ -58,6 +60,4 @@
 2025-10-30 | [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](./wallpaper/2025-10-30.jpg) 
 
 2025-10-29 | [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](./wallpaper/2025-10-29.jpg) 
-
-2025-10-28 | [Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)](./wallpaper/2025-10-28.jpg) 
 
