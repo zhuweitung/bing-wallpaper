@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-29 | [Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](./wallpaper/2025-11-29.jpg) 
+
 2025-11-28 | [Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](./wallpaper/2025-11-28.jpg) 
 
 2025-11-27 | [Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](./wallpaper/2025-11-27.jpg) 
@@ -58,6 +60,4 @@
 2025-10-31 | [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](./wallpaper/2025-10-31.jpg) 
 
 2025-10-30 | [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](./wallpaper/2025-10-30.jpg) 
-
-2025-10-29 | [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](./wallpaper/2025-10-29.jpg) 
 
