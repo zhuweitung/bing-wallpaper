@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-02 | [Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](./wallpaper/2025-12-02.jpg) 
+
 2025-12-01 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](./wallpaper/2025-12-01.jpg) 
 
 2025-11-30 | [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](./wallpaper/2025-11-30.jpg) 
@@ -58,6 +60,4 @@
 2025-11-03 | [Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](./wallpaper/2025-11-03.jpg) 
 
 2025-11-02 | [Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](./wallpaper/2025-11-02.jpg) 
-
-2025-11-01 | [Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)](./wallpaper/2025-11-01.jpg) 
 
