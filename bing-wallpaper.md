@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-04 | [Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)](./wallpaper/2025-12-04.jpg) 
+
 2025-12-03 | [Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2025-12-03.jpg) 
 
 2025-12-02 | [Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](./wallpaper/2025-12-02.jpg) 
@@ -58,6 +60,4 @@
 2025-11-05 | [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-11-05.jpg) 
 
 2025-11-04 | [Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](./wallpaper/2025-11-04.jpg) 
-
-2025-11-03 | [Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](./wallpaper/2025-11-03.jpg) 
 
