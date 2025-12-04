@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-05 | [Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](./wallpaper/2025-12-05.jpg) 
+
 2025-12-04 | [Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)](./wallpaper/2025-12-04.jpg) 
 
 2025-12-03 | [Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2025-12-03.jpg) 
@@ -58,6 +60,4 @@
 2025-11-06 | [Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](./wallpaper/2025-11-06.jpg) 
 
 2025-11-05 | [Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](./wallpaper/2025-11-05.jpg) 
-
-2025-11-04 | [Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](./wallpaper/2025-11-04.jpg) 
 
