@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-07 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](./wallpaper/2025-12-07.jpg) 
+
 2025-12-06 | [Maya site of Copán, Honduras (© diegograndi/Getty Images)](./wallpaper/2025-12-06.jpg) 
 
 2025-12-05 | [Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](./wallpaper/2025-12-05.jpg) 
@@ -58,6 +60,4 @@
 2025-11-08 | [Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](./wallpaper/2025-11-08.jpg) 
 
 2025-11-07 | [Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](./wallpaper/2025-11-07.jpg) 
-
-2025-11-06 | [Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](./wallpaper/2025-11-06.jpg) 
 
