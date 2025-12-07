@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-08 | [USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)](./wallpaper/2025-12-08.jpg) 
+
 2025-12-07 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](./wallpaper/2025-12-07.jpg) 
 
 2025-12-06 | [Maya site of Copán, Honduras (© diegograndi/Getty Images)](./wallpaper/2025-12-06.jpg) 
@@ -58,6 +60,4 @@
 2025-11-09 | [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-11-09.jpg) 
 
 2025-11-08 | [Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](./wallpaper/2025-11-08.jpg) 
-
-2025-11-07 | [Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](./wallpaper/2025-11-07.jpg) 
 
