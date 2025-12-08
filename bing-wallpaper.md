@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-09 | [Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-09.jpg) 
+
 2025-12-08 | [USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)](./wallpaper/2025-12-08.jpg) 
 
 2025-12-07 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](./wallpaper/2025-12-07.jpg) 
@@ -58,6 +60,4 @@
 2025-11-10 | [Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](./wallpaper/2025-11-10.jpg) 
 
 2025-11-09 | [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](./wallpaper/2025-11-09.jpg) 
-
-2025-11-08 | [Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](./wallpaper/2025-11-08.jpg) 
 
