@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-11 | [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](./wallpaper/2025-12-11.jpg) 
+
 2025-12-10 | [Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](./wallpaper/2025-12-10.jpg) 
 
 2025-12-09 | [Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-09.jpg) 
@@ -58,6 +60,4 @@
 2025-11-12 | [Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)](./wallpaper/2025-11-12.jpg) 
 
 2025-11-11 | [Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](./wallpaper/2025-11-11.jpg) 
-
-2025-11-10 | [Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](./wallpaper/2025-11-10.jpg) 
 
