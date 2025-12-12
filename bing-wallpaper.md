@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-13 | [Spotted poinsettia (© DigiPub/Getty Images)](./wallpaper/2025-12-13.jpg) 
+
 2025-12-12 | [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](./wallpaper/2025-12-12.jpg) 
 
 2025-12-11 | [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](./wallpaper/2025-12-11.jpg) 
@@ -58,6 +60,4 @@
 2025-11-14 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](./wallpaper/2025-11-14.jpg) 
 
 2025-11-13 | [Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-11-13.jpg) 
-
-2025-11-12 | [Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)](./wallpaper/2025-11-12.jpg) 
 
