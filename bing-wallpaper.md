@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-14 | [Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)](./wallpaper/2025-12-14.jpg) 
+
 2025-12-13 | [Spotted poinsettia (© DigiPub/Getty Images)](./wallpaper/2025-12-13.jpg) 
 
 2025-12-12 | [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](./wallpaper/2025-12-12.jpg) 
@@ -58,6 +60,4 @@
 2025-11-15 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2025-11-15.jpg) 
 
 2025-11-14 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](./wallpaper/2025-11-14.jpg) 
-
-2025-11-13 | [Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-11-13.jpg) 
 
