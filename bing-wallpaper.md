@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-15 | [Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)](./wallpaper/2025-12-15.jpg) 
+
 2025-12-14 | [Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)](./wallpaper/2025-12-14.jpg) 
 
 2025-12-13 | [Spotted poinsettia (© DigiPub/Getty Images)](./wallpaper/2025-12-13.jpg) 
@@ -58,6 +60,4 @@
 2025-11-16 | [Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](./wallpaper/2025-11-16.jpg) 
 
 2025-11-15 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2025-11-15.jpg) 
-
-2025-11-14 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](./wallpaper/2025-11-14.jpg) 
 
