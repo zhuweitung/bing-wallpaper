@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-17 | [Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)](./wallpaper/2025-12-17.jpg) 
+
 2025-12-16 | [Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](./wallpaper/2025-12-16.jpg) 
 
 2025-12-15 | [Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)](./wallpaper/2025-12-15.jpg) 
@@ -58,6 +60,4 @@
 2025-11-18 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](./wallpaper/2025-11-18.jpg) 
 
 2025-11-17 | [A traboule in Lyon, France (© TPopova/Getty Images)](./wallpaper/2025-11-17.jpg) 
-
-2025-11-16 | [Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](./wallpaper/2025-11-16.jpg) 
 
