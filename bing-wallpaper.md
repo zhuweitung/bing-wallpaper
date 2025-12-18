@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-19 | [Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](./wallpaper/2025-12-19.jpg) 
+
 2025-12-18 | [Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)](./wallpaper/2025-12-18.jpg) 
 
 2025-12-17 | [Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)](./wallpaper/2025-12-17.jpg) 
@@ -58,6 +60,4 @@
 2025-11-20 | [Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)](./wallpaper/2025-11-20.jpg) 
 
 2025-11-19 | [Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](./wallpaper/2025-11-19.jpg) 
-
-2025-11-18 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](./wallpaper/2025-11-18.jpg) 
 
