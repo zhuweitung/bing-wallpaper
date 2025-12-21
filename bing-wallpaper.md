@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-22 | [Dawn light through frosty trees, Sweden (© Schon/Getty Images)](./wallpaper/2025-12-22.jpg) 
+
 2025-12-21 | [Christmas star lanterns, Germany (© artas/Getty Images)](./wallpaper/2025-12-21.jpg) 
 
 2025-12-20 | [Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-20.jpg) 
@@ -58,6 +60,4 @@
 2025-11-23 | [Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](./wallpaper/2025-11-23.jpg) 
 
 2025-11-22 | [Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](./wallpaper/2025-11-22.jpg) 
-
-2025-11-21 | [Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)](./wallpaper/2025-11-21.jpg) 
 
