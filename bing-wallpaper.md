@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-24 | [Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-24.jpg) 
+
 2025-12-23 | ['The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)](./wallpaper/2025-12-23.jpg) 
 
 2025-12-22 | [Dawn light through frosty trees, Sweden (© Schon/Getty Images)](./wallpaper/2025-12-22.jpg) 
@@ -58,6 +60,4 @@
 2025-11-25 | [Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)](./wallpaper/2025-11-25.jpg) 
 
 2025-11-24 | [Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](./wallpaper/2025-11-24.jpg) 
-
-2025-11-23 | [Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](./wallpaper/2025-11-23.jpg) 
 
