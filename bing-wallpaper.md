@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-26 | [Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](./wallpaper/2025-12-26.jpg) 
+
 2025-12-25 | [Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](./wallpaper/2025-12-25.jpg) 
 
 2025-12-24 | [Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-24.jpg) 
@@ -58,6 +60,4 @@
 2025-11-27 | [Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](./wallpaper/2025-11-27.jpg) 
 
 2025-11-26 | [The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)](./wallpaper/2025-11-26.jpg) 
-
-2025-11-25 | [Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)](./wallpaper/2025-11-25.jpg) 
 
