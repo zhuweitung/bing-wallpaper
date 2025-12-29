@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-30 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](./wallpaper/2025-12-30.jpg) 
+
 2025-12-29 | [Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](./wallpaper/2025-12-29.jpg) 
 
 2025-12-28 | [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](./wallpaper/2025-12-28.jpg) 
@@ -58,6 +60,4 @@
 2025-12-01 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](./wallpaper/2025-12-01.jpg) 
 
 2025-11-30 | [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](./wallpaper/2025-11-30.jpg) 
-
-2025-11-29 | [Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](./wallpaper/2025-11-29.jpg) 
 
