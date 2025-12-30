@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-12-31 | [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](./wallpaper/2025-12-31.jpg) 
+
 2025-12-30 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](./wallpaper/2025-12-30.jpg) 
 
 2025-12-29 | [Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](./wallpaper/2025-12-29.jpg) 
@@ -58,6 +60,4 @@
 2025-12-02 | [Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](./wallpaper/2025-12-02.jpg) 
 
 2025-12-01 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](./wallpaper/2025-12-01.jpg) 
-
-2025-11-30 | [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](./wallpaper/2025-11-30.jpg) 
 
