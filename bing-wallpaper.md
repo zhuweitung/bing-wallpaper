@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-01 | [New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](./wallpaper/2026-01-01.jpg) 
+
 2025-12-31 | [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](./wallpaper/2025-12-31.jpg) 
 
 2025-12-30 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](./wallpaper/2025-12-30.jpg) 
@@ -58,6 +60,4 @@
 2025-12-03 | [Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](./wallpaper/2025-12-03.jpg) 
 
 2025-12-02 | [Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](./wallpaper/2025-12-02.jpg) 
-
-2025-12-01 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](./wallpaper/2025-12-01.jpg) 
 
