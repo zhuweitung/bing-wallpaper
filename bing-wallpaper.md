@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-04 | [Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)](./wallpaper/2026-01-04.jpg) 
+
 2026-01-03 | [Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](./wallpaper/2026-01-03.jpg) 
 
 2026-01-02 | [Arctic fox sleeping (© Chansak Joe/Getty Images)](./wallpaper/2026-01-02.jpg) 
@@ -58,6 +60,4 @@
 2025-12-06 | [Maya site of Copán, Honduras (© diegograndi/Getty Images)](./wallpaper/2025-12-06.jpg) 
 
 2025-12-05 | [Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](./wallpaper/2025-12-05.jpg) 
-
-2025-12-04 | [Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)](./wallpaper/2025-12-04.jpg) 
 
