@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-06 | [A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](./wallpaper/2026-01-06.jpg) 
+
 2026-01-05 | [Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](./wallpaper/2026-01-05.jpg) 
 
 2026-01-04 | [Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)](./wallpaper/2026-01-04.jpg) 
@@ -58,6 +60,4 @@
 2025-12-08 | [USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)](./wallpaper/2025-12-08.jpg) 
 
 2025-12-07 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](./wallpaper/2025-12-07.jpg) 
-
-2025-12-06 | [Maya site of Copán, Honduras (© diegograndi/Getty Images)](./wallpaper/2025-12-06.jpg) 
 
