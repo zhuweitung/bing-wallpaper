@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-07 | [Nuuk, Greenland (© nevereverro/Getty Images)](./wallpaper/2026-01-07.jpg) 
+
 2026-01-06 | [A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](./wallpaper/2026-01-06.jpg) 
 
 2026-01-05 | [Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](./wallpaper/2026-01-05.jpg) 
@@ -58,6 +60,4 @@
 2025-12-09 | [Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-09.jpg) 
 
 2025-12-08 | [USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)](./wallpaper/2025-12-08.jpg) 
-
-2025-12-07 | [Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)](./wallpaper/2025-12-07.jpg) 
 
