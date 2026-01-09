@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-10 | [Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)](./wallpaper/2026-01-10.jpg) 
+
 2026-01-09 | [Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)](./wallpaper/2026-01-09.jpg) 
 
 2026-01-08 | [Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)](./wallpaper/2026-01-08.jpg) 
@@ -58,6 +60,4 @@
 2025-12-12 | [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](./wallpaper/2025-12-12.jpg) 
 
 2025-12-11 | [Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](./wallpaper/2025-12-11.jpg) 
-
-2025-12-10 | [Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](./wallpaper/2025-12-10.jpg) 
 
