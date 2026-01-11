@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-12 | [Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)](./wallpaper/2026-01-12.jpg) 
+
 2026-01-11 | [The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)](./wallpaper/2026-01-11.jpg) 
 
 2026-01-10 | [Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)](./wallpaper/2026-01-10.jpg) 
@@ -58,6 +60,4 @@
 2025-12-14 | [Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)](./wallpaper/2025-12-14.jpg) 
 
 2025-12-13 | [Spotted poinsettia (© DigiPub/Getty Images)](./wallpaper/2025-12-13.jpg) 
-
-2025-12-12 | [Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)](./wallpaper/2025-12-12.jpg) 
 
