@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-14 | [Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](./wallpaper/2026-01-14.jpg) 
+
 2026-01-13 | [Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](./wallpaper/2026-01-13.jpg) 
 
 2026-01-12 | [Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)](./wallpaper/2026-01-12.jpg) 
@@ -58,6 +60,4 @@
 2025-12-16 | [Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](./wallpaper/2025-12-16.jpg) 
 
 2025-12-15 | [Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)](./wallpaper/2025-12-15.jpg) 
-
-2025-12-14 | [Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)](./wallpaper/2025-12-14.jpg) 
 
