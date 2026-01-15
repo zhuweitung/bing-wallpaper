@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-16 | [The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](./wallpaper/2026-01-16.jpg) 
+
 2026-01-15 | [The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)](./wallpaper/2026-01-15.jpg) 
 
 2026-01-14 | [Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](./wallpaper/2026-01-14.jpg) 
@@ -58,6 +60,4 @@
 2025-12-18 | [Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)](./wallpaper/2025-12-18.jpg) 
 
 2025-12-17 | [Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)](./wallpaper/2025-12-17.jpg) 
-
-2025-12-16 | [Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)](./wallpaper/2025-12-16.jpg) 
 
