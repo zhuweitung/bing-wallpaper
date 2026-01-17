@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-18 | [Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](./wallpaper/2026-01-18.jpg) 
+
 2026-01-17 | [Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](./wallpaper/2026-01-17.jpg) 
 
 2026-01-16 | [The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](./wallpaper/2026-01-16.jpg) 
@@ -58,6 +60,4 @@
 2025-12-20 | [Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-20.jpg) 
 
 2025-12-19 | [Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](./wallpaper/2025-12-19.jpg) 
-
-2025-12-18 | [Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)](./wallpaper/2025-12-18.jpg) 
 
