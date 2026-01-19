@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-20 | [Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](./wallpaper/2026-01-20.jpg) 
+
 2026-01-19 | [White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](./wallpaper/2026-01-19.jpg) 
 
 2026-01-18 | [Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](./wallpaper/2026-01-18.jpg) 
@@ -58,6 +60,4 @@
 2025-12-22 | [Dawn light through frosty trees, Sweden (© Schon/Getty Images)](./wallpaper/2025-12-22.jpg) 
 
 2025-12-21 | [Christmas star lanterns, Germany (© artas/Getty Images)](./wallpaper/2025-12-21.jpg) 
-
-2025-12-20 | [Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-20.jpg) 
 
