@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-22 | [Eurasian red squirrel (© Galina Jacyna/Getty Images)](./wallpaper/2026-01-22.jpg) 
+
 2026-01-21 | [Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](./wallpaper/2026-01-21.jpg) 
 
 2026-01-20 | [Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](./wallpaper/2026-01-20.jpg) 
@@ -58,6 +60,4 @@
 2025-12-24 | [Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)](./wallpaper/2025-12-24.jpg) 
 
 2025-12-23 | ['The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)](./wallpaper/2025-12-23.jpg) 
-
-2025-12-22 | [Dawn light through frosty trees, Sweden (© Schon/Getty Images)](./wallpaper/2025-12-22.jpg) 
 
