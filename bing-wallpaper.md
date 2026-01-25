@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-26 | [Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](./wallpaper/2026-01-26.jpg) 
+
 2026-01-25 | [Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](./wallpaper/2026-01-25.jpg) 
 
 2026-01-24 | [Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](./wallpaper/2026-01-24.jpg) 
@@ -58,6 +60,4 @@
 2025-12-28 | [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](./wallpaper/2025-12-28.jpg) 
 
 2025-12-27 | [Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](./wallpaper/2025-12-27.jpg) 
-
-2025-12-26 | [Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](./wallpaper/2025-12-26.jpg) 
 
