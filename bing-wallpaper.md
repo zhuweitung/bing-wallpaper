@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-27 | [Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](./wallpaper/2026-01-27.jpg) 
+
 2026-01-26 | [Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](./wallpaper/2026-01-26.jpg) 
 
 2026-01-25 | [Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](./wallpaper/2026-01-25.jpg) 
@@ -58,6 +60,4 @@
 2025-12-29 | [Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](./wallpaper/2025-12-29.jpg) 
 
 2025-12-28 | [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](./wallpaper/2025-12-28.jpg) 
-
-2025-12-27 | [Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](./wallpaper/2025-12-27.jpg) 
 
