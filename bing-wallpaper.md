@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-01-30 | [The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](./wallpaper/2026-01-30.jpg) 
+
 2026-01-29 | [Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](./wallpaper/2026-01-29.jpg) 
 
 2026-01-28 | [Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)](./wallpaper/2026-01-28.jpg) 
@@ -58,6 +60,4 @@
 2026-01-01 | [New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](./wallpaper/2026-01-01.jpg) 
 
 2025-12-31 | [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](./wallpaper/2025-12-31.jpg) 
-
-2025-12-30 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](./wallpaper/2025-12-30.jpg) 
 
