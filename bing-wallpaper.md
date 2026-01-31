@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-01 | [Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](./wallpaper/2026-02-01.jpg) 
+
 2026-01-31 | [St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)](./wallpaper/2026-01-31.jpg) 
 
 2026-01-30 | [The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](./wallpaper/2026-01-30.jpg) 
@@ -58,6 +60,4 @@
 2026-01-03 | [Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](./wallpaper/2026-01-03.jpg) 
 
 2026-01-02 | [Arctic fox sleeping (© Chansak Joe/Getty Images)](./wallpaper/2026-01-02.jpg) 
-
-2026-01-01 | [New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)](./wallpaper/2026-01-01.jpg) 
 
