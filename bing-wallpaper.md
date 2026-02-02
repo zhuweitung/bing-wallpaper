@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-03 | [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](./wallpaper/2026-02-03.jpg) 
+
 2026-02-02 | [US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](./wallpaper/2026-02-02.jpg) 
 
 2026-02-01 | [Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](./wallpaper/2026-02-01.jpg) 
@@ -58,6 +60,4 @@
 2026-01-05 | [Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](./wallpaper/2026-01-05.jpg) 
 
 2026-01-04 | [Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)](./wallpaper/2026-01-04.jpg) 
-
-2026-01-03 | [Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](./wallpaper/2026-01-03.jpg) 
 
