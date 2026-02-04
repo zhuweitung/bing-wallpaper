@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-05 | [Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)](./wallpaper/2026-02-05.jpg) 
+
 2026-02-04 | [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](./wallpaper/2026-02-04.jpg) 
 
 2026-02-03 | [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](./wallpaper/2026-02-03.jpg) 
@@ -58,6 +60,4 @@
 2026-01-07 | [Nuuk, Greenland (© nevereverro/Getty Images)](./wallpaper/2026-01-07.jpg) 
 
 2026-01-06 | [A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](./wallpaper/2026-01-06.jpg) 
-
-2026-01-05 | [Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](./wallpaper/2026-01-05.jpg) 
 
