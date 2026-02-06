@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-07 | [Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)](./wallpaper/2026-02-07.jpg) 
+
 2026-02-06 | [Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)](./wallpaper/2026-02-06.jpg) 
 
 2026-02-05 | [Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)](./wallpaper/2026-02-05.jpg) 
@@ -58,6 +60,4 @@
 2026-01-09 | [Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)](./wallpaper/2026-01-09.jpg) 
 
 2026-01-08 | [Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)](./wallpaper/2026-01-08.jpg) 
-
-2026-01-07 | [Nuuk, Greenland (© nevereverro/Getty Images)](./wallpaper/2026-01-07.jpg) 
 
