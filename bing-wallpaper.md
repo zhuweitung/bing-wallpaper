@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-09 | [Corfu at night, Greece (© whitewizzard/Getty Images)](./wallpaper/2026-02-09.jpg) 
+
 2026-02-08 | [Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)](./wallpaper/2026-02-08.jpg) 
 
 2026-02-07 | [Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)](./wallpaper/2026-02-07.jpg) 
@@ -58,6 +60,4 @@
 2026-01-11 | [The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)](./wallpaper/2026-01-11.jpg) 
 
 2026-01-10 | [Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)](./wallpaper/2026-01-10.jpg) 
-
-2026-01-09 | [Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)](./wallpaper/2026-01-09.jpg) 
 
