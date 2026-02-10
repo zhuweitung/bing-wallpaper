@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-11 | [Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](./wallpaper/2026-02-11.jpg) 
+
 2026-02-10 | [Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](./wallpaper/2026-02-10.jpg) 
 
 2026-02-09 | [Corfu at night, Greece (© whitewizzard/Getty Images)](./wallpaper/2026-02-09.jpg) 
@@ -58,6 +60,4 @@
 2026-01-13 | [Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](./wallpaper/2026-01-13.jpg) 
 
 2026-01-12 | [Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)](./wallpaper/2026-01-12.jpg) 
-
-2026-01-11 | [The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)](./wallpaper/2026-01-11.jpg) 
 
