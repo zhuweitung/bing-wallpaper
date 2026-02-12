@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)](./wallpaper/2026-02-13.jpg) 
+
 2026-02-12 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](./wallpaper/2026-02-12.jpg) 
 
 2026-02-11 | [Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](./wallpaper/2026-02-11.jpg) 
@@ -58,6 +60,4 @@
 2026-01-15 | [The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)](./wallpaper/2026-01-15.jpg) 
 
 2026-01-14 | [Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](./wallpaper/2026-01-14.jpg) 
-
-2026-01-13 | [Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](./wallpaper/2026-01-13.jpg) 
 
