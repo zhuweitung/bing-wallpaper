@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-16 | [Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](./wallpaper/2026-02-16.jpg) 
+
 2026-02-15 | [Bleeding hearts (© Dorene Hookey/Cavan Images)](./wallpaper/2026-02-15.jpg) 
 
 2026-02-14 | [Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)](./wallpaper/2026-02-14.jpg) 
@@ -58,6 +60,4 @@
 2026-01-18 | [Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](./wallpaper/2026-01-18.jpg) 
 
 2026-01-17 | [Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](./wallpaper/2026-01-17.jpg) 
-
-2026-01-16 | [The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](./wallpaper/2026-01-16.jpg) 
 
