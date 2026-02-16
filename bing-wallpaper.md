@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-17 | [Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](./wallpaper/2026-02-17.jpg) 
+
 2026-02-16 | [Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](./wallpaper/2026-02-16.jpg) 
 
 2026-02-15 | [Bleeding hearts (© Dorene Hookey/Cavan Images)](./wallpaper/2026-02-15.jpg) 
@@ -58,6 +60,4 @@
 2026-01-19 | [White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](./wallpaper/2026-01-19.jpg) 
 
 2026-01-18 | [Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)](./wallpaper/2026-01-18.jpg) 
-
-2026-01-17 | [Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](./wallpaper/2026-01-17.jpg) 
 
