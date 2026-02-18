@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-19 | [Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)](./wallpaper/2026-02-19.jpg) 
+
 2026-02-18 | [Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)](./wallpaper/2026-02-18.jpg) 
 
 2026-02-17 | [Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](./wallpaper/2026-02-17.jpg) 
@@ -58,6 +60,4 @@
 2026-01-21 | [Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](./wallpaper/2026-01-21.jpg) 
 
 2026-01-20 | [Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](./wallpaper/2026-01-20.jpg) 
-
-2026-01-19 | [White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)](./wallpaper/2026-01-19.jpg) 
 
