@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-20 | [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](./wallpaper/2026-02-20.jpg) 
+
 2026-02-19 | [Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)](./wallpaper/2026-02-19.jpg) 
 
 2026-02-18 | [Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)](./wallpaper/2026-02-18.jpg) 
@@ -58,6 +60,4 @@
 2026-01-22 | [Eurasian red squirrel (© Galina Jacyna/Getty Images)](./wallpaper/2026-01-22.jpg) 
 
 2026-01-21 | [Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](./wallpaper/2026-01-21.jpg) 
-
-2026-01-20 | [Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](./wallpaper/2026-01-20.jpg) 
 
