@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-22 | [Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)](./wallpaper/2026-02-22.jpg) 
+
 2026-02-21 | [Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](./wallpaper/2026-02-21.jpg) 
 
 2026-02-20 | [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](./wallpaper/2026-02-20.jpg) 
@@ -58,6 +60,4 @@
 2026-01-24 | [Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](./wallpaper/2026-01-24.jpg) 
 
 2026-01-23 | [Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](./wallpaper/2026-01-23.jpg) 
-
-2026-01-22 | [Eurasian red squirrel (© Galina Jacyna/Getty Images)](./wallpaper/2026-01-22.jpg) 
 
