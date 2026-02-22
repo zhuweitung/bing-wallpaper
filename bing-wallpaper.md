@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-23 | [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](./wallpaper/2026-02-23.jpg) 
+
 2026-02-22 | [Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)](./wallpaper/2026-02-22.jpg) 
 
 2026-02-21 | [Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](./wallpaper/2026-02-21.jpg) 
@@ -58,6 +60,4 @@
 2026-01-25 | [Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](./wallpaper/2026-01-25.jpg) 
 
 2026-01-24 | [Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](./wallpaper/2026-01-24.jpg) 
-
-2026-01-23 | [Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](./wallpaper/2026-01-23.jpg) 
 
