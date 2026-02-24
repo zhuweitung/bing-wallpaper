@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-25 | [Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](./wallpaper/2026-02-25.jpg) 
+
 2026-02-24 | [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](./wallpaper/2026-02-24.jpg) 
 
 2026-02-23 | [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](./wallpaper/2026-02-23.jpg) 
@@ -58,6 +60,4 @@
 2026-01-27 | [Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](./wallpaper/2026-01-27.jpg) 
 
 2026-01-26 | [Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](./wallpaper/2026-01-26.jpg) 
-
-2026-01-25 | [Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](./wallpaper/2026-01-25.jpg) 
 
