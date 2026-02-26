@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-02-27 | [Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)](./wallpaper/2026-02-27.jpg) 
+
 2026-02-26 | [Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)](./wallpaper/2026-02-26.jpg) 
 
 2026-02-25 | [Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](./wallpaper/2026-02-25.jpg) 
@@ -58,6 +60,4 @@
 2026-01-29 | [Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](./wallpaper/2026-01-29.jpg) 
 
 2026-01-28 | [Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)](./wallpaper/2026-01-28.jpg) 
-
-2026-01-27 | [Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](./wallpaper/2026-01-27.jpg) 
 
