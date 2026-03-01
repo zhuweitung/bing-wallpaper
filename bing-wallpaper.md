@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-02 | [Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](./wallpaper/2026-03-02.jpg) 
+
 2026-03-01 | [Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)](./wallpaper/2026-03-01.jpg) 
 
 2026-02-28 | [Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)](./wallpaper/2026-02-28.jpg) 
@@ -58,6 +60,4 @@
 2026-02-01 | [Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](./wallpaper/2026-02-01.jpg) 
 
 2026-01-31 | [St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)](./wallpaper/2026-01-31.jpg) 
-
-2026-01-30 | [The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](./wallpaper/2026-01-30.jpg) 
 
