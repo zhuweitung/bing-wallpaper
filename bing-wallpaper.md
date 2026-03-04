@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-05 | [Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](./wallpaper/2026-03-05.jpg) 
+
 2026-03-04 | [African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](./wallpaper/2026-03-04.jpg) 
 
 2026-03-03 | [Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](./wallpaper/2026-03-03.jpg) 
@@ -58,6 +60,4 @@
 2026-02-04 | [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](./wallpaper/2026-02-04.jpg) 
 
 2026-02-03 | [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](./wallpaper/2026-02-03.jpg) 
-
-2026-02-02 | [US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](./wallpaper/2026-02-02.jpg) 
 
