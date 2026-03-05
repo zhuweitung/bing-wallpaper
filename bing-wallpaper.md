@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-06 | [Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](./wallpaper/2026-03-06.jpg) 
+
 2026-03-05 | [Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](./wallpaper/2026-03-05.jpg) 
 
 2026-03-04 | [African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](./wallpaper/2026-03-04.jpg) 
@@ -58,6 +60,4 @@
 2026-02-05 | [Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)](./wallpaper/2026-02-05.jpg) 
 
 2026-02-04 | [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](./wallpaper/2026-02-04.jpg) 
-
-2026-02-03 | [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](./wallpaper/2026-02-03.jpg) 
 
