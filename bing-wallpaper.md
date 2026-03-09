@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-10 | [Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)](./wallpaper/2026-03-10.jpg) 
+
 2026-03-09 | [Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)](./wallpaper/2026-03-09.jpg) 
 
 2026-03-08 | [Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](./wallpaper/2026-03-08.jpg) 
@@ -58,6 +60,4 @@
 2026-02-09 | [Corfu at night, Greece (© whitewizzard/Getty Images)](./wallpaper/2026-02-09.jpg) 
 
 2026-02-08 | [Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)](./wallpaper/2026-02-08.jpg) 
-
-2026-02-07 | [Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)](./wallpaper/2026-02-07.jpg) 
 
