@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-13 | [Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)](./wallpaper/2026-03-13.jpg) 
+
 2026-03-12 | [Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2026-03-12.jpg) 
 
 2026-03-11 | [Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2026-03-11.jpg) 
@@ -58,6 +60,4 @@
 2026-02-12 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](./wallpaper/2026-02-12.jpg) 
 
 2026-02-11 | [Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](./wallpaper/2026-02-11.jpg) 
-
-2026-02-10 | [Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](./wallpaper/2026-02-10.jpg) 
 
