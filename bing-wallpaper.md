@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-16 | [Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)](./wallpaper/2026-03-16.jpg) 
+
 2026-03-15 | [Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](./wallpaper/2026-03-15.jpg) 
 
 2026-03-14 | [Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)](./wallpaper/2026-03-14.jpg) 
@@ -58,6 +60,4 @@
 2026-02-15 | [Bleeding hearts (© Dorene Hookey/Cavan Images)](./wallpaper/2026-02-15.jpg) 
 
 2026-02-14 | [Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)](./wallpaper/2026-02-14.jpg) 
-
-2026-02-13 | [Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)](./wallpaper/2026-02-13.jpg) 
 
