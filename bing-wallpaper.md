@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-18 | [Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](./wallpaper/2026-03-18.jpg) 
+
 2026-03-17 | [Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)](./wallpaper/2026-03-17.jpg) 
 
 2026-03-16 | [Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)](./wallpaper/2026-03-16.jpg) 
@@ -58,6 +60,4 @@
 2026-02-17 | [Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](./wallpaper/2026-02-17.jpg) 
 
 2026-02-16 | [Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](./wallpaper/2026-02-16.jpg) 
-
-2026-02-15 | [Bleeding hearts (© Dorene Hookey/Cavan Images)](./wallpaper/2026-02-15.jpg) 
 
