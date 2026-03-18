@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-19 | [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2026-03-19.jpg) 
+
 2026-03-18 | [Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](./wallpaper/2026-03-18.jpg) 
 
 2026-03-17 | [Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)](./wallpaper/2026-03-17.jpg) 
@@ -58,6 +60,4 @@
 2026-02-18 | [Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)](./wallpaper/2026-02-18.jpg) 
 
 2026-02-17 | [Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](./wallpaper/2026-02-17.jpg) 
-
-2026-02-16 | [Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](./wallpaper/2026-02-16.jpg) 
 
