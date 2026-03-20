@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-21 | [Snowdrops in spring (© klagyivik/Getty Images)](./wallpaper/2026-03-21.jpg) 
+
 2026-03-20 | [Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)](./wallpaper/2026-03-20.jpg) 
 
 2026-03-19 | [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2026-03-19.jpg) 
@@ -58,6 +60,4 @@
 2026-02-20 | [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](./wallpaper/2026-02-20.jpg) 
 
 2026-02-19 | [Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)](./wallpaper/2026-02-19.jpg) 
-
-2026-02-18 | [Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)](./wallpaper/2026-02-18.jpg) 
 
