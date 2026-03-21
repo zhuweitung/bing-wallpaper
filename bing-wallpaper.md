@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-22 | [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](./wallpaper/2026-03-22.jpg) 
+
 2026-03-21 | [Snowdrops in spring (© klagyivik/Getty Images)](./wallpaper/2026-03-21.jpg) 
 
 2026-03-20 | [Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)](./wallpaper/2026-03-20.jpg) 
@@ -58,6 +60,4 @@
 2026-02-21 | [Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](./wallpaper/2026-02-21.jpg) 
 
 2026-02-20 | [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](./wallpaper/2026-02-20.jpg) 
-
-2026-02-19 | [Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)](./wallpaper/2026-02-19.jpg) 
 
