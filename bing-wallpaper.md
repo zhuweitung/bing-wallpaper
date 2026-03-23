@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-24 | [Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)](./wallpaper/2026-03-24.jpg) 
+
 2026-03-23 | [Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](./wallpaper/2026-03-23.jpg) 
 
 2026-03-22 | [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](./wallpaper/2026-03-22.jpg) 
@@ -58,6 +60,4 @@
 2026-02-23 | [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](./wallpaper/2026-02-23.jpg) 
 
 2026-02-22 | [Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)](./wallpaper/2026-02-22.jpg) 
-
-2026-02-21 | [Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](./wallpaper/2026-02-21.jpg) 
 
