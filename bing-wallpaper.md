@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-03-26 | [Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2026-03-26.jpg) 
+
 2026-03-25 | [Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)](./wallpaper/2026-03-25.jpg) 
 
 2026-03-24 | [Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)](./wallpaper/2026-03-24.jpg) 
@@ -58,6 +60,4 @@
 2026-02-25 | [Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](./wallpaper/2026-02-25.jpg) 
 
 2026-02-24 | [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](./wallpaper/2026-02-24.jpg) 
-
-2026-02-23 | [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](./wallpaper/2026-02-23.jpg) 
 
