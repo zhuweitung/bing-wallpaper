@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-02 | [Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)](./wallpaper/2026-04-02.jpg) 
+
 2026-04-01 | [Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)](./wallpaper/2026-04-01.jpg) 
 
 2026-03-31 | [Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)](./wallpaper/2026-03-31.jpg) 
@@ -58,6 +60,4 @@
 2026-03-04 | [African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](./wallpaper/2026-03-04.jpg) 
 
 2026-03-03 | [Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](./wallpaper/2026-03-03.jpg) 
-
-2026-03-02 | [Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](./wallpaper/2026-03-02.jpg) 
 
