@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-06 | [Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)](./wallpaper/2026-04-06.jpg) 
+
 2026-04-05 | [Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-05.jpg) 
 
 2026-04-04 | [Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)](./wallpaper/2026-04-04.jpg) 
@@ -58,6 +60,4 @@
 2026-03-08 | [Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](./wallpaper/2026-03-08.jpg) 
 
 2026-03-07 | [The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)](./wallpaper/2026-03-07.jpg) 
-
-2026-03-06 | [Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](./wallpaper/2026-03-06.jpg) 
 
