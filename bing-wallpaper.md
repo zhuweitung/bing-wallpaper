@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-08 | [Beaver, Germany (© Andyworks/Getty Images)](./wallpaper/2026-04-08.jpg) 
+
 2026-04-07 | [Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)](./wallpaper/2026-04-07.jpg) 
 
 2026-04-06 | [Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)](./wallpaper/2026-04-06.jpg) 
@@ -58,6 +60,4 @@
 2026-03-10 | [Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)](./wallpaper/2026-03-10.jpg) 
 
 2026-03-09 | [Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)](./wallpaper/2026-03-09.jpg) 
-
-2026-03-08 | [Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](./wallpaper/2026-03-08.jpg) 
 
