@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-11 | [Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-11.jpg) 
+
 2026-04-10 | [Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)](./wallpaper/2026-04-10.jpg) 
 
 2026-04-09 | [Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](./wallpaper/2026-04-09.jpg) 
@@ -58,6 +60,4 @@
 2026-03-13 | [Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)](./wallpaper/2026-03-13.jpg) 
 
 2026-03-12 | [Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2026-03-12.jpg) 
-
-2026-03-11 | [Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2026-03-11.jpg) 
 
