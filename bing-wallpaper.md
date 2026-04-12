@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-13 | [City lights streak below, taken from the International Space Station (© NASA)](./wallpaper/2026-04-13.jpg) 
+
 2026-04-12 | [Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](./wallpaper/2026-04-12.jpg) 
 
 2026-04-11 | [Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-11.jpg) 
@@ -58,6 +60,4 @@
 2026-03-15 | [Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](./wallpaper/2026-03-15.jpg) 
 
 2026-03-14 | [Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)](./wallpaper/2026-03-14.jpg) 
-
-2026-03-13 | [Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)](./wallpaper/2026-03-13.jpg) 
 
