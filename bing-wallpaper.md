@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-17 | [Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](./wallpaper/2026-04-17.jpg) 
+
 2026-04-16 | [The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)](./wallpaper/2026-04-16.jpg) 
 
 2026-04-15 | [Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)](./wallpaper/2026-04-15.jpg) 
@@ -58,6 +60,4 @@
 2026-03-19 | [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2026-03-19.jpg) 
 
 2026-03-18 | [Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](./wallpaper/2026-03-18.jpg) 
-
-2026-03-17 | [Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)](./wallpaper/2026-03-17.jpg) 
 
