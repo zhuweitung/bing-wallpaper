@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-18 | [Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](./wallpaper/2026-04-18.jpg) 
+
 2026-04-17 | [Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](./wallpaper/2026-04-17.jpg) 
 
 2026-04-16 | [The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)](./wallpaper/2026-04-16.jpg) 
@@ -58,6 +60,4 @@
 2026-03-20 | [Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)](./wallpaper/2026-03-20.jpg) 
 
 2026-03-19 | [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](./wallpaper/2026-03-19.jpg) 
-
-2026-03-18 | [Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](./wallpaper/2026-03-18.jpg) 
 
