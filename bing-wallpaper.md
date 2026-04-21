@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-22 | [European hedgehog, France (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-04-22.jpg) 
+
 2026-04-21 | [Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2026-04-21.jpg) 
 
 2026-04-20 | [Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](./wallpaper/2026-04-20.jpg) 
@@ -58,6 +60,4 @@
 2026-03-24 | [Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)](./wallpaper/2026-03-24.jpg) 
 
 2026-03-23 | [Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](./wallpaper/2026-03-23.jpg) 
-
-2026-03-22 | [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](./wallpaper/2026-03-22.jpg) 
 
