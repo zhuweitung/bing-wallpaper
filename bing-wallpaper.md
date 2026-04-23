@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-24 | [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](./wallpaper/2026-04-24.jpg) 
+
 2026-04-23 | [Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-23.jpg) 
 
 2026-04-22 | [European hedgehog, France (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-04-22.jpg) 
@@ -58,6 +60,4 @@
 2026-03-26 | [Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2026-03-26.jpg) 
 
 2026-03-25 | [Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)](./wallpaper/2026-03-25.jpg) 
-
-2026-03-24 | [Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)](./wallpaper/2026-03-24.jpg) 
 
