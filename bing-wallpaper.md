@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-26 | [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](./wallpaper/2026-04-26.jpg) 
+
 2026-04-25 | [Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](./wallpaper/2026-04-25.jpg) 
 
 2026-04-24 | [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](./wallpaper/2026-04-24.jpg) 
@@ -58,6 +60,4 @@
 2026-03-28 | [Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](./wallpaper/2026-03-28.jpg) 
 
 2026-03-27 | [Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](./wallpaper/2026-03-27.jpg) 
-
-2026-03-26 | [Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)](./wallpaper/2026-03-26.jpg) 
 
