@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-04-28 | [The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](./wallpaper/2026-04-28.jpg) 
+
 2026-04-27 | [Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](./wallpaper/2026-04-27.jpg) 
 
 2026-04-26 | [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](./wallpaper/2026-04-26.jpg) 
@@ -58,6 +60,4 @@
 2026-03-30 | [Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)](./wallpaper/2026-03-30.jpg) 
 
 2026-03-29 | [African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)](./wallpaper/2026-03-29.jpg) 
-
-2026-03-28 | [Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](./wallpaper/2026-03-28.jpg) 
 
