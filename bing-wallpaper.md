@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-04 | [Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-05-04.jpg) 
+
 2026-05-03 | [Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](./wallpaper/2026-05-03.jpg) 
 
 2026-05-02 | [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](./wallpaper/2026-05-02.jpg) 
@@ -58,6 +60,4 @@
 2026-04-05 | [Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-05.jpg) 
 
 2026-04-04 | [Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)](./wallpaper/2026-04-04.jpg) 
-
-2026-04-03 | [Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)](./wallpaper/2026-04-03.jpg) 
 
