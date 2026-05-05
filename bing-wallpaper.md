@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-06 | [Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)](./wallpaper/2026-05-06.jpg) 
+
 2026-05-05 | [Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)](./wallpaper/2026-05-05.jpg) 
 
 2026-05-04 | [Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-05-04.jpg) 
@@ -58,6 +60,4 @@
 2026-04-07 | [Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)](./wallpaper/2026-04-07.jpg) 
 
 2026-04-06 | [Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)](./wallpaper/2026-04-06.jpg) 
-
-2026-04-05 | [Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-05.jpg) 
 
