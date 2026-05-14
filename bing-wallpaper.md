@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-15 | [Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)](./wallpaper/2026-05-15.jpg) 
+
 2026-05-14 | [Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)](./wallpaper/2026-05-14.jpg) 
 
 2026-05-13 | [Atlantic puffins, Wales (© FLPA/Alamy)](./wallpaper/2026-05-13.jpg) 
@@ -58,6 +60,4 @@
 2026-04-16 | [The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)](./wallpaper/2026-04-16.jpg) 
 
 2026-04-15 | [Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)](./wallpaper/2026-04-15.jpg) 
-
-2026-04-14 | [Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](./wallpaper/2026-04-14.jpg) 
 
