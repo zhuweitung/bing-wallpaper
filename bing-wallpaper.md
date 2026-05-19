@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-20 | [Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)](./wallpaper/2026-05-20.jpg) 
+
 2026-05-19 | [Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)](./wallpaper/2026-05-19.jpg) 
 
 2026-05-18 | [Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](./wallpaper/2026-05-18.jpg) 
@@ -58,6 +60,4 @@
 2026-04-21 | [Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2026-04-21.jpg) 
 
 2026-04-20 | [Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](./wallpaper/2026-04-20.jpg) 
-
-2026-04-19 | [Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](./wallpaper/2026-04-19.jpg) 
 
