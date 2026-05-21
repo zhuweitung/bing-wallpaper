@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-22 | [Tea terraces in Sichuan Province, China (© lzf/Shutterstock)](./wallpaper/2026-05-22.jpg) 
+
 2026-05-21 | [Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)](./wallpaper/2026-05-21.jpg) 
 
 2026-05-20 | [Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)](./wallpaper/2026-05-20.jpg) 
@@ -58,6 +60,4 @@
 2026-04-23 | [Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-23.jpg) 
 
 2026-04-22 | [European hedgehog, France (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-04-22.jpg) 
-
-2026-04-21 | [Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)](./wallpaper/2026-04-21.jpg) 
 
