@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-23 | [Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](./wallpaper/2026-05-23.jpg) 
+
 2026-05-22 | [Tea terraces in Sichuan Province, China (© lzf/Shutterstock)](./wallpaper/2026-05-22.jpg) 
 
 2026-05-21 | [Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)](./wallpaper/2026-05-21.jpg) 
@@ -58,6 +60,4 @@
 2026-04-24 | [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](./wallpaper/2026-04-24.jpg) 
 
 2026-04-23 | [Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](./wallpaper/2026-04-23.jpg) 
-
-2026-04-22 | [European hedgehog, France (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-04-22.jpg) 
 
