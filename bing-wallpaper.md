@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-26 | [Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)](./wallpaper/2026-05-26.jpg) 
+
 2026-05-25 | [Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)](./wallpaper/2026-05-25.jpg) 
 
 2026-05-24 | [Turtles with butterflies (© Patrick Gallet/Getty Images)](./wallpaper/2026-05-24.jpg) 
@@ -58,6 +60,4 @@
 2026-04-27 | [Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](./wallpaper/2026-04-27.jpg) 
 
 2026-04-26 | [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](./wallpaper/2026-04-26.jpg) 
-
-2026-04-25 | [Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](./wallpaper/2026-04-25.jpg) 
 
