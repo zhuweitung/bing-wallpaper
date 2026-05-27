@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-05-28 | [Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)](./wallpaper/2026-05-28.jpg) 
+
 2026-05-26 | [Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)](./wallpaper/2026-05-26.jpg) 
 
 2026-05-25 | [Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)](./wallpaper/2026-05-25.jpg) 
@@ -56,8 +58,4 @@
 2026-04-29 | [Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](./wallpaper/2026-04-29.jpg) 
 
 2026-04-28 | [The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](./wallpaper/2026-04-28.jpg) 
-
-2026-04-27 | [Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](./wallpaper/2026-04-27.jpg) 
-
-2026-04-26 | [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](./wallpaper/2026-04-26.jpg) 
 
