@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-01 | [Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)](./wallpaper/2026-06-01.jpg) 
+
 2026-05-31 | [Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](./wallpaper/2026-05-31.jpg) 
 
 2026-05-30 | [Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)](./wallpaper/2026-05-30.jpg) 
@@ -56,6 +58,4 @@
 2026-05-03 | [Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](./wallpaper/2026-05-03.jpg) 
 
 2026-05-02 | [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](./wallpaper/2026-05-02.jpg) 
-
-2026-05-01 | [Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](./wallpaper/2026-05-01.jpg) 
 
