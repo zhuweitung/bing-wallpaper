@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-02 | [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](./wallpaper/2026-06-02.jpg) 
+
 2026-06-01 | [Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)](./wallpaper/2026-06-01.jpg) 
 
 2026-05-31 | [Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](./wallpaper/2026-05-31.jpg) 
@@ -56,6 +58,4 @@
 2026-05-04 | [Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-05-04.jpg) 
 
 2026-05-03 | [Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](./wallpaper/2026-05-03.jpg) 
-
-2026-05-02 | [Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)](./wallpaper/2026-05-02.jpg) 
 
