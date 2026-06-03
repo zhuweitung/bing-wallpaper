@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-04 | [Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](./wallpaper/2026-06-04.jpg) 
+
 2026-06-03 | [Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](./wallpaper/2026-06-03.jpg) 
 
 2026-06-02 | [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](./wallpaper/2026-06-02.jpg) 
@@ -56,6 +58,4 @@
 2026-05-06 | [Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)](./wallpaper/2026-05-06.jpg) 
 
 2026-05-05 | [Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)](./wallpaper/2026-05-05.jpg) 
-
-2026-05-04 | [Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-05-04.jpg) 
 
