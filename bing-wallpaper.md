@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-07 | [Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)](./wallpaper/2026-06-07.jpg) 
+
 2026-06-06 | [View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)](./wallpaper/2026-06-06.jpg) 
 
 2026-06-05 | [Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](./wallpaper/2026-06-05.jpg) 
@@ -56,6 +58,4 @@
 2026-05-09 | [Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-05-09.jpg) 
 
 2026-05-08 | [Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)](./wallpaper/2026-05-08.jpg) 
-
-2026-05-07 | [Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)](./wallpaper/2026-05-07.jpg) 
 
