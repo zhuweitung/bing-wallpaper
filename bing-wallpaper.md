@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-08 | [Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](./wallpaper/2026-06-08.jpg) 
+
 2026-06-07 | [Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)](./wallpaper/2026-06-07.jpg) 
 
 2026-06-06 | [View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)](./wallpaper/2026-06-06.jpg) 
@@ -56,6 +58,4 @@
 2026-05-10 | [Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](./wallpaper/2026-05-10.jpg) 
 
 2026-05-09 | [Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](./wallpaper/2026-05-09.jpg) 
-
-2026-05-08 | [Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)](./wallpaper/2026-05-08.jpg) 
 
