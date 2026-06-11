@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-12 | [Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](./wallpaper/2026-06-12.jpg) 
+
 2026-06-11 | [Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2026-06-11.jpg) 
 
 2026-06-10 | [Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)](./wallpaper/2026-06-10.jpg) 
@@ -56,6 +58,4 @@
 2026-05-14 | [Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)](./wallpaper/2026-05-14.jpg) 
 
 2026-05-13 | [Atlantic puffins, Wales (© FLPA/Alamy)](./wallpaper/2026-05-13.jpg) 
-
-2026-05-12 | [Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2026-05-12.jpg) 
 
