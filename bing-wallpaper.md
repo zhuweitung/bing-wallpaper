@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-14 | [Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)](./wallpaper/2026-06-14.jpg) 
+
 2026-06-13 | [European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](./wallpaper/2026-06-13.jpg) 
 
 2026-06-12 | [Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](./wallpaper/2026-06-12.jpg) 
@@ -56,6 +58,4 @@
 2026-05-16 | [A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)](./wallpaper/2026-05-16.jpg) 
 
 2026-05-15 | [Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)](./wallpaper/2026-05-15.jpg) 
-
-2026-05-14 | [Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)](./wallpaper/2026-05-14.jpg) 
 
