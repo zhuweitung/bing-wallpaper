@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-16 | [Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](./wallpaper/2026-06-16.jpg) 
+
 2026-06-15 | [US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](./wallpaper/2026-06-15.jpg) 
 
 2026-06-14 | [Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)](./wallpaper/2026-06-14.jpg) 
@@ -56,6 +58,4 @@
 2026-05-18 | [Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](./wallpaper/2026-05-18.jpg) 
 
 2026-05-17 | [Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)](./wallpaper/2026-05-17.jpg) 
-
-2026-05-16 | [A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)](./wallpaper/2026-05-16.jpg) 
 
