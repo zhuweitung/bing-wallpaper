@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-18 | [Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)](./wallpaper/2026-06-18.jpg) 
+
 2026-06-17 | [Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](./wallpaper/2026-06-17.jpg) 
 
 2026-06-16 | [Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](./wallpaper/2026-06-16.jpg) 
@@ -56,6 +58,4 @@
 2026-05-20 | [Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)](./wallpaper/2026-05-20.jpg) 
 
 2026-05-19 | [Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)](./wallpaper/2026-05-19.jpg) 
-
-2026-05-18 | [Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](./wallpaper/2026-05-18.jpg) 
 
