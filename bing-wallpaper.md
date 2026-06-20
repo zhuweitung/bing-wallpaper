@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-21 | [Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](./wallpaper/2026-06-21.jpg) 
+
 2026-06-20 | [National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)](./wallpaper/2026-06-20.jpg) 
 
 2026-06-19 | [Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)](./wallpaper/2026-06-19.jpg) 
@@ -56,6 +58,4 @@
 2026-05-23 | [Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](./wallpaper/2026-05-23.jpg) 
 
 2026-05-22 | [Tea terraces in Sichuan Province, China (© lzf/Shutterstock)](./wallpaper/2026-05-22.jpg) 
-
-2026-05-21 | [Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)](./wallpaper/2026-05-21.jpg) 
 
