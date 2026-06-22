@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-23 | [Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)](./wallpaper/2026-06-23.jpg) 
+
 2026-06-22 | [King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](./wallpaper/2026-06-22.jpg) 
 
 2026-06-21 | [Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](./wallpaper/2026-06-21.jpg) 
@@ -56,6 +58,4 @@
 2026-05-25 | [Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)](./wallpaper/2026-05-25.jpg) 
 
 2026-05-24 | [Turtles with butterflies (© Patrick Gallet/Getty Images)](./wallpaper/2026-05-24.jpg) 
-
-2026-05-23 | [Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](./wallpaper/2026-05-23.jpg) 
 
