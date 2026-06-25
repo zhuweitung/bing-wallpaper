@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-26 | [Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](./wallpaper/2026-06-26.jpg) 
+
 2026-06-25 | [Butterfly pollinating on yellow flower (© lzh/Getty Images)](./wallpaper/2026-06-25.jpg) 
 
 2026-06-24 | [Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)](./wallpaper/2026-06-24.jpg) 
@@ -56,6 +58,4 @@
 2026-05-29 | [Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)](./wallpaper/2026-05-29.jpg) 
 
 2026-05-28 | [Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)](./wallpaper/2026-05-28.jpg) 
-
-2026-05-26 | [Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)](./wallpaper/2026-05-26.jpg) 
 
