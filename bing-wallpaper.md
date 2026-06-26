@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-27 | [The River Thames, London, England (© Daniel Lange/Getty Images)](./wallpaper/2026-06-27.jpg) 
+
 2026-06-26 | [Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](./wallpaper/2026-06-26.jpg) 
 
 2026-06-25 | [Butterfly pollinating on yellow flower (© lzh/Getty Images)](./wallpaper/2026-06-25.jpg) 
