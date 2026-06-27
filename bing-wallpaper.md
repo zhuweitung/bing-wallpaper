@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-06-28 | [Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)](./wallpaper/2026-06-28.jpg) 
+
 2026-06-27 | [The River Thames, London, England (© Daniel Lange/Getty Images)](./wallpaper/2026-06-27.jpg) 
 
 2026-06-26 | [Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](./wallpaper/2026-06-26.jpg) 
@@ -58,6 +60,4 @@
 2026-05-30 | [Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)](./wallpaper/2026-05-30.jpg) 
 
 2026-05-29 | [Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)](./wallpaper/2026-05-29.jpg) 
-
-2026-05-28 | [Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)](./wallpaper/2026-05-28.jpg) 
 
