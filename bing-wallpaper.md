@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-02 | [Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](./wallpaper/2026-07-02.jpg) 
+
 2026-07-01 | [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](./wallpaper/2026-07-01.jpg) 
 
 2026-06-30 | [Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](./wallpaper/2026-06-30.jpg) 
@@ -58,6 +60,4 @@
 2026-06-03 | [Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](./wallpaper/2026-06-03.jpg) 
 
 2026-06-02 | [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](./wallpaper/2026-06-02.jpg) 
-
-2026-06-01 | [Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)](./wallpaper/2026-06-01.jpg) 
 
