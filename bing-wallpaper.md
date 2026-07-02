@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-03 | [Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](./wallpaper/2026-07-03.jpg) 
+
 2026-07-02 | [Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](./wallpaper/2026-07-02.jpg) 
 
 2026-07-01 | [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](./wallpaper/2026-07-01.jpg) 
@@ -58,6 +60,4 @@
 2026-06-04 | [Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](./wallpaper/2026-06-04.jpg) 
 
 2026-06-03 | [Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](./wallpaper/2026-06-03.jpg) 
-
-2026-06-02 | [Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)](./wallpaper/2026-06-02.jpg) 
 
