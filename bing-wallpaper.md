@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-05 | [Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)](./wallpaper/2026-07-05.jpg) 
+
 2026-07-04 | [Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](./wallpaper/2026-07-04.jpg) 
 
 2026-07-03 | [Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](./wallpaper/2026-07-03.jpg) 
@@ -58,6 +60,4 @@
 2026-06-06 | [View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)](./wallpaper/2026-06-06.jpg) 
 
 2026-06-05 | [Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](./wallpaper/2026-06-05.jpg) 
-
-2026-06-04 | [Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](./wallpaper/2026-06-04.jpg) 
 
