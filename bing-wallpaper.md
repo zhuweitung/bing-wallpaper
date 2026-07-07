@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-08 | [Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](./wallpaper/2026-07-08.jpg) 
+
 2026-07-07 | [Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](./wallpaper/2026-07-07.jpg) 
 
 2026-07-06 | [Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)](./wallpaper/2026-07-06.jpg) 
@@ -58,6 +60,4 @@
 2026-06-09 | [Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](./wallpaper/2026-06-09.jpg) 
 
 2026-06-08 | [Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](./wallpaper/2026-06-08.jpg) 
-
-2026-06-07 | [Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)](./wallpaper/2026-06-07.jpg) 
 
