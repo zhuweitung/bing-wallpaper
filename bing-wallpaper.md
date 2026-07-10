@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-11 | [Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)](./wallpaper/2026-07-11.jpg) 
+
 2026-07-09 | [Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)](./wallpaper/2026-07-09.jpg) 
 
 2026-07-08 | [Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](./wallpaper/2026-07-08.jpg) 
@@ -56,8 +58,4 @@
 2026-06-12 | [Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](./wallpaper/2026-06-12.jpg) 
 
 2026-06-11 | [Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)](./wallpaper/2026-06-11.jpg) 
-
-2026-06-10 | [Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)](./wallpaper/2026-06-10.jpg) 
-
-2026-06-09 | [Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](./wallpaper/2026-06-09.jpg) 
 
