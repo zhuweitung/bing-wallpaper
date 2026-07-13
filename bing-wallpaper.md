@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-14 | [Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)](./wallpaper/2026-07-14.jpg) 
+
 2026-07-13 | [Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)](./wallpaper/2026-07-13.jpg) 
 
 2026-07-12 | [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](./wallpaper/2026-07-12.jpg) 
@@ -56,6 +58,4 @@
 2026-06-15 | [US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](./wallpaper/2026-06-15.jpg) 
 
 2026-06-14 | [Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)](./wallpaper/2026-06-14.jpg) 
-
-2026-06-13 | [European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](./wallpaper/2026-06-13.jpg) 
 
