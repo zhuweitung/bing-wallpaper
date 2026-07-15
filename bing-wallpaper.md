@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-16 | [Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](./wallpaper/2026-07-16.jpg) 
+
 2026-07-15 | [Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](./wallpaper/2026-07-15.jpg) 
 
 2026-07-14 | [Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)](./wallpaper/2026-07-14.jpg) 
@@ -56,6 +58,4 @@
 2026-06-17 | [Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](./wallpaper/2026-06-17.jpg) 
 
 2026-06-16 | [Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](./wallpaper/2026-06-16.jpg) 
-
-2026-06-15 | [US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](./wallpaper/2026-06-15.jpg) 
 
