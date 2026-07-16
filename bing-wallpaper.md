@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-17 | [Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](./wallpaper/2026-07-17.jpg) 
+
 2026-07-16 | [Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](./wallpaper/2026-07-16.jpg) 
 
 2026-07-15 | [Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](./wallpaper/2026-07-15.jpg) 
@@ -56,6 +58,4 @@
 2026-06-18 | [Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)](./wallpaper/2026-06-18.jpg) 
 
 2026-06-17 | [Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](./wallpaper/2026-06-17.jpg) 
-
-2026-06-16 | [Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](./wallpaper/2026-06-16.jpg) 
 
