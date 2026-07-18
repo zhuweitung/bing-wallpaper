@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-19 | [Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)](./wallpaper/2026-07-19.jpg) 
+
 2026-07-18 | [Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)](./wallpaper/2026-07-18.jpg) 
 
 2026-07-17 | [Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](./wallpaper/2026-07-17.jpg) 
@@ -56,6 +58,4 @@
 2026-06-20 | [National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)](./wallpaper/2026-06-20.jpg) 
 
 2026-06-19 | [Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)](./wallpaper/2026-06-19.jpg) 
-
-2026-06-18 | [Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)](./wallpaper/2026-06-18.jpg) 
 
