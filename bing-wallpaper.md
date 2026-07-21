@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](./wallpaper/2026-07-22.jpg) 
+
 2026-07-21 | [Moon and Earth captured by the Artemis II crew (© NASA)](./wallpaper/2026-07-21.jpg) 
 
 2026-07-20 | [Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](./wallpaper/2026-07-20.jpg) 
@@ -56,6 +58,4 @@
 2026-06-23 | [Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)](./wallpaper/2026-06-23.jpg) 
 
 2026-06-22 | [King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](./wallpaper/2026-06-22.jpg) 
-
-2026-06-21 | [Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](./wallpaper/2026-06-21.jpg) 
 
