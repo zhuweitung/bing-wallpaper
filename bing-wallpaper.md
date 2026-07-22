@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-23 | [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](./wallpaper/2026-07-23.jpg) 
+
 2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](./wallpaper/2026-07-22.jpg) 
 
 2026-07-21 | [Moon and Earth captured by the Artemis II crew (© NASA)](./wallpaper/2026-07-21.jpg) 
@@ -56,6 +58,4 @@
 2026-06-24 | [Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)](./wallpaper/2026-06-24.jpg) 
 
 2026-06-23 | [Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)](./wallpaper/2026-06-23.jpg) 
-
-2026-06-22 | [King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](./wallpaper/2026-06-22.jpg) 
 
