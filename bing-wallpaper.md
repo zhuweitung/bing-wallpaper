@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-25 | [Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](./wallpaper/2026-07-25.jpg) 
+
 2026-07-24 | [Pink dahlia flower (© Harald Biebel/Getty Images)](./wallpaper/2026-07-24.jpg) 
 
 2026-07-23 | [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](./wallpaper/2026-07-23.jpg) 
@@ -56,6 +58,4 @@
 2026-06-26 | [Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](./wallpaper/2026-06-26.jpg) 
 
 2026-06-25 | [Butterfly pollinating on yellow flower (© lzh/Getty Images)](./wallpaper/2026-06-25.jpg) 
-
-2026-06-24 | [Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)](./wallpaper/2026-06-24.jpg) 
 
