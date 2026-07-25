@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-26 | [Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](./wallpaper/2026-07-26.jpg) 
+
 2026-07-25 | [Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](./wallpaper/2026-07-25.jpg) 
 
 2026-07-24 | [Pink dahlia flower (© Harald Biebel/Getty Images)](./wallpaper/2026-07-24.jpg) 
@@ -56,6 +58,4 @@
 2026-06-27 | [The River Thames, London, England (© Daniel Lange/Getty Images)](./wallpaper/2026-06-27.jpg) 
 
 2026-06-26 | [Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](./wallpaper/2026-06-26.jpg) 
-
-2026-06-25 | [Butterfly pollinating on yellow flower (© lzh/Getty Images)](./wallpaper/2026-06-25.jpg) 
 
