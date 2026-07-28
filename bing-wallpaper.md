@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-29 | [A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2026-07-29.jpg) 
+
 2026-07-28 | [Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](./wallpaper/2026-07-28.jpg) 
 
 2026-07-27 | [Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2026-07-27.jpg) 
@@ -56,6 +58,4 @@
 2026-06-30 | [Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](./wallpaper/2026-06-30.jpg) 
 
 2026-06-29 | [Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](./wallpaper/2026-06-29.jpg) 
-
-2026-06-28 | [Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)](./wallpaper/2026-06-28.jpg) 
 
