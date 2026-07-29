@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-30 | [A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](./wallpaper/2026-07-30.jpg) 
+
 2026-07-29 | [A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2026-07-29.jpg) 
 
 2026-07-28 | [Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](./wallpaper/2026-07-28.jpg) 
@@ -56,6 +58,4 @@
 2026-07-01 | [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](./wallpaper/2026-07-01.jpg) 
 
 2026-06-30 | [Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](./wallpaper/2026-06-30.jpg) 
-
-2026-06-29 | [Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](./wallpaper/2026-06-29.jpg) 
 
