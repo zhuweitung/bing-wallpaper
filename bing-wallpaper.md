@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-02 | [A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)](./wallpaper/2026-08-02.jpg) 
+
 2026-08-01 | [Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](./wallpaper/2026-08-01.jpg) 
 
 2026-07-31 | [Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](./wallpaper/2026-07-31.jpg) 
@@ -56,6 +58,4 @@
 2026-07-04 | [Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](./wallpaper/2026-07-04.jpg) 
 
 2026-07-03 | [Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](./wallpaper/2026-07-03.jpg) 
-
-2026-07-02 | [Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](./wallpaper/2026-07-02.jpg) 
 
