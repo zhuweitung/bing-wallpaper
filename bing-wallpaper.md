@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-08 | [Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)](./wallpaper/2026-08-08.jpg) 
+
 2026-08-07 | [Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)](./wallpaper/2026-08-07.jpg) 
 
 2026-08-06 | [Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)](./wallpaper/2026-08-06.jpg) 
@@ -56,6 +58,4 @@
 2026-07-11 | [Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)](./wallpaper/2026-07-11.jpg) 
 
 2026-07-09 | [Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)](./wallpaper/2026-07-09.jpg) 
-
-2026-07-08 | [Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](./wallpaper/2026-07-08.jpg) 
 
