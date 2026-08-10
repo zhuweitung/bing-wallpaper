@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-11 | [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](./wallpaper/2026-08-11.jpg) 
+
 2026-08-10 | [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](./wallpaper/2026-08-10.jpg) 
 
 2026-08-09 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](./wallpaper/2026-08-09.jpg) 
@@ -58,6 +60,4 @@
 2026-07-13 | [Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)](./wallpaper/2026-07-13.jpg) 
 
 2026-07-12 | [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](./wallpaper/2026-07-12.jpg) 
-
-2026-07-11 | [Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)](./wallpaper/2026-07-11.jpg) 
 
