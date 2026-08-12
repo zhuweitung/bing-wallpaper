@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-13 | [A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2026-08-13.jpg) 
+
 2026-08-12 | [Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](./wallpaper/2026-08-12.jpg) 
 
 2026-08-11 | [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](./wallpaper/2026-08-11.jpg) 
@@ -58,6 +60,4 @@
 2026-07-15 | [Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](./wallpaper/2026-07-15.jpg) 
 
 2026-07-14 | [Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)](./wallpaper/2026-07-14.jpg) 
-
-2026-07-13 | [Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)](./wallpaper/2026-07-13.jpg) 
 
