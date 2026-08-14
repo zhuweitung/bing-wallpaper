@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-15 | [Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](./wallpaper/2026-08-15.jpg) 
+
 2026-08-14 | [Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)](./wallpaper/2026-08-14.jpg) 
 
 2026-08-13 | [A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2026-08-13.jpg) 
@@ -58,6 +60,4 @@
 2026-07-17 | [Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](./wallpaper/2026-07-17.jpg) 
 
 2026-07-16 | [Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](./wallpaper/2026-07-16.jpg) 
-
-2026-07-15 | [Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](./wallpaper/2026-07-15.jpg) 
 
