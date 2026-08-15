@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-16 | [Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](./wallpaper/2026-08-16.jpg) 
+
 2026-08-15 | [Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](./wallpaper/2026-08-15.jpg) 
 
 2026-08-14 | [Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)](./wallpaper/2026-08-14.jpg) 
@@ -58,6 +60,4 @@
 2026-07-18 | [Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)](./wallpaper/2026-07-18.jpg) 
 
 2026-07-17 | [Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](./wallpaper/2026-07-17.jpg) 
-
-2026-07-16 | [Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](./wallpaper/2026-07-16.jpg) 
 
