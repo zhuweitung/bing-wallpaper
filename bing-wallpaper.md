@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-18 | [Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](./wallpaper/2026-08-18.jpg) 
+
 2026-08-17 | [Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](./wallpaper/2026-08-17.jpg) 
 
 2026-08-16 | [Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](./wallpaper/2026-08-16.jpg) 
@@ -58,6 +60,4 @@
 2026-07-20 | [Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](./wallpaper/2026-07-20.jpg) 
 
 2026-07-19 | [Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)](./wallpaper/2026-07-19.jpg) 
-
-2026-07-18 | [Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)](./wallpaper/2026-07-18.jpg) 
 
