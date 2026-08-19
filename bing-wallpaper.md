@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-20 | [NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)](./wallpaper/2026-08-20.jpg) 
+
 2026-08-19 | [Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](./wallpaper/2026-08-19.jpg) 
 
 2026-08-18 | [Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](./wallpaper/2026-08-18.jpg) 
@@ -58,6 +60,4 @@
 2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](./wallpaper/2026-07-22.jpg) 
 
 2026-07-21 | [Moon and Earth captured by the Artemis II crew (© NASA)](./wallpaper/2026-07-21.jpg) 
-
-2026-07-20 | [Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](./wallpaper/2026-07-20.jpg) 
 
