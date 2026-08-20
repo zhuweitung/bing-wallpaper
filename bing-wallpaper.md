@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-21 | [An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)](./wallpaper/2026-08-21.jpg) 
+
 2026-08-20 | [NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)](./wallpaper/2026-08-20.jpg) 
 
 2026-08-19 | [Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](./wallpaper/2026-08-19.jpg) 
@@ -58,6 +60,4 @@
 2026-07-23 | [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](./wallpaper/2026-07-23.jpg) 
 
 2026-07-22 | [Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](./wallpaper/2026-07-22.jpg) 
-
-2026-07-21 | [Moon and Earth captured by the Artemis II crew (© NASA)](./wallpaper/2026-07-21.jpg) 
 
