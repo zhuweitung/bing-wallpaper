@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-24 | [Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](./wallpaper/2026-08-24.jpg) 
+
 2026-08-23 | [Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](./wallpaper/2026-08-23.jpg) 
 
 2026-08-22 | [Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)](./wallpaper/2026-08-22.jpg) 
@@ -58,6 +60,4 @@
 2026-07-26 | [Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](./wallpaper/2026-07-26.jpg) 
 
 2026-07-25 | [Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](./wallpaper/2026-07-25.jpg) 
-
-2026-07-24 | [Pink dahlia flower (© Harald Biebel/Getty Images)](./wallpaper/2026-07-24.jpg) 
 
