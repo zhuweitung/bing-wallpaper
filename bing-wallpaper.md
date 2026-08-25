@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](./wallpaper/2026-08-26.jpg) 
+
 2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](./wallpaper/2026-08-25.jpg) 
 
 2026-08-24 | [Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](./wallpaper/2026-08-24.jpg) 
@@ -58,6 +60,4 @@
 2026-07-28 | [Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](./wallpaper/2026-07-28.jpg) 
 
 2026-07-27 | [Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2026-07-27.jpg) 
-
-2026-07-26 | [Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](./wallpaper/2026-07-26.jpg) 
 
