@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](./wallpaper/2026-08-27.jpg) 
+
 2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](./wallpaper/2026-08-26.jpg) 
 
 2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](./wallpaper/2026-08-25.jpg) 
@@ -58,6 +60,4 @@
 2026-07-29 | [A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](./wallpaper/2026-07-29.jpg) 
 
 2026-07-28 | [Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](./wallpaper/2026-07-28.jpg) 
-
-2026-07-27 | [Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)](./wallpaper/2026-07-27.jpg) 
 
