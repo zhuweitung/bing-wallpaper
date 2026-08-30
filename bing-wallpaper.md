@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-08-31 | [Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](./wallpaper/2026-08-31.jpg) 
+
 2026-08-30 | [Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](./wallpaper/2026-08-30.jpg) 
 
 2026-08-29 | [Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](./wallpaper/2026-08-29.jpg) 
@@ -58,6 +60,4 @@
 2026-08-02 | [A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)](./wallpaper/2026-08-02.jpg) 
 
 2026-08-01 | [Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](./wallpaper/2026-08-01.jpg) 
-
-2026-07-31 | [Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](./wallpaper/2026-07-31.jpg) 
 
