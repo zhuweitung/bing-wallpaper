@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-03 | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](./wallpaper/2026-09-03.jpg) 
+
 2026-09-02 | [Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)](./wallpaper/2026-09-02.jpg) 
 
 2026-09-01 | [Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)](./wallpaper/2026-09-01.jpg) 
@@ -58,6 +60,4 @@
 2026-08-05 | [Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)](./wallpaper/2026-08-05.jpg) 
 
 2026-08-04 | [Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](./wallpaper/2026-08-04.jpg) 
-
-2026-08-03 | [Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)](./wallpaper/2026-08-03.jpg) 
 
