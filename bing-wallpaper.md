@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-04 | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](./wallpaper/2026-09-04.jpg) 
+
 2026-09-03 | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](./wallpaper/2026-09-03.jpg) 
 
 2026-09-02 | [Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)](./wallpaper/2026-09-02.jpg) 
@@ -58,6 +60,4 @@
 2026-08-06 | [Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)](./wallpaper/2026-08-06.jpg) 
 
 2026-08-05 | [Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)](./wallpaper/2026-08-05.jpg) 
-
-2026-08-04 | [Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](./wallpaper/2026-08-04.jpg) 
 
