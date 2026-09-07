@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-08 | ['Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](./wallpaper/2026-09-08.jpg) 
+
 2026-09-07 | [Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](./wallpaper/2026-09-07.jpg) 
 
 2026-09-06 | [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](./wallpaper/2026-09-06.jpg) 
@@ -58,6 +60,4 @@
 2026-08-10 | [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](./wallpaper/2026-08-10.jpg) 
 
 2026-08-09 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](./wallpaper/2026-08-09.jpg) 
-
-2026-08-08 | [Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)](./wallpaper/2026-08-08.jpg) 
 
