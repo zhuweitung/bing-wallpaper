@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-09 | [Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2026-09-09.jpg) 
+
 2026-09-08 | ['Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](./wallpaper/2026-09-08.jpg) 
 
 2026-09-07 | [Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](./wallpaper/2026-09-07.jpg) 
@@ -58,6 +60,4 @@
 2026-08-11 | [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](./wallpaper/2026-08-11.jpg) 
 
 2026-08-10 | [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](./wallpaper/2026-08-10.jpg) 
-
-2026-08-09 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](./wallpaper/2026-08-09.jpg) 
 
