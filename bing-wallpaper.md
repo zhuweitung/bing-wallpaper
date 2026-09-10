@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-11 | [Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](./wallpaper/2026-09-11.jpg) 
+
 2026-09-10 | [Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](./wallpaper/2026-09-10.jpg) 
 
 2026-09-09 | [Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2026-09-09.jpg) 
@@ -58,6 +60,4 @@
 2026-08-13 | [A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2026-08-13.jpg) 
 
 2026-08-12 | [Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](./wallpaper/2026-08-12.jpg) 
-
-2026-08-11 | [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](./wallpaper/2026-08-11.jpg) 
 
