@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-13 | [California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](./wallpaper/2026-09-13.jpg) 
+
 2026-09-12 | [The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](./wallpaper/2026-09-12.jpg) 
 
 2026-09-11 | [Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](./wallpaper/2026-09-11.jpg) 
@@ -58,6 +60,4 @@
 2026-08-15 | [Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](./wallpaper/2026-08-15.jpg) 
 
 2026-08-14 | [Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)](./wallpaper/2026-08-14.jpg) 
-
-2026-08-13 | [A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](./wallpaper/2026-08-13.jpg) 
 
