@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-15 | [Field of kochia plants, China (© lingqi xie/Getty Images)](./wallpaper/2026-09-15.jpg) 
+
 2026-09-14 | [Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](./wallpaper/2026-09-14.jpg) 
 
 2026-09-13 | [California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](./wallpaper/2026-09-13.jpg) 
@@ -58,6 +60,4 @@
 2026-08-17 | [Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](./wallpaper/2026-08-17.jpg) 
 
 2026-08-16 | [Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](./wallpaper/2026-08-16.jpg) 
-
-2026-08-15 | [Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](./wallpaper/2026-08-15.jpg) 
 
