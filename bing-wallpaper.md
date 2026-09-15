@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-16 | [Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](./wallpaper/2026-09-16.jpg) 
+
 2026-09-15 | [Field of kochia plants, China (© lingqi xie/Getty Images)](./wallpaper/2026-09-15.jpg) 
 
 2026-09-14 | [Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](./wallpaper/2026-09-14.jpg) 
@@ -58,6 +60,4 @@
 2026-08-18 | [Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](./wallpaper/2026-08-18.jpg) 
 
 2026-08-17 | [Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](./wallpaper/2026-08-17.jpg) 
-
-2026-08-16 | [Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](./wallpaper/2026-08-16.jpg) 
 
