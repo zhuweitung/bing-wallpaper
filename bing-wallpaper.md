@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-18 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](./wallpaper/2026-09-18.jpg) 
+
 2026-09-17 | [Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](./wallpaper/2026-09-17.jpg) 
 
 2026-09-16 | [Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](./wallpaper/2026-09-16.jpg) 
@@ -58,6 +60,4 @@
 2026-08-20 | [NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)](./wallpaper/2026-08-20.jpg) 
 
 2026-08-19 | [Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](./wallpaper/2026-08-19.jpg) 
-
-2026-08-18 | [Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](./wallpaper/2026-08-18.jpg) 
 
