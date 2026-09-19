@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-20 | [Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](./wallpaper/2026-09-20.jpg) 
+
 2026-09-19 | [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](./wallpaper/2026-09-19.jpg) 
 
 2026-09-18 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](./wallpaper/2026-09-18.jpg) 
@@ -58,6 +60,4 @@
 2026-08-22 | [Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)](./wallpaper/2026-08-22.jpg) 
 
 2026-08-21 | [An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)](./wallpaper/2026-08-21.jpg) 
-
-2026-08-20 | [NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)](./wallpaper/2026-08-20.jpg) 
 
