@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-21 | [Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)](./wallpaper/2026-09-21.jpg) 
+
 2026-09-20 | [Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](./wallpaper/2026-09-20.jpg) 
 
 2026-09-19 | [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](./wallpaper/2026-09-19.jpg) 
@@ -58,6 +60,4 @@
 2026-08-23 | [Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](./wallpaper/2026-08-23.jpg) 
 
 2026-08-22 | [Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)](./wallpaper/2026-08-22.jpg) 
-
-2026-08-21 | [An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)](./wallpaper/2026-08-21.jpg) 
 
