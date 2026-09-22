@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-23 | [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](./wallpaper/2026-09-23.jpg) 
+
 2026-09-22 | [Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2026-09-22.jpg) 
 
 2026-09-21 | [Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)](./wallpaper/2026-09-21.jpg) 
@@ -58,6 +60,4 @@
 2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](./wallpaper/2026-08-25.jpg) 
 
 2026-08-24 | [Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](./wallpaper/2026-08-24.jpg) 
-
-2026-08-23 | [Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](./wallpaper/2026-08-23.jpg) 
 
