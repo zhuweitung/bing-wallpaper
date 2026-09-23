@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-24 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](./wallpaper/2026-09-24.jpg) 
+
 2026-09-23 | [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](./wallpaper/2026-09-23.jpg) 
 
 2026-09-22 | [Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2026-09-22.jpg) 
@@ -58,6 +60,4 @@
 2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](./wallpaper/2026-08-26.jpg) 
 
 2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](./wallpaper/2026-08-25.jpg) 
-
-2026-08-24 | [Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](./wallpaper/2026-08-24.jpg) 
 
