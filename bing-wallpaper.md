@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-25 | [Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](./wallpaper/2026-09-25.jpg) 
+
 2026-09-24 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](./wallpaper/2026-09-24.jpg) 
 
 2026-09-23 | [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](./wallpaper/2026-09-23.jpg) 
@@ -58,6 +60,4 @@
 2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](./wallpaper/2026-08-27.jpg) 
 
 2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](./wallpaper/2026-08-26.jpg) 
-
-2026-08-25 | [Brooklyn Bridge, New York City (© shayes17/Getty Images)](./wallpaper/2026-08-25.jpg) 
 
