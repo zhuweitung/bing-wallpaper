@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-26 | [Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](./wallpaper/2026-09-26.jpg) 
+
 2026-09-25 | [Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](./wallpaper/2026-09-25.jpg) 
 
 2026-09-24 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](./wallpaper/2026-09-24.jpg) 
@@ -58,6 +60,4 @@
 2026-08-28 | [Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)](./wallpaper/2026-08-28.jpg) 
 
 2026-08-27 | [Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)](./wallpaper/2026-08-27.jpg) 
-
-2026-08-26 | [Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](./wallpaper/2026-08-26.jpg) 
 
