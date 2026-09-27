@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-28 | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](./wallpaper/2026-09-28.jpg) 
+
 2026-09-27 | [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](./wallpaper/2026-09-27.jpg) 
 
 2026-09-26 | [Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](./wallpaper/2026-09-26.jpg) 
@@ -58,6 +60,4 @@
 2026-08-30 | [Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](./wallpaper/2026-08-30.jpg) 
 
 2026-08-29 | [Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](./wallpaper/2026-08-29.jpg) 
-
-2026-08-28 | [Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)](./wallpaper/2026-08-28.jpg) 
 
