@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-09-29 | [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](./wallpaper/2026-09-29.jpg) 
+
 2026-09-28 | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](./wallpaper/2026-09-28.jpg) 
 
 2026-09-27 | [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](./wallpaper/2026-09-27.jpg) 
@@ -58,6 +60,4 @@
 2026-08-31 | [Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](./wallpaper/2026-08-31.jpg) 
 
 2026-08-30 | [Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](./wallpaper/2026-08-30.jpg) 
-
-2026-08-29 | [Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](./wallpaper/2026-08-29.jpg) 
 
