@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-01 | [Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](./wallpaper/2026-10-01.jpg) 
+
 2026-09-30 | [The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](./wallpaper/2026-09-30.jpg) 
 
 2026-09-29 | [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](./wallpaper/2026-09-29.jpg) 
@@ -58,6 +60,4 @@
 2026-09-02 | [Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)](./wallpaper/2026-09-02.jpg) 
 
 2026-09-01 | [Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)](./wallpaper/2026-09-01.jpg) 
-
-2026-08-31 | [Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](./wallpaper/2026-08-31.jpg) 
 
