@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-03 | [Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](./wallpaper/2026-10-03.jpg) 
+
 2026-10-02 | [Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)](./wallpaper/2026-10-02.jpg) 
 
 2026-10-01 | [Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](./wallpaper/2026-10-01.jpg) 
@@ -58,6 +60,4 @@
 2026-09-04 | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](./wallpaper/2026-09-04.jpg) 
 
 2026-09-03 | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](./wallpaper/2026-09-03.jpg) 
-
-2026-09-02 | [Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)](./wallpaper/2026-09-02.jpg) 
 
