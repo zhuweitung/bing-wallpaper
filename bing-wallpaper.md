@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-07 | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](./wallpaper/2026-10-07.jpg) 
+
 2026-10-06 | [Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)](./wallpaper/2026-10-06.jpg) 
 
 2026-10-05 | [Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)](./wallpaper/2026-10-05.jpg) 
@@ -58,6 +60,4 @@
 2026-09-08 | ['Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](./wallpaper/2026-09-08.jpg) 
 
 2026-09-07 | [Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](./wallpaper/2026-09-07.jpg) 
-
-2026-09-06 | [Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)](./wallpaper/2026-09-06.jpg) 
 
