@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](./wallpaper/2026-10-08.jpg) 
+
 2026-10-07 | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](./wallpaper/2026-10-07.jpg) 
 
 2026-10-06 | [Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)](./wallpaper/2026-10-06.jpg) 
@@ -58,6 +60,4 @@
 2026-09-09 | [Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2026-09-09.jpg) 
 
 2026-09-08 | ['Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](./wallpaper/2026-09-08.jpg) 
-
-2026-09-07 | [Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)](./wallpaper/2026-09-07.jpg) 
 
