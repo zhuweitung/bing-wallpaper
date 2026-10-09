@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-10 | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2026-10-10.jpg) 
+
 2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](./wallpaper/2026-10-09.jpg) 
 
 2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](./wallpaper/2026-10-08.jpg) 
@@ -58,6 +60,4 @@
 2026-09-11 | [Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](./wallpaper/2026-09-11.jpg) 
 
 2026-09-10 | [Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](./wallpaper/2026-09-10.jpg) 
-
-2026-09-09 | [Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](./wallpaper/2026-09-09.jpg) 
 
