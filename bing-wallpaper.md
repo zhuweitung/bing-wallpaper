@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-11 | [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](./wallpaper/2026-10-11.jpg) 
+
 2026-10-10 | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2026-10-10.jpg) 
 
 2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](./wallpaper/2026-10-09.jpg) 
@@ -58,6 +60,4 @@
 2026-09-12 | [The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](./wallpaper/2026-09-12.jpg) 
 
 2026-09-11 | [Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](./wallpaper/2026-09-11.jpg) 
-
-2026-09-10 | [Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](./wallpaper/2026-09-10.jpg) 
 
