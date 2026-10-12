@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-13 | [White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)](./wallpaper/2026-10-13.jpg) 
+
 2026-10-12 | [Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](./wallpaper/2026-10-12.jpg) 
 
 2026-10-11 | [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](./wallpaper/2026-10-11.jpg) 
@@ -58,6 +60,4 @@
 2026-09-14 | [Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](./wallpaper/2026-09-14.jpg) 
 
 2026-09-13 | [California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](./wallpaper/2026-09-13.jpg) 
-
-2026-09-12 | [The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](./wallpaper/2026-09-12.jpg) 
 
