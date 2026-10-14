@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-15 | [Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](./wallpaper/2026-10-15.jpg) 
+
 2026-10-14 | [Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](./wallpaper/2026-10-14.jpg) 
 
 2026-10-13 | [White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)](./wallpaper/2026-10-13.jpg) 
@@ -58,6 +60,4 @@
 2026-09-16 | [Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](./wallpaper/2026-09-16.jpg) 
 
 2026-09-15 | [Field of kochia plants, China (© lingqi xie/Getty Images)](./wallpaper/2026-09-15.jpg) 
-
-2026-09-14 | [Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](./wallpaper/2026-09-14.jpg) 
 
