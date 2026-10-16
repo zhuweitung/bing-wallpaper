@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-17 | [Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)](./wallpaper/2026-10-17.jpg) 
+
 2026-10-16 | [View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](./wallpaper/2026-10-16.jpg) 
 
 2026-10-15 | [Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](./wallpaper/2026-10-15.jpg) 
@@ -58,6 +60,4 @@
 2026-09-18 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](./wallpaper/2026-09-18.jpg) 
 
 2026-09-17 | [Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](./wallpaper/2026-09-17.jpg) 
-
-2026-09-16 | [Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](./wallpaper/2026-09-16.jpg) 
 
