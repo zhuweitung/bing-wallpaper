@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-20 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](./wallpaper/2026-10-20.jpg) 
+
 2026-10-19 | [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](./wallpaper/2026-10-19.jpg) 
 
 2026-10-18 | [Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](./wallpaper/2026-10-18.jpg) 
@@ -58,6 +60,4 @@
 2026-09-21 | [Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)](./wallpaper/2026-09-21.jpg) 
 
 2026-09-20 | [Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](./wallpaper/2026-09-20.jpg) 
-
-2026-09-19 | [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](./wallpaper/2026-09-19.jpg) 
 
