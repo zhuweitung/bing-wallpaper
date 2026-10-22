@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](./wallpaper/2026-10-23.jpg) 
+
 2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](./wallpaper/2026-10-22.jpg) 
 
 2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2026-10-21.jpg) 
@@ -58,6 +60,4 @@
 2026-09-24 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](./wallpaper/2026-09-24.jpg) 
 
 2026-09-23 | [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](./wallpaper/2026-09-23.jpg) 
-
-2026-09-22 | [Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2026-09-22.jpg) 
 
