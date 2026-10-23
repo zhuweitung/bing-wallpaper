@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-24 | [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](./wallpaper/2026-10-24.jpg) 
+
 2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](./wallpaper/2026-10-23.jpg) 
 
 2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](./wallpaper/2026-10-22.jpg) 
@@ -58,6 +60,4 @@
 2026-09-25 | [Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](./wallpaper/2026-09-25.jpg) 
 
 2026-09-24 | [Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](./wallpaper/2026-09-24.jpg) 
-
-2026-09-23 | [Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)](./wallpaper/2026-09-23.jpg) 
 
