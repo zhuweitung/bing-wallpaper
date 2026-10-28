@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-29 | [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](./wallpaper/2026-10-29.jpg) 
+
 2026-10-28 | [A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](./wallpaper/2026-10-28.jpg) 
 
 2026-10-27 | [Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](./wallpaper/2026-10-27.jpg) 
@@ -58,6 +60,4 @@
 2026-09-30 | [The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](./wallpaper/2026-09-30.jpg) 
 
 2026-09-29 | [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](./wallpaper/2026-09-29.jpg) 
-
-2026-09-28 | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](./wallpaper/2026-09-28.jpg) 
 
