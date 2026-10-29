@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-30 | [Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](./wallpaper/2026-10-30.jpg) 
+
 2026-10-29 | [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](./wallpaper/2026-10-29.jpg) 
 
 2026-10-28 | [A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](./wallpaper/2026-10-28.jpg) 
@@ -58,6 +60,4 @@
 2026-10-01 | [Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](./wallpaper/2026-10-01.jpg) 
 
 2026-09-30 | [The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](./wallpaper/2026-09-30.jpg) 
-
-2026-09-29 | [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](./wallpaper/2026-09-29.jpg) 
 
