@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-10-31 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](./wallpaper/2026-10-31.jpg) 
+
 2026-10-30 | [Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](./wallpaper/2026-10-30.jpg) 
 
 2026-10-29 | [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](./wallpaper/2026-10-29.jpg) 
@@ -58,6 +60,4 @@
 2026-10-02 | [Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)](./wallpaper/2026-10-02.jpg) 
 
 2026-10-01 | [Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](./wallpaper/2026-10-01.jpg) 
-
-2026-09-30 | [The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](./wallpaper/2026-09-30.jpg) 
 
