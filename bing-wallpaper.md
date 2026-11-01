@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-02 | [Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](./wallpaper/2026-11-02.jpg) 
+
 2026-11-01 | [St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](./wallpaper/2026-11-01.jpg) 
 
 2026-10-31 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](./wallpaper/2026-10-31.jpg) 
@@ -58,6 +60,4 @@
 2026-10-04 | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](./wallpaper/2026-10-04.jpg) 
 
 2026-10-03 | [Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](./wallpaper/2026-10-03.jpg) 
-
-2026-10-02 | [Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)](./wallpaper/2026-10-02.jpg) 
 
