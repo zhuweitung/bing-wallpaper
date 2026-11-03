@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-04 | [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](./wallpaper/2026-11-04.jpg) 
+
 2026-11-03 | [Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](./wallpaper/2026-11-03.jpg) 
 
 2026-11-02 | [Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](./wallpaper/2026-11-02.jpg) 
@@ -58,6 +60,4 @@
 2026-10-06 | [Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)](./wallpaper/2026-10-06.jpg) 
 
 2026-10-05 | [Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)](./wallpaper/2026-10-05.jpg) 
-
-2026-10-04 | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](./wallpaper/2026-10-04.jpg) 
 
