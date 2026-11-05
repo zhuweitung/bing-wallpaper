@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-06 | [Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](./wallpaper/2026-11-06.jpg) 
+
 2026-11-05 | [People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](./wallpaper/2026-11-05.jpg) 
 
 2026-11-04 | [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](./wallpaper/2026-11-04.jpg) 
@@ -58,6 +60,4 @@
 2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](./wallpaper/2026-10-08.jpg) 
 
 2026-10-07 | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](./wallpaper/2026-10-07.jpg) 
-
-2026-10-06 | [Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)](./wallpaper/2026-10-06.jpg) 
 
