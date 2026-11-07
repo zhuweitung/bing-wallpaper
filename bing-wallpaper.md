@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-08 | [A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)](./wallpaper/2026-11-08.jpg) 
+
 2026-11-07 | [Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)](./wallpaper/2026-11-07.jpg) 
 
 2026-11-06 | [Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](./wallpaper/2026-11-06.jpg) 
@@ -58,6 +60,4 @@
 2026-10-10 | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2026-10-10.jpg) 
 
 2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](./wallpaper/2026-10-09.jpg) 
-
-2026-10-08 | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](./wallpaper/2026-10-08.jpg) 
 
