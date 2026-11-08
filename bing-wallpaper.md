@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-09 | [Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)](./wallpaper/2026-11-09.jpg) 
+
 2026-11-08 | [A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)](./wallpaper/2026-11-08.jpg) 
 
 2026-11-07 | [Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)](./wallpaper/2026-11-07.jpg) 
@@ -58,6 +60,4 @@
 2026-10-11 | [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](./wallpaper/2026-10-11.jpg) 
 
 2026-10-10 | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](./wallpaper/2026-10-10.jpg) 
-
-2026-10-09 | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](./wallpaper/2026-10-09.jpg) 
 
