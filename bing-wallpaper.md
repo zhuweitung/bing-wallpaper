@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-11 | [Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](./wallpaper/2026-11-11.jpg) 
+
 2026-11-10 | [Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](./wallpaper/2026-11-10.jpg) 
 
 2026-11-09 | [Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)](./wallpaper/2026-11-09.jpg) 
@@ -58,6 +60,4 @@
 2026-10-13 | [White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)](./wallpaper/2026-10-13.jpg) 
 
 2026-10-12 | [Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)](./wallpaper/2026-10-12.jpg) 
-
-2026-10-11 | [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](./wallpaper/2026-10-11.jpg) 
 
