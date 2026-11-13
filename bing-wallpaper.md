@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-14 | [Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)](./wallpaper/2026-11-14.jpg) 
+
 2026-11-13 | [North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)](./wallpaper/2026-11-13.jpg) 
 
 2026-11-12 | [American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](./wallpaper/2026-11-12.jpg) 
@@ -58,6 +60,4 @@
 2026-10-16 | [View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](./wallpaper/2026-10-16.jpg) 
 
 2026-10-15 | [Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](./wallpaper/2026-10-15.jpg) 
-
-2026-10-14 | [Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](./wallpaper/2026-10-14.jpg) 
 
