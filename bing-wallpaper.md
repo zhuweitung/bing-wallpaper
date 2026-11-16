@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-17 | [Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)](./wallpaper/2026-11-17.jpg) 
+
 2026-11-16 | [Frozen azalea with red leaves (© avoferten/Shutterstock)](./wallpaper/2026-11-16.jpg) 
 
 2026-11-15 | [Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)](./wallpaper/2026-11-15.jpg) 
@@ -58,6 +60,4 @@
 2026-10-19 | [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](./wallpaper/2026-10-19.jpg) 
 
 2026-10-18 | [Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](./wallpaper/2026-10-18.jpg) 
-
-2026-10-17 | [Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)](./wallpaper/2026-10-17.jpg) 
 
