@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-18 | [Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)](./wallpaper/2026-11-18.jpg) 
+
 2026-11-17 | [Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)](./wallpaper/2026-11-17.jpg) 
 
 2026-11-16 | [Frozen azalea with red leaves (© avoferten/Shutterstock)](./wallpaper/2026-11-16.jpg) 
@@ -58,6 +60,4 @@
 2026-10-20 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](./wallpaper/2026-10-20.jpg) 
 
 2026-10-19 | [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](./wallpaper/2026-10-19.jpg) 
-
-2026-10-18 | [Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](./wallpaper/2026-10-18.jpg) 
 
