@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-20 | [The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](./wallpaper/2026-11-20.jpg) 
+
 2026-11-19 | [Pair of barn owls (© Zahoor Salmi/Getty Images)](./wallpaper/2026-11-19.jpg) 
 
 2026-11-18 | [Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)](./wallpaper/2026-11-18.jpg) 
@@ -58,6 +60,4 @@
 2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](./wallpaper/2026-10-22.jpg) 
 
 2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2026-10-21.jpg) 
-
-2026-10-20 | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](./wallpaper/2026-10-20.jpg) 
 
