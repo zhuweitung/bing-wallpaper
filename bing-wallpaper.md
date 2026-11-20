@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-21 | [Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](./wallpaper/2026-11-21.jpg) 
+
 2026-11-20 | [The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](./wallpaper/2026-11-20.jpg) 
 
 2026-11-19 | [Pair of barn owls (© Zahoor Salmi/Getty Images)](./wallpaper/2026-11-19.jpg) 
@@ -58,6 +60,4 @@
 2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](./wallpaper/2026-10-23.jpg) 
 
 2026-10-22 | [Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)](./wallpaper/2026-10-22.jpg) 
-
-2026-10-21 | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](./wallpaper/2026-10-21.jpg) 
 
