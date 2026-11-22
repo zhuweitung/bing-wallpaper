@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-23 | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](./wallpaper/2026-11-23.jpg) 
+
 2026-11-22 | [Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)](./wallpaper/2026-11-22.jpg) 
 
 2026-11-21 | [Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](./wallpaper/2026-11-21.jpg) 
@@ -58,6 +60,4 @@
 2026-10-25 | [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](./wallpaper/2026-10-25.jpg) 
 
 2026-10-24 | [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](./wallpaper/2026-10-24.jpg) 
-
-2026-10-23 | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](./wallpaper/2026-10-23.jpg) 
 
