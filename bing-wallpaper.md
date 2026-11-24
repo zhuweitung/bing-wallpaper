@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-25 | [Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](./wallpaper/2026-11-25.jpg) 
+
 2026-11-24 | [Fiddlehead fern (© Reza Saputra/Getty Images)](./wallpaper/2026-11-24.jpg) 
 
 2026-11-23 | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](./wallpaper/2026-11-23.jpg) 
@@ -58,6 +60,4 @@
 2026-10-27 | [Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](./wallpaper/2026-10-27.jpg) 
 
 2026-10-26 | [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](./wallpaper/2026-10-26.jpg) 
-
-2026-10-25 | [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](./wallpaper/2026-10-25.jpg) 
 
