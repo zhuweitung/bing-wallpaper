@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-29 | [Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)](./wallpaper/2026-11-29.jpg) 
+
 2026-11-27 | [Two wild tom turkeys (© davidsdodd/Getty Images)](./wallpaper/2026-11-27.jpg) 
 
 2026-11-26 | [Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)](./wallpaper/2026-11-26.jpg) 
@@ -56,8 +58,4 @@
 2026-10-31 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](./wallpaper/2026-10-31.jpg) 
 
 2026-10-30 | [Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](./wallpaper/2026-10-30.jpg) 
-
-2026-10-29 | [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](./wallpaper/2026-10-29.jpg) 
-
-2026-10-28 | [A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](./wallpaper/2026-10-28.jpg) 
 
